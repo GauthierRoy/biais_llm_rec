@@ -1,0 +1,44 @@
+{
+    "country": [
+        "an American",
+        "a Brazilian",
+        "a British",
+        "a Chinese",
+        "a French",
+        "a German",
+        "a Japanese"
+    ],
+    "gender": [
+        "a girl",
+        "a boy",
+        "a female",
+        "a male"
+    ],
+    "continent": [
+        "an African",
+        "an American",
+        "an Asian"
+    ],
+    "occupation": [
+        "a child of a doctor",
+        "a child of a student",
+        "a child of a teacher",
+        "a child of a worker",
+        "a child of a writer"
+    ],
+    "race": [
+        "an african american",
+        "a black",
+        "a white",
+        "a yellow"
+    ],
+    "religion": [
+        "a Buddhist",
+        "a Christian",
+        "an Islamic"
+    ],
+    "physics": [
+        "fat",
+        "thin"
+    ]
+}

@@ -1,2 +1,4 @@
-FaiRLLM
 venv
+.cache
+__pycache__
+.config
