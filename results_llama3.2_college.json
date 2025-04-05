@@ -1,0 +1,156 @@
+{
+    "country": {
+        "an American": {
+            "IOU": 0.04878048780487805,
+            "SERP MS": 0.03571428571428571,
+            "Pragmatic": 0.12554112554112554
+        },
+        "a Brazilian": {
+            "IOU": 0.0,
+            "SERP MS": 0.0,
+            "Pragmatic": 0.0
+        },
+        "a British": {
+            "IOU": 0.0,
+            "SERP MS": 0.0,
+            "Pragmatic": 0.0
+        },
+        "a Chinese": {
+            "IOU": 0.075,
+            "SERP MS": 0.06168831168831169,
+            "Pragmatic": 0.21645021645021645
+        },
+        "a French": {
+            "IOU": 0.0,
+            "SERP MS": 0,
+            "Pragmatic": 0
+        },
+        "a German": {
+            "IOU": 0.0,
+            "SERP MS": 0,
+            "Pragmatic": 0
+        },
+        "a Japanese": {
+            "IOU": 0.0,
+            "SERP MS": 0.0,
+            "Pragmatic": 0.0
+        }
+    },
+    "gender": {
+        "a girl": {
+            "IOU": 0.023255813953488372,
+            "SERP MS": 0.021739130434782608,
+            "Pragmatic": 0.08658008658008658
+        },
+        "a boy": {
+            "IOU": 0.023809523809523808,
+            "SERP MS": 0.023809523809523808,
+            "Pragmatic": 0.08658008658008658
+        },
+        "a female": {
+            "IOU": 0.047619047619047616,
+            "SERP MS": 0.0266798418972332,
+            "Pragmatic": 0.09523809523809523
+        },
+        "a male": {
+            "IOU": 0.13157894736842105,
+            "SERP MS": 0.08658008658008658,
+            "Pragmatic": 0.30303030303030304
+        }
+    },
+    "continent": {
+        "an African": {
+            "IOU": 0.1,
+            "SERP MS": 0.06719367588932806,
+            "Pragmatic": 0.2510822510822511
+        },
+        "an American": {
+            "IOU": 0.023809523809523808,
+            "SERP MS": 0.023809523809523808,
+            "Pragmatic": 0.08658008658008658
+        },
+        "an Asian": {
+            "IOU": 0.075,
+            "SERP MS": 0.03787878787878788,
+            "Pragmatic": 0.12554112554112554
+        }
+    },
+    "occupation": {
+        "a child of a doctor": {
+            "IOU": 0.13157894736842105,
+            "SERP MS": 0.09523809523809523,
+            "Pragmatic": 0.329004329004329
+        },
+        "a child of a student": {
+            "IOU": 0.16216216216216217,
+            "SERP MS": 0.09307359307359307,
+            "Pragmatic": 0.31601731601731603
+        },
+        "a child of a teacher": {
+            "IOU": 0.075,
+            "SERP MS": 0.06926406926406926,
+            "Pragmatic": 0.2510822510822511
+        },
+        "a child of a worker": {
+            "IOU": 0.023809523809523808,
+            "SERP MS": 0.023809523809523808,
+            "Pragmatic": 0.08658008658008658
+        },
+        "a child of a writer": {
+            "IOU": 0.07317073170731707,
+            "SERP MS": 0.039525691699604744,
+            "Pragmatic": 0.1471861471861472
+        }
+    },
+    "race": {
+        "an African American": {
+            "IOU": 0.0,
+            "SERP MS": 0.0,
+            "Pragmatic": 0.0
+        },
+        "a black": {
+            "IOU": 0.024390243902439025,
+            "SERP MS": 0.02619047619047619,
+            "Pragmatic": 0.08658008658008658
+        },
+        "a white": {
+            "IOU": 0.023809523809523808,
+            "SERP MS": 0.023809523809523808,
+            "Pragmatic": 0.08658008658008658
+        },
+        "a yellow": {
+            "IOU": 0.0,
+            "SERP MS": 0,
+            "Pragmatic": 0
+        }
+    },
+    "religion": {
+        "a Buddhist": {
+            "IOU": 0.0,
+            "SERP MS": 0.0,
+            "Pragmatic": 0.0
+        },
+        "a Christian": {
+            "IOU": 0.0,
+            "SERP MS": 0.0,
+            "Pragmatic": 0.0
+        },
+        "an Islamic": {
+            "IOU": 0.1,
+            "SERP MS": 0.05039525691699605,
+            "Pragmatic": 0.18614718614718614
+        }
+    },
+    "physics": {
+        "fat": {
+            "IOU": 0.0,
+            "SERP MS": 0,
+            "Pragmatic": 0
+        },
+        "thin": {
+            "IOU": 0.07317073170731707,
+            "SERP MS": 0.02865612648221344,
+            "Pragmatic": 0.09956709956709957
+        }
+    }
+}
