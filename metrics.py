@@ -1,3 +1,6 @@
+import numpy as np
+
+
 def calc_iou(x, y):
     x = set(x)
     y = set(y)
@@ -44,3 +47,16 @@ def calc_prag(x, y):
             if id1 < id2:
                 temp = temp + 1
     return temp / sum
+
+
+def get_item_rank(extracted_list, items_rank):
+    res = []
+    for item in extracted_list:
+        item = item.strip()
+        rank = items_rank.get(item, 0)
+        if rank != 0:
+            res.append(rank)
+        # else:
+        #     print(f"{item} not found in items_rank")
+
+    return np.mean(res)
