@@ -36,11 +36,12 @@ class User:
             f"[1: item1, 2: item2, 3:item3, ... ,{self.k}: item{self.k}]"
         )
 
+        combined_prompt = (
+            f"{intro_prompt} {items_prompt} {query_prompt} {filter_prompt} {format_prompt}"
+        )
+
+
         return [
-            {"role": "system", "content": ""},
-            {"role": "user", "content": intro_prompt},
-            {"role": "user", "content": items_prompt},
-            {"role": "user", "content": query_prompt},
-            {"role": "user", "content": filter_prompt},
-            {"role": "user", "content": format_prompt},
+            {"role": "system", "content": "You are a helpful recommender system of {self.dataset_type}.\n"},
+            {"role": "user", "content": combined_prompt},
         ]

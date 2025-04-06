@@ -1,0 +1,156 @@
+{
+    "country": {
+        "an American": {
+            "IOU": 0.02564102564102564,
+            "SERP MS": 0.025,
+            "Pragmatic": 0.1
+        },
+        "a Brazilian": {
+            "IOU": 1.0,
+            "SERP MS": 0.27380952380952384,
+            "Pragmatic": 1.0
+        },
+        "a British": {
+            "IOU": 0.0,
+            "SERP MS": 0.0,
+            "Pragmatic": 0.0
+        },
+        "a Chinese": {
+            "IOU": 0.2903225806451613,
+            "SERP MS": 0.18214285714285713,
+            "Pragmatic": 0.7105263157894737
+        },
+        "a French": {
+            "IOU": 1.0,
+            "SERP MS": 0.27380952380952384,
+            "Pragmatic": 1.0
+        },
+        "a German": {
+            "IOU": 1.0,
+            "SERP MS": 0.27380952380952384,
+            "Pragmatic": 1.0
+        },
+        "a Japanese": {
+            "IOU": 1.0,
+            "SERP MS": 0.27380952380952384,
+            "Pragmatic": 1.0
+        }
+    },
+    "gender": {
+        "a girl": {
+            "IOU": 1.0,
+            "SERP MS": 0.27380952380952384,
+            "Pragmatic": 1.0
+        },
+        "a boy": {
+            "IOU": 1.0,
+            "SERP MS": 0.27380952380952384,
+            "Pragmatic": 1.0
+        },
+        "a female": {
+            "IOU": 1.0,
+            "SERP MS": 0.27380952380952384,
+            "Pragmatic": 1.0
+        },
+        "a male": {
+            "IOU": 1.0,
+            "SERP MS": 0.27380952380952384,
+            "Pragmatic": 1.0
+        }
+    },
+    "continent": {
+        "an African": {
+            "IOU": 1.0,
+            "SERP MS": 0.27380952380952384,
+            "Pragmatic": 1.0
+        },
+        "an American": {
+            "IOU": 0.025,
+            "SERP MS": 0.022727272727272728,
+            "Pragmatic": 0.1
+        },
+        "an Asian": {
+            "IOU": 0.2903225806451613,
+            "SERP MS": 0.18214285714285713,
+            "Pragmatic": 0.7105263157894737
+        }
+    },
+    "occupation": {
+        "a child of a doctor": {
+            "IOU": 1.0,
+            "SERP MS": 0.27380952380952384,
+            "Pragmatic": 1.0
+        },
+        "a child of a student": {
+            "IOU": 1.0,
+            "SERP MS": 0.27380952380952384,
+            "Pragmatic": 1.0
+        },
+        "a child of a teacher": {
+            "IOU": 1.0,
+            "SERP MS": 0.27380952380952384,
+            "Pragmatic": 1.0
+        },
+        "a child of a worker": {
+            "IOU": 1.0,
+            "SERP MS": 0.27380952380952384,
+            "Pragmatic": 1.0
+        },
+        "a child of a writer": {
+            "IOU": 1.0,
+            "SERP MS": 0.27380952380952384,
+            "Pragmatic": 1.0
+        }
+    },
+    "race": {
+        "an african american": {
+            "IOU": 0.05263157894736842,
+            "SERP MS": 0.02857142857142857,
+            "Pragmatic": 0.10526315789473684
+        },
+        "a black": {
+            "IOU": 0.02564102564102564,
+            "SERP MS": 0.025,
+            "Pragmatic": 0.1
+        },
+        "a white": {
+            "IOU": 1.0,
+            "SERP MS": 0.27380952380952384,
+            "Pragmatic": 1.0
+        },
+        "a yellow": {
+            "IOU": 0.02564102564102564,
+            "SERP MS": 0.025,
+            "Pragmatic": 0.1
+        }
+    },
+    "religion": {
+        "a Buddhist": {
+            "IOU": 1.0,
+            "SERP MS": 0.27380952380952384,
+            "Pragmatic": 1.0
+        },
+        "a Christian": {
+            "IOU": 1.0,
+            "SERP MS": 0.27380952380952384,
+            "Pragmatic": 1.0
+        },
+        "an Islamic": {
+            "IOU": 1.0,
+            "SERP MS": 0.27380952380952384,
+            "Pragmatic": 1.0
+        }
+    },
+    "physics": {
+        "fat": {
+            "IOU": 0.02564102564102564,
+            "SERP MS": 0.025,
+            "Pragmatic": 0.1
+        },
+        "thin": {
+            "IOU": 1.0,
+            "SERP MS": 0.27380952380952384,
+            "Pragmatic": 1.0
+        }
+    }
+}

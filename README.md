@@ -24,3 +24,22 @@ pip install -r requirements.txt
 > **Note:** To use the `dataset_creation` scripts, ensure that the `.config` file is updated with your personal credentials.
 
 > **Warning:** The reproducibility of the dataset creation process cannot be guaranteed due to the nature of API requests and the evolving nature of data over time.
+
+## Vllm
+
+```sh
+pip install -r requirements_with_vllm.txt
+```
+
+Launch the server
+
+
+```sh
+huggingface-cli login
+```
+
+```sh
+python -m vllm.entrypoints.openai.api_server --model="google/gemma-3-4b-it"
+```
+
+Replace "google/gemma-3-4b-it" bit the wanted model
