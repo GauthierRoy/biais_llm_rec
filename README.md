@@ -21,6 +21,6 @@ pip install -r requirements.txt
 ### 3. Data 
 - Datasets used are located in `data/datasets`
 - The dataset creation process can be reviewed, modified, or used as inspiration by exploring the Python scripts located in the `dataset_creation` directory.
-> **Note:** To use the `dataset_creation` scripts, ensure that the `.config` file is updated with your personal credentials.
+> **Note:** To use the `dataset_creation` scripts, ensure that you create a `.config` file following the `.config_template` and update it with your personal credentials.
 
 > **Warning:** The reproducibility of the dataset creation process cannot be guaranteed due to the nature of API requests and the evolving nature of data over time.
