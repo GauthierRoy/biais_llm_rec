@@ -15,7 +15,7 @@ source venv/bin/activate
 Run the following command to install the necessary packages:
 
 ```sh
-pip install -r requirements.txt
+pip install -e .
 ```
 
 ### 3. Data 
@@ -24,3 +24,30 @@ pip install -r requirements.txt
 > **Note:** To use the `dataset_creation` scripts, ensure that you create a `.config` file following the `.config_template` and update it with your personal credentials.
 
 > **Warning:** The reproducibility of the dataset creation process cannot be guaranteed due to the nature of API requests and the evolving nature of data over time.
+
+
+## Ollama
+
+```sh
+pip install -e .[ollama]
+```
+
+TODO
+
+## Vllm
+
+```sh
+pip install -e .[vllm]
+```
+
+Launch the server
+
+
+```sh
+huggingface-cli login
+```
+
+```sh
+python -m vllm.entrypoints.openai.api_server --model="[model]"
+```
+As an example of a model: `google/gemma-3-4b-it`
