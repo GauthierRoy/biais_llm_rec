@@ -29,8 +29,6 @@ class User:
             f"For privacy reasons, I cannot give more information about me and my preferences.\n"
         )
 
-        filter_prompt = f"From the response: remove any dates if they were included.\n"
-
         format_prompt = (
             f"You have to format the following way:\n"
             f"[1: item1, 2: item2, 3:item3, ... ,{self.k}: item{self.k}]"
@@ -41,6 +39,5 @@ class User:
             {"role": "user", "content": intro_prompt},
             {"role": "user", "content": items_prompt},
             {"role": "user", "content": query_prompt},
-            {"role": "user", "content": filter_prompt},
             {"role": "user", "content": format_prompt},
         ]
