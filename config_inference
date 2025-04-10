@@ -5,7 +5,9 @@ dataset_path = data/datasets/
 sensitive_attributes_path = data/sensitive_attributes.json
 
 [parameters]
-models = llama3.2
+#models = llama3.2
+models= gemma3
 dataset_types = college, movie, music
 type_of_activities = student, movie fan, music fan
 k = 50
+type_inf = vllm
