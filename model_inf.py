@@ -1,15 +1,20 @@
 from collections import abc
-import ollama
 import abc
 import json
 import ollama  # Make sure ollama is installed: pip install ollama
 from typing import List, Dict, Any, Optional, Type, Union
+from openai import OpenAI
 from pydantic import BaseModel
 from tqdm import tqdm
 
 # Define the standard message format (common for both)
 ChatMessage = Dict[str, str]  # e.g., {'role': 'user', 'content': '...'}
 
+
+convert_name_to_vllm = {
+    "llama3.2": "meta-llama/Llama-3.2-1B",
+    "gemma3":"google/gemma-3-4b-it",
+}
 
 class LLMInterface(abc.ABC):
     """Abstract base class for LLM inference clients."""
@@ -43,32 +48,21 @@ class OllamaClient(LLMInterface):
             ollama_options: Optional dictionary of options for ollama.chat (e.g., {'temperature': 0.7}).
         """
         self.ollama_options = ollama_options or {}
-        try:
-            # Optional: Check if ollama server is reachable on init
-            ollama.list()
-            print("Ollama backend initialized successfully.")
-        except Exception as e:
-            print(
-                f"Warning: Could not connect to Ollama during init. Ensure Ollama server is running. Error: {e}"
-            )
+        # Optional: Check if ollama server is reachable on init
+        ollama.list()
+        print("Ollama backend initialized successfully.")
+        
 
     def chat(self, model: str, messages: List[ChatMessage]) -> str:
-        """Sends messages via ollama.chat and returns the content string."""
-        try:
-            response = ollama.chat(
-                model=model,
-                messages=messages,
-                options=self.ollama_options,  # Pass options here
-            )
-            # Standard ollama response format: {'message': {'role': 'assistant', 'content': '...'}}
-            return response["message"]["content"]
-        except Exception as e:
-            print(f"Error during Ollama chat for model '{model}': {e}")
-            # Return empty string or re-raise, depending on desired error handling
-            # Returning empty string allows the loop to continue potentially.
-            return ""
-            # Or uncomment below to stop execution on error
-            # raise e
+        """Sends messages via ollama.chat and returns the content string."""        
+        
+        response = ollama.chat(
+            model=model,
+            messages=messages,
+            options=self.ollama_options,  # Pass options here
+        )
+        # Standard ollama response format: {'message': {'role': 'assistant', 'content': '...'}}
+        return response["message"]["content"]
 
 
 class VLLMClient(LLMInterface):
@@ -81,7 +75,7 @@ class VLLMClient(LLMInterface):
         self,
         base_url: str = "http://localhost:8000/v1",
         api_key: str = "dummy",
-        client_options: Dict[str, Any] = None,
+        options: Dict[str, Any] = None,
     ):
         """
         Initializes the vLLM client via its OpenAI-compatible API.
@@ -91,37 +85,31 @@ class VLLMClient(LLMInterface):
             client_options: Optional dictionary of generation parameters for the OpenAI API call
                             (e.g., {'temperature': 0.7, 'max_tokens': 500}).
         """
-        self.client_options = client_options or {}
-        try:
-            self.client = OpenAI(base_url=base_url, api_key=api_key)
-            # Optional: Check connection on init
-            self.client.models.list()  # Attempts to list models from the endpoint
-            print(
-                f"vLLM backend initialized successfully via OpenAI API at: {base_url}"
-            )
-        except Exception as e:
-            print(
-                f"Warning: Could not connect to vLLM OpenAI API at '{base_url}' during init. Error: {e}"
-            )
-            self.client = None  # Mark client as unusable
+        self.client_options = options or {}
+        self.client = OpenAI(base_url=base_url, api_key=api_key)
+        # Optional: Check connection on init
+        self.client.models.list()  # Attempts to list models from the endpoint
+        print(
+            f"vLLM backend initialized successfully via OpenAI API at: {base_url}"
+        )
 
     def chat(self, model: str, messages: List[ChatMessage]) -> str:
         """Sends messages via OpenAI client to vLLM and returns the content string."""
-        if not self.client:
-            print("Error: vLLM client not initialized properly.")
-            return ""
-
-        try:
-            response = self.client.chat.completions.create(
-                model=model,
-                messages=messages,
-                **self.client_options,  # Pass generation parameters here
+        # Convert model name if necessary
+        if model in convert_name_to_vllm:
+            model = convert_name_to_vllm[model]
+        else:
+            raise ValueError(
+                f"Model '{model}' not found in conversion map. Available models: {list(convert_name_to_vllm.keys())}"
             )
-            # Standard OpenAI response format
-            return response.choices[0].message.content
-        except Exception as e:
-            print(f"Error during vLLM chat (via OpenAI API) for model '{model}': {e}")
-            return ""
+
+        response = self.client.chat.completions.create(
+            model=model,
+            messages=messages,
+            **self.client_options,  # Pass generation parameters here
+        )
+        # Standard OpenAI response format
+        return response.choices[0].message.content
 
     # def chat_structured(
     #     self,

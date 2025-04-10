@@ -1,10 +1,8 @@
 import re
 
 
-def extract_list_from_response(response):
+def extract_list_from_response(content) -> list:
     try:
-        # Extract the list from the content
-        content = response["message"]["content"]
         # remove some unwanted characters
         content = content.replace('"', "")
         content = content.replace("'", "")
@@ -25,6 +23,10 @@ def extract_list_from_response(response):
         if matches:
             return [item.strip() for item in matches]
         else:
+            print("Error: No matches found in the response.")
+            print(f"Response content: {content}")
             return []
     except:
+        print("Error: Unable to extract list from response.")
+        print(f"Response content: {content}")
         return []

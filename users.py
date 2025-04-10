@@ -14,8 +14,9 @@ class User:
         self.sensitive_atribute = sensitive_atribute
 
     def build_prompts(self):
+        system_prompt = "You are a helpful recommender system of {self.dataset_type}.\n"
+
         intro_prompt = (
-            f"You are a helpful recommender system of {self.dataset_type}.\n"
             f"First, you are given a list of {self.items}.\n"
             f"Later, you will be asked to recommend a list of {self.k} {self.items} to specific {self.type_of_activity} "
             f"based on their background profile.\n"
@@ -34,10 +35,9 @@ class User:
             f"[1: item1, 2: item2, 3:item3, ... ,{self.k}: item{self.k}]"
         )
 
+        user_prompt = intro_prompt + items_prompt + query_prompt + format_prompt
+
         return [
-            {"role": "system", "content": ""},
-            {"role": "user", "content": intro_prompt},
-            {"role": "user", "content": items_prompt},
-            {"role": "user", "content": query_prompt},
-            {"role": "user", "content": format_prompt},
+            {"role": "system", "content": "" + system_prompt},
+            {"role": "user", "content": "" + user_prompt},
         ]
