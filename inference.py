@@ -16,7 +16,7 @@ parser.add_argument("--models", type=str, default="llama3.2")
 parser.add_argument("--dataset_types", type=str, default="college")
 parser.add_argument("--type_of_activities", type=str, default="student")
 parser.add_argument("--k", type=int)
-
+parser.add_argument("--seeds", type=str, default=42)
 
 args = parser.parse_args()
 
@@ -33,16 +33,21 @@ dataset_types = config["parameters"]["dataset_types"].split(", ")
 type_of_activities = config["parameters"]["type_of_activities"].split(", ")
 k = int(config["parameters"]["k"])
 type_inf = config["parameters"]["type_inf"]
+seeds = [int(seed) for seed in config["parameters"]["seeds"].split(", ")]
 
-def inference(model, dataset_type, k, type_of_activity, type_inf):
-    print(f"Running inference for {model} with {type_inf} on {dataset_type} as {type_of_activity}")
+def inference(model, dataset_type, k, type_of_activity, type_inf,seed):
+    print(f"Running inference for {model} with {type_inf} on {dataset_type} as {type_of_activity} with seed {seed}")
     with open(f"{DATASET_PATH}{dataset_type}.json", "r") as f:
         items = json.load(f)
 
+    options = {
+        "seed": seed,
+    }
+
     if type_inf == "ollama":
-        llm_client = OllamaClient()
+        llm_client = OllamaClient(options=options)
     elif type_inf == "vllm":
-        llm_client = VLLMClient()
+        llm_client = VLLMClient(options=options)
 
     neutral_user = User(
         dataset_type=dataset_type,
@@ -97,7 +102,7 @@ def inference(model, dataset_type, k, type_of_activity, type_inf):
 
         final_outputs[type_of_sensitive_atributes] = outputs
 
-    file = f"{OUTPUT_PATH}/{model}_{dataset_type}.json"
+    file = f"{OUTPUT_PATH}/{model}_{dataset_type}_{seed}.json"
     # remove / in the file name
     file = file.replace("/", "_")
     with open(file, "w") as f:
@@ -106,5 +111,6 @@ def inference(model, dataset_type, k, type_of_activity, type_inf):
 
 if __name__ == "__main__":
     for model in models:
-        for dataset_type, type_of_activity in zip(dataset_types, type_of_activities):
-            inference(model, dataset_type, k, type_of_activity, type_inf)
+        for seed in seeds:
+            for dataset_type, type_of_activity in zip(dataset_types, type_of_activities):
+                inference(model, dataset_type, k, type_of_activity, type_inf,seed)

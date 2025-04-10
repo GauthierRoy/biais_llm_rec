@@ -75,7 +75,7 @@ class VLLMClient(LLMInterface):
         self,
         base_url: str = "http://localhost:8000/v1",
         api_key: str = "dummy",
-        client_options: Dict[str, Any] = None,
+        options: Dict[str, Any] = None,
     ):
         """
         Initializes the vLLM client via its OpenAI-compatible API.
@@ -85,7 +85,7 @@ class VLLMClient(LLMInterface):
             client_options: Optional dictionary of generation parameters for the OpenAI API call
                             (e.g., {'temperature': 0.7, 'max_tokens': 500}).
         """
-        self.client_options = client_options or {}
+        self.client_options = options or {}
         self.client = OpenAI(base_url=base_url, api_key=api_key)
         # Optional: Check connection on init
         self.client.models.list()  # Attempts to list models from the endpoint
