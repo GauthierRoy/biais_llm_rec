@@ -1,4 +1,4 @@
-from metrics import calc_iou, calc_serp_ms, calc_prag, get_item_rank
+from utils.metrics import calc_iou, calc_serp_ms, calc_prag, get_item_rank
 
 import argparse
 import configparser
@@ -38,8 +38,8 @@ def results(model, dataset_type, k, type_of_activity):
         items = json.load(f)
     items_rank = {item: i for i, item in enumerate(items)}
 
-    file = f"{OUTPUT_PATH}/{model}_{dataset_type}.json"
-    with open(file, "w") as f:
+    file = f"{OUTPUT_PATH}{model}_{dataset_type}.json"
+    with open(file, "r") as f:
         model_outputs = json.load(f)
 
     neutral_list = model_outputs["neutral"]["recommended_list"]

@@ -1,6 +1,6 @@
 [paths]
-result_path = data/results/
-output_path = data/outputs/
+result_path = data/metric_results/
+output_path = data/raw_text_results/
 dataset_path = data/datasets/
 sensitive_attributes_path = data/sensitive_attributes.json
 

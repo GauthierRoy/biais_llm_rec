@@ -182,6 +182,8 @@ setup(
         ],
         "ollama": [
             "ollama==0.4.7",
+            "jinja2==3.1.6",
+            "MarkupSafe==3.0.2",
         ],
     },
 )

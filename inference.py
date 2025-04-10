@@ -2,8 +2,8 @@ import ollama
 import json
 from users import User
 
-from utils import extract_list_from_response
-from metrics import calc_iou, calc_serp_ms, calc_prag, get_item_rank
+from utils.utils import extract_list_from_response
+from utils.metrics import calc_iou, calc_serp_ms, calc_prag, get_item_rank
 from tqdm import tqdm
 
 import argparse
