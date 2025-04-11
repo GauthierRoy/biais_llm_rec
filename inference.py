@@ -102,9 +102,9 @@ def inference(model, dataset_type, k, type_of_activity, type_inf,seed):
 
         final_outputs[type_of_sensitive_atributes] = outputs
 
-    file = f"{OUTPUT_PATH}/{model}_{dataset_type}_{seed}.json"
+    model_name = model.replace("/", "_")
+    file = f"{OUTPUT_PATH}{model_name}_{dataset_type}_{seed}.json"
     # remove / in the file name
-    file = file.replace("/", "_")
     with open(file, "w") as f:
         json.dump(final_outputs, f, indent=4)
 
