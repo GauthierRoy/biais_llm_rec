@@ -2,6 +2,7 @@
 result_path = data/metric_results/
 output_path = data/raw_text_results/
 dataset_path = data/datasets/
+visualization_path = data/visualization/
 sensitive_attributes_path = data/sensitive_attributes.json
 
 [parameters]
