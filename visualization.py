@@ -7,9 +7,12 @@ import seaborn as sns
 import json
 import numpy as np
 
+from utils.utils import get_correct_file_name
+
+
 parser = argparse.ArgumentParser()
 parser.add_argument("--models", type=str, default=["llama3.2"])
-parser.add_argument("--dataset_types", type=str, default=["college"])
+# parser.add_argument("--dataset_types", type=str, default=["college"])
 parser.add_argument("--type_of_activities", type=str, default=["student"])
 parser.add_argument("--k", type=int)
 parser.add_argument("--seeds", type=str, default="0, 1")
@@ -26,10 +29,12 @@ SENSITIVE_ATRIBUTES_PATH = config["paths"]["sensitive_attributes_path"]
 
 models = config["parameters"]["models"].split(", ")
 dataset_types = config["parameters"]["dataset_types"].split(", ")
+type_of_activities = config["parameters"]["type_of_activities"].split(", ")
+models = config["parameters"]["models"].split(", ")
 
 for model in models:
-    for dataset_type in dataset_types:
-        name_save = f"{model}_{dataset_type}"
+    for (dataset_type, type_of_activity) in zip(dataset_types, type_of_activities):
+        name_save = get_correct_file_name(f"{model}_{dataset_type}_{type_of_activity}")
         filepath = f"{RESULT_PATH}{name_save}.json"
 
         with open(filepath, "r") as f:
@@ -78,7 +83,7 @@ for model in models:
         plt.show()
 
         # Save the plot
-        plt.savefig(f"{VISUALIZATION_PATH}_{name_save}_plot.png", dpi=300)
+        plt.savefig(f"{VISUALIZATION_PATH}{name_save}_plot.png", dpi=300)
         plt.close()  # Close the plot to free memory
 
 
@@ -119,7 +124,7 @@ for model in models:
         print(latex_table)
         # save it in a file
 
-        with open(f"{VISUALIZATION_PATH}_{name_save}_latex_table.tex", "w") as f:
+        with open(f"{VISUALIZATION_PATH}{name_save}_latex_table.tex", "w") as f:
             f.write(latex_table)
 
         for key, value in final_metrics.items():

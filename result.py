@@ -2,6 +2,7 @@ from collections import defaultdict
 
 import numpy as np
 from utils.metrics import calc_iou, calc_serp_ms, calc_prag, get_item_rank
+from utils.utils import get_correct_file_name
 
 import argparse
 import configparser
@@ -43,8 +44,8 @@ def results(model, dataset_type, k, type_of_activity,seed):
         items = json.load(f)
     items_rank = {item: i for i, item in enumerate(items)}
 
-    file = f"{OUTPUT_PATH}{model}_{dataset_type}_{seed}.json"
-    with open(file, "r") as f:
+    file_name = get_correct_file_name(f"{model}_{dataset_type}_{type_of_activity}_{seed}.json")
+    with open(f"{OUTPUT_PATH}{file_name}", "r") as f:
         model_outputs = json.load(f)
 
     neutral_list = model_outputs["neutral"]["recommended_list"]
@@ -79,7 +80,7 @@ def results(model, dataset_type, k, type_of_activity,seed):
     # with open(file, "w") as f:
     #     json.dump(final_metrics, f, indent=4)
 
-def aggregate_and_save_metrics(metrics_by_seed, model, dataset_type, output_base_path, processed_seeds):
+def aggregate_and_save_metrics(metrics_by_seed, model, dataset_type, type_of_activity):
     print(f"Processing results for {model}, Dataset: {dataset_type}")
     # neutral rank
     collected_values = defaultdict(lambda: defaultdict(list))
@@ -102,24 +103,24 @@ def aggregate_and_save_metrics(metrics_by_seed, model, dataset_type, output_base
                 "std": std_val,
                 "num_values": num_aggregated
             }
-    file = f"{RESULT_PATH}{model}_{dataset_type}.json"
+    file_name = get_correct_file_name(f"{model}_{dataset_type}_{type_of_activity}.json")
+    file = f"{RESULT_PATH}{file_name}"
     with open(file, "w") as f:
         json.dump(aggregated_output, f, indent=4)
 
 if __name__ == "__main__":
     for model in models:
-        metric_for_seed_aggragation = {}
-        for seed in seeds:
-            for dataset_type, type_of_activity in zip(dataset_types, type_of_activities):
+        for dataset_type, type_of_activity in zip(dataset_types, type_of_activities):
+            metric_for_seed_aggragation = {}
+            for seed in seeds:
                 metric_for_seed_aggragation[seed] = results(model, dataset_type, k, type_of_activity,seed)
-        # save aggregated results
-        print(metric_for_seed_aggragation)
-        aggregate_and_save_metrics(
-            metric_for_seed_aggragation,
-            model,
-            dataset_type,
-            OUTPUT_PATH,
-            seeds
-        )
+            # save aggregated results
+            print(metric_for_seed_aggragation)
+            aggregate_and_save_metrics(
+                metric_for_seed_aggragation,
+                model,
+                dataset_type,
+                type_of_activity,
+            )
 
 

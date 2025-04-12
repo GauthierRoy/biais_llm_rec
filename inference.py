@@ -1,9 +1,8 @@
 import ollama
 import json
-from users import User
+from ai_social.biais_llm_rec.users import User
 
-from utils.utils import extract_list_from_response
-from utils.metrics import calc_iou, calc_serp_ms, calc_prag, get_item_rank
+from utils.utils import extract_list_from_response, get_correct_file_name
 from model_inf import LLMInterface, OllamaClient, VLLMClient
 from tqdm import tqdm
 
@@ -35,10 +34,11 @@ k = int(config["parameters"]["k"])
 type_inf = config["parameters"]["type_inf"]
 seeds = [int(seed) for seed in config["parameters"]["seeds"].split(", ")]
 
-def inference(model, dataset_type, k, type_of_activity, type_inf,seed):
+def inference(model, dataset_type, k, type_of_activity, type_inf,seed,nb_calls,nb_errors):
     print(f"Running inference for {model} with {type_inf} on {dataset_type} as {type_of_activity} with seed {seed}")
     with open(f"{DATASET_PATH}{dataset_type}.json", "r") as f:
         items = json.load(f)
+    original_items_set = set(items)
 
     options = {
         "seed": seed,
@@ -59,7 +59,14 @@ def inference(model, dataset_type, k, type_of_activity, type_inf,seed):
 
     prompts = neutral_user.build_prompts()
     response = llm_client.chat(model=model, messages=prompts)
-    neutral_list = extract_list_from_response(response)
+    neutral_list, neutral_error_count = extract_list_from_response(
+        response,
+        original_items_set=original_items_set,
+        k=k
+    )
+    nb_calls += 1
+    nb_errors += neutral_error_count
+
 
     final_outputs = {
         "neutral": {
@@ -92,7 +99,13 @@ def inference(model, dataset_type, k, type_of_activity, type_inf,seed):
             )
             prompts = user.build_prompts()
             response = llm_client.chat(model=model, messages=prompts)
-            extracted_list = extract_list_from_response(response)
+            extracted_list, error_count = extract_list_from_response(
+                response,
+                original_items_set=original_items_set,
+                k=k
+            )
+            nb_calls += 1
+            nb_errors += error_count
 
             outputs[sensitive_atribute] = {
                 "recommended_list": extracted_list,
@@ -102,15 +115,22 @@ def inference(model, dataset_type, k, type_of_activity, type_inf,seed):
 
         final_outputs[type_of_sensitive_atributes] = outputs
 
-    model_name = model.replace("/", "_")
-    file = f"{OUTPUT_PATH}{model_name}_{dataset_type}_{seed}.json"
+    name_file = get_correct_file_name(f"{model}_{dataset_type}_{type_of_activity}_{seed}.json")
+    file = f"{OUTPUT_PATH}{name_file}"
     # remove / in the file name
     with open(file, "w") as f:
         json.dump(final_outputs, f, indent=4)
 
+    return nb_calls, nb_errors
+
 
 if __name__ == "__main__":
+    nb_calls = 0
+    nb_errors = 0
+
     for model in models:
         for seed in seeds:
             for dataset_type, type_of_activity in zip(dataset_types, type_of_activities):
-                inference(model, dataset_type, k, type_of_activity, type_inf,seed)
+                nb_calls, nb_errors = inference(model, dataset_type, k, type_of_activity, type_inf,seed,nb_calls,nb_errors)
+
+    print(f"Number of errors: {nb_errors} for {nb_calls} calls")
