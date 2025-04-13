@@ -155,7 +155,7 @@ for model in models:
         plt.legend(title="Metric")
         plt.tight_layout()
 
-        plot_filename = f"{VISUALIZATION_PATH}{name_save}_plot_ordered.png"
+        plot_filename = f"{VISUALIZATION_PATH}{name_save}_plot.png"
         plt.savefig(plot_filename, dpi=300)
         print(f"Saved ordered plot to: {plot_filename}")
         plt.close()
