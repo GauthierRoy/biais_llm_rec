@@ -1,6 +1,6 @@
 import ollama
 import json
-from ai_social.biais_llm_rec.users import User
+from users import User
 
 from utils.utils import extract_list_from_response, get_correct_file_name
 from model_inf import LLMInterface, OllamaClient, VLLMClient
@@ -33,6 +33,8 @@ type_of_activities = config["parameters"]["type_of_activities"].split(", ")
 k = int(config["parameters"]["k"])
 type_inf = config["parameters"]["type_inf"]
 seeds = [int(seed) for seed in config["parameters"]["seeds"].split(", ")]
+if type_of_activities[0] == "None":
+    type_of_activities = ["","",""]
 
 def inference(model, dataset_type, k, type_of_activity, type_inf,seed,nb_calls,nb_errors):
     print(f"Running inference for {model} with {type_inf} on {dataset_type} as {type_of_activity} with seed {seed}")
@@ -116,6 +118,7 @@ def inference(model, dataset_type, k, type_of_activity, type_inf,seed,nb_calls,n
         final_outputs[type_of_sensitive_atributes] = outputs
 
     name_file = get_correct_file_name(f"{model}_{dataset_type}_{type_of_activity}_{seed}.json")
+    print(f"Saving {name_file}")
     file = f"{OUTPUT_PATH}{name_file}"
     # remove / in the file name
     with open(file, "w") as f:

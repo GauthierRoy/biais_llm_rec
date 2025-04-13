@@ -51,3 +51,9 @@ huggingface-cli login
 python -m vllm.entrypoints.openai.api_server --model="[model]"
 ```
 As an example of a model: `google/gemma-3-4b-it`
+
+If it the model takes to much memory, you can reduce its context window like this:
+
+```sh
+python -m vllm.entrypoints.openai.api_server --model=google/gemma-3-12b-it --max-model-len 20000
+```

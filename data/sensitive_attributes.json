@@ -27,15 +27,15 @@
         "a child of a writer"
     ],
     "race": [
-        "an african american",
-        "a black",
-        "a white",
-        "a yellow"
+        "a Black",
+        "a White",
+        "an Asian",
+        "a Hispanic"
     ],
     "religion": [
         "a Buddhist",
         "a Christian",
-        "an Muslim"
+        "a Muslim"
     ],
     "physics": [
         "fat",

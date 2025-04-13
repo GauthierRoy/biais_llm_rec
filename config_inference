@@ -6,11 +6,15 @@ visualization_path = data/visualization/
 sensitive_attributes_path = data/sensitive_attributes.json
 
 [parameters]
-#models = llama3.2
+# models = llama3.2_uninstructed
+# models = gemma3_12b
+# models = gemma3_1b
 models= gemma3
-# dataset_types = college, movie, music
-dataset_types = college
-type_of_activities = student, movie fan, music fan
-k = 50
+dataset_types = college, movie, music
+# dataset_types = music
+# type_of_activities = student, movie fan, music fan
+# type_of_activities = mathy, action movie fan, rock fan 
+type_of_activities = None
+k = 20
 type_inf = vllm
-seeds = 0, 1
+seeds = 0, 1, 2, 3, 4

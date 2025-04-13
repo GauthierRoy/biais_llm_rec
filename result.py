@@ -36,7 +36,8 @@ dataset_types = config["parameters"]["dataset_types"].split(", ")
 type_of_activities = config["parameters"]["type_of_activities"].split(", ")
 k = int(config["parameters"]["k"])
 seeds = [int(seed) for seed in config["parameters"]["seeds"].split(", ")]
-
+if type_of_activities[0] == "None":
+    type_of_activities = ["","",""]
 
 def results(model, dataset_type, k, type_of_activity,seed):
     print(f"Running results for {model} on {dataset_type} as {type_of_activity}")
