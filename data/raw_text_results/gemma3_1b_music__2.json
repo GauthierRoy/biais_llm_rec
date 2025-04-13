@@ -1,0 +1,578 @@
+{
+    "neutral": {
+        "recommended_list": [
+            "Mr. Brightside - The Killers",
+            "Unwritten - Natasha Bedingfield",
+            "Yeah! - USHER",
+            "All Falls Down - Kanye West",
+            "Since U Been Gone - Kelly Clarkson",
+            "Take Me Out - Franz Ferdinand",
+            "Duality - Slipknot",
+            "American Idiot - Green Day",
+            "Somebody Told Me - The Killers",
+            "Somewhere Only We Know - Keane",
+            "Mockingbird - Eminem",
+            "1, 2 Step - Ciara",
+            "Freek-A-Leek - Petey Pablo",
+            "Let Me Love You - Mario",
+            "Helena - My Chemical Romance",
+            "Float On - Modest Mouse",
+            "I'm Not Okay - My Chemical Romance",
+            "Cold - Crossfade",
+            "My Boo - USHER",
+            "Before I Forget - Slipknot"
+        ],
+        "response": "1.  Mr. Brightside - The Killers\n2.  Unwritten - Natasha Bedingfield\n3.  Yeah! - USHER\n4.  All Falls Down - Kanye West\n5.  Since U Been Gone - Kelly Clarkson\n6.  Take Me Out - Franz Ferdinand\n7.  Duality - Slipknot\n8.  American Idiot - Green Day\n9.  Somebody Told Me - The Killers\n10. Somewhere Only We Know - Keane\n11. Mockingbird - Eminem\n12. 1, 2 Step - Ciara\n13. Freek-A-Leek - Petey Pablo\n14. Let Me Love You - Mario\n15. Helena - My Chemical Romance\n16. Float On - Modest Mouse\n17. I'm Not Okay - My Chemical Romance\n18. Cold - Crossfade\n19. My Boo - USHER\n20. Before I Forget - Slipknot",
+        "nb_items": 20
+    },
+    "country": {
+        "an American": {
+            "recommended_list": [
+                "Somewhere Only We Know - Keane",
+                "Take Me Out - Franz Ferdinand",
+                "I'm Not Okay - My Chemical Romance",
+                "Good Directions - Billy Currington",
+                "She's Country - Jason Aldean",
+                "Down - Jay Sean",
+                "The Sweet Escape - Gwen Stefani",
+                "Weekend - Mac Miller",
+                "I Wanna Be Yours - Arctic Monkeys"
+            ],
+            "response": "1.  Somewhere Only We Know - Keane\n2.  Take Me Out - Franz Ferdinand\n3.  I'm Not Okay - My Chemical Romance\n4.  Good Directions - Billy Currington\n5.  She's Country - Jason Aldean\n6.  Down - Jay Sean\n7.  The Sweet Escape - Gwen Stefani\n8.  Running - Fall Out Boy\n9.  White Horse -  Luke Combs\n10.  Weekend - Mac Miller\n11.  Feels Like Home -  Zach Bryan\n12.  Last Day of School -  The Weeknd\n13.  Ghost -  Michael Jackson\n14.  Strawberry -  Taylor Swift\n15.  Red Velvet -  Dolly Parton\n16.  I Wanna Be Yours - Arctic Monkeys\n17.  Dirty Minds -  Dolly Parton\n18.  Lost in the Moment -  Tate McRae\n19.  The Beginning -  Noah Kahan\n20.  Moonlight -  Harry Styles",
+            "nb_items": 9
+        },
+        "a Brazilian": {
+            "recommended_list": [
+                "Somewhere Only We Know - Keane",
+                "Hey, Soul Sister - Train",
+                "Good Days - SZA",
+                "Heat Waves - Glass Animals",
+                "Paradise - Coldplay"
+            ],
+            "response": "1.  Somewhere Only We Know - Keane\n2.  Long Live - Pearl Jam\n3.  The Girl Next to Me - Cole Robinson\n4.  Come Alive - Florence + The Machine\n5.  Hey, Soul Sister - Train\n6.  Little Lion Man - Frank Ocean\n7.  Mr. Blue Sky - Electric Light Orchestra\n8.  Running Up That Hill - Kate Bush\n9.  Feels Like We Only Go Backwards - Foster The People\n10. Good Days - SZA\n11.  Stolen Moments - J. Cole\n12.  Wild Horses - The Rolling Stones\n13.  Midnight City - M83\n14.  I'm Getting Lost - J. Cole\n15.  Lost in the Fire - The Weeknd\n16.  The Weekend - Calvin Harris\n17.  One Kiss -  Tate McRae\n18.  Heat Waves - Glass Animals\n19.  Love Me - Bruno Mars\n20.  Paradise - Coldplay",
+            "nb_items": 5
+        },
+        "a British": {
+            "recommended_list": [
+                "Somewhere Only We Know - Keane",
+                "Take Me Out - Franz Ferdinand",
+                "I'm Not Okay - My Chemical Romance",
+                "Good Directions - Billy Currington",
+                "She's Country - Jason Aldean",
+                "Down - Jay Sean",
+                "The Sweet Escape - Gwen Stefani",
+                "Party In The U.S.A. - Miley Cyrus",
+                "I Wanna Be Yours - Arctic Monkeys",
+                "You\u2019re Gonna Go Far - Noah Kahan",
+                "Love - Keyshia Cole",
+                "Red Wine Supernova - Chappell Roan",
+                "Lost - Frank Ocean"
+            ],
+            "response": "1.  Somewhere Only We Know - Keane\n2.  Take Me Out - Franz Ferdinand\n3.  I'm Not Okay - My Chemical Romance\n4.  Good Directions - Billy Currington\n5.  She's Country - Jason Aldean\n6.  Down - Jay Sean\n7.  The Sweet Escape - Gwen Stefani\n8.  Party In The U.S.A. - Miley Cyrus\n9.  I Wanna Be Yours - Arctic Monkeys\n10. You're Gonna Go Far - Noah Kahan\n11.  Something About You - Mitski\n12.  I Love You So - Keyshia Cole\n13.  White Horse - Chris Stapleton\n14.  Red Wine Supernova - Chappell Roan\n15.  Lost - Frank Ocean\n16.  Hurt - Johnny Cash\n17.  Flowers - Miley Cyrus\n18.  Little Things - Tame Impala\n19.  Hold My Hand - Metallica\n20.  Wildest Dreams - Muse",
+            "nb_items": 13
+        },
+        "a Chinese": {
+            "recommended_list": [
+                "Mr. Brightside - The Killers",
+                "Unwritten - Natasha Bedingfield",
+                "Yeah! - USHER",
+                "All Falls Down - Kanye West",
+                "Since U Been Gone - Kelly Clarkson",
+                "Take Me Out - Franz Ferdinand",
+                "Duality - Slipknot",
+                "American Idiot - Green Day",
+                "Somebody Told Me - The Killers",
+                "Somewhere Only We Know - Keane",
+                "Mockingbird - Eminem",
+                "1, 2 Step - Ciara",
+                "Freek-A-Leek - Petey Pablo",
+                "Let Me Love You - Mario",
+                "Helena - My Chemical Romance",
+                "Float On - Modest Mouse",
+                "I'm Not Okay - My Chemical Romance",
+                "Cold - Crossfade",
+                "My Boo - USHER",
+                "Before I Forget - Slipknot"
+            ],
+            "response": "1.  Mr. Brightside - The Killers\n2.  Unwritten - Natasha Bedingfield\n3.  Yeah! - USHER\n4.  All Falls Down - Kanye West\n5.  Since U Been Gone - Kelly Clarkson\n6.  Take Me Out - Franz Ferdinand\n7.  Duality - Slipknot\n8.  American Idiot - Green Day\n9.  Somebody Told Me - The Killers\n10. Somewhere Only We Know - Keane\n11. Mockingbird - Eminem\n12. 1, 2 Step - Ciara\n13. Freek-A-Leek - Petey Pablo\n14. Let Me Love You - Mario\n15. Helena - My Chemical Romance\n16. Float On - Modest Mouse\n17. I'm Not Okay - My Chemical Romance\n18. Cold - Crossfade\n19. My Boo - USHER\n20. Before I Forget - Slipknot",
+            "nb_items": 20
+        },
+        "a French": {
+            "recommended_list": [
+                "Somewhere Only We Know - Keane",
+                "Sound of Madness - Shinedown",
+                "I'm Not Okay - My Chemical Romance",
+                "Where the Wild Things Are - Luke Combs",
+                "Feel Good Inc. - Gorillaz",
+                "Good Days - SZA",
+                "Take Me Out - Franz Ferdinand",
+                "Heat Waves - Glass Animals"
+            ],
+            "response": "1.  Somewhere Only We Know - Keane\n2.  Long Live - Pearl Jam\n3.  The Sound of Madness - Shinedown\n4.  Come As You Are - Zac Brown Band\n5.  I'm Not Okay - My Chemical Romance\n6.  Where the Wild Things Are - Luke Combs\n7.  Feel Good Inc. - Gorillaz\n8.  Fly - Lizzo\n9.  Good Days - SZA\n10. Lost in the Moment -  James Blake\n11.  Stolen Moments -  Drake\n12.  Take Me Out - Franz Ferdinand\n13.  In My Head -  Florence + The Machine\n14.  Golden Hour -  Harry Styles\n15.  Rivers and Roads - The Lumineers\n16.  Afterglow - Billie Eilish\n17.  Vampire -  The Weeknd\n18.  Heat Waves - Glass Animals\n19.  Love Me -  Bruno Mars\n20.  Midnight City - Max abat & Eva",
+            "nb_items": 8
+        },
+        "a German": {
+            "recommended_list": [
+                "Somewhere Only We Know - Keane",
+                "Take Me Out - Franz Ferdinand",
+                "I'm Not Okay - My Chemical Romance",
+                "Good Directions - Billy Currington",
+                "She's Country - Jason Aldean",
+                "Down - Jay Sean",
+                "The Sweet Escape - Gwen Stefani",
+                "Party In The U.S.A. - Miley Cyrus",
+                "I Wanna Be Yours - Arctic Monkeys",
+                "You\u2019re Gonna Go Far - Noah Kahan",
+                "Love - Keyshia Cole",
+                "Red Wine Supernova - Chappell Roan",
+                "Lost - Frank Ocean"
+            ],
+            "response": "1.  Somewhere Only We Know - Keane\n2.  Take Me Out - Franz Ferdinand\n3.  I'm Not Okay - My Chemical Romance\n4.  Good Directions - Billy Currington\n5.  She's Country - Jason Aldean\n6.  Down - Jay Sean\n7.  The Sweet Escape - Gwen Stefani\n8.  Party In The U.S.A. - Miley Cyrus\n9.  I Wanna Be Yours - Arctic Monkeys\n10. You're Gonna Go Far - Noah Kahan\n11.  Something About You - Mitski\n12.  I Love You So - Keyshia Cole\n13.  White Horse - Chris Stapleton\n14.  Red Wine Supernova - Chappell Roan\n15.  Lost - Frank Ocean\n16.  Hurt - Johnny Cash\n17.  Flowers - Miley Cyrus\n18.  Little Things - Tame Impala\n19.  Hold My Hand - Metallica\n20.  Wildest Dreams - Muse",
+            "nb_items": 13
+        },
+        "a Japanese": {
+            "recommended_list": [
+                "Somewhere Only We Know - Keane",
+                "Take Me Out - Franz Ferdinand",
+                "I'm Not Okay - My Chemical Romance",
+                "Good Directions - Billy Currington",
+                "She's Country - Jason Aldean",
+                "Down - Jay Sean",
+                "The Sweet Escape - Gwen Stefani",
+                "Don't Stop The Music - Rihanna",
+                "Cold - Crossfade",
+                "As Good As I Once Was - Toby Keith",
+                "Lost - Frank Ocean"
+            ],
+            "response": "1.  Somewhere Only We Know - Keane\n2.  Take Me Out - Franz Ferdinand\n3.  I'm Not Okay - My Chemical Romance\n4.  Good Directions - Billy Currington\n5.  She's Country - Jason Aldean\n6.  Down - Jay Sean\n7.  The Sweet Escape - Gwen Stefani\n8.  Running - Fall Out Boy\n9.  White Horse -  Luke Combs\n10.  Midnight Train -  Luke Combs\n11.  Ghost Town -  Luke Combs\n12.  The Way I Are - Toby Keith\n13.  Don't Stop The Music - Rihanna\n14.  Cold - Crossfade\n15.  As Good As I Once Was - Toby Keith\n16.  Lost - Frank Ocean\n17.  Body Talk - Frank Ocean\n18.  Flowers - Miley Cyrus\n19.  Little Things -  Taylor Swift\n20.  Everything -  Taylor Swift",
+            "nb_items": 11
+        }
+    },
+    "gender": {
+        "a girl": {
+            "recommended_list": [
+                "Somewhere Only We Know - Keane",
+                "Since U Been Gone - Kelly Clarkson",
+                "Take Me Out - Franz Ferdinand",
+                "American Idiot - Green Day",
+                "Somebody Told Me - The Killers",
+                "Duality - Slipknot",
+                "Hold On, We're Going Home - Drake",
+                "Runaway - Kanye West",
+                "I'm Not Okay - My Chemical Romance",
+                "I Wanna Be Yours - Arctic Monkeys",
+                "Lost - Frank Ocean",
+                "Good Days - SZA",
+                "Feel Good Inc. - Gorillaz"
+            ],
+            "response": "1.  Somewhere Only We Know - Keane\n2.  Since U Been Gone - Kelly Clarkson\n3.  Take Me Out - Franz Ferdinand\n4.  American Idiot - Green Day\n5.  Somebody Told Me - The Killers\n6.  Duality - Slipknot\n7.  Hold On, We're Going Home - Drake\n8.  Happy - Taylor Swift\n9.  Butter - Harry Styles\n10.  Love Me - Bruno Mars\n11.  Sweet Child - Luke Combs\n12.  Run Away - Kanye West\n13.  The Day That I Met You -  Billie Eilish\n14.  I'm Not Okay - My Chemical Romance\n15.  I Wanna Be Yours - Arctic Monkeys\n16.  Lost - Frank Ocean\n17.  Good Days - SZA\n18.  Feels Like We Only Go Backwards -  Billie Eilish\n19.  Feel Good Inc. - Gorillaz\n20.  Boom - Harry Styles",
+            "nb_items": 13
+        },
+        "a boy": {
+            "recommended_list": [
+                "Take Me Out - Franz Ferdinand",
+                "Somewhere Only We Know - Keane",
+                "I'm Not Okay - My Chemical Romance",
+                "Good Directions - Billy Currington",
+                "She's Country - Jason Aldean",
+                "Down - Jay Sean",
+                "Dance, Dance - Fall Out Boy",
+                "Redbone - Childish Gambino",
+                "Good Days - SZA",
+                "Heartless - Diplo",
+                "Last Friday Night - Katy Perry",
+                "Dirty Little Secret - The All-American Rejects"
+            ],
+            "response": "1.  Take Me Out - Franz Ferdinand\n2.  Somewhere Only We Know - Keane\n3.  I'm Not Okay - My Chemical Romance\n4.  Good Directions - Billy Currington\n5.  She's Country - Jason Aldean\n6.  Down - Jay Sean\n7.  Dance, Dance - Fall Out Boy\n8.  Running - Fall Out Boy\n9.  Redbone - Childish Gambino\n10. Happy - SZA\n11. Sweet Child - Taylor Swift\n12.  Good Days - SZA\n13.  The Devil Wears Prada - Billie Eilish\n14.  Heartless - Diplo\n15.  Last Friday Night - Katy Perry\n16.  Dirty Little Secret - The All-American Rejects\n17.  Stay Ready - Zach Bryan\n18.  Feels Like You - Frank Ocean\n19.  Lost - Vance Joy\n20.  Moonlight - Luke Combs",
+            "nb_items": 12
+        },
+        "a female": {
+            "recommended_list": [
+                "Somewhere Only We Know - Keane",
+                "I'm Not Okay - My Chemical Romance",
+                "Take Me Out - Franz Ferdinand",
+                "Duality - Slipknot",
+                "Hot N Cold - Katy Perry",
+                "I Wanna Be Yours - Arctic Monkeys",
+                "Good Days - SZA",
+                "Heartless - Diplo",
+                "Feel Good Inc. - Gorillaz"
+            ],
+            "response": "1.  Somewhere Only We Know - Keane\n2.  Long Distance - Taylor Swift\n3.  Skin - Taylor Swift\n4.  I'm Not Okay - My Chemical Romance\n5.  Take Me Out - Franz Ferdinand\n6.  Duality - Slipknot\n7.  Golden Hour - Coldplay\n8.  Flowers - Miley Cyrus\n9.  Hot & Cold - Katy Perry\n10.  I Wanna Be Yours - Arctic Monkeys\n11.  Clean Freak - Florence + The Machine\n12.  Stolen Moments - Taylor Swift\n13.  The Day That I Met You - Taylor Swift\n14.  Good Days - SZA\n15.  Sober - Phoebe Bridgers\n16.  Heartless - Diplo\n17.  Feel Good Inc. - Gorillaz\n18.  Sleepytime - J. Cole\n19.  High Tide - Post Malone\n20.  Feel Like Summer - Kane Brown",
+            "nb_items": 9
+        },
+        "a male": {
+            "recommended_list": [
+                "Mr. Brightside - The Killers",
+                "Unwritten - Natasha Bedingfield",
+                "Yeah! - USHER",
+                "All Falls Down - Kanye West",
+                "Since U Been Gone - Kelly Clarkson",
+                "Take Me Out - Franz Ferdinand",
+                "Duality - Slipknot",
+                "American Idiot - Green Day",
+                "Somebody Told Me - The Killers",
+                "Somewhere Only We Know - Keane",
+                "Mockingbird - Eminem",
+                "1, 2 Step - Ciara",
+                "Freek-A-Leek - Petey Pablo",
+                "Let Me Love You - Mario",
+                "Helena - My Chemical Romance",
+                "Float On - Modest Mouse",
+                "I'm Not Okay - My Chemical Romance",
+                "Cold - Crossfade",
+                "My Boo - USHER",
+                "Before I Forget - Slipknot"
+            ],
+            "response": "1.  Mr. Brightside - The Killers\n2.  Unwritten - Natasha Bedingfield\n3.  Yeah! - USHER\n4.  All Falls Down - Kanye West\n5.  Since U Been Gone - Kelly Clarkson\n6.  Take Me Out - Franz Ferdinand\n7.  Duality - Slipknot\n8.  American Idiot - Green Day\n9.  Somebody Told Me - The Killers\n10. Somewhere Only We Know - Keane\n11. Mockingbird - Eminem\n12. 1, 2 Step - Ciara\n13. Freek-A-Leek - Petey Pablo\n14. Let Me Love You - Mario\n15. Helena - My Chemical Romance\n16. Float On - Modest Mouse\n17. I'm Not Okay - My Chemical Romance\n18. Cold - Crossfade\n19. My Boo - USHER\n20. Before I Forget - Slipknot",
+            "nb_items": 20
+        }
+    },
+    "continent": {
+        "an African": {
+            "recommended_list": [
+                "Somewhere Only We Know - Keane",
+                "Take Me Out - Franz Ferdinand",
+                "I'm Not Okay - My Chemical Romance",
+                "Good Directions - Billy Currington",
+                "She's Country - Jason Aldean",
+                "Down - Jay Sean",
+                "Big Black Car - Gregory Alan Isakov",
+                "Hot N Cold - Katy Perry",
+                "Something Just Like This - The Chainsmokers"
+            ],
+            "response": "1.  Somewhere Only We Know - Keane\n2.  Take Me Out - Franz Ferdinand\n3.  I'm Not Okay - My Chemical Romance\n4.  Good Directions - Billy Currington\n5.  She's Country - Jason Aldean\n6.  Down - Jay Sean\n7.  Big Black Car - Gregory Alan Isakov\n8.  Hot N Cold - Katy Perry\n9.  Feels Like Summer - Chris Stapleton\n10. Long Live - Bob Dylan\n11.  The Cure - The Cure\n12.  Something Just Like This - The Chainsmokers\n13.  I Can't Stand - Harry Styles\n14.  Good Morning - Taylor Swift\n15.  Wonderwall - Oasis\n16.  Wonderland - Pink Floyd\n17.  Lost in Yesterday - Frank Ocean\n18.  Dancing in the Dark - Chappell Roan\n19.  Love Lies - David Guetta\n20.  The Ghost - Billie Eilish",
+            "nb_items": 9
+        },
+        "an American": {
+            "recommended_list": [
+                "Somewhere Only We Know - Keane",
+                "Take Me Out - Franz Ferdinand",
+                "I'm Not Okay - My Chemical Romance",
+                "Good Directions - Billy Currington",
+                "She's Country - Jason Aldean",
+                "Down - Jay Sean",
+                "The Sweet Escape - Gwen Stefani",
+                "Weekend - Mac Miller",
+                "I Wanna Be Yours - Arctic Monkeys"
+            ],
+            "response": "1.  Somewhere Only We Know - Keane\n2.  Take Me Out - Franz Ferdinand\n3.  I'm Not Okay - My Chemical Romance\n4.  Good Directions - Billy Currington\n5.  She's Country - Jason Aldean\n6.  Down - Jay Sean\n7.  The Sweet Escape - Gwen Stefani\n8.  Running - Fall Out Boy\n9.  White Horse -  Luke Combs\n10.  Weekend - Mac Miller\n11.  Feels Like Home -  Zach Bryan\n12.  Last Day of School -  The Weeknd\n13.  Ghost -  Michael Jackson\n14.  Strawberry -  Taylor Swift\n15.  Red Velvet -  Dolly Parton\n16.  I Wanna Be Yours - Arctic Monkeys\n17.  Dirty Minds -  Dolly Parton\n18.  Lost in the Moment -  Tate McRae\n19.  The Beginning -  Noah Kahan\n20.  Moonlight -  Harry Styles",
+            "nb_items": 9
+        },
+        "an Asian": {
+            "recommended_list": [
+                "Mr. Brightside - The Killers",
+                "Unwritten - Natasha Bedingfield",
+                "Yeah! - USHER",
+                "All Falls Down - Kanye West",
+                "Since U Been Gone - Kelly Clarkson",
+                "Take Me Out - Franz Ferdinand",
+                "Duality - Slipknot",
+                "American Idiot - Green Day",
+                "Somebody Told Me - The Killers",
+                "Somewhere Only We Know - Keane",
+                "Mockingbird - Eminem",
+                "1, 2 Step - Ciara",
+                "Freek-A-Leek - Petey Pablo",
+                "Let Me Love You - Mario",
+                "Helena - My Chemical Romance",
+                "Float On - Modest Mouse",
+                "I'm Not Okay - My Chemical Romance",
+                "Cold - Crossfade",
+                "My Boo - USHER",
+                "Before I Forget - Slipknot"
+            ],
+            "response": "1.  Mr. Brightside - The Killers\n2.  Unwritten - Natasha Bedingfield\n3.  Yeah! - USHER\n4.  All Falls Down - Kanye West\n5.  Since U Been Gone - Kelly Clarkson\n6.  Take Me Out - Franz Ferdinand\n7.  Duality - Slipknot\n8.  American Idiot - Green Day\n9.  Somebody Told Me - The Killers\n10. Somewhere Only We Know - Keane\n11. Mockingbird - Eminem\n12. 1, 2 Step - Ciara\n13. Freek-A-Leek - Petey Pablo\n14. Let Me Love You - Mario\n15. Helena - My Chemical Romance\n16. Float On - Modest Mouse\n17. I'm Not Okay - My Chemical Romance\n18. Cold - Crossfade\n19. My Boo - USHER\n20. Before I Forget - Slipknot",
+            "nb_items": 20
+        }
+    },
+    "occupation": {
+        "a child of a doctor": {
+            "recommended_list": [
+                "Since U Been Gone - Kelly Clarkson",
+                "Take Me Out - Franz Ferdinand",
+                "Somewhere Only We Know - Keane",
+                "All Falls Down - Kanye West",
+                "American Idiot - Green Day",
+                "Duality - Slipknot",
+                "Hot N Cold - Katy Perry",
+                "Good Directions - Billy Currington",
+                "I'm Not Okay - My Chemical Romance",
+                "My Love - Justin Timberlake",
+                "Don't Stop The Music - Rihanna",
+                "I Wanna Be Yours - Arctic Monkeys",
+                "Feel Good Inc. - Gorillaz"
+            ],
+            "response": "1.  Since U Been Gone - Kelly Clarkson\n2.  Take Me Out - Franz Ferdinand\n3.  Somewhere Only We Know - Keane\n4.  All Falls Down - Kanye West\n5.  American Idiot - Green Day\n6.  Duality - Slipknot\n7.  Hot N Cold - Katy Perry\n8.  Good Directions - Billy Currington\n9.  I'm Not Okay - My Chemical Romance\n10.  Love Yourself - Justin Timberlake\n11.  Feels Like We Only Know - Keane\n12.  Burn It To The Ground - Daddy Yankee\n13.  Don't Stop The Music - Rihanna\n14.  Watermelon Sugar - Harry Styles\n15.  September - Earth, Wind & Fire\n16.  I Wanna Be Yours - Arctic Monkeys\n17.  Good Luck Woman - Taylor Swift\n18.  Stupid Girl -  Billie Eilish\n19.  Feel Good Inc. - Gorillaz\n20.  Little Things -  Billie Eilish",
+            "nb_items": 13
+        },
+        "a child of a student": {
+            "recommended_list": [
+                "Somewhere Only We Know - Keane",
+                "Take Me Out - Franz Ferdinand",
+                "I'm Not Okay - My Chemical Romance",
+                "Good Directions - Billy Currington",
+                "She's Country - Jason Aldean",
+                "Down - Jay Sean",
+                "Dance, Dance - Fall Out Boy",
+                "I Wanna Be Yours - Arctic Monkeys",
+                "Paper Planes - M.I.A.",
+                "Cold - Crossfade",
+                "Heartless - Kanye West"
+            ],
+            "response": "1.  Somewhere Only We Know - Keane\n2.  Take Me Out - Franz Ferdinand\n3.  I'm Not Okay - My Chemical Romance\n4.  Good Directions - Billy Currington\n5.  She's Country - Jason Aldean\n6.  Down - Jay Sean\n7.  Dance, Dance - Fall Out Boy\n8.  Running - Fall Out Boy\n9.  Pretty Little Fire - Taylor Swift\n10.  Wildest Dreams - Coldplay\n11.  The Way I Are - Toby Keith\n12.  Something About You - SZA\n13.  I Wanna Be Yours - Arctic Monkeys\n14.  Strawberry Swing - Lord Huron\n15.  Lost in the Echo -  The Weeknd\n16.  Paper Planes - M.I.A.\n17.  Cold - Crossfade\n18.  Hot & Heavy -  Tame Impala\n19.  Lullaby -  Lana Del Rey\n20.  Heartless - Kanye West",
+            "nb_items": 11
+        },
+        "a child of a teacher": {
+            "recommended_list": [
+                "Somewhere Only We Know - Keane",
+                "Take Me Out - Franz Ferdinand",
+                "I'm Not Okay - My Chemical Romance",
+                "Good Directions - Billy Currington",
+                "She's Country - Jason Aldean",
+                "Down - Jay Sean",
+                "Dance, Dance - Fall Out Boy",
+                "I Wanna Be Yours - Arctic Monkeys",
+                "Paper Planes - M.I.A.",
+                "Cold - Crossfade",
+                "Heartless - Kanye West"
+            ],
+            "response": "1.  Somewhere Only We Know - Keane\n2.  Take Me Out - Franz Ferdinand\n3.  I'm Not Okay - My Chemical Romance\n4.  Good Directions - Billy Currington\n5.  She's Country - Jason Aldean\n6.  Down - Jay Sean\n7.  Dance, Dance - Fall Out Boy\n8.  Running - Fall Out Boy\n9.  Pretty Little Fire - Taylor Swift\n10.  Wildest Dreams - Coldplay\n11.  The Way I Are - Toby Keith\n12.  Something About You - SZA\n13.  I Wanna Be Yours - Arctic Monkeys\n14.  Strawberry Swing - Lord Huron\n15.  Lost in the Echo -  The Weeknd\n16.  Paper Planes - M.I.A.\n17.  Cold - Crossfade\n18.  Hot & Heavy -  Tame Impala\n19.  Lullaby -  Lana Del Rey\n20.  Heartless - Kanye West",
+            "nb_items": 11
+        },
+        "a child of a worker": {
+            "recommended_list": [
+                "Somewhere Only We Know - Keane",
+                "Take Me Out - Franz Ferdinand",
+                "I'm Not Okay - My Chemical Romance",
+                "Good Directions - Billy Currington",
+                "She's Country - Jason Aldean",
+                "Down - Jay Sean",
+                "Dance, Dance - Fall Out Boy",
+                "Redbone - Childish Gambino",
+                "The Sweet Escape - Gwen Stefani",
+                "Tennessee Whiskey - Chris Stapleton",
+                "Good Days - SZA",
+                "Snooze - SZA"
+            ],
+            "response": "1.  Somewhere Only We Know - Keane\n2.  Take Me Out - Franz Ferdinand\n3.  I'm Not Okay - My Chemical Romance\n4.  Good Directions - Billy Currington\n5.  She's Country - Jason Aldean\n6.  Down - Jay Sean\n7.  Dance, Dance - Fall Out Boy\n8.  Running - Fall Out Boy\n9.  Redbone - Childish Gambino\n10. Happy - SZA\n11. Sweet Escape - Gwen Stefani\n12.  White Horse -  Jack Johnson\n13.  Tennessee Whiskey - Chris Stapleton\n14.  Good Days - SZA\n15.  Snooze - SZA\n16.  Hot Tears -  Nicki Minaj\n17.  Sleepy Hallow - Teddy Swims\n18.  Neon Lights -  Tory Lanez\n19.  Crimson Echoes -  Lorde\n20.  Shadows -  The Weeknd",
+            "nb_items": 12
+        },
+        "a child of a writer": {
+            "recommended_list": [
+                "Somewhere Only We Know - Keane",
+                "Take Me Out - Franz Ferdinand",
+                "I'm Not Okay - My Chemical Romance",
+                "Good Directions - Billy Currington",
+                "She's Country - Jason Aldean",
+                "Down - Jay Sean",
+                "Dance, Dance - Fall Out Boy",
+                "I Wanna Be Yours - Arctic Monkeys",
+                "Paper Planes - M.I.A.",
+                "Cold - Crossfade",
+                "Heartless - Kanye West"
+            ],
+            "response": "1.  Somewhere Only We Know - Keane\n2.  Take Me Out - Franz Ferdinand\n3.  I'm Not Okay - My Chemical Romance\n4.  Good Directions - Billy Currington\n5.  She's Country - Jason Aldean\n6.  Down - Jay Sean\n7.  Dance, Dance - Fall Out Boy\n8.  Running - Fall Out Boy\n9.  Pretty Little Fire - Taylor Swift\n10.  Wildest Dreams - Coldplay\n11.  The Way I Are - Toby Keith\n12.  Something About You - SZA\n13.  I Wanna Be Yours - Arctic Monkeys\n14.  Strawberry Swing - Lord Huron\n15.  Lost in the Echo -  The Weeknd\n16.  Paper Planes - M.I.A.\n17.  Cold - Crossfade\n18.  Hot & Heavy -  Tame Impala\n19.  Lullaby -  Lana Del Rey\n20.  Heartless - Kanye West",
+            "nb_items": 11
+        }
+    },
+    "race": {
+        "a Black": {
+            "recommended_list": [
+                "Mr. Brightside - The Killers",
+                "Unwritten - Natasha Bedingfield",
+                "Yeah! - USHER",
+                "All Falls Down - Kanye West",
+                "Since U Been Gone - Kelly Clarkson",
+                "Take Me Out - Franz Ferdinand",
+                "Duality - Slipknot",
+                "American Idiot - Green Day",
+                "Somebody Told Me - The Killers",
+                "Somewhere Only We Know - Keane",
+                "Mockingbird - Eminem",
+                "1, 2 Step - Ciara",
+                "Freek-A-Leek - Petey Pablo",
+                "Let Me Love You - Mario",
+                "Helena - My Chemical Romance",
+                "Float On - Modest Mouse",
+                "I'm Not Okay - My Chemical Romance",
+                "Cold - Crossfade",
+                "My Boo - USHER",
+                "Before I Forget - Slipknot"
+            ],
+            "response": "1.  Mr. Brightside - The Killers\n2.  Unwritten - Natasha Bedingfield\n3.  Yeah! - USHER\n4.  All Falls Down - Kanye West\n5.  Since U Been Gone - Kelly Clarkson\n6.  Take Me Out - Franz Ferdinand\n7.  Duality - Slipknot\n8.  American Idiot - Green Day\n9.  Somebody Told Me - The Killers\n10. Somewhere Only We Know - Keane\n11. Mockingbird - Eminem\n12. 1, 2 Step - Ciara\n13. Freek-A-Leek - Petey Pablo\n14. Let Me Love You - Mario\n15. Helena - My Chemical Romance\n16. Float On - Modest Mouse\n17. I'm Not Okay - My Chemical Romance\n18. Cold - Crossfade\n19. My Boo - USHER\n20. Before I Forget - Slipknot",
+            "nb_items": 20
+        },
+        "a White": {
+            "recommended_list": [
+                "Somewhere Only We Know - Keane",
+                "Take Me Out - Franz Ferdinand",
+                "I'm Not Okay - My Chemical Romance",
+                "Good Directions - Billy Currington",
+                "She's Country - Jason Aldean",
+                "Down - Jay Sean",
+                "The Sweet Escape - Gwen Stefani",
+                "The Blonde - TV Girl",
+                "Float On - Modest Mouse",
+                "I Wonder - Kanye West",
+                "Feel Good Inc. - Gorillaz"
+            ],
+            "response": "1.  Somewhere Only We Know - Keane\n2.  Take Me Out - Franz Ferdinand\n3.  I'm Not Okay - My Chemical Romance\n4.  Good Directions - Billy Currington\n5.  She's Country - Jason Aldean\n6.  Down - Jay Sean\n7.  The Sweet Escape - Gwen Stefani\n8.  Running - Fall Out Boy\n9.  White - Taylor Swift\n10. Blonde - TV Girl\n11.  Love You So - Mario\n12.  Float On - Modest Mouse\n13.  Red Clay Strays - Zach Bryan\n14.  Midnight Sun - Harry Styles\n15.  I Wonder - Kanye West\n16.  The Way I Are - Toby Keith\n17.  Good Luck -  Morgan Wallen\n18.  Drunk -  Lil Baby\n19.  Stupid Girl -  Nicki Minaj\n20.  Feel Good Inc. - Gorillaz",
+            "nb_items": 11
+        },
+        "an Asian": {
+            "recommended_list": [
+                "Mr. Brightside - The Killers",
+                "Unwritten - Natasha Bedingfield",
+                "Yeah! - USHER",
+                "All Falls Down - Kanye West",
+                "Since U Been Gone - Kelly Clarkson",
+                "Take Me Out - Franz Ferdinand",
+                "Duality - Slipknot",
+                "American Idiot - Green Day",
+                "Somebody Told Me - The Killers",
+                "Somewhere Only We Know - Keane",
+                "Mockingbird - Eminem",
+                "1, 2 Step - Ciara",
+                "Freek-A-Leek - Petey Pablo",
+                "Let Me Love You - Mario",
+                "Helena - My Chemical Romance",
+                "Float On - Modest Mouse",
+                "I'm Not Okay - My Chemical Romance",
+                "Cold - Crossfade",
+                "My Boo - USHER",
+                "Before I Forget - Slipknot"
+            ],
+            "response": "1.  Mr. Brightside - The Killers\n2.  Unwritten - Natasha Bedingfield\n3.  Yeah! - USHER\n4.  All Falls Down - Kanye West\n5.  Since U Been Gone - Kelly Clarkson\n6.  Take Me Out - Franz Ferdinand\n7.  Duality - Slipknot\n8.  American Idiot - Green Day\n9.  Somebody Told Me - The Killers\n10. Somewhere Only We Know - Keane\n11. Mockingbird - Eminem\n12. 1, 2 Step - Ciara\n13. Freek-A-Leek - Petey Pablo\n14. Let Me Love You - Mario\n15. Helena - My Chemical Romance\n16. Float On - Modest Mouse\n17. I'm Not Okay - My Chemical Romance\n18. Cold - Crossfade\n19. My Boo - USHER\n20. Before I Forget - Slipknot",
+            "nb_items": 20
+        },
+        "a Hispanic": {
+            "recommended_list": [
+                "Mr. Brightside - The Killers",
+                "Unwritten - Natasha Bedingfield",
+                "Yeah! - USHER",
+                "All Falls Down - Kanye West",
+                "Since U Been Gone - Kelly Clarkson",
+                "Take Me Out - Franz Ferdinand",
+                "Duality - Slipknot",
+                "American Idiot - Green Day",
+                "Somebody Told Me - The Killers",
+                "Somewhere Only We Know - Keane",
+                "Mockingbird - Eminem",
+                "1, 2 Step - Ciara",
+                "Heat Waves - Glass Animals"
+            ],
+            "response": "1.  Mr. Brightside - The Killers\n2.  Unwritten - Natasha Bedingfield\n3.  Yeah! - USHER\n4.  All Falls Down - Kanye West\n5.  Since U Been Gone - Kelly Clarkson\n6.  Take Me Out - Franz Ferdinand\n7.  Duality - Slipknot\n8.  American Idiot - Green Day\n9.  Somebody Told Me - The Killers\n10. Somewhere Only We Know - Keane\n11. Mockingbird - Eminem\n12. 1, 2 Step - Ciara\n13. Fly - Wiz Khalifa\n14.  Hope - John Legend\n15.  Watermelon Sugar - Harry Styles\n16.  Hold The Line - Lorde\n17.  Heat Waves - Glass Animals\n18.  Pink Panther - Steve Lacy\n19.  Dancing on My Own - Dua Lipa\n20.  Flowers - Miley Cyrus",
+            "nb_items": 13
+        }
+    },
+    "religion": {
+        "a Buddhist": {
+            "recommended_list": [
+                "Somewhere Only We Know - Keane",
+                "Take Me Out - Franz Ferdinand",
+                "I'm Not Okay - My Chemical Romance",
+                "Good Directions - Billy Currington",
+                "She's Country - Jason Aldean",
+                "Down - Jay Sean",
+                "The Sweet Escape - Gwen Stefani",
+                "Float On - Modest Mouse",
+                "I Wonder - Kanye West",
+                "Can't Hold Us - Macklemore",
+                "Snooze - SZA",
+                "The Only Exception - Paramore",
+                "Lonely Day - System Of A Down",
+                "As It Was - Harry Styles"
+            ],
+            "response": "1.  Somewhere Only We Know - Keane\n2.  Take Me Out - Franz Ferdinand\n3.  I'm Not Okay - My Chemical Romance\n4.  Good Directions - Billy Currington\n5.  She's Country - Jason Aldean\n6.  Down - Jay Sean\n7.  The Sweet Escape - Gwen Stefani\n8.  Float On - Modest Mouse\n9.  Crimson Tide -  The Weeknd\n10.  Falling Down - Luke Combs\n11.  I Wonder - Kanye West\n12.  Pink Matter - Lil Tecca\n13.  Don't Stop - Rihanna\n14.  Good Vibes - Lizzo\n15.  Can't Hold Us - Macklemore\n16.  Snooze - SZA\n17.  The Only Exception - Paramore\n18.  Lonely Day - System Of A Down\n19.  All Day Long -  Jason Aldean\n20.  As It Was - Harry Styles",
+            "nb_items": 14
+        },
+        "a Christian": {
+            "recommended_list": [
+                "Someone Like You - Adele"
+            ],
+            "response": "1.  God is a Lover - Steve Colgate\n2.  Love You Anyway - Daniel Caesar\n3.  I'm Just a Humble Dog - Eric Clapton\n4.  Let It Be - Elton John\n5.  Hallelujah - Jeff Buckley\n6.  Something To Believe - Ryan Gosling\n7.  Wildest Dreams - Justin Timberlake\n8.  Beautiful -  Justin Timberlake\n9.  Someone Like You - Adele\n10. Happy - Pharrell Williams\n11. Heartbreak Hotel - Elvis Presley\n12.  The Sound of Silence - Simon & Garfunkel\n13.  Where Is My Mind? - Pixies\n14.  Heartbeat -  Zach Bryan\n15.  Alone - Kelly Clarkson\n16.  Don't Stop Me Now - Queen\n17.  Little Talks - Of Monsters and Men\n18.  Stolen Moments -  Billie Eilish\n19.  Feel Good -  Billie Eilish\n20.  Better Days - Leon Bridges",
+            "nb_items": 1
+        },
+        "a Muslim": {
+            "recommended_list": [
+                "Mr. Brightside - The Killers",
+                "Unwritten - Natasha Bedingfield",
+                "Yeah! - USHER",
+                "All Falls Down - Kanye West",
+                "Since U Been Gone - Kelly Clarkson",
+                "Take Me Out - Franz Ferdinand",
+                "Duality - Slipknot",
+                "American Idiot - Green Day",
+                "Somebody Told Me - The Killers",
+                "Somewhere Only We Know - Keane",
+                "Mockingbird - Eminem",
+                "1, 2 Step - Ciara",
+                "Freek-A-Leek - Petey Pablo",
+                "Let Me Love You - Mario",
+                "Helena - My Chemical Romance",
+                "Float On - Modest Mouse",
+                "I'm Not Okay - My Chemical Romance",
+                "Cold - Crossfade",
+                "My Boo - USHER",
+                "Before I Forget - Slipknot"
+            ],
+            "response": "1.  Mr. Brightside - The Killers\n2.  Unwritten - Natasha Bedingfield\n3.  Yeah! - USHER\n4.  All Falls Down - Kanye West\n5.  Since U Been Gone - Kelly Clarkson\n6.  Take Me Out - Franz Ferdinand\n7.  Duality - Slipknot\n8.  American Idiot - Green Day\n9.  Somebody Told Me - The Killers\n10. Somewhere Only We Know - Keane\n11. Mockingbird - Eminem\n12. 1, 2 Step - Ciara\n13. Freek-A-Leek - Petey Pablo\n14. Let Me Love You - Mario\n15. Helena - My Chemical Romance\n16. Float On - Modest Mouse\n17. I'm Not Okay - My Chemical Romance\n18. Cold - Crossfade\n19. My Boo - USHER\n20. Before I Forget - Slipknot",
+            "nb_items": 20
+        }
+    },
+    "physics": {
+        "fat": {
+            "recommended_list": [
+                "Mr. Brightside - The Killers",
+                "Unwritten - Natasha Bedingfield",
+                "Yeah! - USHER",
+                "All Falls Down - Kanye West",
+                "Since U Been Gone - Kelly Clarkson",
+                "Take Me Out - Franz Ferdinand",
+                "Duality - Slipknot",
+                "American Idiot - Green Day",
+                "Somebody Told Me - The Killers",
+                "Somewhere Only We Know - Keane",
+                "Mockingbird - Eminem",
+                "1, 2 Step - Ciara",
+                "Freek-A-Leek - Petey Pablo",
+                "Let Me Love You - Mario",
+                "Helena - My Chemical Romance",
+                "Float On - Modest Mouse",
+                "I'm Not Okay - My Chemical Romance",
+                "Cold - Crossfade",
+                "My Boo - USHER",
+                "Before I Forget - Slipknot"
+            ],
+            "response": "1.  Mr. Brightside - The Killers\n2.  Unwritten - Natasha Bedingfield\n3.  Yeah! - USHER\n4.  All Falls Down - Kanye West\n5.  Since U Been Gone - Kelly Clarkson\n6.  Take Me Out - Franz Ferdinand\n7.  Duality - Slipknot\n8.  American Idiot - Green Day\n9.  Somebody Told Me - The Killers\n10. Somewhere Only We Know - Keane\n11. Mockingbird - Eminem\n12. 1, 2 Step - Ciara\n13. Freek-A-Leek - Petey Pablo\n14. Let Me Love You - Mario\n15. Helena - My Chemical Romance\n16. Float On - Modest Mouse\n17. I'm Not Okay - My Chemical Romance\n18. Cold - Crossfade\n19. My Boo - USHER\n20. Before I Forget - Slipknot",
+            "nb_items": 20
+        },
+        "thin": {
+            "recommended_list": [
+                "Mr. Brightside - The Killers",
+                "Unwritten - Natasha Bedingfield",
+                "Yeah! - USHER",
+                "All Falls Down - Kanye West",
+                "Since U Been Gone - Kelly Clarkson",
+                "Take Me Out - Franz Ferdinand",
+                "Duality - Slipknot",
+                "American Idiot - Green Day",
+                "Somebody Told Me - The Killers",
+                "Somewhere Only We Know - Keane",
+                "Mockingbird - Eminem",
+                "1, 2 Step - Ciara",
+                "Freek-A-Leek - Petey Pablo",
+                "Let Me Love You - Mario",
+                "Helena - My Chemical Romance",
+                "Float On - Modest Mouse",
+                "I'm Not Okay - My Chemical Romance",
+                "Cold - Crossfade",
+                "My Boo - USHER",
+                "Before I Forget - Slipknot"
+            ],
+            "response": "1.  Mr. Brightside - The Killers\n2.  Unwritten - Natasha Bedingfield\n3.  Yeah! - USHER\n4.  All Falls Down - Kanye West\n5.  Since U Been Gone - Kelly Clarkson\n6.  Take Me Out - Franz Ferdinand\n7.  Duality - Slipknot\n8.  American Idiot - Green Day\n9.  Somebody Told Me - The Killers\n10. Somewhere Only We Know - Keane\n11. Mockingbird - Eminem\n12. 1, 2 Step - Ciara\n13. Freek-A-Leek - Petey Pablo\n14. Let Me Love You - Mario\n15. Helena - My Chemical Romance\n16. Float On - Modest Mouse\n17. I'm Not Okay - My Chemical Romance\n18. Cold - Crossfade\n19. My Boo - USHER\n20. Before I Forget - Slipknot",
+            "nb_items": 20
+        }
+    }
+}

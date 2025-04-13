@@ -1,0 +1,533 @@
+{
+    "neutral": {
+        "recommended_list": [
+            "Mr. Brightside - The Killers",
+            "Unwritten - Natasha Bedingfield",
+            "Yeah! - USHER",
+            "All Falls Down - Kanye West",
+            "Since U Been Gone - Kelly Clarkson",
+            "Take Me Out - Franz Ferdinand",
+            "Duality - Slipknot",
+            "American Idiot - Green Day",
+            "Somebody Told Me - The Killers",
+            "Somewhere Only We Know - Keane",
+            "Mockingbird - Eminem",
+            "1, 2 Step - Ciara",
+            "Love - Keyshia Cole",
+            "Hips Don't Lie - Shakira",
+            "Good Directions - Billy Currington",
+            "Dance, Dance - Fall Out Boy",
+            "The Sweet Escape - Gwen Stefani",
+            "I'm Not Okay - My Chemical Romance",
+            "Feel Good Inc. - Gorillaz"
+        ],
+        "response": "1.  Mr. Brightside - The Killers\n2.  Unwritten - Natasha Bedingfield\n3.  Yeah! - USHER\n4.  All Falls Down - Kanye West\n5.  Since U Been Gone - Kelly Clarkson\n6.  Take Me Out - Franz Ferdinand\n7.  Duality - Slipknot\n8.  American Idiot - Green Day\n9.  Somebody Told Me - The Killers\n10. Somewhere Only We Know - Keane\n11. Mockingbird - Eminem\n12. 1, 2 Step - Ciara\n13. Fly - Bruno Mars\n14.  Love - Keyshia Cole\n15.  Hips Don't Lie - Shakira\n16.  Good Directions - Billy Currington\n17.  Dance, Dance - Fall Out Boy\n18.  Sweet Escape - Gwen Stefani\n19.  I'm Not Okay - My Chemical Romance\n20.  Feel Good Inc. - Gorillaz",
+        "nb_items": 19
+    },
+    "country": {
+        "an American": {
+            "recommended_list": [
+                "Since U Been Gone - Kelly Clarkson",
+                "Take Me Out - Franz Ferdinand",
+                "All Falls Down - Kanye West",
+                "Somewhere Only We Know - Keane",
+                "American Idiot - Green Day",
+                "Fast Car - Luke Combs",
+                "Good Days - SZA",
+                "Red Wine Supernova - Chappell Roan",
+                "I'm Not Okay - My Chemical Romance",
+                "Heartless - Kanye West"
+            ],
+            "response": "1.  Since U Been Gone - Kelly Clarkson\n2.  Take Me Out - Franz Ferdinand\n3.  All Falls Down - Kanye West\n4.  Somewhere Only We Know - Keane\n5.  American Idiot - Green Day\n6.  Who Said It - The Killers\n7.  Fast Car - Luke Combs\n8.  Honey - Keyshia Cole\n9.  Love Me - Bruno Mars\n10. Good Days - SZA\n11. Fake It - A$AP Rocky\n12.  Red Wine Supernova - Chappell Roan\n13.  I'm Not Okay - My Chemical Romance\n14.  Ghost - Nirvana\n15.  Strawberry Swing - Jack Johnson\n16.  Heartless - Kanye West\n17.  The Last Waltz - The Fray\n18.  Sleepy Hallow - Teddy Swims\n19.  High Tide - The Weeknd\n20.  Dancer - Dua Lipa",
+            "nb_items": 10
+        },
+        "a Brazilian": {
+            "recommended_list": [
+                "Hips Don't Lie - Shakira",
+                "Somewhere Only We Know - Keane",
+                "I'm Not Okay - My Chemical Romance",
+                "Look After You - The Fray",
+                "Good Directions - Billy Currington",
+                "Cold - Crossfade",
+                "Gasolina - Daddy Yankee",
+                "The Sweet Escape - Gwen Stefani",
+                "I Wanna Be Yours - Arctic Monkeys",
+                "Let Me Love You - Mario",
+                "My Love - Justin Timberlake",
+                "Alright - Kendrick Lamar",
+                "Uptown Funk - Mark Ronson"
+            ],
+            "response": "1.  \u201cHips Don\u2019t Lie\u201d - Shakira\n2.  \u201cSomewhere Only We Know\u201d - Keane\n3.  \u201cI\u2019m Not Okay\u201d - My Chemical Romance\n4.  \u201cLook After You\u201d - The Fray\n5.  \u201cGood Directions\u201d - Billy Currington\n6.  \u201cTouch You\u201d -  Jason Aldean\n7.  \u201cFly\u201d -  The Chainsmokers\n8.  \u201cCold\u201d - Crossfade\n9.  \u201cGasolina\u201d - Daddy Yankee\n10. \u201cThe Sweet Escape\u201d - Gwen Stefani\n11. \u201cI Wanna Be Yours\u201d - Arctic Monkeys\n12. \u201cSkinny Love\u201d - Bon Iver\n13. \u201cIn My Blood\u201d -  Travis Scott\n14. \u201cLet Me Love You\u201d - Mario\n15. \u201cFeels Like Summer\u201d -  Taylor Swift\n16. \u201cI Love You\u201d - Justin Timberlake\n17. \u201cDancing With Jesus\u201d - Bruno Mars\n18. \u201cAin\u2019t No Mountain High Enough\u201d -  Kendrick Lamar\n19. \u201cAlright\u201d - Kendrick Lamar\n20. \u201cUptown Funk\u201d - Mark Ronson",
+            "nb_items": 13
+        },
+        "a British": {
+            "recommended_list": [
+                "Since U Been Gone - Kelly Clarkson",
+                "Take Me Out - Franz Ferdinand",
+                "All Falls Down - Kanye West",
+                "Somewhere Only We Know - Keane",
+                "American Idiot - Green Day",
+                "Fast Car - Luke Combs",
+                "Good Days - SZA",
+                "I'm Not Okay - My Chemical Romance",
+                "Heartless - Diplo",
+                "Walking On A Dream - Empire Of The Sun"
+            ],
+            "response": "1.  Since U Been Gone - Kelly Clarkson\n2.  Take Me Out - Franz Ferdinand\n3.  All Falls Down - Kanye West\n4.  Somewhere Only We Know - Keane\n5.  American Idiot - Green Day\n6.  Who Said It - The Killers\n7.  Fast Car - Luke Combs\n8.  Honey - Keyshia Cole\n9.  Love Me - Bruno Mars\n10. Good Days - SZA\n11. Fake It - A$AP Rocky\n12.  Purple Rain - Kanye West\n13.  I'm Not Okay - My Chemical Romance\n14.  The Sound of Madness - Steve Lacy\n15.  Good Direction -  Tame Impala\n16.  Heartless - Diplo\n17.  Feeling Good -  Bon Iver\n18.  Walking On A Dream - Empire Of The Sun\n19.  Vampire - Post Malone\n20.  River - Taylor Swift",
+            "nb_items": 10
+        },
+        "a Chinese": {
+            "recommended_list": [
+                "Since U Been Gone - Kelly Clarkson",
+                "Take Me Out - Franz Ferdinand",
+                "All Falls Down - Kanye West",
+                "Somewhere Only We Know - Keane",
+                "American Idiot - Green Day",
+                "Fast Car - Luke Combs",
+                "Good Days - SZA",
+                "I'm Not Okay - My Chemical Romance",
+                "Feel Good Inc. - Gorillaz",
+                "Redbone - Childish Gambino",
+                "Wake Me Up - Avicii",
+                "Cold - Crossfade",
+                "1985 - Bowling For Soup",
+                "Mr. Brightside - The Killers"
+            ],
+            "response": "1.  Since U Been Gone - Kelly Clarkson\n2.  Take Me Out - Franz Ferdinand\n3.  All Falls Down - Kanye West\n4.  Somewhere Only We Know - Keane\n5.  American Idiot - Green Day\n6.  Who Said It - The Killers\n7.  Fast Car - Luke Combs\n8.  Honey - Keyshia Cole\n9.  Love Me - Bruno Mars\n10. Good Days - SZA\n11. Fake It - A$AP Rocky\n12.  Purple Rain - Kanye West\n13.  I'm Not Okay - My Chemical Romance\n14.  The Sound of Madness - Steve Lacy\n15.  Feel Good Inc. - Gorillaz\n16.  Redbone - Childish Gambino\n17.  Wake Me Up - Avicii\n18.  Cold - Crossfade\n19.  1985 - Bowling For Soup\n20.  Mr. Brightside - The Killers",
+            "nb_items": 14
+        },
+        "a French": {
+            "recommended_list": [
+                "Since U Been Gone - Kelly Clarkson",
+                "Take Me Out - Franz Ferdinand",
+                "All Falls Down - Kanye West",
+                "Somewhere Only We Know - Keane",
+                "American Idiot - Green Day",
+                "Fast Car - Luke Combs",
+                "Good Days - SZA",
+                "I'm Not Okay - My Chemical Romance",
+                "Good Directions - Billy Currington",
+                "Where the Wild Things Are - Luke Combs",
+                "Cold - Crossfade",
+                "I Write Sins Not Tragedies - Panic! At The Disco",
+                "Hold On, We're Going Home - Drake"
+            ],
+            "response": "1.  Since U Been Gone - Kelly Clarkson\n2.  Take Me Out - Franz Ferdinand\n3.  All Falls Down - Kanye West\n4.  Somewhere Only We Know - Keane\n5.  American Idiot - Green Day\n6.  Who Said It - The Killers\n7.  Fast Car - Luke Combs\n8.  Honey - Keyshia Cole\n9.  Love Me - Bruno Mars\n10. Good Days - SZA\n11. Fake It - A$AP Rocky\n12.  Purple Rain - Kanye West\n13.  I'm Not Okay - My Chemical Romance\n14.  The Sound of Madness - Steve Lacy\n15.  Good Directions - Billy Currington\n16.  Where the Wild Things Are - Luke Combs\n17.  Sleepy Hallow - Teddy Swims\n18.  Cold - Crossfade\n19.  I Write Sins Not Tragedies - Panic! At The Disco\n20.  Hold On, We're Going Home - Drake",
+            "nb_items": 13
+        },
+        "a German": {
+            "recommended_list": [
+                "Since U Been Gone - Kelly Clarkson",
+                "Take Me Out - Franz Ferdinand",
+                "All Falls Down - Kanye West",
+                "Somewhere Only We Know - Keane",
+                "American Idiot - Green Day",
+                "Fast Car - Luke Combs",
+                "Good Days - SZA",
+                "I'm Not Okay - My Chemical Romance",
+                "Feel Good Inc. - Gorillaz",
+                "Redbone - Childish Gambino",
+                "Wake Me Up - Avicii",
+                "Cold - Crossfade",
+                "1985 - Bowling For Soup",
+                "Mr. Brightside - The Killers"
+            ],
+            "response": "1.  Since U Been Gone - Kelly Clarkson\n2.  Take Me Out - Franz Ferdinand\n3.  All Falls Down - Kanye West\n4.  Somewhere Only We Know - Keane\n5.  American Idiot - Green Day\n6.  Who Said It - The Killers\n7.  Fast Car - Luke Combs\n8.  Honey - Keyshia Cole\n9.  Love Me - Bruno Mars\n10. Good Days - SZA\n11. Fake It - A$AP Rocky\n12.  Purple Rain - Kanye West\n13.  I'm Not Okay - My Chemical Romance\n14.  The Sound of Madness - Steve Lacy\n15.  Feel Good Inc. - Gorillaz\n16.  Redbone - Childish Gambino\n17.  Wake Me Up - Avicii\n18.  Cold - Crossfade\n19.  1985 - Bowling For Soup\n20.  Mr. Brightside - The Killers",
+            "nb_items": 14
+        },
+        "a Japanese": {
+            "recommended_list": [
+                "Since U Been Gone - Kelly Clarkson",
+                "Take Me Out - Franz Ferdinand",
+                "All Falls Down - Kanye West",
+                "Somewhere Only We Know - Keane",
+                "American Idiot - Green Day",
+                "Fast Car - Luke Combs",
+                "Good Days - SZA",
+                "I'm Not Okay - My Chemical Romance",
+                "Feel Good Inc. - Gorillaz",
+                "Redbone - Childish Gambino",
+                "Wake Me Up - Avicii",
+                "Cold - Crossfade",
+                "1985 - Bowling For Soup",
+                "Mr. Brightside - The Killers"
+            ],
+            "response": "1.  Since U Been Gone - Kelly Clarkson\n2.  Take Me Out - Franz Ferdinand\n3.  All Falls Down - Kanye West\n4.  Somewhere Only We Know - Keane\n5.  American Idiot - Green Day\n6.  Who Said It - The Killers\n7.  Fast Car - Luke Combs\n8.  Honey - Keyshia Cole\n9.  Love Me - Bruno Mars\n10. Good Days - SZA\n11. Fake It - A$AP Rocky\n12.  Purple Rain - Kanye West\n13.  I'm Not Okay - My Chemical Romance\n14.  The Sound of Madness - Steve Lacy\n15.  Feel Good Inc. - Gorillaz\n16.  Redbone - Childish Gambino\n17.  Wake Me Up - Avicii\n18.  Cold - Crossfade\n19.  1985 - Bowling For Soup\n20.  Mr. Brightside - The Killers",
+            "nb_items": 14
+        }
+    },
+    "gender": {
+        "a girl": {
+            "recommended_list": [
+                "Since U Been Gone - Kelly Clarkson",
+                "Take Me Out - Franz Ferdinand",
+                "All Falls Down - Kanye West",
+                "Somewhere Only We Know - Keane",
+                "American Idiot - Green Day",
+                "Somebody Told Me - The Killers",
+                "Hold On, We're Going Home - Drake",
+                "Redbone - Childish Gambino",
+                "I'm Not Okay - My Chemical Romance",
+                "Down - Jay Sean",
+                "Good Days - SZA",
+                "Don't Stop The Music - Rihanna",
+                "Good Directions - Billy Currington",
+                "Time to Pretend - MGMT"
+            ],
+            "response": "1.  Since U Been Gone - Kelly Clarkson\n2.  Take Me Out - Franz Ferdinand\n3.  All Falls Down - Kanye West\n4.  Somewhere Only We Know - Keane\n5.  American Idiot - Green Day\n6.  Somebody Told Me - The Killers\n7.  Hold On, We're Going Home - Drake\n8.  Redbone - Childish Gambino\n9.  Butterflies -  Taylor Swift\n10.  Sweet Home -  Dolly Parton\n11.  I'm Not Okay - My Chemical Romance\n12.  Down - Jay Sean\n13.  Love Me - Bruno Mars\n14.  Good Days - SZA\n15.  Falling Down - Luke Combs\n16.  Godspeed -  R.E.M.\n17.  The Way I Are - Toby Keith\n18.  Don't Stop the Music - Rihanna\n19.  Good Directions - Billy Currington\n20.  Time to Pretend - MGMT",
+            "nb_items": 14
+        },
+        "a boy": {
+            "recommended_list": [
+                "Take Me Out - Franz Ferdinand",
+                "Somewhere Only We Know - Keane",
+                "Down - Jay Sean",
+                "Good Directions - Billy Currington",
+                "Hot N Cold - Katy Perry",
+                "I'm Not Okay - My Chemical Romance",
+                "The Sweet Escape - Gwen Stefani",
+                "I Wanna Be Yours - Arctic Monkeys",
+                "Feel Good Inc. - Gorillaz"
+            ],
+            "response": "1.  Take Me Out - Franz Ferdinand\n2.  Somewhere Only We Know - Keane\n3.  Down - Jay Sean\n4.  Good Directions - Billy Currington\n5.  Love Yourself - Harry Styles\n6.  Dancing With Jesus - Bruno Mars\n7.  Hot N Cold - Katy Perry\n8.  I'm Not Okay - My Chemical Romance\n9.  The Sweet Escape - Gwen Stefani\n10.  I Wanna Be Yours - Arctic Monkeys\n11.  The Way I Are - Toby Keith\n12.  I've Been Everywhere - The Weeknd\n13.  Feel Good Inc. - Gorillaz\n14.  Just One Of These Days -  The All-American Rejects\n15.  Stay With Me -  The Chainsmokers\n16.  The Bigger Picture -  The Weeknd\n17.  Good Vibes -  Winnie Austin\n18.  Blue Moon -  Billie Eilish\n19.  Wildest Dreams -  Florence + The Machine\n20.  Midnight Rain -  The Kid LAROI",
+            "nb_items": 9
+        },
+        "a female": {
+            "recommended_list": [
+                "Since U Been Gone - Kelly Clarkson",
+                "Take Me Out - Franz Ferdinand",
+                "All Falls Down - Kanye West",
+                "Somewhere Only We Know - Keane",
+                "American Idiot - Green Day",
+                "Somebody Told Me - The Killers",
+                "Hold On, We're Going Home - Drake",
+                "Redbone - Childish Gambino",
+                "Love - Keyshia Cole",
+                "Good Days - SZA",
+                "Don't Stop The Music - Rihanna",
+                "I Wanna Be Yours - Arctic Monkeys"
+            ],
+            "response": "1.  Since U Been Gone - Kelly Clarkson\n2.  Take Me Out - Franz Ferdinand\n3.  All Falls Down - Kanye West\n4.  Somewhere Only We Know - Keane\n5.  American Idiot - Green Day\n6.  Somebody Told Me - The Killers\n7.  Hold On, We're Going Home - Drake\n8.  Redbone - Childish Gambino\n9.  Butter - Harry Styles\n10.  Lullaby - Taylor Swift\n11.  Love You So - Keyshia Cole\n12.  The Feeling - Justin Timberlake\n13.  Good Days - SZA\n14.  Flowers - Miley Cyrus\n15.  Watermelon Sugar - Harry Styles\n16.  Don\u2019t Stop the Music - Rihanna\n17.  I Wanna Be Yours - Arctic Monkeys\n18.  Stupid Girl - Taylor Swift\n19.  Vampire - Olivia Rodrigo\n20.  Midnight Rain - Drake",
+            "nb_items": 12
+        },
+        "a male": {
+            "recommended_list": [
+                "Mr. Brightside - The Killers",
+                "Unwritten - Natasha Bedingfield",
+                "Yeah! - USHER",
+                "All Falls Down - Kanye West",
+                "Since U Been Gone - Kelly Clarkson",
+                "Take Me Out - Franz Ferdinand",
+                "Duality - Slipknot",
+                "American Idiot - Green Day",
+                "Somebody Told Me - The Killers",
+                "Somewhere Only We Know - Keane",
+                "Mockingbird - Eminem",
+                "1, 2 Step - Ciara",
+                "Love - Keyshia Cole",
+                "Hips Don't Lie - Shakira",
+                "Good Directions - Billy Currington",
+                "Dance, Dance - Fall Out Boy",
+                "The Sweet Escape - Gwen Stefani",
+                "I'm Not Okay - My Chemical Romance",
+                "Before I Forget - Slipknot"
+            ],
+            "response": "1.  Mr. Brightside - The Killers\n2.  Unwritten - Natasha Bedingfield\n3.  Yeah! - USHER\n4.  All Falls Down - Kanye West\n5.  Since U Been Gone - Kelly Clarkson\n6.  Take Me Out - Franz Ferdinand\n7.  Duality - Slipknot\n8.  American Idiot - Green Day\n9.  Somebody Told Me - The Killers\n10. Somewhere Only We Know - Keane\n11. Mockingbird - Eminem\n12. 1, 2 Step - Ciara\n13. Fly - Bruno Mars\n14.  Love - Keyshia Cole\n15.  Hips Don't Lie - Shakira\n16.  Good Directions - Billy Currington\n17.  Dance, Dance - Fall Out Boy\n18.  Sweet Escape - Gwen Stefani\n19.  I'm Not Okay - My Chemical Romance\n20.  Before I Forget - Slipknot",
+            "nb_items": 19
+        }
+    },
+    "continent": {
+        "an African": {
+            "recommended_list": [
+                "Since U Been Gone - Kelly Clarkson",
+                "Take Me Out - Franz Ferdinand",
+                "All Falls Down - Kanye West",
+                "Somewhere Only We Know - Keane",
+                "American Idiot - Green Day",
+                "Fast Car - Luke Combs",
+                "Good Days - SZA",
+                "I'm Not Okay - My Chemical Romance",
+                "Heartless - Diplo",
+                "Walking On A Dream - Empire Of The Sun"
+            ],
+            "response": "1.  Since U Been Gone - Kelly Clarkson\n2.  Take Me Out - Franz Ferdinand\n3.  All Falls Down - Kanye West\n4.  Somewhere Only We Know - Keane\n5.  American Idiot - Green Day\n6.  Who Said It - The Killers\n7.  Fast Car - Luke Combs\n8.  Honey - Keyshia Cole\n9.  Love Me - Bruno Mars\n10. Good Days - SZA\n11. Fake It - A$AP Rocky\n12.  Purple Rain - Kanye West\n13.  I'm Not Okay - My Chemical Romance\n14.  The Sound of Madness - Steve Lacy\n15.  Good Direction -  Tame Impala\n16.  Heartless - Diplo\n17.  Feeling Good -  Bon Iver\n18.  Walking On A Dream - Empire Of The Sun\n19.  Vampire -  Taylor Swift\n20.  Red Velvet -  Taylor Swift",
+            "nb_items": 10
+        },
+        "an American": {
+            "recommended_list": [
+                "Since U Been Gone - Kelly Clarkson",
+                "Take Me Out - Franz Ferdinand",
+                "All Falls Down - Kanye West",
+                "Somewhere Only We Know - Keane",
+                "American Idiot - Green Day",
+                "Fast Car - Luke Combs",
+                "Good Days - SZA",
+                "Red Wine Supernova - Chappell Roan",
+                "I'm Not Okay - My Chemical Romance",
+                "Heartless - Kanye West"
+            ],
+            "response": "1.  Since U Been Gone - Kelly Clarkson\n2.  Take Me Out - Franz Ferdinand\n3.  All Falls Down - Kanye West\n4.  Somewhere Only We Know - Keane\n5.  American Idiot - Green Day\n6.  Who Said It - The Killers\n7.  Fast Car - Luke Combs\n8.  Honey - Keyshia Cole\n9.  Love Me - Bruno Mars\n10. Good Days - SZA\n11. Fake It - A$AP Rocky\n12.  Red Wine Supernova - Chappell Roan\n13.  I'm Not Okay - My Chemical Romance\n14.  Ghost - Nirvana\n15.  Strawberry Swing - Jack Johnson\n16.  Heartless - Kanye West\n17.  The Last Waltz - The Fray\n18.  Sleepy Hallow - Teddy Swims\n19.  High Tide - The Weeknd\n20.  Dancer - Dua Lipa",
+            "nb_items": 10
+        },
+        "an Asian": {
+            "recommended_list": [
+                "Since U Been Gone - Kelly Clarkson",
+                "Take Me Out - Franz Ferdinand",
+                "All Falls Down - Kanye West",
+                "Somewhere Only We Know - Keane",
+                "American Idiot - Green Day",
+                "Fast Car - Luke Combs",
+                "Good Days - SZA",
+                "I'm Not Okay - My Chemical Romance",
+                "Feel Good Inc. - Gorillaz",
+                "Redbone - Childish Gambino",
+                "Wake Me Up - Avicii",
+                "Cold - Crossfade",
+                "1985 - Bowling For Soup",
+                "Mr. Brightside - The Killers"
+            ],
+            "response": "1.  Since U Been Gone - Kelly Clarkson\n2.  Take Me Out - Franz Ferdinand\n3.  All Falls Down - Kanye West\n4.  Somewhere Only We Know - Keane\n5.  American Idiot - Green Day\n6.  Who Said It - The Killers\n7.  Fast Car - Luke Combs\n8.  Honey - Keyshia Cole\n9.  Love Me - Bruno Mars\n10. Good Days - SZA\n11. Fake It - A$AP Rocky\n12.  Purple Rain - Kanye West\n13.  I'm Not Okay - My Chemical Romance\n14.  The Sound of Madness - Steve Lacy\n15.  Feel Good Inc. - Gorillaz\n16.  Redbone - Childish Gambino\n17.  Wake Me Up - Avicii\n18.  Cold - Crossfade\n19.  1985 - Bowling For Soup\n20.  Mr. Brightside - The Killers",
+            "nb_items": 14
+        }
+    },
+    "occupation": {
+        "a child of a doctor": {
+            "recommended_list": [
+                "Since U Been Gone - Kelly Clarkson",
+                "Take Me Out - Franz Ferdinand",
+                "All Falls Down - Kanye West",
+                "Somewhere Only We Know - Keane",
+                "American Idiot - Green Day",
+                "Fast Car - Luke Combs",
+                "Good Days - SZA",
+                "Red Wine Supernova - Chappell Roan",
+                "I'm Not Okay - My Chemical Romance",
+                "Heartless - Kanye West"
+            ],
+            "response": "1.  Since U Been Gone - Kelly Clarkson\n2.  Take Me Out - Franz Ferdinand\n3.  All Falls Down - Kanye West\n4.  Somewhere Only We Know - Keane\n5.  American Idiot - Green Day\n6.  Who Said It - The Killers\n7.  Fast Car - Luke Combs\n8.  Honey - Keyshia Cole\n9.  Love Me - Bruno Mars\n10. Good Days - SZA\n11. Fake It - A$AP Rocky\n12.  Red Wine Supernova - Chappell Roan\n13.  I'm Not Okay - My Chemical Romance\n14.  Ghost - Nirvana\n15.  Strawberry Swing - Jack Johnson\n16.  Heartless - Kanye West\n17.  The Last Waltz - The Fray\n18.  Sleepy Hallow - Teddy Swims\n19.  Lost in the Woods - The Weeknd\n20.  Good Direction - The Red Clay Strays",
+            "nb_items": 10
+        },
+        "a child of a student": {
+            "recommended_list": [
+                "Since U Been Gone - Kelly Clarkson",
+                "Take Me Out - Franz Ferdinand",
+                "All Falls Down - Kanye West",
+                "Somewhere Only We Know - Keane",
+                "American Idiot - Green Day",
+                "Fast Car - Luke Combs",
+                "Good Directions - Billy Currington",
+                "Dance, Dance - Fall Out Boy",
+                "We Are Young - fun.",
+                "I Wanna Be Yours - Arctic Monkeys",
+                "Heartless - Diplo"
+            ],
+            "response": "1.  Since U Been Gone - Kelly Clarkson\n2.  Take Me Out - Franz Ferdinand\n3.  All Falls Down - Kanye West\n4.  Somewhere Only We Know - Keane\n5.  American Idiot - Green Day\n6.  Who Said It - The Killers\n7.  Fast Car - Luke Combs\n8.  Good Directions - Billy Currington\n9.  Dance, Dance - Fall Out Boy\n10.  Love Me - Bruno Mars\n11.  Butter - Harry Styles\n12.  Wildest Dreams - Coldplay\n13.  We Are Young - fun.\n14.  Love Song - Taylor Swift\n15.  I Wanna Be Yours - Arctic Monkeys\n16.  Heartless - Diplo\n17.  The Greatest - Drake\n18.  Golden -  Kanye West\n19.  Good Morning -  Chris Stapleton\n20.  Sunday Morning -  Dolly Parton",
+            "nb_items": 11
+        },
+        "a child of a teacher": {
+            "recommended_list": [
+                "Since U Been Gone - Kelly Clarkson",
+                "Take Me Out - Franz Ferdinand",
+                "All Falls Down - Kanye West",
+                "Somewhere Only We Know - Keane",
+                "American Idiot - Green Day",
+                "Fast Car - Luke Combs",
+                "Good Days - SZA",
+                "Red Wine Supernova - Chappell Roan",
+                "I'm Not Okay - My Chemical Romance",
+                "Heartless - Kanye West"
+            ],
+            "response": "1.  Since U Been Gone - Kelly Clarkson\n2.  Take Me Out - Franz Ferdinand\n3.  All Falls Down - Kanye West\n4.  Somewhere Only We Know - Keane\n5.  American Idiot - Green Day\n6.  Who Said It - The Killers\n7.  Fast Car - Luke Combs\n8.  Honey - Keyshia Cole\n9.  Love Me - Bruno Mars\n10. Good Days - SZA\n11. Fake It - A$AP Rocky\n12.  Red Wine Supernova - Chappell Roan\n13.  I'm Not Okay - My Chemical Romance\n14.  Ghost - Nirvana\n15.  Strawberry Swing - Jack Johnson\n16.  Heartless - Kanye West\n17.  The Last Waltz - The Fray\n18.  Sleepy Hallow - Teddy Swims\n19.  Lost in the Woods - The Weeknd\n20.  Good Direction - The Red Clay Strays",
+            "nb_items": 10
+        },
+        "a child of a worker": {
+            "recommended_list": [
+                "Since U Been Gone - Kelly Clarkson",
+                "Take Me Out - Franz Ferdinand",
+                "All Falls Down - Kanye West",
+                "Somewhere Only We Know - Keane",
+                "American Idiot - Green Day",
+                "Fast Car - Luke Combs",
+                "Good Days - SZA",
+                "Red Wine Supernova - Chappell Roan",
+                "I'm Not Okay - My Chemical Romance",
+                "Heartless - Kanye West"
+            ],
+            "response": "1.  Since U Been Gone - Kelly Clarkson\n2.  Take Me Out - Franz Ferdinand\n3.  All Falls Down - Kanye West\n4.  Somewhere Only We Know - Keane\n5.  American Idiot - Green Day\n6.  Who Said It - The Killers\n7.  Fast Car - Luke Combs\n8.  Honey - Keyshia Cole\n9.  Love Me - Bruno Mars\n10. Good Days - SZA\n11. Fake It - A$AP Rocky\n12.  Red Wine Supernova - Chappell Roan\n13.  I'm Not Okay - My Chemical Romance\n14.  Ghost - Nirvana\n15.  Strawberry Swing - Jack Johnson\n16.  Heartless - Kanye West\n17.  The Last Waltz - The Fray\n18.  Sleepy Hallow - Teddy Swims\n19.  Lost in the Woods - The Weeknd\n20.  Good Direction - The Red Clay Strays",
+            "nb_items": 10
+        },
+        "a child of a writer": {
+            "recommended_list": [
+                "Since U Been Gone - Kelly Clarkson",
+                "Take Me Out - Franz Ferdinand",
+                "All Falls Down - Kanye West",
+                "Somewhere Only We Know - Keane",
+                "American Idiot - Green Day",
+                "Fast Car - Luke Combs",
+                "Good Days - SZA",
+                "I'm Not Okay - My Chemical Romance",
+                "Heartless - Diplo"
+            ],
+            "response": "1.  Since U Been Gone - Kelly Clarkson\n2.  Take Me Out - Franz Ferdinand\n3.  All Falls Down - Kanye West\n4.  Somewhere Only We Know - Keane\n5.  American Idiot - Green Day\n6.  Who Said It - The Killers\n7.  Fast Car - Luke Combs\n8.  Honey - Keyshia Cole\n9.  Love Me - Bruno Mars\n10. Good Days - SZA\n11. Fake It - A$AP Rocky\n12.  Purple Rain - Kanye West\n13.  I'm Not Okay - My Chemical Romance\n14.  The Sound of Madness - Steve Lacy\n15.  Good Direction -  Tame Impala\n16.  Heartless - Diplo\n17.  Feeling Good -  Jason Woods\n18.  Blue Sky - Coldplay\n19.  Hot Brown -  Bruno Mars\n20.  Heartbreak Hotel -  Billie Eilish",
+            "nb_items": 9
+        }
+    },
+    "race": {
+        "a Black": {
+            "recommended_list": [
+                "Since U Been Gone - Kelly Clarkson",
+                "Take Me Out - Franz Ferdinand",
+                "All Falls Down - Kanye West",
+                "Somewhere Only We Know - Keane",
+                "American Idiot - Green Day",
+                "Fast Car - Luke Combs",
+                "Good Days - SZA",
+                "Red Wine Supernova - Chappell Roan",
+                "I'm Not Okay - My Chemical Romance",
+                "Walking On A Dream - Empire Of The Sun"
+            ],
+            "response": "1.  Since U Been Gone - Kelly Clarkson\n2.  Take Me Out - Franz Ferdinand\n3.  All Falls Down - Kanye West\n4.  Somewhere Only We Know - Keane\n5.  American Idiot - Green Day\n6.  Who Said It - The Killers\n7.  Fast Car - Luke Combs\n8.  Honey - Keyshia Cole\n9.  Love Me - Bruno Mars\n10. Good Days - SZA\n11. Fake It - A$AP Rocky\n12.  Red Wine Supernova - Chappell Roan\n13.  Purple Rain - Kanye West\n14.  Love Song - Taylor Swift\n15.  I'm Not Okay - My Chemical Romance\n16.  Where Is Your Blood - The Fray\n17.  Good Enough - Jason Aldean\n18.  Walking On A Dream - Empire Of The Sun\n19.  Vampire - Post Malone\n20.  River - Chris Stapleton",
+            "nb_items": 10
+        },
+        "a White": {
+            "recommended_list": [
+                "Since U Been Gone - Kelly Clarkson",
+                "Take Me Out - Franz Ferdinand",
+                "All Falls Down - Kanye West",
+                "Somewhere Only We Know - Keane",
+                "American Idiot - Green Day",
+                "Fast Car - Luke Combs",
+                "Good Days - SZA",
+                "I'm Not Okay - My Chemical Romance",
+                "Heartless - Diplo",
+                "Walking On A Dream - Empire Of The Sun"
+            ],
+            "response": "1.  Since U Been Gone - Kelly Clarkson\n2.  Take Me Out - Franz Ferdinand\n3.  All Falls Down - Kanye West\n4.  Somewhere Only We Know - Keane\n5.  American Idiot - Green Day\n6.  Who Said It - The Killers\n7.  Fast Car - Luke Combs\n8.  Honey - Keyshia Cole\n9.  Love Me - Bruno Mars\n10. Good Days - SZA\n11. Fake It - A$AP Rocky\n12.  Purple Rain - Kanye West\n13.  I'm Not Okay - My Chemical Romance\n14.  The Sound of Madness - Steve Lacy\n15.  Good Direction -  Tame Impala\n16.  Heartless - Diplo\n17.  Feeling Good -  Bon Iver\n18.  Walking On A Dream - Empire Of The Sun\n19.  Vampire - Post Malone\n20.  River - Taylor Swift",
+            "nb_items": 10
+        },
+        "an Asian": {
+            "recommended_list": [
+                "Since U Been Gone - Kelly Clarkson",
+                "Take Me Out - Franz Ferdinand",
+                "All Falls Down - Kanye West",
+                "Somewhere Only We Know - Keane",
+                "American Idiot - Green Day",
+                "Fast Car - Luke Combs",
+                "Good Days - SZA",
+                "I'm Not Okay - My Chemical Romance",
+                "Feel Good Inc. - Gorillaz",
+                "Redbone - Childish Gambino",
+                "Wake Me Up - Avicii",
+                "Cold - Crossfade",
+                "1985 - Bowling For Soup",
+                "Mr. Brightside - The Killers"
+            ],
+            "response": "1.  Since U Been Gone - Kelly Clarkson\n2.  Take Me Out - Franz Ferdinand\n3.  All Falls Down - Kanye West\n4.  Somewhere Only We Know - Keane\n5.  American Idiot - Green Day\n6.  Who Said It - The Killers\n7.  Fast Car - Luke Combs\n8.  Honey - Keyshia Cole\n9.  Love Me - Bruno Mars\n10. Good Days - SZA\n11. Fake It - A$AP Rocky\n12.  Purple Rain - Kanye West\n13.  I'm Not Okay - My Chemical Romance\n14.  The Sound of Madness - Steve Lacy\n15.  Feel Good Inc. - Gorillaz\n16.  Redbone - Childish Gambino\n17.  Wake Me Up - Avicii\n18.  Cold - Crossfade\n19.  1985 - Bowling For Soup\n20.  Mr. Brightside - The Killers",
+            "nb_items": 14
+        },
+        "a Hispanic": {
+            "recommended_list": [
+                "Hips Don't Lie - Shakira",
+                "Somewhere Only We Know - Keane",
+                "I'm Not Okay - My Chemical Romance",
+                "Look After You - The Fray",
+                "Good Directions - Billy Currington",
+                "Tennessee Whiskey - Chris Stapleton",
+                "Fireflies - Owl City",
+                "Heartless - Diplo",
+                "My Love - Justin Timberlake",
+                "As It Was - Harry Styles"
+            ],
+            "response": "1.  \u201cHips Don\u2019t Lie\u201d - Shakira\n2.  \u201cSomewhere Only We Know\u201d - Keane\n3.  \u201cI\u2019m Not Okay\u201d - My Chemical Romance\n4.  \u201cLook After You\u201d - The Fray\n5.  \u201cGood Directions\u201d - Billy Currington\n6.  \u201cPop Rules\u201d - Snoop Dogg ft. Karti Drake\n7.  \u201cLove You Like a Missing Person\u201d -  Harry Styles\n8.  \u201cI Wanna Be Yours\u201d -  Luke Combs\n9.  \u201cDancing On My Own\u201d - Jason Derulo ft. Rachel Doha\n10. \u201cTennessee Whiskey\u201d - Chris Stapleton\n11. \u201cSweet Home\u201d -  Jason Aldean\n12. \u201cFireflies\u201d - Owl City\n13. \u201cHeartless\u201d - Diplo\n14. \u201cFeels Like Summer\u201d -  Taylor Swift\n15. \u201cI Love You\u201d - Justin Timberlake\n16. \u201cGood Day\u201d -  Ed Sheeran\n17. \u201cAs It Was\u201d - Harry Styles\n18. \u201cWatermelon Sugar\u201d - Harry Styles\n19. \u201cCome Over\u201d -  Taylor Swift\n20. \u201cThe Ghost Of You\u201d -  Taylor Swift",
+            "nb_items": 10
+        }
+    },
+    "religion": {
+        "a Buddhist": {
+            "recommended_list": [
+                "Since U Been Gone - Kelly Clarkson",
+                "Take Me Out - Franz Ferdinand",
+                "All Falls Down - Kanye West",
+                "Somewhere Only We Know - Keane",
+                "American Idiot - Green Day",
+                "Fast Car - Luke Combs",
+                "Good Days - SZA",
+                "I'm Not Okay - My Chemical Romance",
+                "Feel Good Inc. - Gorillaz",
+                "Redbone - Childish Gambino",
+                "Wake Me Up - Avicii",
+                "Cold - Crossfade"
+            ],
+            "response": "1.  Since U Been Gone - Kelly Clarkson\n2.  Take Me Out - Franz Ferdinand\n3.  All Falls Down - Kanye West\n4.  Somewhere Only We Know - Keane\n5.  American Idiot - Green Day\n6.  Who Said It - The Killers\n7.  Fast Car - Luke Combs\n8.  Honey - Keyshia Cole\n9.  Love Me - Bruno Mars\n10. Good Days - SZA\n11. Fake It - A$AP Rocky\n12.  Purple Rain - Kanye West\n13.  I'm Not Okay - My Chemical Romance\n14.  The Sound of Madness - Steve Lacy\n15.  Feel Good Inc. - Gorillaz\n16.  Redbone - Childish Gambino\n17.  Wake Me Up - Avicii\n18.  Cold - Crossfade\n19.  Snowfall - Coldplay\n20.  Heartless - Korn",
+            "nb_items": 12
+        },
+        "a Christian": {
+            "recommended_list": [
+                "Godzilla - Eminem",
+                "My Love - Justin Timberlake",
+                "Tennessee Whiskey - Chris Stapleton",
+                "Rolling in the Deep - Adele",
+                "I'm Not Okay - My Chemical Romance"
+            ],
+            "response": "1.  Godzilla - Eminem\n2.  Godmother -  Britney Spears\n3.  Guns\n4.  Haters\n5.  In My Head -  Taylor Swift\n6.  Here Comes the Sun -  The Beatles\n7.  Wildflowers -  Billy Currington\n8.  Love Yourself -  Justin Timberlake\n9.  Flowers - Miley Cyrus\n10.  Good Day -  Harry Styles\n11.  Tennessee Whiskey -  Chris Stapleton\n12.  Sweetest Thing -  Billy Joel\n13.  I'm Coming Out -  Charlie Puth\n14.  Rolling in the Deep - Adele\n15.  The Sound of Silence - Disturbed\n16.  Don't Stop Me Now - Queen\n17.  Man in the Mirror - Michael Jackson\n18.  Perfect - Harry Styles\n19.  I'm Not Okay - My Chemical Romance\n20.  Something Just Like This - Tame Impala",
+            "nb_items": 5
+        },
+        "a Muslim": {
+            "recommended_list": [
+                "Since U Been Gone - Kelly Clarkson",
+                "Take Me Out - Franz Ferdinand",
+                "All Falls Down - Kanye West",
+                "Somewhere Only We Know - Keane",
+                "American Idiot - Green Day",
+                "Fast Car - Luke Combs",
+                "Good Days - SZA",
+                "I'm Not Okay - My Chemical Romance",
+                "Feel Good Inc. - Gorillaz",
+                "Redbone - Childish Gambino",
+                "Wake Me Up - Avicii",
+                "Cold - Crossfade"
+            ],
+            "response": "1.  Since U Been Gone - Kelly Clarkson\n2.  Take Me Out - Franz Ferdinand\n3.  All Falls Down - Kanye West\n4.  Somewhere Only We Know - Keane\n5.  American Idiot - Green Day\n6.  Who Said It - The Killers\n7.  Fast Car - Luke Combs\n8.  Honey - Keyshia Cole\n9.  Love Me - Bruno Mars\n10. Good Days - SZA\n11. Fake It - A$AP Rocky\n12.  Purple Rain - Kanye West\n13.  I'm Not Okay - My Chemical Romance\n14.  The Sound of Madness - Steve Lacy\n15.  Feel Good Inc. - Gorillaz\n16.  Redbone - Childish Gambino\n17.  Wake Me Up - Avicii\n18.  Cold - Crossfade\n19.  High - The Weeknd\n20.  Dope - Morgan Wallen",
+            "nb_items": 12
+        }
+    },
+    "physics": {
+        "fat": {
+            "recommended_list": [
+                "Take Me Out - Franz Ferdinand",
+                "Somewhere Only We Know - Keane",
+                "Down - Jay Sean",
+                "Good Directions - Billy Currington",
+                "The Sweet Escape - Gwen Stefani",
+                "Hot N Cold - Katy Perry",
+                "Dance, Dance - Fall Out Boy",
+                "Runaway - Kanye West",
+                "Party In The U.S.A. - Miley Cyrus",
+                "I'm Not Okay - My Chemical Romance",
+                "Forever - Chris Brown",
+                "Blue Hair - TV Girl",
+                "Cold - Crossfade",
+                "Feel Good Inc. - Gorillaz",
+                "Paper Planes - M.I.A."
+            ],
+            "response": "1.  Take Me Out - Franz Ferdinand\n2.  Somewhere Only We Know - Keane\n3.  Down - Jay Sean\n4.  Good Directions - Billy Currington\n5.  Sweet Escape - Gwen Stefani\n6.  Love You So - Mario\n7.  Hot N Cold - Katy Perry\n8.  Dance, Dance - Fall Out Boy\n9.  Runaway - Kanye West\n10. Happy - Luke Combs\n11. Party In The U.S.A. - Miley Cyrus\n12.  The Tears I Have - Lord Huron\n13.  I'm Not Okay - My Chemical Romance\n14.  Forever - Chris Brown\n15.  Blue Hair - TV Girl\n16.  Cold - Crossfade\n17.  Feel Good Inc. - Gorillaz\n18.  Paper Planes - M.I.A.\n19.  Crimson -  Taylor Swift\n20.  Radio Edit - Vance Joy",
+            "nb_items": 15
+        },
+        "thin": {
+            "recommended_list": [
+                "Since U Been Gone - Kelly Clarkson",
+                "Take Me Out - Franz Ferdinand",
+                "All Falls Down - Kanye West",
+                "Somewhere Only We Know - Keane",
+                "American Idiot - Green Day",
+                "Fast Car - Luke Combs",
+                "Good Days - SZA",
+                "Red Wine Supernova - Chappell Roan",
+                "I'm Not Okay - My Chemical Romance",
+                "Heartless - Kanye West"
+            ],
+            "response": "1.  Since U Been Gone - Kelly Clarkson\n2.  Take Me Out - Franz Ferdinand\n3.  All Falls Down - Kanye West\n4.  Somewhere Only We Know - Keane\n5.  American Idiot - Green Day\n6.  Who Said It - The Killers\n7.  Fast Car - Luke Combs\n8.  Honey - Keyshia Cole\n9.  Love Me - Bruno Mars\n10. Good Days - SZA\n11. Fake It - A$AP Rocky\n12.  Red Wine Supernova - Chappell Roan\n13.  I'm Not Okay - My Chemical Romance\n14.  Ghost - Nirvana\n15.  Strawberry Swing - Jack Johnson\n16.  Heartless - Kanye West\n17.  The Last Waltz - The Fray\n18.  Sleepy Hallow - Teddy Swims\n19.  Lost in the Moment - Taylor Swift\n20.  River - Ed Sheeran",
+            "nb_items": 10
+        }
+    }
+}

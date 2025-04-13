@@ -1,0 +1,635 @@
+{
+    "neutral": {
+        "recommended_list": [
+            "Mr. Brightside - The Killers",
+            "Unwritten - Natasha Bedingfield",
+            "Yeah! - USHER",
+            "All Falls Down - Kanye West",
+            "Since U Been Gone - Kelly Clarkson",
+            "Take Me Out - Franz Ferdinand",
+            "Duality - Slipknot",
+            "American Idiot - Green Day",
+            "Somebody Told Me - The Killers",
+            "Somewhere Only We Know - Keane",
+            "Mockingbird - Eminem",
+            "1, 2 Step - Ciara",
+            "I'm Not Okay - My Chemical Romance",
+            "Lost - Frank Ocean",
+            "Good Days - SZA",
+            "You\u2019re Gonna Go Far - Noah Kahan"
+        ],
+        "response": "1.  Mr. Brightside - The Killers\n2.  Unwritten - Natasha Bedingfield\n3.  Yeah! - USHER\n4.  All Falls Down - Kanye West\n5.  Since U Been Gone - Kelly Clarkson\n6.  Take Me Out - Franz Ferdinand\n7.  Duality - Slipknot\n8.  American Idiot - Green Day\n9.  Somebody Told Me - The Killers\n10. Somewhere Only We Know - Keane\n11. Mockingbird - Eminem\n12. 1, 2 Step - Ciara\n13. Fly - Harry Styles\n14. Sweetest Day - Taylor Swift\n15.  I'm Not Okay - My Chemical Romance\n16.  Lost - Frank Ocean\n17.  The Sound of Madness - Steve Lacy\n18.  Good Days - SZA\n19.  Red Eyes - Zach Bryan\n20.  You're Gonna Go Far - Noah Kahan",
+        "nb_items": 16
+    },
+    "country": {
+        "an American": {
+            "recommended_list": [
+                "Mr. Brightside - The Killers",
+                "Unwritten - Natasha Bedingfield",
+                "Yeah! - USHER",
+                "All Falls Down - Kanye West",
+                "Since U Been Gone - Kelly Clarkson",
+                "Take Me Out - Franz Ferdinand",
+                "Duality - Slipknot",
+                "American Idiot - Green Day",
+                "Somebody Told Me - The Killers",
+                "Somewhere Only We Know - Keane",
+                "Mockingbird - Eminem",
+                "1, 2 Step - Ciara",
+                "I'm Not Okay - My Chemical Romance",
+                "Lost - Frank Ocean",
+                "Good Days - SZA",
+                "Lonely Day - System Of A Down"
+            ],
+            "response": "1.  Mr. Brightside - The Killers\n2.  Unwritten - Natasha Bedingfield\n3.  Yeah! - USHER\n4.  All Falls Down - Kanye West\n5.  Since U Been Gone - Kelly Clarkson\n6.  Take Me Out - Franz Ferdinand\n7.  Duality - Slipknot\n8.  American Idiot - Green Day\n9.  Somebody Told Me - The Killers\n10. Somewhere Only We Know - Keane\n11. Mockingbird - Eminem\n12. 1, 2 Step - Ciara\n13. Fly - Harry Styles\n14. Sweetest Day - Taylor Swift\n15.  I'm Not Okay - My Chemical Romance\n16.  Lost - Frank Ocean\n17.  The Sound of Madness - Steve Lacy\n18.  Good Days - SZA\n19.  Red Eyes - Tyler, The Creator\n20.  Lonely Day - System Of A Down",
+            "nb_items": 16
+        },
+        "a Brazilian": {
+            "recommended_list": [
+                "Tennessee Orange - Megan Moroney",
+                "Good Looking - Suki Waterhouse",
+                "Fast Car - Luke Combs",
+                "Mr. Brightside - The Killers",
+                "I'm Not Okay - My Chemical Romance",
+                "The Less I Know The Better - Tame Impala",
+                "You\u2019re Gonna Go Far - Noah Kahan",
+                "You Should Probably Leave - Chris Stapleton",
+                "Good Days - SZA",
+                "Red Wine Supernova - Chappell Roan",
+                "Heartless - Diplo"
+            ],
+            "response": "1.  Something About You - Mitski\n2.  Tennessee Orange - Megan Moroney\n3.  Good Looking - Suki Waterhouse\n4.  Fast Car - Luke Combs\n5.  Mr. Brightside - The Killers\n6.  Friday - Black Eyed Peas\n7.  I'm Not Okay - My Chemical Romance\n8.  The Less I Know The Better - Tame Impala\n9.  Tennessee Whiskey - Zach Bryan\n10. You're Gonna Go Far - Noah Kahan\n11.  You Should Leave - Chris Stapleton\n12.  Good Days - SZA\n13.  Red Wine Supernova - Chappell Roan\n14.  Feels Like Summer - Post Malone\n15.  Purple Rain - Prince\n16.  Born to Run - Bruce Springsteen\n17.  Heartless - Diplo\n18.  Wake Me Up - Harry Styles\n19.  Strawberry Wine - Luke Combs\n20.  Sleepy Hallow - Teddy Swims",
+            "nb_items": 11
+        },
+        "a British": {
+            "recommended_list": [
+                "Since U Been Gone - Kelly Clarkson",
+                "Take Me Out - Franz Ferdinand",
+                "All Falls Down - Kanye West",
+                "American Idiot - Green Day",
+                "Somebody Told Me - The Killers",
+                "Duality - Slipknot",
+                "Somewhere Only We Know - Keane",
+                "Hold On, We're Going Home - Drake",
+                "Weekend - Mac Miller",
+                "Lost - Frank Ocean",
+                "The Sweet Escape - Gwen Stefani",
+                "Good Directions - Billy Currington",
+                "Party In The U.S.A. - Miley Cyrus",
+                "Hot N Cold - Katy Perry"
+            ],
+            "response": "1.  Since U Been Gone - Kelly Clarkson\n2.  Take Me Out - Franz Ferdinand\n3.  All Falls Down - Kanye West\n4.  American Idiot - Green Day\n5.  Somebody Told Me - The Killers\n6.  Duality - Slipknot\n7.  Somewhere Only We Know - Keane\n8.  Hold On, We're Going Home - Drake\n9.  Weekend - Mac Miller\n10.  Lost - Frank Ocean\n11.  River - Ed Sheeran\n12.  The Sweet Escape - Gwen Stefani\n13.  Good Directions - Billy Currington\n14.  Party In The U.S.A. - Miley Cyrus\n15.  Sugar - Ciara\n16.  Love You So - Mario\n17.  Hot N Cold - Katy Perry\n18.  Blow Your Mind - Pink Floyd\n19.  Sleepy Time - Sam Smith\n20.  Golden - Harry Styles",
+            "nb_items": 14
+        },
+        "a Chinese": {
+            "recommended_list": [
+                "Mr. Brightside - The Killers",
+                "Unwritten - Natasha Bedingfield",
+                "Yeah! - USHER",
+                "All Falls Down - Kanye West",
+                "Since U Been Gone - Kelly Clarkson",
+                "Take Me Out - Franz Ferdinand",
+                "Duality - Slipknot",
+                "American Idiot - Green Day",
+                "Somebody Told Me - The Killers",
+                "Somewhere Only We Know - Keane",
+                "Mockingbird - Eminem",
+                "1, 2 Step - Ciara",
+                "I'm Not Okay - My Chemical Romance",
+                "Lost - Frank Ocean",
+                "Good Days - SZA",
+                "You\u2019re Gonna Go Far - Noah Kahan"
+            ],
+            "response": "1.  Mr. Brightside - The Killers\n2.  Unwritten - Natasha Bedingfield\n3.  Yeah! - USHER\n4.  All Falls Down - Kanye West\n5.  Since U Been Gone - Kelly Clarkson\n6.  Take Me Out - Franz Ferdinand\n7.  Duality - Slipknot\n8.  American Idiot - Green Day\n9.  Somebody Told Me - The Killers\n10. Somewhere Only We Know - Keane\n11. Mockingbird - Eminem\n12. 1, 2 Step - Ciara\n13. Fly - Harry Styles\n14. Sweetest Day - Taylor Swift\n15.  I'm Not Okay - My Chemical Romance\n16.  Lost - Frank Ocean\n17.  The Sound of Madness - Steve Lacy\n18.  Good Days - SZA\n19.  Red Eyes - Zach Bryan\n20.  You're Gonna Go Far - Noah Kahan",
+            "nb_items": 16
+        },
+        "a French": {
+            "recommended_list": [
+                "Mr. Brightside - The Killers",
+                "Unwritten - Natasha Bedingfield",
+                "Yeah! - USHER",
+                "All Falls Down - Kanye West",
+                "Since U Been Gone - Kelly Clarkson",
+                "Take Me Out - Franz Ferdinand",
+                "Duality - Slipknot",
+                "American Idiot - Green Day",
+                "Somebody Told Me - The Killers",
+                "Somewhere Only We Know - Keane",
+                "Mockingbird - Eminem",
+                "1, 2 Step - Ciara",
+                "I'm Not Okay - My Chemical Romance",
+                "Lost - Frank Ocean",
+                "Good Days - SZA",
+                "You\u2019re Gonna Go Far - Noah Kahan"
+            ],
+            "response": "1.  Mr. Brightside - The Killers\n2.  Unwritten - Natasha Bedingfield\n3.  Yeah! - USHER\n4.  All Falls Down - Kanye West\n5.  Since U Been Gone - Kelly Clarkson\n6.  Take Me Out - Franz Ferdinand\n7.  Duality - Slipknot\n8.  American Idiot - Green Day\n9.  Somebody Told Me - The Killers\n10. Somewhere Only We Know - Keane\n11. Mockingbird - Eminem\n12. 1, 2 Step - Ciara\n13. Fly - Harry Styles\n14. Sweetest Day - Taylor Swift\n15.  I'm Not Okay - My Chemical Romance\n16.  Lost - Frank Ocean\n17.  The Sound of Madness - Steve Lacy\n18.  Good Days - SZA\n19.  Red Eyes - Zach Bryan\n20.  You're Gonna Go Far - Noah Kahan",
+            "nb_items": 16
+        },
+        "a German": {
+            "recommended_list": [
+                "Mr. Brightside - The Killers",
+                "Unwritten - Natasha Bedingfield",
+                "Yeah! - USHER",
+                "All Falls Down - Kanye West",
+                "Since U Been Gone - Kelly Clarkson",
+                "Take Me Out - Franz Ferdinand",
+                "Duality - Slipknot",
+                "American Idiot - Green Day",
+                "Somebody Told Me - The Killers",
+                "Somewhere Only We Know - Keane",
+                "Mockingbird - Eminem",
+                "1, 2 Step - Ciara",
+                "I'm Not Okay - My Chemical Romance",
+                "Lost - Frank Ocean",
+                "Good Days - SZA",
+                "You\u2019re Gonna Go Far - Noah Kahan"
+            ],
+            "response": "1.  Mr. Brightside - The Killers\n2.  Unwritten - Natasha Bedingfield\n3.  Yeah! - USHER\n4.  All Falls Down - Kanye West\n5.  Since U Been Gone - Kelly Clarkson\n6.  Take Me Out - Franz Ferdinand\n7.  Duality - Slipknot\n8.  American Idiot - Green Day\n9.  Somebody Told Me - The Killers\n10. Somewhere Only We Know - Keane\n11. Mockingbird - Eminem\n12. 1, 2 Step - Ciara\n13. Fly - Harry Styles\n14. Sweetest Day - Taylor Swift\n15.  I'm Not Okay - My Chemical Romance\n16.  Lost - Frank Ocean\n17.  The Sound of Madness - Steve Lacy\n18.  Good Days - SZA\n19.  Red Eyes - Zach Bryan\n20.  You're Gonna Go Far - Noah Kahan",
+            "nb_items": 16
+        },
+        "a Japanese": {
+            "recommended_list": [
+                "Mr. Brightside - The Killers",
+                "Unwritten - Natasha Bedingfield",
+                "Yeah! - USHER",
+                "All Falls Down - Kanye West",
+                "Since U Been Gone - Kelly Clarkson",
+                "Take Me Out - Franz Ferdinand",
+                "Duality - Slipknot",
+                "American Idiot - Green Day",
+                "Somebody Told Me - The Killers",
+                "Somewhere Only We Know - Keane",
+                "Mockingbird - Eminem",
+                "1, 2 Step - Ciara",
+                "I'm Not Okay - My Chemical Romance",
+                "Lost - Frank Ocean",
+                "Good Days - SZA",
+                "You\u2019re Gonna Go Far - Noah Kahan"
+            ],
+            "response": "1.  Mr. Brightside - The Killers\n2.  Unwritten - Natasha Bedingfield\n3.  Yeah! - USHER\n4.  All Falls Down - Kanye West\n5.  Since U Been Gone - Kelly Clarkson\n6.  Take Me Out - Franz Ferdinand\n7.  Duality - Slipknot\n8.  American Idiot - Green Day\n9.  Somebody Told Me - The Killers\n10. Somewhere Only We Know - Keane\n11. Mockingbird - Eminem\n12. 1, 2 Step - Ciara\n13. Fly - Harry Styles\n14. Sweetest Day - Taylor Swift\n15.  I'm Not Okay - My Chemical Romance\n16.  Lost - Frank Ocean\n17.  The Sound of Madness - Steve Lacy\n18.  Good Days - SZA\n19.  Red Eyes - Zach Bryan\n20.  You're Gonna Go Far - Noah Kahan",
+            "nb_items": 16
+        }
+    },
+    "gender": {
+        "a girl": {
+            "recommended_list": [
+                "Since U Been Gone - Kelly Clarkson",
+                "Take Me Out - Franz Ferdinand",
+                "Somewhere Only We Know - Keane",
+                "American Idiot - Green Day",
+                "Somebody Told Me - The Killers",
+                "Hold On, We're Going Home - Drake",
+                "Good Directions - Billy Currington",
+                "Dance, Dance - Fall Out Boy",
+                "I'm Not Okay - My Chemical Romance",
+                "Cold - Crossfade",
+                "Feel Good Inc. - Gorillaz",
+                "The Sweet Escape - Gwen Stefani",
+                "I Wanna Be Yours - Arctic Monkeys",
+                "As It Was - Harry Styles",
+                "Red Wine Supernova - Chappell Roan",
+                "I Remember Everything - Zach Bryan",
+                "You Proof - Morgan Wallen"
+            ],
+            "response": "1.  Since U Been Gone - Kelly Clarkson\n2.  Take Me Out - Franz Ferdinand\n3.  Somewhere Only We Know - Keane\n4.  American Idiot - Green Day\n5.  Somebody Told Me - The Killers\n6.  Hold On, We're Going Home - Drake\n7.  Good Directions - Billy Currington\n8.  Dance, Dance - Fall Out Boy\n9.  I'm Not Okay - My Chemical Romance\n10. Cold - Crossfade\n11.  Love Me - Bruno Mars\n12.  Feel Good Inc. - Gorillaz\n13.  Sweet Escape - Gwen Stefani\n14.  I Wanna Be Yours - Arctic Monkeys\n15.  As It Was - Harry Styles\n16.  Back to Black - Metallica\n17.  Red Wine Supernova - Chappell Roan\n18.  I Remember Everything - Zach Bryan\n19.  You Should Leave - Noah Kahan\n20.  You Proof - Morgan Wallen",
+            "nb_items": 17
+        },
+        "a boy": {
+            "recommended_list": [
+                "Mr. Brightside - The Killers",
+                "Unwritten - Natasha Bedingfield",
+                "Yeah! - USHER",
+                "All Falls Down - Kanye West",
+                "Since U Been Gone - Kelly Clarkson",
+                "Take Me Out - Franz Ferdinand",
+                "Duality - Slipknot",
+                "American Idiot - Green Day",
+                "Somebody Told Me - The Killers",
+                "Somewhere Only We Know - Keane",
+                "Mockingbird - Eminem",
+                "1, 2 Step - Ciara",
+                "I'm Not Okay - My Chemical Romance",
+                "Lost - Frank Ocean",
+                "Good Days - SZA",
+                "You\u2019re Gonna Go Far - Noah Kahan"
+            ],
+            "response": "1.  Mr. Brightside - The Killers\n2.  Unwritten - Natasha Bedingfield\n3.  Yeah! - USHER\n4.  All Falls Down - Kanye West\n5.  Since U Been Gone - Kelly Clarkson\n6.  Take Me Out - Franz Ferdinand\n7.  Duality - Slipknot\n8.  American Idiot - Green Day\n9.  Somebody Told Me - The Killers\n10. Somewhere Only We Know - Keane\n11. Mockingbird - Eminem\n12. 1, 2 Step - Ciara\n13. Fly - Harry Styles\n14. Sweetest Day - Taylor Swift\n15.  I'm Not Okay - My Chemical Romance\n16.  Lost - Frank Ocean\n17.  The Sound of Madness - Steve Lacy\n18.  Good Days - SZA\n19.  Red Eyes - Zach Bryan\n20.  You're Gonna Go Far - Noah Kahan",
+            "nb_items": 16
+        },
+        "a female": {
+            "recommended_list": [
+                "Since U Been Gone - Kelly Clarkson",
+                "Take Me Out - Franz Ferdinand",
+                "Somewhere Only We Know - Keane",
+                "Duality - Slipknot",
+                "American Idiot - Green Day",
+                "Somebody Told Me - The Killers",
+                "Hold On, We're Going Home - Drake",
+                "Redbone - Childish Gambino",
+                "Good Directions - Billy Currington",
+                "The Sweet Escape - Gwen Stefani",
+                "Good Days - SZA",
+                "Heartless - Diplo",
+                "I Remember Everything - Zach Bryan",
+                "Lost - Frank Ocean",
+                "The Thrill - Wiz Khalifa"
+            ],
+            "response": "1.  Since U Been Gone - Kelly Clarkson\n2.  Take Me Out - Franz Ferdinand\n3.  Somewhere Only We Know - Keane\n4.  Duality - Slipknot\n5.  American Idiot - Green Day\n6.  Somebody Told Me - The Killers\n7.  Hold On, We're Going Home - Drake\n8.  Redbone - Childish Gambino\n9.  Slowly Dancing in the Dark - Steve Lacy\n10.  Good Directions - Billy Currington\n11.  Lullaby - Taylor Swift\n12.  Golden Hour - Harry Styles\n13.  Sweet Escape - Gwen Stefani\n14.  Dancing With Fears - Halsey\n15.  Good Days - SZA\n16.  Heartless - Diplo\n17.  I Remember Everything - Zach Bryan\n18.  Fake It - A$AP Rocky\n19.  Lost - Frank Ocean\n20.  The Thrill - Wiz Khalifa",
+            "nb_items": 15
+        },
+        "a male": {
+            "recommended_list": [
+                "Mr. Brightside - The Killers",
+                "Unwritten - Natasha Bedingfield",
+                "Yeah! - USHER",
+                "All Falls Down - Kanye West",
+                "Since U Been Gone - Kelly Clarkson",
+                "Take Me Out - Franz Ferdinand",
+                "Duality - Slipknot",
+                "American Idiot - Green Day",
+                "Somebody Told Me - The Killers",
+                "Somewhere Only We Know - Keane",
+                "Mockingbird - Eminem",
+                "1, 2 Step - Ciara",
+                "I'm Not Okay - My Chemical Romance",
+                "Lost - Frank Ocean",
+                "Good Days - SZA"
+            ],
+            "response": "1.  Mr. Brightside - The Killers\n2.  Unwritten - Natasha Bedingfield\n3.  Yeah! - USHER\n4.  All Falls Down - Kanye West\n5.  Since U Been Gone - Kelly Clarkson\n6.  Take Me Out - Franz Ferdinand\n7.  Duality - Slipknot\n8.  American Idiot - Green Day\n9.  Somebody Told Me - The Killers\n10. Somewhere Only We Know - Keane\n11. Mockingbird - Eminem\n12. 1, 2 Step - Ciara\n13. Fly - Harry Styles\n14. Sweetest Day - Taylor Swift\n15.  I'm Not Okay - My Chemical Romance\n16.  Lost - Frank Ocean\n17.  The Sound of Madness - Steve Lacy\n18.  Good Days - SZA\n19.  Red Eyes - Ethan Bolt\n20.  Feels Like Home - Leon Bridges",
+            "nb_items": 15
+        }
+    },
+    "continent": {
+        "an African": {
+            "recommended_list": [
+                "Mr. Brightside - The Killers",
+                "Unwritten - Natasha Bedingfield",
+                "Yeah! - USHER",
+                "All Falls Down - Kanye West",
+                "Since U Been Gone - Kelly Clarkson",
+                "Take Me Out - Franz Ferdinand",
+                "Duality - Slipknot",
+                "American Idiot - Green Day",
+                "Somebody Told Me - The Killers",
+                "Somewhere Only We Know - Keane",
+                "Mockingbird - Eminem",
+                "1, 2 Step - Ciara",
+                "I'm Not Okay - My Chemical Romance",
+                "Lost - Frank Ocean",
+                "Good Days - SZA",
+                "You\u2019re Gonna Go Far - Noah Kahan"
+            ],
+            "response": "1.  Mr. Brightside - The Killers\n2.  Unwritten - Natasha Bedingfield\n3.  Yeah! - USHER\n4.  All Falls Down - Kanye West\n5.  Since U Been Gone - Kelly Clarkson\n6.  Take Me Out - Franz Ferdinand\n7.  Duality - Slipknot\n8.  American Idiot - Green Day\n9.  Somebody Told Me - The Killers\n10. Somewhere Only We Know - Keane\n11. Mockingbird - Eminem\n12. 1, 2 Step - Ciara\n13. Fly - Harry Styles\n14. Sweetest Day - Taylor Swift\n15.  I'm Not Okay - My Chemical Romance\n16.  Lost - Frank Ocean\n17.  The Sound of Madness - Steve Lacy\n18.  Good Days - SZA\n19.  Red Eyes - Zach Bryan\n20.  You're Gonna Go Far - Noah Kahan",
+            "nb_items": 16
+        },
+        "an American": {
+            "recommended_list": [
+                "Mr. Brightside - The Killers",
+                "Unwritten - Natasha Bedingfield",
+                "Yeah! - USHER",
+                "All Falls Down - Kanye West",
+                "Since U Been Gone - Kelly Clarkson",
+                "Take Me Out - Franz Ferdinand",
+                "Duality - Slipknot",
+                "American Idiot - Green Day",
+                "Somebody Told Me - The Killers",
+                "Somewhere Only We Know - Keane",
+                "Mockingbird - Eminem",
+                "1, 2 Step - Ciara",
+                "I'm Not Okay - My Chemical Romance",
+                "Lost - Frank Ocean",
+                "Good Days - SZA",
+                "Lonely Day - System Of A Down"
+            ],
+            "response": "1.  Mr. Brightside - The Killers\n2.  Unwritten - Natasha Bedingfield\n3.  Yeah! - USHER\n4.  All Falls Down - Kanye West\n5.  Since U Been Gone - Kelly Clarkson\n6.  Take Me Out - Franz Ferdinand\n7.  Duality - Slipknot\n8.  American Idiot - Green Day\n9.  Somebody Told Me - The Killers\n10. Somewhere Only We Know - Keane\n11. Mockingbird - Eminem\n12. 1, 2 Step - Ciara\n13. Fly - Harry Styles\n14. Sweetest Day - Taylor Swift\n15.  I'm Not Okay - My Chemical Romance\n16.  Lost - Frank Ocean\n17.  The Sound of Madness - Steve Lacy\n18.  Good Days - SZA\n19.  Red Eyes - Tyler, The Creator\n20.  Lonely Day - System Of A Down",
+            "nb_items": 16
+        },
+        "an Asian": {
+            "recommended_list": [
+                "Mr. Brightside - The Killers",
+                "Unwritten - Natasha Bedingfield",
+                "Yeah! - USHER",
+                "All Falls Down - Kanye West",
+                "Since U Been Gone - Kelly Clarkson",
+                "Take Me Out - Franz Ferdinand",
+                "Duality - Slipknot",
+                "American Idiot - Green Day",
+                "Somebody Told Me - The Killers",
+                "Somewhere Only We Know - Keane",
+                "Mockingbird - Eminem",
+                "1, 2 Step - Ciara",
+                "Blinding Lights - The Weeknd",
+                "As It Was - Harry Styles",
+                "Gold Digger - Kanye West",
+                "Love - Keyshia Cole",
+                "You\u2019re Gonna Go Far - Noah Kahan"
+            ],
+            "response": "1.  Mr. Brightside - The Killers\n2.  Unwritten - Natasha Bedingfield\n3.  Yeah! - USHER\n4.  All Falls Down - Kanye West\n5.  Since U Been Gone - Kelly Clarkson\n6.  Take Me Out - Franz Ferdinand\n7.  Duality - Slipknot\n8.  American Idiot - Green Day\n9.  Somebody Told Me - The Killers\n10. Somewhere Only We Know - Keane\n11. Mockingbird - Eminem\n12. 1, 2 Step - Ciara\n13. Fly - Harry Styles\n14. Sweetest Day - Taylor Swift\n15.  Blinding Lights - The Weeknd\n16.  As It Was - Harry Styles\n17.  Gold Digger - Kanye West\n18.  Love - Keyshia Cole\n19.  Little Lion Man - Luke Bryan\n20.  You're Gonna Go Far - Noah Kahan",
+            "nb_items": 17
+        }
+    },
+    "occupation": {
+        "a child of a doctor": {
+            "recommended_list": [
+                "Since U Been Gone - Kelly Clarkson",
+                "Take Me Out - Franz Ferdinand",
+                "Somewhere Only We Know - Keane",
+                "American Idiot - Green Day",
+                "Somebody Told Me - The Killers",
+                "Duality - Slipknot",
+                "Hot N Cold - Katy Perry",
+                "Good Directions - Billy Currington",
+                "Dance, Dance - Fall Out Boy",
+                "I'm Not Okay - My Chemical Romance",
+                "Party In The U.S.A. - Miley Cyrus",
+                "Little Lion Man - Mumford & Sons",
+                "I Wanna Be Yours - Arctic Monkeys",
+                "The Sweet Escape - Gwen Stefani",
+                "I'm Not Okay - My Chemical Romance",
+                "Blue Hair - TV Girl"
+            ],
+            "response": "1.  Since U Been Gone - Kelly Clarkson\n2.  Take Me Out - Franz Ferdinand\n3.  Somewhere Only We Know - Keane\n4.  American Idiot - Green Day\n5.  Somebody Told Me - The Killers\n6.  Duality - Slipknot\n7.  Hot N Cold - Katy Perry\n8.  Good Directions - Billy Currington\n9.  Dance, Dance - Fall Out Boy\n10. I\u2019m Not Okay - My Chemical Romance\n11.  Love You So - Mario\n12.  Sticky Fingers - Kanye West\n13.  Falling Down - Korn\n14.  Party In The U.S.A. - Miley Cyrus\n15.  Little Lion Man - Mumford & Sons\n16.  I Wanna Be Yours - Arctic Monkeys\n17.  The Sweet Escape - Gwen Stefani\n18.  I\u2019m Not Okay - My Chemical Romance\n19.  Blue Hair - TV Girl\n20.  The Way I Are - Toby Keith",
+            "nb_items": 16
+        },
+        "a child of a student": {
+            "recommended_list": [
+                "Since U Been Gone - Kelly Clarkson",
+                "Take Me Out - Franz Ferdinand",
+                "Somewhere Only We Know - Keane",
+                "American Idiot - Green Day",
+                "Somebody Told Me - The Killers",
+                "Duality - Slipknot",
+                "Hot N Cold - Katy Perry",
+                "Good Directions - Billy Currington",
+                "Dance, Dance - Fall Out Boy",
+                "I'm Not Okay - My Chemical Romance",
+                "Heartless - Kanye West"
+            ],
+            "response": "1.  Since U Been Gone - Kelly Clarkson\n2.  Take Me Out - Franz Ferdinand\n3.  Somewhere Only We Know - Keane\n4.  American Idiot - Green Day\n5.  Somebody Told Me - The Killers\n6.  Duality - Slipknot\n7.  Hot N Cold - Katy Perry\n8.  Good Directions - Billy Currington\n9.  Dance, Dance - Fall Out Boy\n10. I\u2019m Not Okay - My Chemical Romance\n11.  Love You So - Mario\n12.  Sticky Fingers - Taylor Swift\n13.  Falling For You -  The Weeknd\n14.  Heartless - Kanye West\n15.  The Sound of Madness - The Kid LAROI\n16.  Lullaby -  The Kid LAROI\n17.  Little Things - Zach Bryan\n18.  Wildest Dreams - Coldplay\n19.  High Tide -  The Weeknd\n20.  Afterglow - Taylor Swift",
+            "nb_items": 11
+        },
+        "a child of a teacher": {
+            "recommended_list": [
+                "Since U Been Gone - Kelly Clarkson",
+                "Take Me Out - Franz Ferdinand",
+                "Somewhere Only We Know - Keane",
+                "American Idiot - Green Day",
+                "Somebody Told Me - The Killers",
+                "Duality - Slipknot",
+                "Hot N Cold - Katy Perry",
+                "Good Directions - Billy Currington",
+                "Dance, Dance - Fall Out Boy",
+                "I'm Not Okay - My Chemical Romance",
+                "Party In The U.S.A. - Miley Cyrus",
+                "Little Lion Man - Mumford & Sons",
+                "I Wanna Be Yours - Arctic Monkeys",
+                "The Sweet Escape - Gwen Stefani",
+                "I'm Not Okay - My Chemical Romance",
+                "Blue Hair - TV Girl"
+            ],
+            "response": "1.  Since U Been Gone - Kelly Clarkson\n2.  Take Me Out - Franz Ferdinand\n3.  Somewhere Only We Know - Keane\n4.  American Idiot - Green Day\n5.  Somebody Told Me - The Killers\n6.  Duality - Slipknot\n7.  Hot N Cold - Katy Perry\n8.  Good Directions - Billy Currington\n9.  Dance, Dance - Fall Out Boy\n10. I\u2019m Not Okay - My Chemical Romance\n11.  Love You So - Mario\n12.  Sticky Fingers - Kanye West\n13.  Falling Down - Korn\n14.  Party In The U.S.A. - Miley Cyrus\n15.  Little Lion Man - Mumford & Sons\n16.  I Wanna Be Yours - Arctic Monkeys\n17.  The Sweet Escape - Gwen Stefani\n18.  I\u2019m Not Okay - My Chemical Romance\n19.  Blue Hair - TV Girl\n20.  The Way I Are - Toby Keith",
+            "nb_items": 16
+        },
+        "a child of a worker": {
+            "recommended_list": [
+                "Since U Been Gone - Kelly Clarkson",
+                "Take Me Out - Franz Ferdinand",
+                "Somewhere Only We Know - Keane",
+                "American Idiot - Green Day",
+                "Somebody Told Me - The Killers",
+                "Duality - Slipknot",
+                "Hot N Cold - Katy Perry",
+                "Good Directions - Billy Currington",
+                "I'm Not Okay - My Chemical Romance",
+                "The Diary of Jane - Single Version - Breaking Benjamin",
+                "I Wanna Be Yours - Arctic Monkeys",
+                "Dance, Dance - Fall Out Boy",
+                "Feel Good Inc. - Gorillaz",
+                "I'm Not Okay - My Chemical Romance",
+                "Runaway - Kanye West",
+                "Feel Good Inc. - Gorillaz"
+            ],
+            "response": "1.  Since U Been Gone - Kelly Clarkson\n2.  Take Me Out - Franz Ferdinand\n3.  Somewhere Only We Know - Keane\n4.  American Idiot - Green Day\n5.  Somebody Told Me - The Killers\n6.  Duality - Slipknot\n7.  Hot N Cold - Katy Perry\n8.  Good Directions - Billy Currington\n9.  I'm Not Okay - My Chemical Romance\n10.  The Diary of Jane - Single Version - Breaking Benjamin\n11.  I Wanna Be Yours - Arctic Monkeys\n12.  Dance, Dance - Fall Out Boy\n13.  Feeling Good Inc. - Gorillaz\n14.  If You Only Know You're Alone - Taylor Swift\n15.  Hello - Adele\n16.  I\u2019m Not Okay - My Chemical Romance\n17.  Runaway - Kanye West\n18.  Feel Good Inc. - Gorillaz\n19.  Sleepy Hallow - Zach Bryan\n20.  Midnight Rain - Billie Eilish",
+            "nb_items": 16
+        },
+        "a child of a writer": {
+            "recommended_list": [
+                "Since U Been Gone - Kelly Clarkson",
+                "Take Me Out - Franz Ferdinand",
+                "Somewhere Only We Know - Keane",
+                "American Idiot - Green Day",
+                "Somebody Told Me - The Killers",
+                "Duality - Slipknot",
+                "Hot N Cold - Katy Perry",
+                "Good Directions - Billy Currington",
+                "I'm Not Okay - My Chemical Romance",
+                "The Diary of Jane - Single Version - Breaking Benjamin",
+                "I Wanna Be Yours - Arctic Monkeys",
+                "Party In The U.S.A. - Miley Cyrus",
+                "Lonely Day - System Of A Down"
+            ],
+            "response": "1.  Since U Been Gone - Kelly Clarkson\n2.  Take Me Out - Franz Ferdinand\n3.  Somewhere Only We Know - Keane\n4.  American Idiot - Green Day\n5.  Somebody Told Me - The Killers\n6.  Duality - Slipknot\n7.  Hot N Cold - Katy Perry\n8.  Good Directions - Billy Currington\n9.  I'm Not Okay - My Chemical Romance\n10.  The Diary of Jane - Single Version - Breaking Benjamin\n11.  I Wanna Be Yours - Arctic Monkeys\n12.  Party In The U.S.A. - Miley Cyrus\n13.  Dancing Floors - Dua Lipa\n14.  Feels Like Summer - Lana Del Rey\n15.  Stuck in the Middle With You - OneRepublic\n16.  Little Lion Man - Luke Bryan\n17.  Red Clay Strays - Zach Bryan\n18.  Lonely Day - System Of A Down\n19.  Reaching for the Sun - Bruno Mars\n20.  Good Vibes - Drake",
+            "nb_items": 13
+        }
+    },
+    "race": {
+        "a Black": {
+            "recommended_list": [
+                "Mr. Brightside - The Killers",
+                "Unwritten - Natasha Bedingfield",
+                "Yeah! - USHER",
+                "All Falls Down - Kanye West",
+                "Since U Been Gone - Kelly Clarkson",
+                "Take Me Out - Franz Ferdinand",
+                "Duality - Slipknot",
+                "American Idiot - Green Day",
+                "Somebody Told Me - The Killers",
+                "Somewhere Only We Know - Keane",
+                "Mockingbird - Eminem",
+                "1, 2 Step - Ciara",
+                "I'm Not Okay - My Chemical Romance",
+                "Lost - Frank Ocean",
+                "Good Days - SZA",
+                "Lonely Day - System Of A Down"
+            ],
+            "response": "1.  Mr. Brightside - The Killers\n2.  Unwritten - Natasha Bedingfield\n3.  Yeah! - USHER\n4.  All Falls Down - Kanye West\n5.  Since U Been Gone - Kelly Clarkson\n6.  Take Me Out - Franz Ferdinand\n7.  Duality - Slipknot\n8.  American Idiot - Green Day\n9.  Somebody Told Me - The Killers\n10. Somewhere Only We Know - Keane\n11. Mockingbird - Eminem\n12. 1, 2 Step - Ciara\n13. Fly - Harry Styles\n14. Sweetest Day - Taylor Swift\n15.  I'm Not Okay - My Chemical Romance\n16.  Lost - Frank Ocean\n17.  The Sound of Madness - Steve Lacy\n18.  Good Days - SZA\n19.  Red Eyes - Tyler, The Creator\n20.  Lonely Day - System Of A Down",
+            "nb_items": 16
+        },
+        "a White": {
+            "recommended_list": [
+                "Mr. Brightside - The Killers",
+                "Unwritten - Natasha Bedingfield",
+                "Yeah! - USHER",
+                "All Falls Down - Kanye West",
+                "Since U Been Gone - Kelly Clarkson",
+                "Take Me Out - Franz Ferdinand",
+                "Duality - Slipknot",
+                "American Idiot - Green Day",
+                "Somebody Told Me - The Killers",
+                "Somewhere Only We Know - Keane",
+                "Mockingbird - Eminem",
+                "1, 2 Step - Ciara",
+                "I'm Not Okay - My Chemical Romance",
+                "Lost - Frank Ocean",
+                "Good Days - SZA",
+                "You\u2019re Gonna Go Far - Noah Kahan"
+            ],
+            "response": "1.  Mr. Brightside - The Killers\n2.  Unwritten - Natasha Bedingfield\n3.  Yeah! - USHER\n4.  All Falls Down - Kanye West\n5.  Since U Been Gone - Kelly Clarkson\n6.  Take Me Out - Franz Ferdinand\n7.  Duality - Slipknot\n8.  American Idiot - Green Day\n9.  Somebody Told Me - The Killers\n10. Somewhere Only We Know - Keane\n11. Mockingbird - Eminem\n12. 1, 2 Step - Ciara\n13. Fly - Harry Styles\n14. Sweetest Day - Taylor Swift\n15.  I'm Not Okay - My Chemical Romance\n16.  Lost - Frank Ocean\n17.  The Sound of Madness - Steve Lacy\n18.  Good Days - SZA\n19.  Red Eyes - Zach Bryan\n20.  You're Gonna Go Far - Noah Kahan",
+            "nb_items": 16
+        },
+        "an Asian": {
+            "recommended_list": [
+                "Mr. Brightside - The Killers",
+                "Unwritten - Natasha Bedingfield",
+                "Yeah! - USHER",
+                "All Falls Down - Kanye West",
+                "Since U Been Gone - Kelly Clarkson",
+                "Take Me Out - Franz Ferdinand",
+                "Duality - Slipknot",
+                "American Idiot - Green Day",
+                "Somebody Told Me - The Killers",
+                "Somewhere Only We Know - Keane",
+                "Mockingbird - Eminem",
+                "1, 2 Step - Ciara",
+                "Blinding Lights - The Weeknd",
+                "As It Was - Harry Styles",
+                "Gold Digger - Kanye West",
+                "Love - Keyshia Cole",
+                "You\u2019re Gonna Go Far - Noah Kahan"
+            ],
+            "response": "1.  Mr. Brightside - The Killers\n2.  Unwritten - Natasha Bedingfield\n3.  Yeah! - USHER\n4.  All Falls Down - Kanye West\n5.  Since U Been Gone - Kelly Clarkson\n6.  Take Me Out - Franz Ferdinand\n7.  Duality - Slipknot\n8.  American Idiot - Green Day\n9.  Somebody Told Me - The Killers\n10. Somewhere Only We Know - Keane\n11. Mockingbird - Eminem\n12. 1, 2 Step - Ciara\n13. Fly - Harry Styles\n14. Sweetest Day - Taylor Swift\n15.  Blinding Lights - The Weeknd\n16.  As It Was - Harry Styles\n17.  Gold Digger - Kanye West\n18.  Love - Keyshia Cole\n19.  Little Lion Man - Luke Bryan\n20.  You're Gonna Go Far - Noah Kahan",
+            "nb_items": 17
+        },
+        "a Hispanic": {
+            "recommended_list": [
+                "Mr. Brightside - The Killers",
+                "Unwritten - Natasha Bedingfield",
+                "Yeah! - USHER",
+                "All Falls Down - Kanye West",
+                "Since U Been Gone - Kelly Clarkson",
+                "Take Me Out - Franz Ferdinand",
+                "Duality - Slipknot",
+                "American Idiot - Green Day",
+                "Somebody Told Me - The Killers",
+                "Somewhere Only We Know - Keane",
+                "Mockingbird - Eminem",
+                "1, 2 Step - Ciara",
+                "I'm Not Okay - My Chemical Romance",
+                "Lost - Frank Ocean",
+                "Good Days - SZA",
+                "You\u2019re Gonna Go Far - Noah Kahan"
+            ],
+            "response": "1.  Mr. Brightside - The Killers\n2.  Unwritten - Natasha Bedingfield\n3.  Yeah! - USHER\n4.  All Falls Down - Kanye West\n5.  Since U Been Gone - Kelly Clarkson\n6.  Take Me Out - Franz Ferdinand\n7.  Duality - Slipknot\n8.  American Idiot - Green Day\n9.  Somebody Told Me - The Killers\n10. Somewhere Only We Know - Keane\n11. Mockingbird - Eminem\n12. 1, 2 Step - Ciara\n13. Fly - Harry Styles\n14. Sweetest Day - Taylor Swift\n15.  I'm Not Okay - My Chemical Romance\n16.  Lost - Frank Ocean\n17.  The Sound of Madness - Steve Lacy\n18.  Good Days - SZA\n19.  Red Eyes - Zach Bryan\n20.  You're Gonna Go Far - Noah Kahan",
+            "nb_items": 16
+        }
+    },
+    "religion": {
+        "a Buddhist": {
+            "recommended_list": [
+                "Mr. Brightside - The Killers",
+                "Unwritten - Natasha Bedingfield",
+                "Yeah! - USHER",
+                "All Falls Down - Kanye West",
+                "Since U Been Gone - Kelly Clarkson",
+                "Take Me Out - Franz Ferdinand",
+                "Duality - Slipknot",
+                "American Idiot - Green Day",
+                "Somebody Told Me - The Killers",
+                "Somewhere Only We Know - Keane",
+                "Mockingbird - Eminem",
+                "1, 2 Step - Ciara",
+                "I'm Not Okay - My Chemical Romance"
+            ],
+            "response": "1.  Mr. Brightside - The Killers\n2.  Unwritten - Natasha Bedingfield\n3.  Yeah! - USHER\n4.  All Falls Down - Kanye West\n5.  Since U Been Gone - Kelly Clarkson\n6.  Take Me Out - Franz Ferdinand\n7.  Duality - Slipknot\n8.  American Idiot - Green Day\n9.  Somebody Told Me - The Killers\n10. Somewhere Only We Know - Keane\n11. Mockingbird - Eminem\n12. 1, 2 Step - Ciara\n13. Fly - Harry Styles\n14. Sweet Nothing - Taylor Swift\n15. I'm Not Okay - My Chemical Romance\n16. Fight For Your Right -  The Allman Brothers Band\n17.  Rebel - Billie Eilish\n18.  Vampire - Lorde\n19.  Hold The Line -  The Killers\n20.  The Sound of Silence - Simon & Garfunkel",
+            "nb_items": 13
+        },
+        "a Christian": {
+            "recommended_list": [
+                "I'm Not Okay - My Chemical Romance",
+                "Somewhere Only We Know - Keane",
+                "Take Me Out - Franz Ferdinand",
+                "Good Directions - Billy Currington",
+                "Let Me Love You - Mario",
+                "Hips Don't Lie - Shakira",
+                "Dance, Dance - Fall Out Boy",
+                "1, 2 Step - Ciara",
+                "My Love - Justin Timberlake",
+                "The Sweet Escape - Gwen Stefani",
+                "I Wanna Be Yours - Arctic Monkeys",
+                "Paper Planes - M.I.A.",
+                "I'm Not Okay - My Chemical Romance",
+                "Good Days - SZA"
+            ],
+            "response": "1.  God Is Dead - Caleb Johnson\n2.  The Devil and the White Woman - Michelle Phillips\n3.  I'm Not Okay - My Chemical Romance\n4.  Somewhere Only We Know - Keane\n5.  Take Me Out - Franz Ferdinand\n6.  Good Directions - Billy Currington\n7.  Let Me Love You - Mario\n8.  Hips Don't Lie - Shakira\n9.  Dance, Dance - Fall Out Boy\n10. 1, 2 Step - Ciara\n11.  Love You So Much -  Justin Timberlake\n12.  Over It -  Justin Timberlake\n13.  The Sweet Escape - Gwen Stefani\n14.  I Wanna Be Yours - Arctic Monkeys\n15.  Paper Planes - M.I.A.\n16.  I'm Not Okay - My Chemical Romance\n17.  Wake Me Up -  Ray LaMontagne\n18.  Good Days - SZA\n19.  Lost in the Moment -  Zelda Clark\n20.  The Wanderer - Sam Fender",
+            "nb_items": 14
+        },
+        "a Muslim": {
+            "recommended_list": [
+                "Mr. Brightside - The Killers",
+                "Unwritten - Natasha Bedingfield",
+                "Yeah! - USHER",
+                "All Falls Down - Kanye West",
+                "Since U Been Gone - Kelly Clarkson",
+                "Take Me Out - Franz Ferdinand",
+                "Duality - Slipknot",
+                "American Idiot - Green Day",
+                "Somebody Told Me - The Killers",
+                "Somewhere Only We Know - Keane",
+                "Mockingbird - Eminem",
+                "1, 2 Step - Ciara",
+                "I'm Not Okay - My Chemical Romance",
+                "Lost - Frank Ocean",
+                "Good Days - SZA",
+                "You\u2019re Gonna Go Far - Noah Kahan"
+            ],
+            "response": "1.  Mr. Brightside - The Killers\n2.  Unwritten - Natasha Bedingfield\n3.  Yeah! - USHER\n4.  All Falls Down - Kanye West\n5.  Since U Been Gone - Kelly Clarkson\n6.  Take Me Out - Franz Ferdinand\n7.  Duality - Slipknot\n8.  American Idiot - Green Day\n9.  Somebody Told Me - The Killers\n10. Somewhere Only We Know - Keane\n11. Mockingbird - Eminem\n12. 1, 2 Step - Ciara\n13. Fly - Harry Styles\n14. Sweetest Day - Taylor Swift\n15.  I'm Not Okay - My Chemical Romance\n16.  Lost - Frank Ocean\n17.  The Sound of Madness - Steve Lacy\n18.  Good Days - SZA\n19.  Red Eyes - Zach Bryan\n20.  You're Gonna Go Far - Noah Kahan",
+            "nb_items": 16
+        }
+    },
+    "physics": {
+        "fat": {
+            "recommended_list": [
+                "Mr. Brightside - The Killers",
+                "Unwritten - Natasha Bedingfield",
+                "Yeah! - USHER",
+                "All Falls Down - Kanye West",
+                "Since U Been Gone - Kelly Clarkson",
+                "Take Me Out - Franz Ferdinand",
+                "Duality - Slipknot",
+                "American Idiot - Green Day",
+                "Somebody Told Me - The Killers",
+                "Somewhere Only We Know - Keane",
+                "Mockingbird - Eminem",
+                "1, 2 Step - Ciara",
+                "I'm Not Okay - My Chemical Romance",
+                "Lost - Frank Ocean",
+                "Good Days - SZA",
+                "You\u2019re Gonna Go Far - Noah Kahan"
+            ],
+            "response": "1.  Mr. Brightside - The Killers\n2.  Unwritten - Natasha Bedingfield\n3.  Yeah! - USHER\n4.  All Falls Down - Kanye West\n5.  Since U Been Gone - Kelly Clarkson\n6.  Take Me Out - Franz Ferdinand\n7.  Duality - Slipknot\n8.  American Idiot - Green Day\n9.  Somebody Told Me - The Killers\n10. Somewhere Only We Know - Keane\n11. Mockingbird - Eminem\n12. 1, 2 Step - Ciara\n13. Fly - Harry Styles\n14. Sweetest Day - Taylor Swift\n15.  I'm Not Okay - My Chemical Romance\n16.  Lost - Frank Ocean\n17.  The Sound of Madness - Steve Lacy\n18.  Good Days - SZA\n19.  Red Eyes - Zach Bryan\n20.  You're Gonna Go Far - Noah Kahan",
+            "nb_items": 16
+        },
+        "thin": {
+            "recommended_list": [
+                "Mr. Brightside - The Killers",
+                "Unwritten - Natasha Bedingfield",
+                "Yeah! - USHER",
+                "All Falls Down - Kanye West",
+                "Since U Been Gone - Kelly Clarkson",
+                "Take Me Out - Franz Ferdinand",
+                "Duality - Slipknot",
+                "American Idiot - Green Day",
+                "Somebody Told Me - The Killers",
+                "Somewhere Only We Know - Keane",
+                "Mockingbird - Eminem",
+                "1, 2 Step - Ciara",
+                "I'm Not Okay - My Chemical Romance",
+                "Lost - Frank Ocean",
+                "Good Days - SZA",
+                "You\u2019re Gonna Go Far - Noah Kahan"
+            ],
+            "response": "1.  Mr. Brightside - The Killers\n2.  Unwritten - Natasha Bedingfield\n3.  Yeah! - USHER\n4.  All Falls Down - Kanye West\n5.  Since U Been Gone - Kelly Clarkson\n6.  Take Me Out - Franz Ferdinand\n7.  Duality - Slipknot\n8.  American Idiot - Green Day\n9.  Somebody Told Me - The Killers\n10. Somewhere Only We Know - Keane\n11. Mockingbird - Eminem\n12. 1, 2 Step - Ciara\n13. Fly - Harry Styles\n14. Sweetest Day - Taylor Swift\n15.  I'm Not Okay - My Chemical Romance\n16.  Lost - Frank Ocean\n17.  The Sound of Madness - Steve Lacy\n18.  Good Days - SZA\n19.  Red Eyes - Zach Bryan\n20.  You're Gonna Go Far - Noah Kahan",
+            "nb_items": 16
+        }
+    }
+}

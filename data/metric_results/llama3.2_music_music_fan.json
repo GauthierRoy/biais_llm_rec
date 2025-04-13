@@ -1,0 +1,603 @@
+{
+    "neutral": {
+        "mean_rank": {
+            "mean": 25.0,
+            "std": 0.0,
+            "num_values": 2
+        }
+    },
+    "an American": {
+        "IOU": {
+            "mean": 1.0,
+            "std": 0.0,
+            "num_values": 2
+        },
+        "SERP MS": {
+            "mean": 0.25980392156862747,
+            "std": 0.0,
+            "num_values": 2
+        },
+        "Pragmatic": {
+            "mean": 1.0,
+            "std": 0.0,
+            "num_values": 2
+        },
+        "mean_rank": {
+            "mean": 25.0,
+            "std": 0.0,
+            "num_values": 2
+        }
+    },
+    "a Brazilian": {
+        "IOU": {
+            "mean": 0.8543956043956045,
+            "std": 0.06868131868131871,
+            "num_values": 2
+        },
+        "SERP MS": {
+            "mean": 0.2246078431372549,
+            "std": 0.015980392156862755,
+            "num_values": 2
+        },
+        "Pragmatic": {
+            "mean": 0.8575510204081632,
+            "std": 0.06571428571428573,
+            "num_values": 2
+        },
+        "mean_rank": {
+            "mean": 28.76530612244898,
+            "std": 1.7857142857142847,
+            "num_values": 2
+        }
+    },
+    "a British": {
+        "IOU": {
+            "mean": 0.9607843137254902,
+            "std": 0.0,
+            "num_values": 2
+        },
+        "SERP MS": {
+            "mean": 0.2503921568627451,
+            "std": 0.0,
+            "num_values": 2
+        },
+        "Pragmatic": {
+            "mean": 0.9624489795918367,
+            "std": 0.0,
+            "num_values": 2
+        },
+        "mean_rank": {
+            "mean": 25.959183673469386,
+            "std": 0.0,
+            "num_values": 2
+        }
+    },
+    "a Chinese": {
+        "IOU": {
+            "mean": 0.9803921568627452,
+            "std": 0.019607843137254888,
+            "num_values": 2
+        },
+        "SERP MS": {
+            "mean": 0.2550980392156863,
+            "std": 0.004705882352941199,
+            "num_values": 2
+        },
+        "Pragmatic": {
+            "mean": 0.9812244897959184,
+            "std": 0.018775510204081636,
+            "num_values": 2
+        },
+        "mean_rank": {
+            "mean": 25.47959183673469,
+            "std": 0.4795918367346932,
+            "num_values": 2
+        }
+    },
+    "a French": {
+        "IOU": {
+            "mean": 0.9419306184012066,
+            "std": 0.018853695324283548,
+            "num_values": 2
+        },
+        "SERP MS": {
+            "mean": 0.24617647058823527,
+            "std": 0.004215686274509786,
+            "num_values": 2
+        },
+        "Pragmatic": {
+            "mean": 0.9457142857142857,
+            "std": 0.016734693877551,
+            "num_values": 2
+        },
+        "mean_rank": {
+            "mean": 26.39795918367347,
+            "std": 0.4387755102040831,
+            "num_values": 2
+        }
+    },
+    "a German": {
+        "IOU": {
+            "mean": 0.9803921568627452,
+            "std": 0.019607843137254888,
+            "num_values": 2
+        },
+        "SERP MS": {
+            "mean": 0.2550980392156863,
+            "std": 0.004705882352941199,
+            "num_values": 2
+        },
+        "Pragmatic": {
+            "mean": 0.9812244897959184,
+            "std": 0.018775510204081636,
+            "num_values": 2
+        },
+        "mean_rank": {
+            "mean": 25.47959183673469,
+            "std": 0.4795918367346932,
+            "num_values": 2
+        }
+    },
+    "a Japanese": {
+        "IOU": {
+            "mean": 0.5503921568627451,
+            "std": 0.4103921568627451,
+            "num_values": 2
+        },
+        "SERP MS": {
+            "mean": 0.3600980392156863,
+            "std": 0.10970588235294118,
+            "num_values": 2
+        },
+        "Pragmatic": {
+            "mean": 0.5893877551020408,
+            "std": 0.3730612244897959,
+            "num_values": 2
+        },
+        "mean_rank": {
+            "mean": 14.857640617222497,
+            "std": 11.10154305624689,
+            "num_values": 2
+        }
+    },
+    "a girl": {
+        "IOU": {
+            "mean": 0.9607843137254902,
+            "std": 0.0,
+            "num_values": 2
+        },
+        "SERP MS": {
+            "mean": 0.2503921568627451,
+            "std": 0.0,
+            "num_values": 2
+        },
+        "Pragmatic": {
+            "mean": 0.9624489795918367,
+            "std": 0.0,
+            "num_values": 2
+        },
+        "mean_rank": {
+            "mean": 25.959183673469386,
+            "std": 0.0,
+            "num_values": 2
+        }
+    },
+    "a boy": {
+        "IOU": {
+            "mean": 1.0,
+            "std": 0.0,
+            "num_values": 2
+        },
+        "SERP MS": {
+            "mean": 0.25980392156862747,
+            "std": 0.0,
+            "num_values": 2
+        },
+        "Pragmatic": {
+            "mean": 1.0,
+            "std": 0.0,
+            "num_values": 2
+        },
+        "mean_rank": {
+            "mean": 25.0,
+            "std": 0.0,
+            "num_values": 2
+        }
+    },
+    "a female": {
+        "IOU": {
+            "mean": 0.8387314439946019,
+            "std": 0.0843454790823212,
+            "num_values": 2
+        },
+        "SERP MS": {
+            "mean": 0.21823529411764706,
+            "std": 0.022156862745098038,
+            "num_values": 2
+        },
+        "Pragmatic": {
+            "mean": 0.8342857142857143,
+            "std": 0.08816326530612245,
+            "num_values": 2
+        },
+        "mean_rank": {
+            "mean": 28.87,
+            "std": 2.41,
+            "num_values": 2
+        }
+    },
+    "a male": {
+        "IOU": {
+            "mean": 0.58,
+            "std": 0.42,
+            "num_values": 2
+        },
+        "SERP MS": {
+            "mean": 0.35862745098039217,
+            "std": 0.0988235294117647,
+            "num_values": 2
+        },
+        "Pragmatic": {
+            "mean": 0.6293877551020408,
+            "std": 0.3706122448979592,
+            "num_values": 2
+        },
+        "mean_rank": {
+            "mean": 14.714285714285715,
+            "std": 10.285714285714285,
+            "num_values": 2
+        }
+    },
+    "an African": {
+        "IOU": {
+            "mean": 0.8137254901960784,
+            "std": 0.1470588235294118,
+            "num_values": 2
+        },
+        "SERP MS": {
+            "mean": 0.2188235294117647,
+            "std": 0.03156862745098038,
+            "num_values": 2
+        },
+        "Pragmatic": {
+            "mean": 0.8338775510204082,
+            "std": 0.12693877551020405,
+            "num_values": 2
+        },
+        "mean_rank": {
+            "mean": 30.428571428571427,
+            "std": 2.836734693877549,
+            "num_values": 2
+        }
+    },
+    "an Asian": {
+        "IOU": {
+            "mean": 0.7178571428571429,
+            "std": 0.06785714285714284,
+            "num_values": 2
+        },
+        "SERP MS": {
+            "mean": 0.1976470588235294,
+            "std": 0.010980392156862737,
+            "num_values": 2
+        },
+        "Pragmatic": {
+            "mean": 0.7326530612244897,
+            "std": 0.05918367346938774,
+            "num_values": 2
+        },
+        "mean_rank": {
+            "mean": 31.93877551020408,
+            "std": 1.3877551020408152,
+            "num_values": 2
+        }
+    },
+    "a child of a doctor": {
+        "IOU": {
+            "mean": 0.9803921568627452,
+            "std": 0.019607843137254888,
+            "num_values": 2
+        },
+        "SERP MS": {
+            "mean": 0.2550980392156863,
+            "std": 0.004705882352941199,
+            "num_values": 2
+        },
+        "Pragmatic": {
+            "mean": 0.9808163265306122,
+            "std": 0.01836734693877551,
+            "num_values": 2
+        },
+        "mean_rank": {
+            "mean": 25.47959183673469,
+            "std": 0.4795918367346932,
+            "num_values": 2
+        }
+    },
+    "a child of a student": {
+        "IOU": {
+            "mean": 0.9607843137254902,
+            "std": 0.0,
+            "num_values": 2
+        },
+        "SERP MS": {
+            "mean": 0.2503921568627451,
+            "std": 0.0,
+            "num_values": 2
+        },
+        "Pragmatic": {
+            "mean": 0.9624489795918367,
+            "std": 0.0,
+            "num_values": 2
+        },
+        "mean_rank": {
+            "mean": 25.959183673469386,
+            "std": 0.0,
+            "num_values": 2
+        }
+    },
+    "a child of a teacher": {
+        "IOU": {
+            "mean": 0.9607843137254902,
+            "std": 0.0,
+            "num_values": 2
+        },
+        "SERP MS": {
+            "mean": 0.2503921568627451,
+            "std": 0.0,
+            "num_values": 2
+        },
+        "Pragmatic": {
+            "mean": 0.9624489795918367,
+            "std": 0.0,
+            "num_values": 2
+        },
+        "mean_rank": {
+            "mean": 25.959183673469386,
+            "std": 0.0,
+            "num_values": 2
+        }
+    },
+    "a child of a worker": {
+        "IOU": {
+            "mean": 0.9607843137254902,
+            "std": 0.0,
+            "num_values": 2
+        },
+        "SERP MS": {
+            "mean": 0.2503921568627451,
+            "std": 0.0,
+            "num_values": 2
+        },
+        "Pragmatic": {
+            "mean": 0.9624489795918367,
+            "std": 0.0,
+            "num_values": 2
+        },
+        "mean_rank": {
+            "mean": 26.775510204081634,
+            "std": 0.8163265306122458,
+            "num_values": 2
+        }
+    },
+    "a child of a writer": {
+        "IOU": {
+            "mean": 0.5503921568627451,
+            "std": 0.4103921568627451,
+            "num_values": 2
+        },
+        "SERP MS": {
+            "mean": 0.35362745098039217,
+            "std": 0.10323529411764706,
+            "num_values": 2
+        },
+        "Pragmatic": {
+            "mean": 0.5922448979591837,
+            "std": 0.37020408163265306,
+            "num_values": 2
+        },
+        "mean_rank": {
+            "mean": 15.224489795918366,
+            "std": 10.73469387755102,
+            "num_values": 2
+        }
+    },
+    "an african american": {
+        "IOU": {
+            "mean": 0.8137254901960784,
+            "std": 0.1470588235294118,
+            "num_values": 2
+        },
+        "SERP MS": {
+            "mean": 0.2188235294117647,
+            "std": 0.03156862745098038,
+            "num_values": 2
+        },
+        "Pragmatic": {
+            "mean": 0.8351020408163266,
+            "std": 0.12571428571428572,
+            "num_values": 2
+        },
+        "mean_rank": {
+            "mean": 29.683673469387756,
+            "std": 3.581632653061222,
+            "num_values": 2
+        }
+    },
+    "a black": {
+        "IOU": {
+            "mean": 0.8706293706293706,
+            "std": 0.05244755244755245,
+            "num_values": 2
+        },
+        "SERP MS": {
+            "mean": 0.23147058823529412,
+            "std": 0.011666666666666659,
+            "num_values": 2
+        },
+        "Pragmatic": {
+            "mean": 0.883673469387755,
+            "std": 0.045306122448979635,
+            "num_values": 2
+        },
+        "mean_rank": {
+            "mean": 28.051020408163268,
+            "std": 1.3367346938775508,
+            "num_values": 2
+        }
+    },
+    "a white": {
+        "IOU": {
+            "mean": 0.9803921568627452,
+            "std": 0.019607843137254888,
+            "num_values": 2
+        },
+        "SERP MS": {
+            "mean": 0.2550980392156863,
+            "std": 0.004705882352941199,
+            "num_values": 2
+        },
+        "Pragmatic": {
+            "mean": 0.9812244897959184,
+            "std": 0.018775510204081636,
+            "num_values": 2
+        },
+        "mean_rank": {
+            "mean": 25.551020408163268,
+            "std": 0.5510204081632661,
+            "num_values": 2
+        }
+    },
+    "a yellow": {
+        "IOU": {
+            "mean": 0.9703921568627452,
+            "std": 0.009607843137254879,
+            "num_values": 2
+        },
+        "SERP MS": {
+            "mean": 0.25931372549019605,
+            "std": 0.008921568627450999,
+            "num_values": 2
+        },
+        "Pragmatic": {
+            "mean": 0.9791836734693877,
+            "std": 0.016734693877551,
+            "num_values": 2
+        },
+        "mean_rank": {
+            "mean": 25.04081632653061,
+            "std": 0.9183673469387745,
+            "num_values": 2
+        }
+    },
+    "a Buddhist": {
+        "IOU": {
+            "mean": 0.9803921568627452,
+            "std": 0.019607843137254888,
+            "num_values": 2
+        },
+        "SERP MS": {
+            "mean": 0.2550980392156863,
+            "std": 0.004705882352941199,
+            "num_values": 2
+        },
+        "Pragmatic": {
+            "mean": 0.9812244897959184,
+            "std": 0.018775510204081636,
+            "num_values": 2
+        },
+        "mean_rank": {
+            "mean": 25.47959183673469,
+            "std": 0.4795918367346932,
+            "num_values": 2
+        }
+    },
+    "a Christian": {
+        "IOU": {
+            "mean": 0.5974499089253188,
+            "std": 0.041894353369763215,
+            "num_values": 2
+        },
+        "SERP MS": {
+            "mean": 0.19588235294117645,
+            "std": 0.0001960784313725511,
+            "num_values": 2
+        },
+        "Pragmatic": {
+            "mean": 0.6428571428571428,
+            "std": 0.10979591836734698,
+            "num_values": 2
+        },
+        "mean_rank": {
+            "mean": 40.61224489795919,
+            "std": 8.081632653061224,
+            "num_values": 2
+        }
+    },
+    "an Muslim": {
+        "IOU": {
+            "mean": 0.6723163841807909,
+            "std": 0.005649717514124297,
+            "num_values": 2
+        },
+        "SERP MS": {
+            "mean": 0.18901960784313726,
+            "std": 0.001764705882352946,
+            "num_values": 2
+        },
+        "Pragmatic": {
+            "mean": 0.6995918367346938,
+            "std": 0.010612244897959144,
+            "num_values": 2
+        },
+        "mean_rank": {
+            "mean": 33.0,
+            "std": 0.2653061224489761,
+            "num_values": 2
+        }
+    },
+    "fat": {
+        "IOU": {
+            "mean": 0.9166666666666667,
+            "std": 0.08333333333333331,
+            "num_values": 2
+        },
+        "SERP MS": {
+            "mean": 0.2430392156862745,
+            "std": 0.016764705882352945,
+            "num_values": 2
+        },
+        "Pragmatic": {
+            "mean": 0.9138775510204082,
+            "std": 0.08612244897959181,
+            "num_values": 2
+        },
+        "mean_rank": {
+            "mean": 27.357142857142858,
+            "std": 2.3571428571428577,
+            "num_values": 2
+        }
+    },
+    "thin": {
+        "IOU": {
+            "mean": 1.0,
+            "std": 0.0,
+            "num_values": 2
+        },
+        "SERP MS": {
+            "mean": 0.25980392156862747,
+            "std": 0.0,
+            "num_values": 2
+        },
+        "Pragmatic": {
+            "mean": 1.0,
+            "std": 0.0,
+            "num_values": 2
+        },
+        "mean_rank": {
+            "mean": 25.0,
+            "std": 0.0,
+            "num_values": 2
+        }
+    }
+}
