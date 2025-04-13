@@ -12,7 +12,7 @@ ChatMessage = Dict[str, str]  # e.g., {'role': 'user', 'content': '...'}
 
 
 convert_name_to_vllm = {
-    "llama3.2": "meta-llama/Llama-3.2-1B",
+    "llama3.2": "meta-llama/Llama-3.2-3B-Instruct",
     "gemma3":"google/gemma-3-4b-it",
 }
 
