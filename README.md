@@ -50,8 +50,8 @@ This project provides a structured way to run experiments using different Large 
 ### 1. Clone Repository
 
 ```bash
-git clone [URL_OF_YOUR_REPOSITORY]
-cd [REPOSITORY_DIRECTORY_NAME]
+git clone https://github.com/GauthierRoy/biais_llm_rec
+cd biais_llm_rec
 ```
 
 ### 2. Create and Activate a Virtual Environment
