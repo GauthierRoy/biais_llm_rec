@@ -20,7 +20,7 @@ parser.add_argument("--seeds", type=str, default=42)
 args = parser.parse_args()
 
 config = configparser.ConfigParser()
-config.read("config_inference")
+config.read("config/config_inference")
 
 
 OUTPUT_PATH = config["paths"]["output_path"]
@@ -35,6 +35,13 @@ type_inf = config["parameters"]["type_inf"]
 seeds = [int(seed) for seed in config["parameters"]["seeds"].split(", ")]
 if type_of_activities[0] == "None":
     type_of_activities = ["","",""]
+
+# if output_path direcorty does not exist, create it
+import os
+if not os.path.exists(OUTPUT_PATH):
+    os.makedirs(OUTPUT_PATH)
+    
+
 
 def inference(model, dataset_type, k, type_of_activity, type_inf,seed,nb_calls,nb_errors):
     print(f"Running inference for {model} with {type_inf} on {dataset_type} as {type_of_activity} with seed {seed}")

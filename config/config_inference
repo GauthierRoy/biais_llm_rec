@@ -1,0 +1,15 @@
+[paths]
+result_path = data/metric_results/
+output_path = data/raw_text_results/
+dataset_path = data/datasets/
+visualization_path = data/visualization/
+sensitive_attributes_path = config/sensitive_attributes.json
+
+[parameters]
+models = gemma3
+dataset_types = college, movie, music
+type_of_activities = None
+# type_of_activities = mathy, action movie fan, rock fan
+k = 20
+type_inf = vllm
+seeds = 0, 1

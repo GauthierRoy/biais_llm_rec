@@ -74,7 +74,7 @@ parser.add_argument("--k", type=int)
 parser.add_argument("--seeds", type=str, default="0, 1")
 
 config = configparser.ConfigParser()
-config.read("config_inference")
+config.read("config/config_inference")
 
 
 OUTPUT_PATH = config["paths"]["output_path"]
@@ -155,7 +155,7 @@ for model in models:
         plt.legend(title="Metric")
         plt.tight_layout()
 
-        plot_filename = f"{VISUALIZATION_PATH}{name_save}_plot_ordered.png"
+        plot_filename = f"{VISUALIZATION_PATH}{name_save}_plot.png"
         plt.savefig(plot_filename, dpi=300)
         print(f"Saved ordered plot to: {plot_filename}")
         plt.close()

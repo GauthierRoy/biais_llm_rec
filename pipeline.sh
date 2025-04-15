@@ -37,3 +37,6 @@ python inference.py
 
 # compute the metrics
 python result.py
+
+# create the visualization
+python visualization.py

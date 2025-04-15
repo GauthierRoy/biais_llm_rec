@@ -10,8 +10,11 @@ from tqdm import tqdm
 # Define the standard message format (common for both)
 ChatMessage = Dict[str, str]  # e.g., {'role': 'user', 'content': '...'}
 
+# Mapping for model names between ollama and vLLM
+import json
+with open("config/model_config.json", "r") as f:
+    mapping_name_dict = json.load(f)
 
-from model_config import convert_name_to_vllm
 
 class LLMInterface(abc.ABC):
     """Abstract base class for LLM inference clients."""
@@ -53,6 +56,12 @@ class OllamaClient(LLMInterface):
     def chat(self, model: str, messages: List[ChatMessage]) -> str:
         """Sends messages via ollama.chat and returns the content string."""        
         
+        if model in mapping_name_dict:
+            model = mapping_name_dict[model]["ollama"]
+        else:
+            raise ValueError(
+                f"Model '{model}' not found in conversion map. Available models: {mapping_name_dict.keys()}"
+            )
         response = ollama.chat(
             model=model,
             messages=messages,
@@ -93,12 +102,13 @@ class VLLMClient(LLMInterface):
     def chat(self, model: str, messages: List[ChatMessage]) -> str:
         """Sends messages via OpenAI client to vLLM and returns the content string."""
         # Convert model name if necessary
-        if model in convert_name_to_vllm:
-            model = convert_name_to_vllm[model]
+        if model in mapping_name_dict:
+            model = mapping_name_dict[model]["vllm"]
         else:
             raise ValueError(
-                f"Model '{model}' not found in conversion map. Available models: {list(convert_name_to_vllm.keys())}"
+                f"Model '{model}' not found in conversion map. Available models: {mapping_name_dict.keys()}"
             )
+        # Call the OpenAI API with the vLLM server
 
         response = self.client.chat.completions.create(
             model=model,
