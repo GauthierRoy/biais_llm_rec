@@ -68,6 +68,7 @@ setup(
         "tzdata==2025.2",
         "urllib3==2.3.0",
         "wcwidth==0.2.13",
+        "thefuzz-0.22.1",
     ],
     extras_require={
         "vllm": [
