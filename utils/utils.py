@@ -121,7 +121,7 @@ def extract_list_from_response(content: str, original_items_set: set, k: int = 1
         # Append errors to a file
         with open("errors.txt", "a") as error_file:
             print("-" * 20 + "\n")
-            print(f"Format Errors Found: {error_count} out of {processed_lines}\n")
+            print(f"{error_count} items not in the original list, for {processed_lines} rankings\n")
             for invalid_item in invalid_items:
                 error_file.write(f"'{invalid_item}'\n")
             print("-" * 20 + "\n")

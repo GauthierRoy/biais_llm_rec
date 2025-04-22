@@ -12,7 +12,4 @@
     "gemma3_1b": {
         "vllm": "google/gemma-3-1b-it"
     },
-    "gemma2_9b": {
-        "vllm": "google/gemma-2-9b-it"
-    }
 }
