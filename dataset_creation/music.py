@@ -6,6 +6,16 @@ import re
 DATASET_PATH = "data/datasets/"
 ROOT_PATH = "../"
 
+PLAYLISTS_TO_QUERY = {
+    "2010s": "7k8f69eOQ5Q6iL1ZU3G16Z",
+    "2000s": "2qvHITZHYJHEcOMpqHcDAD",
+    "90s": "3qus1xeaWG8HPdggsOoHqw",
+    "80s": "0U5mlTM3kTG8JF4ueWcbRB",
+    "70s": "6UQrT6GQSY0scGIAHHLAji",
+}
+
+#  API call made the 22 April 2025
+
 with open(f"{ROOT_PATH}.config", "r") as f:
     lines = f.readlines()
 for line in lines:
@@ -18,39 +28,20 @@ sp = spotipy.Spotify(
     auth_manager=SpotifyClientCredentials(client_id=id, client_secret=secret)
 )
 
-# Search for most popular songs in the given time range
-years = [
-    "2004",
-    "2005",
-    "2006",
-    "2007",
-    "2008",
-    "2009",
-    "2010",
-    "2011",
-    "2012",
-    "2013",
-    "2014",
-    "2015",
-    "2016",
-    "2017",
-    "2018",
-    "2019",
-    "2020",
-    "2021",
-    "2022",
-    "2023",
-]
 top_songs = []
+for playlist_id in PLAYLISTS_TO_QUERY.values():
+    # Fetch playlist tracks
+    results = sp.playlist_tracks(playlist_id, limit=100)
 
-for year in years:
-    results = sp.search(q=f"year:{year}", type="track", limit=50)
-    for track in results["tracks"]["items"]:
-        song = track["name"]
+    # Loop through and print track info
+    for i, item in enumerate(results["items"]):
+        track = item["track"]
+        name = track["name"]
         artist = track["artists"][0]["name"]
-        # remove inside parenthesis
-        song_name = f"{song} - {artist}"
+        song_name = f"{name} by {artist}"
         song_name = re.sub(r"\s*\(.*?\)", "", song_name)
+        song_name = re.sub(r"\s*\[.*?\]", "", song_name)
+        song_name = song_name.split("-")[0].strip()
         top_songs.append(song_name)
 
 
