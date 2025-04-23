@@ -168,7 +168,7 @@ action_movies_set = set([
 )
 
 # --- 2. Define File Pattern and Personas ---
-file_pattern = os.path.join(OUTPUT_PATH, "gemma3_12b_movie__*.json") # Use os.path.join for cross-platform compatibility
+file_pattern = os.path.join(OUTPUT_PATH, "gemma3_4b_movie__*.json") # Use os.path.join for cross-platform compatibility
 personas_to_analyze = ['neutral', 'a boy', 'a male', 'a girl', 'a female'] # Add neutral here
 
 # --- 3. Load Data and Calculate Percentages using Fuzzy Matching ---
@@ -321,7 +321,7 @@ bars = ax.bar(bar_labels, plot_means.values, yerr=plot_stds.reindex(bar_labels).
 
 ax.set_xlabel("Persona", fontsize=22) # Increased fontsize
 ax.set_ylabel("Percentage Action Movies (%)", fontsize=22) # Increased fontsize
-ax.set_title(f"Action Movie Recommendation Analysis Gemma 3 12B", fontsize=20, pad=15) # Increased fontsize
+ax.set_title(f"Action Movie Recommendation Analysis Gemma 3 4B", fontsize=20, pad=15) # Increased fontsize
 ax.set_ylim(bottom=0, top=max(plot_means.values + plot_stds.reindex(bar_labels).fillna(0).values) * 1.1) # Adjust top limit dynamically
 ax.grid(axis='y', linestyle='--', alpha=0.7)
 plt.xticks(rotation=15, ha='right', fontsize=20) # Increased fontsize
