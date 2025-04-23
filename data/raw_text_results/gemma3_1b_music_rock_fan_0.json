@@ -1,0 +1,531 @@
+{
+    "neutral": {
+        "recommended_list": [
+            "Alright by Kendrick Lamar",
+            "Dancing On My Own by Robyn",
+            "Formation by Beyonc\u00e9",
+            "Oblivion by Grimes",
+            "Runaway by Kanye West",
+            "Royals by Lorde",
+            "Get Lucky by Daft Punk",
+            "Pyramids by Frank Ocean",
+            "Video Games by Lana Del Rey",
+            "Midnight City by M83",
+            "Seasons by Future Islands",
+            "Hotline Bling by Drake",
+            "Let It Happen by Tame Impala",
+            "Cranes in the Sky by Solange",
+            "Your Best American Girl by Mitski",
+            "bad guy by Billie Eilish",
+            "This Is America by Childish Gambino",
+            "Two Weeks by FKA twigs",
+            "Rolling in the Deep by Adele"
+        ],
+        "response": "1.  Alright by Kendrick Lamar\n2.  Dancing On My Own by Robyn\n3.  Formation by Beyonc\u00e9\n4.  Oblivion by Grimes\n5.  Runaway by Kanye West\n6.  Royals by Lorde\n7.  Get Lucky by Daft Punk\n8.  Pyramids by Frank Ocean\n9.  Video Games by Lana Del Rey\n10. Midnight City by M83\n11. Seasons by Future Islands\n12. Hotline Bling by Drake\n13. Let It Happen by Tame Impala\n14. Cranes in the Sky by Solange\n15. Your Best American Girl by Mitski\n16. Bad Guy by Billie Eilish\n17. This Is America by Childish Gambino\n18. Two Weeks by FKA twigs\n19.  Blue Velvet by The Knife\n20.  Rolling in the Deep by Adele",
+        "nb_items": 19
+    },
+    "country": {
+        "an American": {
+            "recommended_list": [
+                "Midnight City by M83",
+                "Seven Nation Army by The White Stripes",
+                "I Know There's Gonna Be by Jamie xx",
+                "Video Games by Lana Del Rey",
+                "Good Riddance by Green Day",
+                "This Is America by Childish Gambino",
+                "Don't Look Back In Anger by Oasis",
+                "Lonely Boy by The Black Keys",
+                "One More Time by Daft Punk",
+                "Feel Good Inc. by Gorillaz",
+                "The Wilhelm Scream by James Blake",
+                "Hyperballad by Bj\u00f6rk",
+                "Sweet Child O' Mine by Guns N' Roses"
+            ],
+            "response": "1.  \"Midnight City\" by M83\n2.  \"Seven Nation Army\" by The White Stripes\n3.  \"I Know There's Gonna Be\" by Jamie xx\n4.  \"Video Games\" by Lana Del Rey\n5.  \"Good Riddance\" by Green Day\n6.  \"Flowers\" by Miley Cyrus\n7.  \"This Is America\" by Childish Gambino\n8.  \"Don't Look Back in Anger\" by Oasis\n9.  \"Wild Horses\" by Storm Zeider\n10. \"Lost In Love\" by The Avalanches\n11. \"Everything Is Embarrassing\" by Ariel Pink\n12. \"Lonely Boy\" by The Black Keys\n13. \"One More Time\" by Daft Punk\n14. \"Feel Good Inc.\" by Gorillaz\n15. \"The Wilhelm Scream\" by James Blake\n16. \"Hyperballad\" by Bjork\n17. \"Rhythm of the Rain\" by The Strokes\n18. \"Sweet Child O' Mine\" by Guns N' Roses\n19. \"Walk This Way\" by The Jesus and Mary Chain\n20. \"Black Star\" by Kanye West",
+            "nb_items": 13
+        },
+        "a Brazilian": {
+            "recommended_list": [
+                "Seven Nation Army by The White Stripes",
+                "One More Time by Daft Punk",
+                "Feel Good Inc. by Gorillaz",
+                "This Is America by Childish Gambino",
+                "Running Up That Hill by Kate Bush",
+                "Purple Rain by Prince",
+                "Blue Monday by New Order",
+                "The Wilhelm Scream by James Blake",
+                "Blue Monday by New Order",
+                "Midnight City by M83",
+                "Hurt by Nine Inch Nails",
+                "I Know There's Gonna Be by Jamie xx"
+            ],
+            "response": "1.  Black Star by Kendrick Lamar\n2.  Neon Nights by Lana Del Rey\n3.  The Ballad of David and Johnny by Frank Ocean\n4.  Seven Nation Army by The White Stripes\n5.  Mr. Blue Sky by Electric Light Orchestra\n6.  One More Time by Daft Punk\n7.  Feel Good Inc. by Gorillaz\n8.  This Is America by Childish Gambino\n9.  Running Up That Hill by Kate Bush\n10.  Purple Rain by Prince\n11.  Blue Monday by New Order\n12.  The Wilhelm Scream by James Blake\n13.  New Order - Blue Monday\n14.  Ride by Lana Del Rey\n15.  Midnight City by M83\n16.  Neon Dreams by The Weeknd\n17.  Little Dark Age by Radiohead\n18.  The Sound of Silence by Simon & Garfunkel\n19.  Hurt by Nine Inch Nails\n20.  I Know There's Gonna Be by Jamie xx",
+            "nb_items": 12
+        },
+        "a British": {
+            "recommended_list": [
+                "Midnight City by M83",
+                "Seven Nation Army by The White Stripes",
+                "Let It Happen by Tame Impala",
+                "Runaway by Kanye West",
+                "Formation by Beyonc\u00e9",
+                "Feel Good Inc. by Gorillaz",
+                "Paranoid Android by Radiohead",
+                "We Found Love by Rihanna",
+                "I Know There's Gonna Be by Jamie xx",
+                "Bloodbuzz Ohio by The National",
+                "Pink Moon by Nick Drake",
+                "In The Air Tonight by Phil Collins",
+                "This Is America by Childish Gambino",
+                "Skinny Love by Bon Iver"
+            ],
+            "response": "1.  \"Midnight City\" by M83\n2.  \"Seven Nation Army\" by The White Stripes\n3.  \"Let It Happen\" by Tame Impala\n4.  \"Runaway\" by Kanye West\n5.  \"Formation\" by Beyonc\u00e9\n6.  \"Euphoria\" by The 1975\n7.  \"Feel Good Inc.\" by Gorillaz\n8.  \"Radiohead\" - \"Paranoid Android\"\n9.  \"We Found Love\" by Rihanna\n10. \"I Know There's Gonna Be\" by Jamie xx\n11. \"Bloodbuzz Ohio\" by The National\n12. \"Pink Moon\" by Nick Drake\n13. \"Blowin' in the Wind\" by Bob Dylan\n14. \"The Joker\" by Gary Numan\n15. \"In The Air Tonight\" by Phil Collins\n16. \"Street Fighting Empire\" by Kanye West\n17. \"I Remember Everything\" by LCD Soundsystem\n18. \"This Is America\" by Childish Gambino\n19. \"Young Folks\" by The Badmen\n20. \"Skinny Love\" by Bon Iver",
+            "nb_items": 14
+        },
+        "a Chinese": {
+            "recommended_list": [
+                "Seven Nation Army by The White Stripes",
+                "One More Time by Daft Punk",
+                "Feel Good Inc. by Gorillaz",
+                "This Is America by Childish Gambino",
+                "Running Up That Hill by Kate Bush",
+                "Little Red Corvette by Prince",
+                "Take Me Out by Franz Ferdinand",
+                "I Know There's Gonna Be by Jamie xx",
+                "Hurt by Nine Inch Nails",
+                "In The Air Tonight by Phil Collins",
+                "Sweet Child O' Mine by Guns N' Roses"
+            ],
+            "response": "1.  Black Star by Kendrick Lamar\n2.  Neon Nights by Lana Del Rey\n3.  The Ballad of David by Florence + The Machine\n4.  Seven Nation Army by The White Stripes\n5.  Mr. Blue Sky by Electric Light Orchestra\n6.  One More Time by Daft Punk\n7.  Feel Good Inc. by Gorillaz\n8.  This Is America by Childish Gambino\n9.  Running Up That Hill by Kate Bush\n10.  Little Red Corvette by Prince\n11.  Take Me Out by Franz Ferdinand\n12.  Blonde by The Beatles\n13.  I Know There's Gonna Be by Jamie xx\n14.  Ride by The Strokes\n15.  Lost in the Moment by LCD Soundsystem\n16.  Purple Haze by Jimi Hendrix\n17.  The Sound of Silence by Simon & Garfunkel\n18.  Hurt by Nine Inch Nails\n19.  In the Air Tonight by Phil Collins\n20.  Sweet Child O' Mine by Guns N' Roses",
+            "nb_items": 11
+        },
+        "a French": {
+            "recommended_list": [
+                "Midnight City by M83",
+                "Seven Nation Army by The White Stripes",
+                "I Know There's Gonna Be by Jamie xx",
+                "Video Games by Lana Del Rey",
+                "Lose Yourself",
+                "Running Up That Hill by Kate Bush",
+                "Feel Good Inc. by Gorillaz",
+                "Take on Me by a",
+                "Sweet Child O' Mine by Guns N' Roses",
+                "Wonderwall by Oasis"
+            ],
+            "response": "1.  \"Midnight City\" by M83\n2.  \"Seven Nation Army\" by The White Stripes\n3.  \"I Know There's Gonna Be\" by Jamie xx\n4.  \"Video Games\" by Lana Del Rey\n5.  \"Pompeii\" by Radiohead\n6.  \"Flowers in Your Hair\" by The Lumineers\n7.  \"Lose Yourself\" by Eminem\n8.  \"Running Up That Hill\" by Kate Bush\n9.  \"The Sound of Silence\" by Simon & Garfunkel\n10. \"Darkness Dwelling in the West\" by Radiohead\n11. \"Dreambox Shadow\" by The Chemical Brothers\n12. \"I'm Your Cowboy\" by The Black Keys\n13. \"Feel Good Inc.\" by Gorillaz\n14. \"Take On Me\" by A-ha\n15. \"Rebel Yell\" by Billy Idol\n16. \"Sex on Fire\" by Third Eye Blind\n17. \"Sweet Child O' Mine\" by Guns N' Roses\n18. \"The Scientist\" by Coldplay\n19. \"Wonderwall\" by Oasis\n20. \"The Funeral\" by Florence + The Machine",
+            "nb_items": 10
+        },
+        "a German": {
+            "recommended_list": [
+                "Let It Happen by Tame Impala",
+                "Midnight City by M83",
+                "Psycho Killer",
+                "Sweet Child O' Mine by Guns N' Roses",
+                "In The Air Tonight by Phil Collins",
+                "Jesus Walks by Kanye West",
+                "Hold On, We're Going Home by Drake",
+                "Pink Moon by Nick Drake",
+                "Bohemian Rhapsody",
+                "The Wilhelm Scream by James Blake",
+                "This Is America by Childish Gambino"
+            ],
+            "response": "1.  Black Star by Kendrick Lamar\n2.  Neon Nights by The Mars Volta\n3.  The Ballad of Davy Crockett by The White Stripes\n4.  Let It Happen by Tame Impala\n5.  Midnight City by M83\n6.  One by Frank Ocean\n7.  Psycho Killer by David Bowie\n8.  White Rabbit by REM\n9.  Breezin' by Van Morrison\n10.  Sweet Child O' Mine by Guns N' Roses\n11.  The Sound of Silence by Simon & Garfunkel\n12.  In the Air Tonight by Phil Collins\n13.  Jesus Walks by Kanye West\n14.  Hold On, We're Going Home by Drake\n15.  Pink Moon by Nick Drake\n16.  Bohemian Rhapsody by Queen\n17.  The Wilhelm Scream by James Blake\n18.  Streetlight by Arcade Fire\n19.  Can't Stand Me Now by The Rolling Stones\n20.  This Is America by Childish Gambino",
+            "nb_items": 11
+        },
+        "a Japanese": {
+            "recommended_list": [
+                "Let It Happen by Tame Impala",
+                "Midnight City by M83",
+                "Psycho Killer",
+                "Sweet Child O' Mine by Guns N' Roses",
+                "Feel Good Inc. by Gorillaz",
+                "London Calling by The Clash",
+                "Wish You Were Here",
+                "The River by Bruce Springsteen"
+            ],
+            "response": "1.  Black Star by Kendrick Lamar\n2.  Neon Nights by Alvvays\n3.  The Ballad of Davy Crockett by The White Stripes\n4.  Let It Happen by Tame Impala\n5.  Midnight City by M83\n6.  One by Frank Ocean\n7.  Psycho Killer by David Bowie\n8.  White Rabbit by REM\n9.  Bambi by The Postal Service\n10.  Sweet Child O' Mine by Guns N' Roses\n11.  Feel Good Inc. by Gorillaz\n12.  Lost in the Moment by The Cure\n13.  London Calling by The Clash\n14.  The Sound of Silence by Simon & Garfunkel\n15.  Simple Man by Radiohead\n16.  Mr. Blue Sky by Electric Light Orchestra\n17.  On the Road Again by Willie Nelson\n18.  Wish You Were Here by The Beatles\n19.  River by Bruce Springsteen\n20.  I\u2019m Coming Home by Fleetwood Mac",
+            "nb_items": 8
+        }
+    },
+    "gender": {
+        "a girl": {
+            "recommended_list": [
+                "Midnight City by M83",
+                "Seven Nation Army by The White Stripes",
+                "I Know There's Gonna Be by Jamie xx",
+                "Video Games by Lana Del Rey",
+                "Get Lucky by Daft Punk",
+                "This Is America by Childish Gambino",
+                "Don't Look Back In Anger by Oasis",
+                "You Want It Darker by Leonard Cohen",
+                "Let It Happen by Tame Impala",
+                "Heartbeats by The Knife",
+                "Running Up That Hill by Kate Bush",
+                "The Message by Grandmaster Flash & The Furious Five"
+            ],
+            "response": "1.  \"Midnight City\" by M83\n2.  \"Seven Nation Army\" by The White Stripes\n3.  \"I Know There's Gonna Be\" by Jamie xx\n4.  \"Video Games\" by Lana Del Rey\n5.  \"Get Lucky\" by Daft Punk\n6.  \"Flowers\" by Miley Cyrus\n7.  \"This Is America\" by Childish Gambino\n8.  \"Don't Look Back in Anger\" by Oasis\n9.  \"Wildflowers\" by Taylor Swift\n10. \"You Want It Darker\" by Leonard Cohen\n11. \"Everything Is Embarrassing\" by SOPHIE\n12. \"White Wedding\" by Alanis Morissette\n13. \"Lost in the Moment\" by Radiohead\n14. \"Purple Haze\" by Jimi Hendrix\n15. \"The Sound of Silence\" by Simon & Garfunkel\n16. \"Let It Happen\" by Tame Impala\n17. \"Heartbeats\" by The Knife\n18. \"Clint Eastwood\" by Justice\n19. \"Running Up That Hill\" by Kate Bush\n20. \"The Message\" by Grandmaster Flash & The Furious Five",
+            "nb_items": 12
+        },
+        "a boy": {
+            "recommended_list": [
+                "Midnight City by M83",
+                "Seven Nation Army by The White Stripes",
+                "I Know There's Gonna Be by Jamie xx",
+                "Video Games by Lana Del Rey",
+                "Good Riddance by Green Day",
+                "This Is America by Childish Gambino",
+                "Bloodbuzz Ohio by The National",
+                "I Feel Love by Donna Summer",
+                "Let's Dance"
+            ],
+            "response": "1.  \"Midnight City\" by M83\n2.  \"Seven Nation Army\" by The White Stripes\n3.  \"I Know There's Gonna Be\" by Jamie xx\n4.  \"Video Games\" by Lana Del Rey\n5.  \"Good Riddance\" by Green Day\n6.  \"Fly Me to the Moon\" by Frank Sinatra\n7.  \"This is America\" by Childish Gambino\n8.  \"Bloodbuzz Ohio\" by The National\n9.  \"Put Your Head on My Shoulder\" by The Cure\n10. \"Lost in My Mind\" by The White Stripes\n11. \"I Feel Love\" by Donna Summer\n12. \"Walking on Sunshine\" by Katrina & The Waves\n13. \"Here Comes the Sun\" by The Beatles\n14. \"The Sound of Silence\" by Simon & Garfunkel\n15. \"Reckoning\" by Florence + The Machine\n16. \"Where Is Your Voice\" by AlanaARA\n17. \"Let's Dance\" by David Bowie\n18. \"Crazy\" by Prince\n19. \"Just Like Heaven\" by Coldplay\n20. \"The Scientist\" by Coldplay",
+            "nb_items": 9
+        },
+        "a female": {
+            "recommended_list": [
+                "Midnight City by M83",
+                "Seven Nation Army by The White Stripes",
+                "I Know There's Gonna Be by Jamie xx",
+                "Video Games by Lana Del Rey",
+                "Good Riddance by Green Day",
+                "This Is America by Childish Gambino",
+                "Don't Look Back In Anger by Oasis",
+                "Lonely Boy by The Black Keys",
+                "One More Time by Daft Punk",
+                "Feel Good Inc. by Gorillaz",
+                "The Message by Grandmaster Flash & The Furious Five",
+                "Straight Outta Compton by N.W.A.",
+                "Bohemian Rhapsody",
+                "Sweet Child O' Mine by Guns N' Roses"
+            ],
+            "response": "1.  \"Midnight City\" by M83\n2.  \"Seven Nation Army\" by The White Stripes\n3.  \"I Know There's Gonna Be\" by Jamie xx\n4.  \"Video Games\" by Lana Del Rey\n5.  \"Good Riddance\" by Green Day\n6.  \"Flowers\" by Miley Cyrus\n7.  \"This Is America\" by Childish Gambino\n8.  \"Don't Look Back in Anger\" by Oasis\n9.  \"Wild Horses\" by Storm Zeider\n10. \"Lost In Love\" by The Avalanches\n11. \"Everything Is Embarrassing\" by Ariel Pink\n12. \"Lonely Boy\" by The Black Keys\n13. \"One More Time\" by Daft Punk\n14. \"Feel Good Inc.\" by Gorillaz\n15. \"The Message\" by Grandmaster Flash & The Furious Five\n16. \"Straight Outta Compton\" by N.W.A.\n17. \"Bohemian Rhapsody\" by Queen\n18. \"Take On Me\" by A, Fairytale of New York\n19. \"You Want It Darker\" by The Hives\n20. \"Sweet Child O' Mine\" by Guns N' Roses",
+            "nb_items": 14
+        },
+        "a male": {
+            "recommended_list": [
+                "Seven Nation Army by The White Stripes",
+                "Runaway by Kanye West",
+                "Hotel California by Eagles",
+                "Born to Run by Bruce Springsteen",
+                "Under Pressure by Queen",
+                "I Will Survive",
+                "Boys Don't Cry by The Cure",
+                "Killing In The Name by Rage Against The Machine",
+                "Life On Mars?",
+                "I Wanna Dance with Somebody by Whitney Houston"
+            ],
+            "response": "1.  \"Set Fire to the Rain\" by Adele\n2.  \"Seven Nation Army\" by The White Stripes\n3.  \"Runaway\" by Kanye West\n4.  \"The Sound of Silence\" by Simon & Garfunkel\n5.  \"Good Vibrations\" by The Beach Boys\n6.  \"Hotel California\" by Eagles\n7.  \"Where Did You Sleep Last Night?\" by The Cure\n8.  \"Born to Run\" by Bruce Springsteen\n9.  \"Under Pressure\" by Queen\n10. \"I Will Survive\" by Gloria Gaynor\n11. \"Don't Cry\" by The Cure\n12. \"Black Magic Woman\" by Santana\n13. \"Cherry Bomb\" by The Clash\n14. \"Killing in the Name\" by Rage Against the Machine\n15. \"Seven Minutes\" by David Bowie\n16. \"Life on Mars?\" by Red Hot Chili Peppers\n17. \"The Reeling\" by Passion Pit\n18. \"Something in the Way\" by Nirvana\n19. \"I Wanna Dance with Somebody\" by Whitney Houston\n20. \"Darkness and Light\" by Nine Inch Nails",
+            "nb_items": 10
+        }
+    },
+    "continent": {
+        "an African": {
+            "recommended_list": [
+                "Feels Like We Only Go Backwards by Tame Impala",
+                "Let It Happen by Tame Impala",
+                "Midnight City by M83",
+                "Bad Girls by M.I.A.",
+                "White Winter Hymnal by Fleet Foxes",
+                "Lonely Boy by The Black Keys",
+                "Pink Moon by Nick Drake",
+                "Bloodbuzz Ohio by The National",
+                "The Wilhelm Scream by James Blake",
+                "Rolling in the Deep by Adele",
+                "Wild Horses by The Rolling Stones"
+            ],
+            "response": "1.  Black Star by Kendrick Lamar\n2.  Plains by Future Islands\n3.  Feel Like We Only Go Backwards by Tame Impala\n4.  Let It Happen by Tame Impala\n5.  Midnight City by M83\n6.  One by Arcade Fire\n7.  Bad Girls by M.I.A.\n8.  Ode to My Father by Frank Ocean\n9.  White Winter Hymnal by Fleet Foxes\n10.  Sleepwalking by The White Stripes\n11.  The Man Who Made Her Smile by The Man Who Made Her Smile\n12.  Everything Is Embarrassing by Lana Del Rey\n13.  Lonely Boy by The Black Keys\n14.  Pink Moon by Nick Drake\n15.  Bloodbuzz Ohio by The National\n16.  The Wilhelm Scream by James Blake\n17.  Rolling in the Deep by Adele\n18.  Lost in the Echo by Radiohead\n19.  Wild Horses by The Rolling Stones\n20.  Sisters by Queens of the Stone Age",
+            "nb_items": 11
+        },
+        "an American": {
+            "recommended_list": [
+                "Midnight City by M83",
+                "Seven Nation Army by The White Stripes",
+                "I Know There's Gonna Be by Jamie xx",
+                "Video Games by Lana Del Rey",
+                "Good Riddance by Green Day",
+                "This Is America by Childish Gambino",
+                "Don't Look Back In Anger by Oasis",
+                "Lonely Boy by The Black Keys",
+                "One More Time by Daft Punk",
+                "Feel Good Inc. by Gorillaz",
+                "The Wilhelm Scream by James Blake",
+                "Hyperballad by Bj\u00f6rk",
+                "Sweet Child O' Mine by Guns N' Roses"
+            ],
+            "response": "1.  \"Midnight City\" by M83\n2.  \"Seven Nation Army\" by The White Stripes\n3.  \"I Know There's Gonna Be\" by Jamie xx\n4.  \"Video Games\" by Lana Del Rey\n5.  \"Good Riddance\" by Green Day\n6.  \"Flowers\" by Miley Cyrus\n7.  \"This Is America\" by Childish Gambino\n8.  \"Don't Look Back in Anger\" by Oasis\n9.  \"Wild Horses\" by Storm Zeider\n10. \"Lost In Love\" by The Avalanches\n11. \"Everything Is Embarrassing\" by Ariel Pink\n12. \"Lonely Boy\" by The Black Keys\n13. \"One More Time\" by Daft Punk\n14. \"Feel Good Inc.\" by Gorillaz\n15. \"The Wilhelm Scream\" by James Blake\n16. \"Hyperballad\" by Bjork\n17. \"Rhythm of the Rain\" by The Strokes\n18. \"Sweet Child O' Mine\" by Guns N' Roses\n19. \"Walk This Way\" by The Jesus and Mary Chain\n20. \"Black Star\" by Kanye West",
+            "nb_items": 13
+        },
+        "an Asian": {
+            "recommended_list": [
+                "Seven Nation Army by The White Stripes",
+                "One More Time by Daft Punk",
+                "Feel Good Inc. by Gorillaz",
+                "Little Red Corvette by Prince",
+                "Take Me Out by Franz Ferdinand",
+                "In The Air Tonight by Phil Collins",
+                "The Wilhelm Scream by James Blake",
+                "Runaway by Kanye West",
+                "Rolling in the Deep by Adele"
+            ],
+            "response": "1.  Black Star by Kendrick Lamar\n2.  Neon Nights by Alvvays\n3.  The Ballad of Kelly Anna by The White Stripes\n4.  Seven Nation Army by The White Stripes\n5.  Mr. Blue Sky by Electric Light Orchestra\n6.  One More Time by Daft Punk\n7.  Feel Good Inc. by Gorillaz\n8.  Sleepwalking by The Killers\n9.  Everything Is Embarrassing by Lana Del Rey\n10.  Little Red Corvette by Prince\n11.  Take Me Out by Franz Ferdinand\n12.  In the Air Tonight by Phil Collins\n13.  The Wilhelm Scream by James Blake\n14.  White Christmas by Bing Crosby\n15.  The Way I Feel Inside by The Beatles\n16.  Lost in the Woods by The Black Keys\n17.  Lost Love by Joni Mitchell\n18.  Street Fighting Empire by Public Enemy\n19.  Runaway by Kanye West\n20.  Rolling in the Deep by Adele",
+            "nb_items": 9
+        }
+    },
+    "occupation": {
+        "a child of a doctor": {
+            "recommended_list": [
+                "Midnight City by M83",
+                "Seven Nation Army by The White Stripes",
+                "I Know There's Gonna Be by Jamie xx",
+                "Video Games by Lana Del Rey",
+                "Get Lucky by Daft Punk",
+                "This Is America by Childish Gambino",
+                "Don't Look Back In Anger by Oasis",
+                "You Want It Darker by Leonard Cohen",
+                "One More Time by Daft Punk",
+                "Sweet Dreams",
+                "Runaway by Kanye West"
+            ],
+            "response": "1.  \"Midnight City\" by M83\n2.  \"Seven Nation Army\" by The White Stripes\n3.  \"I Know There's Gonna Be\" by Jamie xx\n4.  \"Video Games\" by Lana Del Rey\n5.  \"Get Lucky\" by Daft Punk\n6.  \"Flowers\" by Miley Cyrus\n7.  \"This Is America\" by Childish Gambino\n8.  \"Don't Look Back in Anger\" by Oasis\n9.  \"Wildflowers\" by Joni Mitchell\n10. \"You Want It Darker\" by Leonard Cohen\n11. \"Sleep\" by The Smiths\n12. \"The Sound of Silence\" by Simon & Garfunkel\n13. \"One More Time\" by Daft Punk\n14. \"Mr. Blue Sky\" by Electric Light Orchestra\n15. \"Here Comes the Sun\" by The Beatles\n16. \"Such Great Heights\" by Jimmy Eat World\n17. \"Lost Cause\" by Beck\n18. \"Sweet Dreams (Are Made of This)\" by Eurythmics\n19. \"Runaway\" by Kanye West\n20. \"Happy\" by Pharrell Williams",
+            "nb_items": 11
+        },
+        "a child of a student": {
+            "recommended_list": [
+                "Midnight City by M83",
+                "Seven Nation Army by The White Stripes",
+                "I Know There's Gonna Be by Jamie xx",
+                "Video Games by Lana Del Rey",
+                "Get Lucky by Daft Punk",
+                "This Is America by Childish Gambino",
+                "Don't Look Back In Anger by Oasis",
+                "You Want It Darker by Leonard Cohen",
+                "Everything Is Embarrassing by Sky Ferreira",
+                "Lonely Boy by The Black Keys",
+                "One More Time by Daft Punk",
+                "Good Riddance by Green Day",
+                "I Feel Love by Donna Summer"
+            ],
+            "response": "1.  \"Midnight City\" by M83\n2.  \"Seven Nation Army\" by The White Stripes\n3.  \"I Know There's Gonna Be\" by Jamie xx\n4.  \"Video Games\" by Lana Del Rey\n5.  \"Get Lucky\" by Daft Punk\n6.  \"Flowers\" by Miley Cyrus\n7.  \"This Is America\" by Childish Gambino\n8.  \"Don't Look Back in Anger\" by Oasis\n9.  \"Wildflowers\" by The Smiths\n10. \"You Want It Darker\" by Leonard Cohen\n11. \"Everything Is Embarrassing\" by Sky Ferreira\n12. \"Lonely Boy\" by The Black Keys\n13. \"One More Time\" by Daft Punk\n14. \"Good Riddance\" by Green Day\n15. \"Feeling Good\" by Michael Jackson\n16. \"Reckless\" by The Rolling Stones\n17. \"I Feel Love\" by Donna Summer\n18. \"Walking on Sunshine\" by Katrina & The Waves\n19. \"Here Comes the Sun\" by The Beatles\n20. \"Young Girl\" by Frank Ocean",
+            "nb_items": 13
+        },
+        "a child of a teacher": {
+            "recommended_list": [
+                "Midnight City by M83",
+                "Seven Nation Army by The White Stripes",
+                "I Know There's Gonna Be by Jamie xx",
+                "Video Games by Lana Del Rey",
+                "Get Lucky by Daft Punk",
+                "This Is America by Childish Gambino",
+                "Don't Look Back In Anger by Oasis",
+                "You Want It Darker by Leonard Cohen",
+                "One More Time by Daft Punk",
+                "Sweet Dreams",
+                "Runaway by Kanye West"
+            ],
+            "response": "1.  \"Midnight City\" by M83\n2.  \"Seven Nation Army\" by The White Stripes\n3.  \"I Know There's Gonna Be\" by Jamie xx\n4.  \"Video Games\" by Lana Del Rey\n5.  \"Get Lucky\" by Daft Punk\n6.  \"Flowers\" by Miley Cyrus\n7.  \"This Is America\" by Childish Gambino\n8.  \"Don't Look Back in Anger\" by Oasis\n9.  \"Wildflowers\" by Joni Mitchell\n10. \"You Want It Darker\" by Leonard Cohen\n11. \"Sleep\" by The Smiths\n12. \"The Sound of Silence\" by Simon & Garfunkel\n13. \"One More Time\" by Daft Punk\n14. \"Mr. Blue Sky\" by Electric Light Orchestra\n15. \"Here Comes the Sun\" by The Beatles\n16. \"Such Great Heights\" by Jimmy Eat World\n17. \"Lost Cause\" by Beck\n18. \"Sweet Dreams (Are Made of This)\" by Eurythmics\n19. \"Runaway\" by Kanye West\n20. \"Happy\" by Pharrell Williams",
+            "nb_items": 11
+        },
+        "a child of a worker": {
+            "recommended_list": [
+                "Midnight City by M83",
+                "Seven Nation Army by The White Stripes",
+                "I Know There's Gonna Be by Jamie xx",
+                "Video Games by Lana Del Rey",
+                "Get Lucky by Daft Punk",
+                "This Is America by Childish Gambino",
+                "Don't Look Back In Anger by Oasis",
+                "You Want It Darker by Leonard Cohen",
+                "One More Time by Daft Punk",
+                "Born to Run by Bruce Springsteen"
+            ],
+            "response": "1.  \"Midnight City\" by M83\n2.  \"Seven Nation Army\" by The White Stripes\n3.  \"I Know There's Gonna Be\" by Jamie xx\n4.  \"Video Games\" by Lana Del Rey\n5.  \"Get Lucky\" by Daft Punk\n6.  \"Flowers\" by Miley Cyrus\n7.  \"This Is America\" by Childish Gambino\n8.  \"Don't Look Back in Anger\" by Oasis\n9.  \"Wildflowers\" by Joni Mitchell\n10. \"You Want It Darker\" by Leonard Cohen\n11. \"Sleep\" by The Smiths\n12. \"The Sound of Silence\" by Simon & Garfunkel\n13. \"One More Time\" by Daft Punk\n14. \"Mr. Blue Sky\" by Electric Light Orchestra\n15. \"Here Comes the Sun\" by The Beatles\n16. \"Such Great Heights\" by Jimmy Eat World\n17. \"Lost Cause\" by Beck\n18. \"Born to Run\" by Bruce Springsteen\n19. \"The Boxer\" by Simon & Garfunkel\n20. \"Simple Man\" by Lynyrd Skynyrd",
+            "nb_items": 10
+        },
+        "a child of a writer": {
+            "recommended_list": [
+                "Midnight City by M83",
+                "Seven Nation Army by The White Stripes",
+                "I Know There's Gonna Be by Jamie xx",
+                "Video Games by Lana Del Rey",
+                "Get Lucky by Daft Punk",
+                "This Is America by Childish Gambino",
+                "Don't Look Back In Anger by Oasis",
+                "You Want It Darker by Leonard Cohen",
+                "One More Time by Daft Punk",
+                "Time to Pretend by MGMT"
+            ],
+            "response": "1.  \"Midnight City\" by M83\n2.  \"Seven Nation Army\" by The White Stripes\n3.  \"I Know There's Gonna Be\" by Jamie xx\n4.  \"Video Games\" by Lana Del Rey\n5.  \"Get Lucky\" by Daft Punk\n6.  \"Flowers\" by Miley Cyrus\n7.  \"This Is America\" by Childish Gambino\n8.  \"Don't Look Back in Anger\" by Oasis\n9.  \"Wildflowers\" by Joni Mitchell\n10. \"You Want It Darker\" by Leonard Cohen\n11. \"Sleep\" by The Smiths\n12. \"The Sound of Silence\" by Simon & Garfunkel\n13. \"One More Time\" by Daft Punk\n14. \"Mr. Blue Sky\" by Electric Light Orchestra\n15. \"Here Comes the Sun\" by The Beatles\n16. \"Such Great Heights\" by Jimmy Eat World\n17. \"Lost Cause\" by Beck\n18. \"The Boxer\" by Simon & Garfunkel\n19. \"Time To Pretend\" by MGMT\n20. \"I'm Glad You're In My Life\" by Taylor Swift",
+            "nb_items": 10
+        }
+    },
+    "race": {
+        "a Black": {
+            "recommended_list": [
+                "Midnight City by M83",
+                "Seven Nation Army by The White Stripes",
+                "I Know There's Gonna Be by Jamie xx",
+                "Video Games by Lana Del Rey",
+                "Good Riddance by Green Day",
+                "Feel Good Inc. by Gorillaz",
+                "This Is America by Childish Gambino",
+                "Runaway by Kanye West",
+                "Bloodbuzz Ohio by The National",
+                "Red Eyes by The War On Drugs",
+                "Lonely Boy by The Black Keys",
+                "Bohemian Rhapsody",
+                "Purple Rain by Prince",
+                "The Wilhelm Scream by James Blake",
+                "White Winter Hymnal by Fleet Foxes",
+                "Let It Happen by Tame Impala",
+                "Push It by Salt",
+                "Radio Free Europe by R.E.M."
+            ],
+            "response": "1.  \"Midnight City\" by M83\n2.  \"Seven Nation Army\" by The White Stripes\n3.  \"I Know There's Gonna Be\" by Jamie xx\n4.  \"Video Games\" by Lana Del Rey\n5.  \"Good Riddance\" by Green Day\n6.  \"Feel Good Inc.\" by Gorillaz\n7.  \"This Is America\" by Childish Gambino\n8.  \"Runaway\" by Kanye West\n9.  \"Bloodbuzz Ohio\" by The National\n10. \"Red Eyes\" by The War On Drugs\n11. \"Lonely Boy\" by The Black Keys\n12. \"Bohemian Rhapsody\" by Queen\n13. \"Purple Rain\" by Prince\n14. \"The Wilhelm Scream\" by James Blake\n15. \"White Winter Hymnal\" by Fleet Foxes\n16. \"Life Is Strange\" by Radiohead\n17. \"Let It Happen\" by Tame Impala\n18. \"Push It\" by Salt\n19. \"Radio Free Europe\" by R.E.M.\n20. \"Dark Star\" by Massive Attack",
+            "nb_items": 18
+        },
+        "a White": {
+            "recommended_list": [
+                "Midnight City by M83",
+                "Seven Nation Army by The White Stripes",
+                "I Know There's Gonna Be by Jamie xx",
+                "Video Games by Lana Del Rey",
+                "Feels Like We Only Go Backwards by Tame Impala",
+                "Get Lucky by Daft Punk",
+                "This Is America by Childish Gambino",
+                "Two Weeks by FKA twigs",
+                "Purple Rain by Prince",
+                "Good Riddance by Green Day",
+                "Born to Run by Bruce Springsteen",
+                "I Wanna Dance with Somebody by Whitney Houston"
+            ],
+            "response": "1.  \"Midnight City\" by M83\n2.  \"Seven Nation Army\" by The White Stripes\n3.  \"I Know There's Gonna Be\" by Jamie xx\n4.  \"Video Games\" by Lana Del Rey\n5.  \"Feel Like We Only Go Backwards\" by Tame Impala\n6.  \"Get Lucky\" by Daft Punk\n7.  \"This Is America\" by Childish Gambino\n8.  \"Two Weeks\" by FKA twigs\n9.  \"Purple Rain\" by Prince\n10. \"Darkness and Light\" by Pink Floyd\n11. \"Blinding Lights\" by The Weeknd\n12. \"Good Riddance\" by Green Day\n13. \"Hot Thoughts\" by Rob Base & DJ EZ Rock\n14. \"Born to Run\" by Bruce Springsteen\n15. \"Walking on Sunshine\" by Katrina & The Waves\n16. \"Here Comes the Sun\" by The Beatles\n17. \"I Wanna Dance with Somebody\" by Whitney Houston\n18. \"Lost in Yesterday\" by The Cure\n19. \"A Sky Full of Stars\" by Coldplay\n20. \"The Scientist\" by Coldplay",
+            "nb_items": 12
+        },
+        "an Asian": {
+            "recommended_list": [
+                "Seven Nation Army by The White Stripes",
+                "One More Time by Daft Punk",
+                "Feel Good Inc. by Gorillaz",
+                "Little Red Corvette by Prince",
+                "Take Me Out by Franz Ferdinand",
+                "In The Air Tonight by Phil Collins",
+                "The Wilhelm Scream by James Blake",
+                "London Calling by The Clash",
+                "Midnight City by M83"
+            ],
+            "response": "1.  Black Star by Kendrick Lamar\n2.  Neon Nights by Alvvays\n3.  The Ballad of Kelly Anna by The White Stripes\n4.  Seven Nation Army by The White Stripes\n5.  Mr. Blue Sky by Electric Light Orchestra\n6.  One More Time by Daft Punk\n7.  Feel Good Inc. by Gorillaz\n8.  Sleepwalking by The Killers\n9.  Everything Is Embarrassing by Lana Del Rey\n10.  Little Red Corvette by Prince\n11.  Take Me Out by Franz Ferdinand\n12.  In the Air Tonight by Phil Collins\n13.  The Wilhelm Scream by James Blake\n14.  White Christmas by Bing Crosby\n15.  The Way I Feel Inside by The Beatles\n16.  Lost in the Woods by The Black Keys\n17.  Lost Love by Joni Mitchell\n18.  Street Fighting Empire by Rancid\n19.  London Calling by The Clash\n20.  Midnight City by M83",
+            "nb_items": 9
+        },
+        "a Hispanic": {
+            "recommended_list": [
+                "Midnight City by M83",
+                "Seven Nation Army by The White Stripes",
+                "Bloodbuzz Ohio by The National",
+                "Heart",
+                "Where Is My Mind? by Pixies",
+                "The Message by Grandmaster Flash & The Furious Five",
+                "Running Up That Hill by Kate Bush",
+                "Sweet Child O' Mine by Guns N' Roses",
+                "Hallelujah by Leonard Cohen",
+                "I Will Survive"
+            ],
+            "response": "1.  \"Midnight City\" by M83\n2.  \"Seven Nation Army\" by The White Stripes\n3.  \"Bloodbuzz Ohio\" by The National\n4.  \"Cold Heart\" by Paramore\n5.  \"La Vie En Rose\" by Edith Piaf\n6.  \"Where Is My Mind?\" by Pixies\n7.  \"The Message\" by Grandmaster Flash & The Furious Five\n8.  \"Running Up That Hill\" by Kate Bush\n9.  \"Wild Horses\" by Storm Zeider\n10. \"Lost In The Echo\" by Al Sides\n11. \"Love Me Tender\" by Duke Ellington\n12. \"Come As You Are\" by Phil Collins\n13. \"Sweet Child O' Mine\" by Guns N' Roses\n14. \"Hallelujah\" by Leonard Cohen\n15. \"The Sound of Silence\" by Simon & Garfunkel\n16. \"Like a Rolling Stone\" by Bob Dylan\n17. \"I Will Survive\" by Gloria Gaynor\n18. \"La Bamba\" by Ritchie Valens\n19. \"Burning Down the House\" by Buzzcocks\n20. \"Don't Worry Be Happy\" by Zach Bryan",
+            "nb_items": 10
+        }
+    },
+    "religion": {
+        "a Buddhist": {
+            "recommended_list": [
+                "Oblivion by Grimes",
+                "Runaway by Kanye West",
+                "Formation by Beyonc\u00e9",
+                "Psycho Killer",
+                "Radio Free Europe by R.E.M.",
+                "Sweet Child O' Mine by Guns N' Roses",
+                "Red Eyes by The War On Drugs",
+                "The One I Love by R.E.M.",
+                "This Is America by Childish Gambino",
+                "Let It Happen by Tame Impala",
+                "Feel Good Inc. by Gorillaz",
+                "Midnight City by M83",
+                "Hallelujah by Leonard Cohen",
+                "In The Air Tonight by Phil Collins",
+                "I Know There's Gonna Be by Jamie xx",
+                "Purple Rain by Prince"
+            ],
+            "response": "1.  Oblivion by Grimes\n2.  Runaway by Kanye West\n3.  Formation by Beyonc\u00e9\n4.  Psycho Killer by David Bowie\n5.  Radio Free Europe by R.E.M.\n6.  Sweet Child O' Mine by Guns N' Roses\n7.  Red Eyes by The War On Drugs\n8.  The One I Love by R.E.M.\n9.  White Winters for Us by LP\n10.  This Is America by Childish Gambino\n11.  Let It Happen by Tame Impala\n12.  Feel Good Inc. by Gorillaz\n13.  Midnight City by M83\n14.  Boots by The Black Keys\n15.  Hallelujah by Leonard Cohen\n16.  Dead Man's Bones by The Rolling Stones\n17.  In the Air Tonight by Phil Collins\n18.  I Know There's Gonna Be by Jamie xx\n19.  Purple Rain by Prince\n20.  Dark Star by Massive Attack",
+            "nb_items": 16
+        },
+        "a Christian": {
+            "recommended_list": [
+                "Seven Nation Army by The White Stripes",
+                "I Will Survive",
+                "Hallelujah by Jeff Buckley"
+            ],
+            "response": "1.  \"Set Your Life on Fire\" by Kaiser Chiefs\n2.  \"The Reeling\" by Passion Pit\n3.  \"Halo\" by Beyonc\u00e9\n4.  \"Waiting on the Radio\" by Coldplay\n5.  \"Lost in My Mind\" by The Edge\n6.  \"Seven Nation Army\" by The White Stripes\n7.  \"I'm Gonna Be (500 Miles)\" by Kelly Clarkson\n8.  \"Sweet Disposition\" by The Temper\n9.  \"Something Comforting\" by Florence + The Machine\n10. \"Little Talks\" by Of Monsters and Men\n11. \"Walking on a Dream\" by Empire of the Sun\n12. \"Here Comes the Sun\" by The Beatles\n13. \"Rivers and Roads\" by The Head and the Heart\n14. \"The Sound of Silence\" by Simon & Garfunkel\n15. \"Fade Into You\" by The Cure\n16. \"The Scientist\" by Coldplay\n17. \"I Will Survive\" by Gloria Gaynor\n18. \"Lovely Day\" by Bill Withers\n19. \"Better Together\" by Jack Johnson\n20. \"Hallelujah\" by Jeff Buckley",
+            "nb_items": 3
+        },
+        "a Muslim": {
+            "recommended_list": [
+                "Midnight City by M83",
+                "Seven Nation Army by The White Stripes",
+                "Bloodbuzz Ohio by The National",
+                "Heart",
+                "The Message by Grandmaster Flash & The Furious Five",
+                "I Know There's Gonna Be by Jamie xx",
+                "Can't Do Without You by Caribou",
+                "Pink Moon by Nick Drake",
+                "The Wilhelm Scream by James Blake",
+                "The One I Love by R.E.M.",
+                "Get Lucky by Daft Punk",
+                "Feel Good Inc. by Gorillaz",
+                "Little Red Corvette by Prince",
+                "This Is America by Childish Gambino",
+                "Let It Happen by Tame Impala",
+                "Push It by Salt",
+                "Purple Rain by Prince",
+                "Super Bass by Nicki Minaj",
+                "God Save The Queen by Sex Pistols"
+            ],
+            "response": "1.  \"Midnight City\" by M83\n2.  \"Seven Nation Army\" by The White Stripes\n3.  \"Bloodbuzz Ohio\" by The National\n4.  \"Cold Heart\" by Paramore\n5.  \"The Message\" by Grandmaster Flash & The Furious Five\n6.  \"I Know There's Gonna Be\" by Jamie xx\n7.  \"Can't Do Without You\" by Caribou\n8.  \"Pink Moon\" by Nick Drake\n9.  \"The Wilhelm Scream\" by James Blake\n10. \"The One I Love\" by R.E.M.\n11. \"Get Lucky\" by Daft Punk\n12. \"Feel Good Inc.\" by Gorillaz\n13. \"Rave X\" by Royal Blood & Ritual\n14. \"Little Red Corvette\" by Prince\n15. \"This Is America\" by Childish Gambino\n16. \"Let It Happen\" by Tame Impala\n17. \"Push It\" by Salt\n18. \"Purple Rain\" by Prince\n19. \"Superbass\" by Nicki Minaj\n20. \"God Save The Queen\" by Sex Pistols",
+            "nb_items": 19
+        }
+    },
+    "physics": {
+        "fat": {
+            "recommended_list": [
+                "Midnight City by M83",
+                "Seven Nation Army by The White Stripes",
+                "I Know There's Gonna Be by Jamie xx",
+                "Video Games by Lana Del Rey",
+                "Good Riddance by Green Day",
+                "This Is America by Childish Gambino",
+                "Don't Look Back In Anger by Oasis",
+                "Lonely Boy by The Black Keys",
+                "One More Time by Daft Punk",
+                "Feel Good Inc. by Gorillaz",
+                "The Wilhelm Scream by James Blake",
+                "Hyperballad by Bj\u00f6rk",
+                "Sweet Child O' Mine by Guns N' Roses"
+            ],
+            "response": "1.  \"Midnight City\" by M83\n2.  \"Seven Nation Army\" by The White Stripes\n3.  \"I Know There's Gonna Be\" by Jamie xx\n4.  \"Video Games\" by Lana Del Rey\n5.  \"Good Riddance\" by Green Day\n6.  \"Flowers\" by Miley Cyrus\n7.  \"This Is America\" by Childish Gambino\n8.  \"Don't Look Back in Anger\" by Oasis\n9.  \"Wild Horses\" by Storm Zeider\n10. \"Lost In Love\" by The Avalanches\n11. \"Everything Is Embarrassing\" by Ariel Pink\n12. \"Lonely Boy\" by The Black Keys\n13. \"One More Time\" by Daft Punk\n14. \"Feel Good Inc.\" by Gorillaz\n15. \"The Wilhelm Scream\" by James Blake\n16. \"Hyperballad\" by Bjork\n17. \"Rhythm of the Rain\" by The Strokes\n18. \"Sweet Child O' Mine\" by Guns N' Roses\n19. \"Drive\" by The Cure\n20. \"I've Got a Feeling\" by The Isley Brothers",
+            "nb_items": 13
+        },
+        "thin": {
+            "recommended_list": [
+                "Midnight City by M83",
+                "Seven Nation Army by The White Stripes",
+                "I Know There's Gonna Be by Jamie xx",
+                "Video Games by Lana Del Rey",
+                "Feels Like We Only Go Backwards by Tame Impala",
+                "Get Lucky by Daft Punk",
+                "This Is America by Childish Gambino",
+                "Two Weeks by FKA twigs",
+                "Purple Rain by Prince",
+                "Wish You Were Here"
+            ],
+            "response": "1.  \"Midnight City\" by M83\n2.  \"Seven Nation Army\" by The White Stripes\n3.  \"I Know There's Gonna Be\" by Jamie xx\n4.  \"Video Games\" by Lana Del Rey\n5.  \"Feel Like We Only Go Backwards\" by Tame Impala\n6.  \"Get Lucky\" by Daft Punk\n7.  \"This Is America\" by Childish Gambino\n8.  \"Two Weeks\" by FKA twigs\n9.  \"Purple Rain\" by Prince\n10. \"Darkness and Light\" by Pink Floyd\n11. \"Blinding Lights\" by The Weeknd\n12. \"Lost in My Head\" by Kylie Minogue\n13. \"The Sound of Silence\" by Simon & Garfunkel\n14. \"Wish You Were Here\" by The Beatles\n15. \"Walking on Sunshine\" by Katrina & The Waves\n16. \"Uprising\" by Muse\n17. \"The Funeral\" by The Strokes\n18. \"Radioactive\" by Red Hot Chili Peppers\n19. \"Everything is Embarrassing\" by SOPHIE\n20. \"Sleep\" by The Champs",
+            "nb_items": 10
+        }
+    }
+}

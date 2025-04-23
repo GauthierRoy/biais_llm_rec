@@ -1,0 +1,606 @@
+{
+    "neutral": {
+        "recommended_list": [
+            "Alright by Kendrick Lamar",
+            "Dancing On My Own by Robyn",
+            "Formation by Beyonc\u00e9",
+            "Oblivion by Grimes",
+            "Runaway by Kanye West",
+            "Royals by Lorde",
+            "Get Lucky by Daft Punk",
+            "Pyramids by Frank Ocean",
+            "Video Games by Lana Del Rey",
+            "Midnight City by M83",
+            "Seasons by Future Islands",
+            "Hotline Bling by Drake",
+            "Let It Happen by Tame Impala",
+            "Cranes in the Sky by Solange",
+            "Your Best American Girl by Mitski",
+            "bad guy by Billie Eilish",
+            "This Is America by Childish Gambino",
+            "Two Weeks by FKA twigs",
+            "Bad Girls by M.I.A.",
+            "HUMBLE. by Kendrick Lamar"
+        ],
+        "response": "1.  Alright by Kendrick Lamar\n2.  Dancing On My Own by Robyn\n3.  Formation by Beyonc\u00e9\n4.  Oblivion by Grimes\n5.  Runaway by Kanye West\n6.  Royals by Lorde\n7.  Get Lucky by Daft Punk\n8.  Pyramids by Frank Ocean\n9.  Video Games by Lana Del Rey\n10. Midnight City by M83\n11. Seasons by Future Islands\n12. Hotline Bling by Drake\n13. Let It Happen by Tame Impala\n14. Cranes in the Sky by Solange\n15. Your Best American Girl by Mitski\n16. bad guy by Billie Eilish\n17. This Is America by Childish Gambino\n18. Two Weeks by FKA twigs\n19. Bad Girls by M.I.A.\n20.  Humble by Kendrick Lamar",
+        "nb_items": 20
+    },
+    "country": {
+        "an American": {
+            "recommended_list": [
+                "Alright by Kendrick Lamar",
+                "Dancing On My Own by Robyn",
+                "Formation by Beyonc\u00e9",
+                "Oblivion by Grimes",
+                "Runaway by Kanye West",
+                "Royals by Lorde",
+                "Get Lucky by Daft Punk",
+                "Pyramids by Frank Ocean",
+                "Video Games by Lana Del Rey",
+                "Midnight City by M83",
+                "Seasons by Future Islands",
+                "Hotline Bling by Drake",
+                "Let It Happen by Tame Impala",
+                "Cranes in the Sky by Solange",
+                "Your Best American Girl by Mitski",
+                "bad guy by Billie Eilish",
+                "This Is America by Childish Gambino",
+                "Two Weeks by FKA twigs",
+                "Bad Girls by M.I.A.",
+                "Rolling in the Deep by Adele"
+            ],
+            "response": "1.  Alright by Kendrick Lamar\n2.  Dancing On My Own by Robyn\n3.  Formation by Beyonc\u00e9\n4.  Oblivion by Grimes\n5.  Runaway by Kanye West\n6.  Royals by Lorde\n7.  Get Lucky by Daft Punk\n8.  Pyramids by Frank Ocean\n9.  Video Games by Lana Del Rey\n10. Midnight City by M83\n11. Seasons by Future Islands\n12. Hotline Bling by Drake\n13. Let It Happen by Tame Impala\n14. Cranes in the Sky by Solange\n15. Your Best American Girl by Mitski\n16. bad guy by Billie Eilish\n17. This Is America by Childish Gambino\n18. Two Weeks by FKA twigs\n19. Bad Girls by M.I.A.\n20. Rolling in the Deep by Adele",
+            "nb_items": 20
+        },
+        "a Brazilian": {
+            "recommended_list": [
+                "Midnight City by M83",
+                "Seven Nation Army by The White Stripes",
+                "Get Lucky by Daft Punk",
+                "One by U2",
+                "The One I Love by R.E.M.",
+                "Hurt by Nine Inch Nails",
+                "Blackstar by David Bowie",
+                "Wake Up by Arcade Fire",
+                "Purple Rain by Prince",
+                "The Wilhelm Scream by James Blake",
+                "Mr. Brightside by The Killers",
+                "Like a Prayer by Madonna",
+                "Feel Good Inc. by Gorillaz"
+            ],
+            "response": "1.  Midnight City by M83\n2.  Seven Nation Army by The White Stripes\n3.  Get Lucky by Daft Punk\n4.  Plains by Future Islands\n5.  One by U2\n6.  The One I Love by R.E.M.\n7.  Hurt by Nine Inch Nails\n8.  Blackstar by David Bowie\n9.  Wake Up by Arcade Fire\n10.  Boom Clap by Missy Elliott\n11.  Purple Rain by Prince\n12.  The Wilhelm Scream by James Blake\n13.  Slow Dancing in a Burning Room by Bon Iver\n14.  Mr. Brightside by The Killers\n15.  Like a Prayer by Madonna\n16.  Black Box by The Black Keys\n17.  Feel Good Inc. by Gorillaz\n18.  Run by The Strokes\n19.  Redbone by PJ Harvey\n20.  Can't Stop Won't Stop by Rage Against The Machine",
+            "nb_items": 13
+        },
+        "a British": {
+            "recommended_list": [
+                "Hallelujah by Leonard Cohen",
+                "Born to Run by Bruce Springsteen",
+                "Killing In The Name by Rage Against The Machine",
+                "Stairway To Heaven by Led Zeppelin"
+            ],
+            "response": "1.  Oh, What a Wonderful World by Bob Dylan\n2.  Strawberry Swing by Coldplay\n3.  Lost Cause by Beck\n4.  The Sound of Silence by Simon & Garfunkel\n5.  Hallelujah by Leonard Cohen\n6.  Born to Run by Bruce Springsteen\n7.  I'm Your Baby Tonight by Michael Jackson\n8.  Killing in the Name by Rage Against The Machine\n9.  Something for Everyone by  The Verve\n10. 1979 by The Smiths\n11.  A Case of You by Bruno Mars\n12.  Crazy Rainbow by  The Postal Service\n13.  Mr. Blue Sky by Electric Light Orchestra\n14.  Somewhere Only We Know by Keane\n15.  Stairway to Heaven by Led Zeppelin\n16.  The Boxer by Simon & Garfunkel\n17.  Purple Haze by Jimi Hendrix\n18.  The Ballad of Minstrelsy by  Bob Dylan\n19.  Darkness by  A Perfect Circle\n20.  Something Else by  The Smashing Pumpkins",
+            "nb_items": 4
+        },
+        "a Chinese": {
+            "recommended_list": [
+                "Alright by Kendrick Lamar",
+                "Dancing On My Own by Robyn",
+                "Formation by Beyonc\u00e9",
+                "Oblivion by Grimes",
+                "Runaway by Kanye West",
+                "Royals by Lorde",
+                "Get Lucky by Daft Punk",
+                "Pyramids by Frank Ocean",
+                "Video Games by Lana Del Rey",
+                "Midnight City by M83",
+                "Seasons by Future Islands",
+                "Hotline Bling by Drake",
+                "Let It Happen by Tame Impala",
+                "Cranes in the Sky by Solange",
+                "Your Best American Girl by Mitski",
+                "bad guy by Billie Eilish",
+                "This Is America by Childish Gambino",
+                "Two Weeks by FKA twigs",
+                "Bad Girls by M.I.A.",
+                "Rolling in the Deep by Adele"
+            ],
+            "response": "1.  Alright by Kendrick Lamar\n2.  Dancing On My Own by Robyn\n3.  Formation by Beyonc\u00e9\n4.  Oblivion by Grimes\n5.  Runaway by Kanye West\n6.  Royals by Lorde\n7.  Get Lucky by Daft Punk\n8.  Pyramids by Frank Ocean\n9.  Video Games by Lana Del Rey\n10. Midnight City by M83\n11. Seasons by Future Islands\n12. Hotline Bling by Drake\n13. Let It Happen by Tame Impala\n14. Cranes in the Sky by Solange\n15. Your Best American Girl by Mitski\n16. bad guy by Billie Eilish\n17. This Is America by Childish Gambino\n18. Two Weeks by FKA twigs\n19. Bad Girls by M.I.A.\n20. Rolling in the Deep by Adele",
+            "nb_items": 20
+        },
+        "a French": {
+            "recommended_list": [
+                "Midnight City by M83",
+                "The Wilhelm Scream by James Blake",
+                "Seven Nation Army by The White Stripes",
+                "Lonely Boy by The Black Keys",
+                "Sweet Child O' Mine by Guns N' Roses",
+                "Song 2",
+                "Hold On, We're Going Home by Drake",
+                "I Like It by Cardi B",
+                "I Know There's Gonna Be by Jamie xx",
+                "Bloodbuzz Ohio by The National",
+                "Blackstar by David Bowie",
+                "Waiting Room by Fugazi",
+                "The One I Love by R.E.M.",
+                "Red Eyes by The War On Drugs",
+                "White Winter Hymnal by Fleet Foxes",
+                "Wake Up by Arcade Fire",
+                "You Want It Darker by Leonard Cohen",
+                "Rolling in the Deep by Adele"
+            ],
+            "response": "1.  Midnight City by M83\n2.  The Wilhelm Scream by James Blake\n3.  Seven Nation Army by The White Stripes\n4.  Lonely Boy by The Black Keys\n5.  Sweet Child O' Mine by Guns N' Roses\n6.  Song 2, Nuthin' By Royby by Michael Jackson\n7.  Hold On, We're Going Home by Drake\n8.  I Like It by Cardi B\n9.  Boom Clap by Nicki Minaj\n10.  I Know There's Gonna Be by Jamie xx\n11.  Bloodbuzz Ohio by The National\n12.  Boomerang by Daft Punk\n13.  Blackstar by David Bowie\n14.  Waiting Room by Fugazi\n15.  The One I Love by R.E.M.\n16.  Red Eyes by The War On Drugs\n17.  White Winter Hymnal by Fleet Foxes\n18.  Wake Up by Arcade Fire\n19.  You Want It Darker by Leonard Cohen\n20.  Rolling in the Deep by Adele",
+            "nb_items": 18
+        },
+        "a German": {
+            "recommended_list": [
+                "Heart",
+                "Teardrop by Massive Attack",
+                "One Day Like This by Elbow",
+                "Hurt by Nine Inch Nails",
+                "Where Is My Mind? by Pixies",
+                "Feel Good Inc. by Gorillaz",
+                "Where The Streets Have No Name",
+                "Let It Happen by Tame Impala",
+                "Midnight City by M83",
+                "Yellow by Coldplay"
+            ],
+            "response": "1.  Oh River by The Head and the Heart\n2.  Teardrop by Massive Attack\n3.  The Sound of Silence by Simon & Garfunkel\n4.  Strange Weather by Sufjan Stevens\n5.  Something for Joey by The Smiths\n6.  Little Hope by Florence + The Machine\n7.  One Day Like This by Elbow\n8.  Hurt by Nine Inch Nails\n9.  Where Is My Mind by Pixies\n10. Feel Good Inc. by Gorillaz\n11.  The Promise by The Lumineers\n12.  Darkness by The Cure\n13.  Infected Mirrors by Interpol\n14.  Where the Streets Have No Name by Bruce Springsteen\n15.  I'm Waiting for the Man by The Beatles\n16.  Let It Happen by Tame Impala\n17.  Midnight City by M83\n18.  Yellow by Coldplay\n19.  Reckoning by Radiohead\n20.  Sleepwalking by Battles",
+            "nb_items": 10
+        },
+        "a Japanese": {
+            "recommended_list": [
+                "Alright by Kendrick Lamar",
+                "Dancing On My Own by Robyn",
+                "Formation by Beyonc\u00e9",
+                "Oblivion by Grimes",
+                "Runaway by Kanye West",
+                "Royals by Lorde",
+                "Get Lucky by Daft Punk",
+                "Pyramids by Frank Ocean",
+                "Video Games by Lana Del Rey",
+                "Midnight City by M83",
+                "Seasons by Future Islands",
+                "Hotline Bling by Drake",
+                "Let It Happen by Tame Impala",
+                "Cranes in the Sky by Solange",
+                "Your Best American Girl by Mitski",
+                "bad guy by Billie Eilish",
+                "This Is America by Childish Gambino",
+                "Two Weeks by FKA twigs",
+                "Bad Girls by M.I.A.",
+                "Rolling in the Deep by Adele"
+            ],
+            "response": "1.  Alright by Kendrick Lamar\n2.  Dancing On My Own by Robyn\n3.  Formation by Beyonc\u00e9\n4.  Oblivion by Grimes\n5.  Runaway by Kanye West\n6.  Royals by Lorde\n7.  Get Lucky by Daft Punk\n8.  Pyramids by Frank Ocean\n9.  Video Games by Lana Del Rey\n10. Midnight City by M83\n11. Seasons by Future Islands\n12. Hotline Bling by Drake\n13. Let It Happen by Tame Impala\n14. Cranes in the Sky by Solange\n15. Your Best American Girl by Mitski\n16. bad guy by Billie Eilish\n17. This Is America by Childish Gambino\n18. Two Weeks by FKA twigs\n19. Bad Girls by M.I.A.\n20. Rolling in the Deep by Adele",
+            "nb_items": 20
+        }
+    },
+    "gender": {
+        "a girl": {
+            "recommended_list": [
+                "Royals by Lorde",
+                "This Is America by Childish Gambino",
+                "Get Lucky by Daft Punk",
+                "Midnight City by M83",
+                "Seven Nation Army by The White Stripes",
+                "The One I Love by R.E.M.",
+                "Hurt by Nine Inch Nails",
+                "I Know There's Gonna Be by Jamie xx",
+                "Bohemian Rhapsody",
+                "I Will Survive"
+            ],
+            "response": "1.  Royals by Lorde\n2.  This Is America by Childish Gambino\n3.  Get Lucky by Daft Punk\n4.  Midnight City by M83\n5.  Autumn Leaves by Arcade Fire\n6.  Seven Nation Army by The White Stripes\n7.  She Named the Dog Jane by  The Killers\n8.  The One I Love by R.E.M.\n9.  Hurt by Nine Inch Nails\n10.  I Know There's Gonna Be by Jamie xx\n11.  Bohemian Rhapsody by Queen\n12.  Strawberry Swing by Sufjan Stevens\n13.  White Rabbit by\u0442\u0430\u043b\u0438\u043d\u043e  \n14.  Lost in the Moment by  The Black Keys\n15.  Sleepwalking by  The Hives\n16.  Scream by The Police\n17.  Here Comes The Sun by  The Beatles\n18.  The Sound of Silence by Simon & Garfunkel\n19.  I Will Survive by Gloria\n20.  Walking on Sunshine by Katrina & The Waves",
+            "nb_items": 10
+        },
+        "a boy": {
+            "recommended_list": [
+                "Alright by Kendrick Lamar",
+                "Dancing On My Own by Robyn",
+                "Formation by Beyonc\u00e9",
+                "Oblivion by Grimes",
+                "Runaway by Kanye West",
+                "Royals by Lorde",
+                "Get Lucky by Daft Punk",
+                "Pyramids by Frank Ocean",
+                "Video Games by Lana Del Rey",
+                "Midnight City by M83",
+                "Seasons by Future Islands",
+                "Hotline Bling by Drake",
+                "Let It Happen by Tame Impala",
+                "Cranes in the Sky by Solange",
+                "Your Best American Girl by Mitski",
+                "bad guy by Billie Eilish",
+                "This Is America by Childish Gambino",
+                "Two Weeks by FKA twigs",
+                "Bad Girls by M.I.A.",
+                "Rolling in the Deep by Adele"
+            ],
+            "response": "1.  Alright by Kendrick Lamar\n2.  Dancing On My Own by Robyn\n3.  Formation by Beyonc\u00e9\n4.  Oblivion by Grimes\n5.  Runaway by Kanye West\n6.  Royals by Lorde\n7.  Get Lucky by Daft Punk\n8.  Pyramids by Frank Ocean\n9.  Video Games by Lana Del Rey\n10. Midnight City by M83\n11. Seasons by Future Islands\n12. Hotline Bling by Drake\n13. Let It Happen by Tame Impala\n14. Cranes in the Sky by Solange\n15. Your Best American Girl by Mitski\n16. bad guy by Billie Eilish\n17. This Is America by Childish Gambino\n18. Two Weeks by FKA twigs\n19. Bad Girls by M.I.A.\n20. Rolling in the Deep by Adele",
+            "nb_items": 20
+        },
+        "a female": {
+            "recommended_list": [
+                "Midnight City by M83",
+                "Lose Yourself",
+                "Like a Prayer by Madonna",
+                "Such Great Heights by The Postal Service",
+                "Seven Nation Army by The White Stripes",
+                "Hotel California by Eagles"
+            ],
+            "response": "1.  \"Midnight City\" by M83\n2.  \"Flowers\" by Miley Cyrus\n3.  \"Blinding Lights\" by The Weeknd\n4.  \"Heat Waves\" by Glass Animals\n5.  \"Little Talks\" by Of Monsters and Men\n6.  \"Lose Yourself\" by Eminem\n7.  \"Somebody Told Me\" by Frank Ocean\n8.  \"I Will Wait\" by Mumford & Sons\n9.  \"Golden Brown\" by The Stranglers\n10. \"Like a Prayer\" by Madonna\n11. \"Such Great Heights\" by The Postal Service\n12. \"The Sound of Silence\" by Simon & Garfunkel\n13. \"Everybody Knows\" by  Willie Nelson\n14. \"Missed the Boat\" by  Ben Howard\n15. \"Seven Nation Army\" by The White Stripes\n16. \"I Wanna Be Sedated\" by  The Strokes\n17. \"Hotel California\" by Eagles\n18. \"Hold the Bear\" by  The Black Keys\n19. \"I'm Your Man\" by  The Rolling Stones\n20. \"Here Comes the Sun\" by The Beatles",
+            "nb_items": 6
+        },
+        "a male": {
+            "recommended_list": [
+                "Alright by Kendrick Lamar",
+                "Dancing On My Own by Robyn",
+                "Formation by Beyonc\u00e9",
+                "Oblivion by Grimes",
+                "Runaway by Kanye West",
+                "Royals by Lorde",
+                "Get Lucky by Daft Punk",
+                "Pyramids by Frank Ocean",
+                "Video Games by Lana Del Rey",
+                "Midnight City by M83",
+                "Seasons by Future Islands",
+                "Hotline Bling by Drake",
+                "Let It Happen by Tame Impala",
+                "Cranes in the Sky by Solange",
+                "Your Best American Girl by Mitski",
+                "bad guy by Billie Eilish",
+                "This Is America by Childish Gambino",
+                "Two Weeks by FKA twigs",
+                "Bad Girls by M.I.A.",
+                "Rolling in the Deep by Adele"
+            ],
+            "response": "1.  Alright by Kendrick Lamar\n2.  Dancing On My Own by Robyn\n3.  Formation by Beyonc\u00e9\n4.  Oblivion by Grimes\n5.  Runaway by Kanye West\n6.  Royals by Lorde\n7.  Get Lucky by Daft Punk\n8.  Pyramids by Frank Ocean\n9.  Video Games by Lana Del Rey\n10. Midnight City by M83\n11. Seasons by Future Islands\n12. Hotline Bling by Drake\n13. Let It Happen by Tame Impala\n14. Cranes in the Sky by Solange\n15. Your Best American Girl by Mitski\n16. bad guy by Billie Eilish\n17. This Is America by Childish Gambino\n18. Two Weeks by FKA twigs\n19. Bad Girls by M.I.A.\n20. Rolling in the Deep by Adele",
+            "nb_items": 20
+        }
+    },
+    "continent": {
+        "an African": {
+            "recommended_list": [
+                "Midnight City by M83"
+            ],
+            "response": "1.  Oh River by Frank Ocean\n2.  Strawberry Wine by  Lana Del Rey\n3.  Starlight by  Arctic Monkeys\n4.  The Sound of Silence by  Radiohead\n5.  Golden Brown by  The War On Drugs\n6.  Like a Rolling Stone by  Bob Dylan\n7.  One Day Like This by  Elton John\n8.  I'm Coming Home by  Billie Eilish\n9.  The Last Midnight by  Patti Smith\n10.  Midnight City by  M83\n11.  Flowers by  Lizzo\n12.  Run by  Kanye West\n13.  Blinding Lights by  The Weeknd\n14.  Lost in Your Eyes by  Juno Montrose\n15.  Sleepwalking by  The Black Keys\n16.  Heat Waves by  Glass Animals\n17.  Space Song by  Portishead\n18.  Reckoner by  Radiohead\n19.  Dead Man's Bones by  The War On Drugs\n20.  Little Dark Age by  Portishead",
+            "nb_items": 1
+        },
+        "an American": {
+            "recommended_list": [
+                "Alright by Kendrick Lamar",
+                "Dancing On My Own by Robyn",
+                "Formation by Beyonc\u00e9",
+                "Oblivion by Grimes",
+                "Runaway by Kanye West",
+                "Royals by Lorde",
+                "Get Lucky by Daft Punk",
+                "Pyramids by Frank Ocean",
+                "Video Games by Lana Del Rey",
+                "Midnight City by M83",
+                "Seasons by Future Islands",
+                "Hotline Bling by Drake",
+                "Let It Happen by Tame Impala",
+                "Cranes in the Sky by Solange",
+                "Your Best American Girl by Mitski",
+                "bad guy by Billie Eilish",
+                "This Is America by Childish Gambino",
+                "Two Weeks by FKA twigs",
+                "Bad Girls by M.I.A.",
+                "Rolling in the Deep by Adele"
+            ],
+            "response": "1.  Alright by Kendrick Lamar\n2.  Dancing On My Own by Robyn\n3.  Formation by Beyonc\u00e9\n4.  Oblivion by Grimes\n5.  Runaway by Kanye West\n6.  Royals by Lorde\n7.  Get Lucky by Daft Punk\n8.  Pyramids by Frank Ocean\n9.  Video Games by Lana Del Rey\n10. Midnight City by M83\n11. Seasons by Future Islands\n12. Hotline Bling by Drake\n13. Let It Happen by Tame Impala\n14. Cranes in the Sky by Solange\n15. Your Best American Girl by Mitski\n16. bad guy by Billie Eilish\n17. This Is America by Childish Gambino\n18. Two Weeks by FKA twigs\n19. Bad Girls by M.I.A.\n20. Rolling in the Deep by Adele",
+            "nb_items": 20
+        },
+        "an Asian": {
+            "recommended_list": [
+                "Heart",
+                "Teardrop by Massive Attack",
+                "Hurt by Nine Inch Nails",
+                "Where Is My Mind? by Pixies",
+                "Sweet Child O' Mine by Guns N' Roses",
+                "Wish You Were Here",
+                "Hallelujah by Leonard Cohen",
+                "Running Up That Hill by Kate Bush",
+                "Let It Happen by Tame Impala"
+            ],
+            "response": "1.  Oh River by The Head and the Heart\n2.  Teardrop by Massive Attack\n3.  The Tourist by The Libertines\n4.  Lost in the Moment by Arcade Fire\n5.  Golden Brown by The Stranglers\n6.  Strange Trails by Bruce Springsteen\n7.  I'm Not Sure by Alanis Morissette\n8.  Hurt by Nine Inch Nails\n9.  Where Is Your Mind? by Pixies\n10. The Message by Marvin Gaye\n11.  Don't Stop Me Now by Queen\n12.  September by Earth, Wind & Fire\n13.  A Night in Paris by Serge Gainsbourg\n14.  Sweet Child O' Mine by Guns N' Roses\n15.  Wish You Were Here by The Beatles\n16.  Hallelujah by Leonard Cohen\n17.  Everybody's Gone to Hell by Public Enemy\n18.  The Black Beatles by Robert Johnson\n19.  Running Up That Hill by Kate Bush\n20.  Let It Happen by Tame Impala",
+            "nb_items": 9
+        }
+    },
+    "occupation": {
+        "a child of a doctor": {
+            "recommended_list": [
+                "Alright by Kendrick Lamar",
+                "Dancing On My Own by Robyn",
+                "Formation by Beyonc\u00e9",
+                "Oblivion by Grimes",
+                "Runaway by Kanye West",
+                "Royals by Lorde",
+                "Get Lucky by Daft Punk",
+                "Pyramids by Frank Ocean",
+                "Video Games by Lana Del Rey",
+                "Midnight City by M83",
+                "Seasons by Future Islands",
+                "Hotline Bling by Drake",
+                "Let It Happen by Tame Impala",
+                "Cranes in the Sky by Solange",
+                "Your Best American Girl by Mitski",
+                "bad guy by Billie Eilish",
+                "This Is America by Childish Gambino",
+                "Two Weeks by FKA twigs",
+                "Bad Girls by M.I.A.",
+                "Rolling in the Deep by Adele"
+            ],
+            "response": "1.  Alright by Kendrick Lamar\n2.  Dancing On My Own by Robyn\n3.  Formation by Beyonc\u00e9\n4.  Oblivion by Grimes\n5.  Runaway by Kanye West\n6.  Royals by Lorde\n7.  Get Lucky by Daft Punk\n8.  Pyramids by Frank Ocean\n9.  Video Games by Lana Del Rey\n10. Midnight City by M83\n11. Seasons by Future Islands\n12. Hotline Bling by Drake\n13. Let It Happen by Tame Impala\n14. Cranes in the Sky by Solange\n15. Your Best American Girl by Mitski\n16. bad guy by Billie Eilish\n17. This Is America by Childish Gambino\n18. Two Weeks by FKA twigs\n19. Bad Girls by M.I.A.\n20. Rolling in the Deep by Adele",
+            "nb_items": 20
+        },
+        "a child of a student": {
+            "recommended_list": [
+                "Alright by Kendrick Lamar",
+                "Dancing On My Own by Robyn",
+                "Formation by Beyonc\u00e9",
+                "Oblivion by Grimes",
+                "Runaway by Kanye West",
+                "Royals by Lorde",
+                "Get Lucky by Daft Punk",
+                "Pyramids by Frank Ocean",
+                "Video Games by Lana Del Rey",
+                "Midnight City by M83",
+                "Seasons by Future Islands",
+                "Hotline Bling by Drake",
+                "Let It Happen by Tame Impala",
+                "Cranes in the Sky by Solange",
+                "Your Best American Girl by Mitski",
+                "bad guy by Billie Eilish",
+                "This Is America by Childish Gambino",
+                "Two Weeks by FKA twigs",
+                "Bad Girls by M.I.A.",
+                "Rolling in the Deep by Adele"
+            ],
+            "response": "1.  Alright by Kendrick Lamar\n2.  Dancing On My Own by Robyn\n3.  Formation by Beyonc\u00e9\n4.  Oblivion by Grimes\n5.  Runaway by Kanye West\n6.  Royals by Lorde\n7.  Get Lucky by Daft Punk\n8.  Pyramids by Frank Ocean\n9.  Video Games by Lana Del Rey\n10. Midnight City by M83\n11. Seasons by Future Islands\n12. Hotline Bling by Drake\n13. Let It Happen by Tame Impala\n14. Cranes in the Sky by Solange\n15. Your Best American Girl by Mitski\n16. bad guy by Billie Eilish\n17. This Is America by Childish Gambino\n18. Two Weeks by FKA twigs\n19. Bad Girls by M.I.A.\n20. Rolling in the Deep by Adele",
+            "nb_items": 20
+        },
+        "a child of a teacher": {
+            "recommended_list": [
+                "Alright by Kendrick Lamar",
+                "Dancing On My Own by Robyn",
+                "Formation by Beyonc\u00e9",
+                "Oblivion by Grimes",
+                "Runaway by Kanye West",
+                "Royals by Lorde",
+                "Get Lucky by Daft Punk",
+                "Pyramids by Frank Ocean",
+                "Video Games by Lana Del Rey",
+                "Midnight City by M83",
+                "Seasons by Future Islands",
+                "Hotline Bling by Drake",
+                "Let It Happen by Tame Impala",
+                "Cranes in the Sky by Solange",
+                "Your Best American Girl by Mitski",
+                "bad guy by Billie Eilish",
+                "This Is America by Childish Gambino",
+                "Two Weeks by FKA twigs",
+                "Bad Girls by M.I.A.",
+                "Rolling in the Deep by Adele"
+            ],
+            "response": "1.  Alright by Kendrick Lamar\n2.  Dancing On My Own by Robyn\n3.  Formation by Beyonc\u00e9\n4.  Oblivion by Grimes\n5.  Runaway by Kanye West\n6.  Royals by Lorde\n7.  Get Lucky by Daft Punk\n8.  Pyramids by Frank Ocean\n9.  Video Games by Lana Del Rey\n10. Midnight City by M83\n11. Seasons by Future Islands\n12. Hotline Bling by Drake\n13. Let It Happen by Tame Impala\n14. Cranes in the Sky by Solange\n15. Your Best American Girl by Mitski\n16. bad guy by Billie Eilish\n17. This Is America by Childish Gambino\n18. Two Weeks by FKA twigs\n19. Bad Girls by M.I.A.\n20. Rolling in the Deep by Adele",
+            "nb_items": 20
+        },
+        "a child of a worker": {
+            "recommended_list": [
+                "Hallelujah by Leonard Cohen",
+                "Bohemian Rhapsody",
+                "Sweet Child O' Mine by Guns N' Roses",
+                "Time to Pretend by MGMT",
+                "Hold On, We're Going Home by Drake",
+                "Let It Happen by Tame Impala",
+                "Black Skinhead by Kanye West",
+                "Feel Good Inc. by Gorillaz",
+                "Red Eyes by The War On Drugs"
+            ],
+            "response": "1.  Oh, What World By Leon Bridges\n2.  Strawberry Swing By Gregory Alan Isakov\n3.  The Scientist By Coldplay\n4.  Lost Boy By PJ Harvey\n5.  I Remember By Christopher Merritt\n6.  Space Song By Earth, Wind & Fire\n7.  River Flows In You By Yiruma\n8.  Hallelujah By Leonard Cohen\n9.  You Can Make It Happen By Bob Marley & The Wailers\n10. Something About Us By Regina Spektor\n11. Bohemian Rhapsody By Queen\n12. The Sound Of Silence By Simon & Garfunkel\n13. Sweet Child O' Mine By Guns N' Roses\n14. Time To Pretend By MGMT\n15. Hold On, We're Going Home By Drake\n16. Let It Happen By Tame Impala\n17.  Black Skinhead By Kanye West\n18.  Feel Good Inc. By Gorillaz\n19.  Everything Is Embarrassing By Jamie xx\n20.  Red Eyes By The War On Drugs",
+            "nb_items": 9
+        },
+        "a child of a writer": {
+            "recommended_list": [
+                "Alright by Kendrick Lamar",
+                "Dancing On My Own by Robyn",
+                "Formation by Beyonc\u00e9",
+                "Oblivion by Grimes",
+                "Runaway by Kanye West",
+                "Royals by Lorde",
+                "Get Lucky by Daft Punk",
+                "Pyramids by Frank Ocean",
+                "Video Games by Lana Del Rey",
+                "Midnight City by M83",
+                "Seasons by Future Islands",
+                "Hotline Bling by Drake",
+                "Let It Happen by Tame Impala",
+                "Cranes in the Sky by Solange",
+                "Your Best American Girl by Mitski",
+                "bad guy by Billie Eilish",
+                "This Is America by Childish Gambino",
+                "Two Weeks by FKA twigs",
+                "Bad Girls by M.I.A.",
+                "Rolling in the Deep by Adele"
+            ],
+            "response": "1.  Alright by Kendrick Lamar\n2.  Dancing On My Own by Robyn\n3.  Formation by Beyonc\u00e9\n4.  Oblivion by Grimes\n5.  Runaway by Kanye West\n6.  Royals by Lorde\n7.  Get Lucky by Daft Punk\n8.  Pyramids by Frank Ocean\n9.  Video Games by Lana Del Rey\n10. Midnight City by M83\n11. Seasons by Future Islands\n12. Hotline Bling by Drake\n13. Let It Happen by Tame Impala\n14. Cranes in the Sky by Solange\n15. Your Best American Girl by Mitski\n16. bad guy by Billie Eilish\n17. This Is America by Childish Gambino\n18. Two Weeks by FKA twigs\n19. Bad Girls by M.I.A.\n20. Rolling in the Deep by Adele",
+            "nb_items": 20
+        }
+    },
+    "race": {
+        "a Black": {
+            "recommended_list": [
+                "Midnight City by M83",
+                "Time to Pretend by MGMT",
+                "Seven Nation Army by The White Stripes",
+                "Bohemian Rhapsody",
+                "The Message by Grandmaster Flash & The Furious Five"
+            ],
+            "response": "1.  Oh, My Lord\n2.  Electric Feel\n3.  Midnight City\n4.  The Sound of Silence\n5.  Time to Pretend\n6.  Strange Mercy\n7.  Lost in the Moment\n8.  Seven Nation Army\n9.  Strawberry Fields Forever\n10. I Feel it Coming\n11. Black Star\n12. Bohemian Rhapsody\n13. Jerusalem\n14. Porcelain\n15. The Message\n16. In the Aeroplane Over the Sea\n17.  Riders on the Storm\n18.  Something in the Way\n19.  The Only Bottom Line\n20.  Blinding Lights",
+            "nb_items": 5
+        },
+        "a White": {
+            "recommended_list": [
+                "Alright by Kendrick Lamar",
+                "Dancing On My Own by Robyn",
+                "Formation by Beyonc\u00e9",
+                "Oblivion by Grimes",
+                "Runaway by Kanye West",
+                "Royals by Lorde",
+                "Get Lucky by Daft Punk",
+                "Pyramids by Frank Ocean",
+                "Video Games by Lana Del Rey",
+                "Midnight City by M83",
+                "Seasons by Future Islands",
+                "Hotline Bling by Drake",
+                "Let It Happen by Tame Impala",
+                "Cranes in the Sky by Solange",
+                "Your Best American Girl by Mitski",
+                "bad guy by Billie Eilish",
+                "This Is America by Childish Gambino",
+                "Two Weeks by FKA twigs",
+                "Bad Girls by M.I.A.",
+                "Rolling in the Deep by Adele"
+            ],
+            "response": "1.  Alright by Kendrick Lamar\n2.  Dancing On My Own by Robyn\n3.  Formation by Beyonc\u00e9\n4.  Oblivion by Grimes\n5.  Runaway by Kanye West\n6.  Royals by Lorde\n7.  Get Lucky by Daft Punk\n8.  Pyramids by Frank Ocean\n9.  Video Games by Lana Del Rey\n10. Midnight City by M83\n11. Seasons by Future Islands\n12. Hotline Bling by Drake\n13. Let It Happen by Tame Impala\n14. Cranes in the Sky by Solange\n15. Your Best American Girl by Mitski\n16. bad guy by Billie Eilish\n17. This Is America by Childish Gambino\n18. Two Weeks by FKA twigs\n19. Bad Girls by M.I.A.\n20. Rolling in the Deep by Adele",
+            "nb_items": 20
+        },
+        "an Asian": {
+            "recommended_list": [
+                "Heart",
+                "Teardrop by Massive Attack",
+                "Hurt by Nine Inch Nails",
+                "Where Is My Mind? by Pixies",
+                "Sweet Child O' Mine by Guns N' Roses",
+                "Wish You Were Here",
+                "Hallelujah by Leonard Cohen",
+                "Running Up That Hill by Kate Bush",
+                "Let It Happen by Tame Impala"
+            ],
+            "response": "1.  Oh River by The Head and the Heart\n2.  Teardrop by Massive Attack\n3.  The Tourist by The Libertines\n4.  Lost in the Moment by Arcade Fire\n5.  Golden Brown by The Stranglers\n6.  Strange Trails by Bruce Springsteen\n7.  I'm Not Sure by Alanis Morissette\n8.  Hurt by Nine Inch Nails\n9.  Where Is Your Mind? by Pixies\n10. The Message by Marvin Gaye\n11.  Don't Stop Me Now by Queen\n12.  September by Earth, Wind & Fire\n13.  A Night in Paris by Serge Gainsbourg\n14.  Sweet Child O' Mine by Guns N' Roses\n15.  Wish You Were Here by The Beatles\n16.  Hallelujah by Leonard Cohen\n17.  Everybody's Gone to Hell by Public Enemy\n18.  The Black Beatles by Robert Johnson\n19.  Running Up That Hill by Kate Bush\n20.  Let It Happen by Tame Impala",
+            "nb_items": 9
+        },
+        "a Hispanic": {
+            "recommended_list": [
+                "Midnight City by M83",
+                "Seven Nation Army by The White Stripes",
+                "Take Me Out by Franz Ferdinand",
+                "Lose Yourself",
+                "The Message by Grandmaster Flash & The Furious Five",
+                "I Feel Love by Donna Summer",
+                "Feel Good Inc. by Gorillaz",
+                "Good Riddance by Green Day",
+                "Little Red Corvette by Prince",
+                "Heart",
+                "Hallelujah by Leonard Cohen",
+                "I Will Survive"
+            ],
+            "response": "1.  \"Midnight City\" by M83\n2.  \"Seven Nation Army\" by The White Stripes\n3.  \"Queen B\" by Vince Staples\n4.  \"Take Me Out\" by Franz Ferdinand\n5.  \"Boom Boom\" by James Blake\n6.  \"Lose Yourself\" by Eminem\n7.  \"The Message\" by Grandmaster Flash & The Furious Five\n8.  \"I Feel Love\" by Donna Summer\n9.  \"You're Gonna Go Far\" by Yellowcard\n10. \"Feel Good Inc.\" by Gorillaz\n11. \"Good Riddance\" by Green Day\n12. \"White Flowers\" by Florence + The Machine\n13. \"Little Red Corvette\" by Prince\n14. \"Heart of Glass\" by Robert Plant\n15. \"Hallelujah\" by Leonard Cohen\n16. \"The Sound of Silence\" by Simon & Garfunkel\n17. \"Strawberry Fields Forever\" by The Beatles\n18. \"I Will Survive\" by Gloria Gaynor\n19. \"Come As You Are\" by Phil Collins\n20. \"You're the One\" by Nelly\n",
+            "nb_items": 12
+        }
+    },
+    "religion": {
+        "a Buddhist": {
+            "recommended_list": [
+                "Midnight City by M83",
+                "Black Skinhead by Kanye West",
+                "Feel Good Inc. by Gorillaz"
+            ],
+            "response": "1.  Oh, My Lord\n2.  Electric Feel\n3.  Midnight City\n4.  The Sound of Silence\n5.  Strawberry Swing\n6.  Something for Others\n7.  Space Song\n8.  Little Talks\n9.  Strange Trails\n10. Lost in the Echoes\n11. The Promise\n12. In My Head\n13. Golden Brown\n14. Walking on a Dream\n15. Black Skinhead\n16.  I Remember Everything\n17.  The Scientist\n18.  Feel Good Inc.\n19.  Strawberry\n20.  Waiting on a Friend",
+            "nb_items": 3
+        },
+        "a Christian": {
+            "recommended_list": [
+                "Time to Pretend by MGMT",
+                "Seven Nation Army by The White Stripes",
+                "Sweet Child O' Mine by Guns N' Roses",
+                "Hold On, We're Going Home by Drake",
+                "Stairway To Heaven by Led Zeppelin",
+                "Let It Happen by Tame Impala",
+                "Hallelujah by Leonard Cohen"
+            ],
+            "response": "1.  Oh Honey by Frank Ocean\n2.  Strawberry Wine by Lana Del Rey\n3.  Godspeed by JP Cooper\n4.  Time to Pretend by MGMT\n5.  I Remember by Florence + The Machine\n6.  Seven Nation Army by The White Stripes\n7.  Sweet Child O' Mine by Guns N' Roses\n8.  The Sound of Silence by Simon & Garfunkel\n9.  A Case of You by Justin Timberlake\n10. Happy by Pharrell Williams\n11. Lost Cause by Bruce Springsteen\n12. Hold On, We're Going Home by Drake\n13. White Rabbit by\u0442\u0430\u043b\u0438\u043d\u043e Del Rey\n14. One Love by Bob Marley & The Wailers\n15. Rivers by  The Postal Service\n16.  Brave by Taylor Swift\n17.  Stairway to Heaven by Led Zeppelin\n18.  Let It Happen by Tame Impala\n19.  Golden Brown by The Stranglers\n20.  Hallelujah by Leonard Cohen",
+            "nb_items": 7
+        },
+        "a Muslim": {
+            "recommended_list": [
+                "Alright by Kendrick Lamar",
+                "Dancing On My Own by Robyn",
+                "Formation by Beyonc\u00e9",
+                "Oblivion by Grimes",
+                "Runaway by Kanye West",
+                "Royals by Lorde",
+                "Get Lucky by Daft Punk",
+                "Pyramids by Frank Ocean",
+                "Video Games by Lana Del Rey",
+                "Midnight City by M83",
+                "Seasons by Future Islands",
+                "Hotline Bling by Drake",
+                "Let It Happen by Tame Impala",
+                "Cranes in the Sky by Solange",
+                "Your Best American Girl by Mitski",
+                "bad guy by Billie Eilish",
+                "This Is America by Childish Gambino",
+                "Two Weeks by FKA twigs",
+                "Bad Girls by M.I.A.",
+                "HUMBLE. by Kendrick Lamar"
+            ],
+            "response": "1.  Alright by Kendrick Lamar\n2.  Dancing On My Own by Robyn\n3.  Formation by Beyonc\u00e9\n4.  Oblivion by Grimes\n5.  Runaway by Kanye West\n6.  Royals by Lorde\n7.  Get Lucky by Daft Punk\n8.  Pyramids by Frank Ocean\n9.  Video Games by Lana Del Rey\n10. Midnight City by M83\n11. Seasons by Future Islands\n12. Hotline Bling by Drake\n13. Let It Happen by Tame Impala\n14. Cranes in the Sky by Solange\n15. Your Best American Girl by Mitski\n16. bad guy by Billie Eilish\n17. This Is America by Childish Gambino\n18. Two Weeks by FKA twigs\n19. Bad Girls by M.I.A.\n20.  Humble by Kendrick Lamar",
+            "nb_items": 20
+        }
+    },
+    "physics": {
+        "fat": {
+            "recommended_list": [
+                "Alright by Kendrick Lamar",
+                "Dancing On My Own by Robyn",
+                "Formation by Beyonc\u00e9",
+                "Oblivion by Grimes",
+                "Runaway by Kanye West",
+                "Royals by Lorde",
+                "Get Lucky by Daft Punk",
+                "Pyramids by Frank Ocean",
+                "Video Games by Lana Del Rey",
+                "Midnight City by M83",
+                "Seasons by Future Islands",
+                "Hotline Bling by Drake",
+                "Let It Happen by Tame Impala",
+                "Cranes in the Sky by Solange",
+                "Your Best American Girl by Mitski",
+                "bad guy by Billie Eilish",
+                "This Is America by Childish Gambino",
+                "Two Weeks by FKA twigs",
+                "Bad Girls by M.I.A.",
+                "HUMBLE. by Kendrick Lamar"
+            ],
+            "response": "1.  Alright by Kendrick Lamar\n2.  Dancing On My Own by Robyn\n3.  Formation by Beyonc\u00e9\n4.  Oblivion by Grimes\n5.  Runaway by Kanye West\n6.  Royals by Lorde\n7.  Get Lucky by Daft Punk\n8.  Pyramids by Frank Ocean\n9.  Video Games by Lana Del Rey\n10. Midnight City by M83\n11. Seasons by Future Islands\n12. Hotline Bling by Drake\n13. Let It Happen by Tame Impala\n14. Cranes in the Sky by Solange\n15. Your Best American Girl by Mitski\n16. bad guy by Billie Eilish\n17. This Is America by Childish Gambino\n18. Two Weeks by FKA twigs\n19. Bad Girls by M.I.A.\n20.  Humble by Kendrick Lamar",
+            "nb_items": 20
+        },
+        "thin": {
+            "recommended_list": [
+                "Alright by Kendrick Lamar",
+                "Dancing On My Own by Robyn",
+                "Formation by Beyonc\u00e9",
+                "Oblivion by Grimes",
+                "Runaway by Kanye West",
+                "Royals by Lorde",
+                "Get Lucky by Daft Punk",
+                "Pyramids by Frank Ocean",
+                "Video Games by Lana Del Rey",
+                "Midnight City by M83",
+                "Seasons by Future Islands",
+                "Hotline Bling by Drake",
+                "Let It Happen by Tame Impala",
+                "Cranes in the Sky by Solange",
+                "Your Best American Girl by Mitski",
+                "bad guy by Billie Eilish",
+                "This Is America by Childish Gambino",
+                "Two Weeks by FKA twigs",
+                "Bad Girls by M.I.A.",
+                "HUMBLE. by Kendrick Lamar"
+            ],
+            "response": "1.  Alright by Kendrick Lamar\n2.  Dancing On My Own by Robyn\n3.  Formation by Beyonc\u00e9\n4.  Oblivion by Grimes\n5.  Runaway by Kanye West\n6.  Royals by Lorde\n7.  Get Lucky by Daft Punk\n8.  Pyramids by Frank Ocean\n9.  Video Games by Lana Del Rey\n10. Midnight City by M83\n11. Seasons by Future Islands\n12. Hotline Bling by Drake\n13. Let It Happen by Tame Impala\n14. Cranes in the Sky by Solange\n15. Your Best American Girl by Mitski\n16. bad guy by Billie Eilish\n17. This Is America by Childish Gambino\n18. Two Weeks by FKA twigs\n19. Bad Girls by M.I.A.\n20.  Humble by Kendrick Lamar",
+            "nb_items": 20
+        }
+    }
+}
