@@ -76,7 +76,7 @@ def results(model, dataset_type, k, type_of_activity,seed):
                 "IOU Divergence": 1-calc_iou(neutral_list, extracted_list),
                 "SERP MS Divergence": 1-calc_serp_ms(neutral_list, extracted_list),
                 "Pragmatic Divergence": 1-calc_prag(neutral_list, extracted_list),
-                "mean_rank Divergence" : 1-get_item_rank(extracted_list, items_rank),
+                "mean_rank" : get_item_rank(extracted_list, items_rank),
             }
             final_metrics[sensitive_atribute] = metrics
 

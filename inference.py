@@ -9,15 +9,15 @@ from tqdm import tqdm
 import argparse
 import configparser
 
-parser = argparse.ArgumentParser()
-parser.add_argument("--type_inf", type=str, default="ollama")
-parser.add_argument("--models", type=str, default="llama3.2")
-parser.add_argument("--dataset_types", type=str, default="college")
-parser.add_argument("--type_of_activities", type=str, default="student")
-parser.add_argument("--k", type=int)
-parser.add_argument("--seeds", type=str, default=42)
+# parser = argparse.ArgumentParser()
+# parser.add_argument("--type_inf", type=str, default="ollama")
+# parser.add_argument("--models", type=str, default="llama3.2")
+# parser.add_argument("--dataset_types", type=str, default="college")
+# parser.add_argument("--type_of_activities", type=str, default="student")
+# parser.add_argument("--k", type=int)
+# parser.add_argument("--seeds", type=str, default=42)
 
-args = parser.parse_args()
+# args = parser.parse_args()
 
 config = configparser.ConfigParser()
 config.read("config/config_inference")
@@ -139,7 +139,7 @@ if __name__ == "__main__":
     nb_errors = 0
 
     for model in models:
-        for seed in seeds:
+        for seed in tqdm(seeds, desc=f"Processing seeds for model {model}", position=2):
             for dataset_type, type_of_activity in zip(dataset_types, type_of_activities):
                 nb_calls, nb_errors = inference(model, dataset_type, k, type_of_activity, type_inf,seed,nb_calls,nb_errors)
 

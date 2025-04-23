@@ -32,97 +32,140 @@ os.makedirs(VISUALIZATION_PATH, exist_ok=True)
 
 # --- 1. Define Action Movies ---
 action_movies_set = set([
-    "Avengers: Infinity War", "Top Gun: Maverick", "The Dark Knight", "The Matrix",
-    "Inception", "Gladiator", "Spider-Man: Across the Spider-Verse",
-    "The Lord of the Rings: The Return of the King", "The X-Treme Riders",
-    "The Lord of the Rings: The Fellowship of the Ring", "Puss in Boots: The Last Wish",
-    "Spider-Man: Into the Spider-Verse", "Avengers: Endgame",
-    "The Lord of the Rings: The Two Towers", "Harry Potter and the Deathly Hallows: Part 2",
-    "Princess Mononoke", "Alien", "Star Wars", "Terminator 2: Judgment Day",
-    "The Good, the Bad and the Ugly", "Saving Private Ryan", "Scarface",
-    "Hacksaw Ridge", "Inglourious Basterds", "Oldboy", "Django Unchained",
-    "Léon: The Professional", "Zack Snyder's Justice League",
-    "Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train", "Jujutsu Kaisen 0",
-    "Full Metal Jacket", "City of God", "Apocalypse Now", "Along with the Gods: The Two Worlds",
-    "Ford v Ferrari", "New Gods: Nezha Reborn", "Seven Samurai",
-    "Black Clover: Sword of the Wizard King", "The Empire Strikes Back",
-    "Along with the Gods: The Last 49 Days", "Miraculous World: New York, United HeroeZ",
-    "For a Few Dollars More", "Bound by Honor", "Mortal Kombat Legends: Scorpion's Revenge",
-    "Kill Shot", "Neon Genesis Evangelion: The End of Evangelion", "Come and See",
-    "I Am Nezha 2", "My Hero Academia: Heroes Rising", "Das Boot", "Elite Squad",
-    "A Taxi Driver", "Evangelion: 3.0+1.0 Thrice Upon a Time",
-    "Justice League Dark: Apokolips War", "The Weapon", "Ran", "Harakiri",
-    "Ranma ½: The Movie 2 — The Battle of Togenkyo: Rescue the Brides!", "Green Snake",
-    "Lock, Stock and Two Smoking Barrels", "The Best in Hell", "Black Butler: Book of Murder",
-    "The Legend of Hei", "Sherlock Jr.", "Yojimbo", "Primal: Tales of Savagery",
-    "Gridman Universe", "Digimon Adventure: Last Evolution Kizuna", "The Wages of Fear",
-    "Hard Knox", "The Legend of Maula Jatt", "Initial D Legend 1: Awakening",
-    "Chhota Bheem aur Krishna: Pataliputra - City of the Dead",
-    "Transformers Prime: Beast Hunters - Predacons Rising", "Chasing the Storm",
-    "Saga of Tanya the Evil: The Movie", "Shockwave", "XX: Beautiful Weapon",
-    "Fate/strange Fake -Whispers of Dawn-", "Bungo Stray Dogs: Dead Apple", "Yellow Colt",
-    "Ghosted", "Kraven Redux", "Kizumonogatari Part 3: Reiketsu",
-    "Ramayana: The Legend of Prince Rama", "XXX", "Gintama: The Very Final",
-    "Samurai Rebellion", "Pretty Guardian Sailor Moon Eternal the Movie Part 2",
-    "Mission «Sky»", "Powderkeg", "Death by Misadventure: The Mysterious Life of Bruce Lee",
-    "Memoirs of a Lady Ninja", "Kizumonogatari Part 2: Nekketsu", "Speed Dragon",
-    "Girls und Panzer das Finale: Part IV", "Invincible",
-    "Pretty Cure All Stars DX3: Deliver the Future! The Rainbow-Colored Flower That Connects the World",
-    "The Fixer", "Against All Enemies", "The Killing Death",
-    "Digimon Adventure: Our War Game", "Hot Wheels AcceleRacers: Breaking Point", "Red Dawn",
-    "Hot Wheels AcceleRacers: Ignition", "Princess Principal Crown Handler: Chapter 2",
-    "The Fatal Game", "Viduthalai: Part I", "Moon: The Battles of Space",
-    "Warriors of the Rainbow: Seediq Bale - Part 2: The Rainbow Bridge", "The Six Devil Women",
-    "The Last Bullet", "Gunpoint", "Shin Getter Robo vs Neo Getter Robo",
-    "The Equalizer - The Movie: Blood & Wine", "The Odyssey", "Spider-Man!",
-    "A tiro limpio", "Kamen Rider Den-O & Kiva: Climax Deka",
-    "Ghost in the Shell: SAC_2045 The Last Human", "Legend of Lv Bu",
-    "Pretty Cure Super Stars!", "Out of Reach", "Kamen Rider Kuuga: New Year's Dream",
-    "Mask the Kekkou: Reborn", "The Kung Fu Kids VI", "Sacred Seven: Shirogane no Tsubasa",
-    "Bloodsucka Jones vs. The Creeping Death", "Jackie Chan: Building an Icon", "Dadagiri",
-    "Slugterra: The Emperor's Revenge", "\"Eiyuu\" Kaitai",
-    "Hot Wheels AcceleRacers: The Ultimate Race", "Flash",
-    "The Wandering Earth: Beyond 2020 Special Edition", "Ultraman vs. Kamen Rider",
-    "Pretty Cure Miracle Leap: A Wonderful Day with Everyone", "CobraGator",
-    "Slugterra: Eastern Caverns", "Kamen Rider: Run All Over the World",
-    "Mega Man X: The Day of Sigma", "Yakuza of Seki", "Halo",
-    "Bruce Lee: The Man and the Legend", "Smuggler's Ransom",
-    "Lady Ninja Kasumi 5: Counter Attack", "Black Dog",
-    "Bodacious Space Pirates: Abyss of Hyperspace", "Space Battleship Yamato",
-    "Delicious Party♡Precure Movie: Dreaming♡Children's Lunch!",
-    "Hot Wheels AcceleRacers: The Speed of Silence", "Bahaddur Gandu",
-    "Death of Hope Part 1: Anarchy Reigns", "Kamen Rider Amazons Season 1 the Movie: Awakening",
-    "Dushman Duniya Ka", "The Revenge", "Death Metal Zombies", "3-03 Rescate", "Muddat",
-    "Chouriki Sentai Ohranger: The Movie", "Dragón", "Hunter × Hunter Pilot", "Torbaaz",
-    "Galaxy Express 999: Eternal Traveller Emeraldas", "Deadly Game",
-    "Macross Frontier: Labyrinth of Time", "Gundam Reconguista in G Movie V: Beyond the Peril of Death",
-    "Princess Principal Crown Handler: Chapter 3", "Prema Yuddham",
-    "Kyuukyuu Sentai GoGoFive: Sudden Shock! A New Warrior!",
-    "Kikai Sentai Zenkaiger The Movie: Red Battle! All Sentai Rally!!", "M.I.A. A Greater Evil",
-    "Team Hot Wheels: The Skills to Thrill", "Decisive Engagement: The Liaoxi Shenyang Campaign",
-    "The Oregon Trail", "Pantai Norasingh", "Baian the Assassin, M.D.: Part 2",
-    "Lord Mito: All Star Version", "Gunbuster: The Movie", "Space Runaway Ideon: Be Invoked",
-    "Kamen Rider Build NEW WORLD: Kamen Rider Grease", "Deadlocked: Escape from Zone 14",
-    "Seventeen Ninja 2: The Great Battle", "Full Metal Panic! Movie 2: One Night Stand",
-    "Say Your Prayers... and Dig Your Grave!", "Galaxy Investigation 2100: Border Planet",
-    "Escape from Tarkov. Raid.", "The Battle", "Hot Wheels: Build the Epic Race",
-    "Admiral Yamamoto", "Ringgo: The Dog Shooter", "Lady Ninja Kasumi 6: Yukimura Assasination",
-    "LEGO DC Super Hero Girls: Galactic Wonder", "Loha",
-    "Kamen Rider THE WINTER MOVIE: Gotchard & Geats Strongest Chemy★Great Gotcha Operation",
-    "Krantiveer", "Aggressive Behavior",
-    "Mobile Suit Gundam Unicorn Film And Live The Final - A Mon Seul Desir",
-    "Gundam Reconguista in G Movie IV: Love That Cries Out in Battle", "The Spider Returns",
-    "Stephen the Great: Vaslui 1475", "Kamen Rider Ryuki Special: 13 Riders",
-    "Fatal Mission", "Ninja: The Final Duel II", "Miniforce: Raid of Hamburger Monsters",
-    "Fight to Survive", "The Great War", "Lady Ninja Kasumi 3: Secret Skills", "Agni I.P.S.",
-    "G.I. Joe: The Revenge of Cobra", "Kikai Sentai Zenkaiger vs. Kiramager vs. Senpaiger",
-    "Sherdil", "Slugterra: Into The Shadows", "Praetorian", "Ganryujima: Kojiro and Musashi",
-    "Aayirathil Iruvar", "Sand Land", "Tsubasa Chronicle: Shunraiki", "The Escape Plan",
-    "Tokyo Revengers: Bloody Halloween", "The Powerpuff Girls Rule!!!",
-    "Girls in Trouble: Space Squad Episode Zero", "The Final Game of Death", "Angrakshak",
-    "Thunder Chase", "Oda Nobunaga", "ThunderCats: Exodus", "Last Stand at Lang Mei",
-    "Kamen Rider Amazons Season 2 the Movie: Reincarnation"
-])
+    "Avengers: Infinity War",
+    "The Good, the Bad and the Ugly",
+    "Avengers: Endgame",
+    "Star Wars",
+    "The Matrix",
+    "The Dark Knight",
+    "Gladiator",
+    "Top Gun: Maverick",
+    "The Lord of the Rings: The Fellowship of the Ring",
+    "Inception",
+    "Spider-Man: Across the Spider-Verse",
+    "The Lord of the Rings: The Return of the King",
+    "Oldboy",
+    "Zack Snyder's Justice League",
+    "Puss in Boots: The Last Wish",
+    "Spider-Man: Into the Spider-Verse",
+    "The Lord of the Rings: The Two Towers",
+    "Saving Private Ryan",
+    "Léon: The Professional",
+    "Harry Potter and the Deathly Hallows: Part 2",
+    "Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train",
+    "Inglourious Basterds",
+    "Django Unchained",
+    "Terminator 2: Judgment Day",
+    "Hacksaw Ridge",
+    "Jujutsu Kaisen 0",
+    "Princess Mononoke",
+    "Once Upon a Time in the West",
+    "The Weapon",
+    "Full Metal Jacket",
+    "Black Clover: Sword of the Wizard King",
+    "Seven Samurai",
+    "I Am Nezha 2", # Animation, Fantasy, Action
+    "How to Train Your Dragon: Homecoming", # Assuming action like the films
+    "Apocalypse Now",
+    "Ford v Ferrari",
+    "Along with the Gods: The Two Worlds", # Fantasy, Action
+    "Bound by Honor", # Crime, Action
+    "My Hero Academia: Heroes Rising", # Anime Superhero Action
+    "New Gods: Nezha Reborn", # Animation, Fantasy, Action
+    "Along with the Gods: The Last 49 Days", # Fantasy, Action
+    "The Empire Strikes Back",
+    "Mortal Kombat Legends: Scorpion's Revenge", # Animated Action
+    "For a Few Dollars More",
+    "KONOSUBA – God's blessing on this wonderful world! Legend of Crimson", # Anime Action/Comedy
+    "Mega Man X: The Day of Sigma", # Anime Sci-Fi/Action
+    "Kill Shot", # Title implies action
+    "Problem Children Are Coming from Another World, Aren't They?: Hot Springs Romantic Journey", # Anime Action/Comedy
+    "Steven Universe: The Movie", # Animated Action/Musical
+    "Miraculous World: New York, United HeroeZ", # Animated Superhero Action
+    "Neon Genesis Evangelion: The End of Evangelion", # Anime Mecha Action/Drama
+    "Justice League Dark: Apokolips War", # Animated Superhero Action
+    "Elite Squad", # Action/Crime
+    "Bungo Stray Dogs: Dead Apple", # Anime Action/Supernatural
+    "Crayon Shin-chan: The Adult Empire Strikes Back", # Anime Action/Comedy
+    "A Taxi Driver", # Action/Drama/History
+    "Das Boot", # War Action/Thriller
+    "Cardcaptor Sakura: The Sealed Card", # Anime Action/Adventure
+    "Black Butler: Book of Murder", # Anime Action/Mystery
+    "Kizumonogatari Part 2: Nekketsu", # Anime Action/Supernatural
+    "La Leyenda de los Chaneques", # Animated Action/Horror
+    "Gridman Universe", # Anime Mecha/Action
+    "Made in Abyss: Wandering Twilight", # Anime Dark Fantasy/Action
+    "Digimon Adventure: Last Evolution Kizuna", # Anime Action/Adventure
+    "Kizumonogatari Part 3: Reiketsu", # Anime Action/Supernatural
+    "Evangelion: 3.0+1.0 Thrice Upon a Time", # Anime Mecha/Action
+    "Saga of Tanya the Evil: The Movie", # Anime Military Fantasy/Action
+    "The Legend of Hei", # Animation/Fantasy/Action
+    "Ranma ½: Nihao My Concubine", # Anime Martial Arts/Action/Comedy
+    "Ran", # Action/Drama/War
+    "Wolfwalkers", # Animated Fantasy/Action elements
+    "Gintama: The Very Final", # Anime Action/Comedy/Sci-Fi
+    "Pretty Guardian Sailor Moon Eternal the Movie Part 2", # Anime Magical Girl/Action
+    "The Best in Hell", # Title implies action
+    "Green Snake", # Animation/Fantasy/Action
+    "Kamen Rider Den-O & Kiva: Climax Deka", # Tokusatsu Action
+    "Scooby-Doo! and Kiss: Rock and Roll Mystery", # Animated Action elements
+    "Digimon Adventure: Our War Game", # Anime Action/Adventure
+    "Revue Starlight: The Movie", # Anime Music/Action
+    "Harakiri", # Action/Drama/History
+    "Pretty Cure All Stars DX3: Deliver the Future! The Rainbow-Colored Flower That Connects the World", # Anime Magical Girl/Action
+    "Bodacious Space Pirates: Abyss of Hyperspace", # Anime Sci-Fi/Action
+    "Yo-kai Watch Shadowside: Resurrection of the Demon King", # Anime Action/Supernatural
+    "My Little Pony: Equestria Girls - Rainbow Rocks", # Animated Action elements
+    "Doctor Who: The Day of the Doctor", # Sci-Fi Action/Adventure
+    "Scooby-Doo! and the Gourmet Ghost", # Animated Action elements
+    "Sacred Seven: Shirogane no Tsubasa", # Anime Mecha/Action
+    "Hot Wheels AcceleRacers: Breaking Point", # Animated Action/Sci-Fi
+    "Inazuma Eleven ChouJigen Dream Match", # Anime Sports/Action
+    "Transformers Prime: Beast Hunters - Predacons Rising", # Animated Sci-Fi/Action
+    "Tales of Zestiria: The Shepherd's Advent", # Anime Fantasy/Action
+    "Yojimbo", # Action/Drama/Thriller
+    "Scooby-Doo! Haunted Holidays", # Animated Action elements
+    "Hot Wheels AcceleRacers: The Ultimate Race", # Animated Action/Sci-Fi
+    "Hot Wheels AcceleRacers: Ignition", # Animated Action/Sci-Fi
+    "Initial D Legend 1: Awakening", # Anime Action/Sports
+    "Lock, Stock and Two Smoking Barrels", # Action/Comedy/Crime
+    "Space Runaway Ideon: Be Invoked", # Anime Mecha/Action
+    "Gunbuster: The Movie", # Anime Mecha/Action
+    "Gundam Reconguista in G Movie IV: Love That Cries Out in Battle", # Anime Mecha/Action
+    "Mobile Suit Gundam Unicorn Film And Live The Final - A Mon Seul Desir", # Anime Mecha/Action
+    "Legend of the Galactic Heroes: Overture to a New War", # Anime Sci-Fi/Action/War
+    "Girls und Panzer das Finale: Part IV", # Anime Action/Comedy/Sports
+    "Scooby-Doo! and the Beach Beastie", # Animated Action elements
+    "Legend of the Galactic Heroes: Die Neue These - Intrigue 2", # Anime Sci-Fi/Action/War
+    "Shin Getter Robo vs Neo Getter Robo", # Anime Mecha/Action
+    "Zorori the Naughty Hero: Super Adventure!", # Anime Action elements
+    "Scooby-Doo! Mecha Mutt Menace", # Animated Action elements
+    "Heart and Yummie", # Anime Action/Adventure
+    "The Return of Hunter: Everyone Walks in L.A.", # Action/Crime
+    "Shimajiro and the Rainbow Oasis", # Anime Action elements
+    "Macross Frontier: Labyrinth of Time", # Anime Mecha/Action/Music
+    "Scooby-Doo! Ghastly Goals", # Animated Action elements
+    "Billy & Mandy: Wrath of the Spider Queen", # Animated Action/Comedy
+    "Hot Wheels AcceleRacers: The Speed of Silence", # Animated Action/Sci-Fi
+    "Hamtaro: Adventures in Ham-Ham Land", # Anime Action elements
+    "Haruka - Beyond the Stream of Time 3: Endless Destiny", # Anime Action elements
+    "A Samurai in Time", # Title implies Action/Adventure
+    "Kikai Sentai Zenkaiger The Movie: Red Battle! All Sentai Rally!!", # Tokusatsu Action
+    "Scooby-Doo! and the Spooky Scarecrow", # Animated Action elements
+    "Bob the Builder: Mega Machines - The Movie", # Animated Action elements
+    "The Legend of the Galactic Heroes: Die Neue These Collision 2", # Anime Sci-Fi/Action/War
+    "Cute High Earth Defense Club LOVE! LOVE! LOVE!", # Anime Magical Boy/Action
+    "The Tatami Time Machine Blues", # Anime Sci-Fi/Action elements
+    "Princess Principal Crown Handler: Chapter 2", # Anime Action/Spy
+    "Kamen Rider Drive Saga: Kamen Rider Mach / Kamen Rider Heart", # Tokusatsu Action
+    "Chouriki Sentai Ohranger: The Movie", # Tokusatsu Action
+    "Tokusou Sentai Dekaranger: 10 YEARS AFTER", # Tokusatsu Action
+    "The Legend of the Galactic Heroes: Die Neue These Collision 3", # Anime Sci-Fi/Action/War
+    "Super Sentai Strongest Battle Director's Cut", # Tokusatsu Action
+    "The Legend of the Galactic Heroes: Die Neue These Collision 1", # Anime Sci-Fi/Action/War
+    "Kamen Rider THE WINTER MOVIE: Gotchard & Geats Strongest Chemy★Great Gotcha Operation" # Tokusatsu Action
+]
+)
 
 # --- 2. Define File Pattern and Personas ---
 file_pattern = os.path.join(OUTPUT_PATH, "gemma3_movie__*.json") # Use os.path.join for cross-platform compatibility

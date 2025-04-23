@@ -6,10 +6,10 @@ visualization_path = data/visualization/
 sensitive_attributes_path = config/sensitive_attributes.json
 
 [parameters]
-models = gemma3
+models = gemma3_4b
 dataset_types = college, movie, music
 type_of_activities = None
 # type_of_activities = mathy, action movie fan, rock fan
 k = 20
 type_inf = vllm
-seeds = 0, 1
+seeds = 0, 1, 2, 3, 4

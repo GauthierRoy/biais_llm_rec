@@ -1,9 +1,12 @@
 {
-    "llama3.2": {
+    "llama3.2_3b": {
         "ollama": "meta-llama/Llama-3.2-3B-Instruct",
         "vllm": "meta-llama/Llama-3.2-3B-Instruct"
     },
-    "gemma3": {
+    "llama3.2_8b": {
+        "vllm": "meta-llama/Llama-3.2-8B-Instruct"
+    },
+    "gemma3_4b": {
         "vllm": "google/gemma-3-4b-it"
     },
     "gemma3_12b": {
@@ -11,5 +14,5 @@
     },
     "gemma3_1b": {
         "vllm": "google/gemma-3-1b-it"
-    },
+    }
 }

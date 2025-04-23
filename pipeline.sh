@@ -1,18 +1,18 @@
 echo "Running pipeline.sh"
 
 # Manage virtual environment
-if [ -n "$VIRTUAL_ENV" ]; then
-    deactivate
-fi
+# if [ -n "$VIRTUAL_ENV" ]; then
+#     deactivate
+# fi
 
-if [ -d "venv" ]; then
-    echo "Virtual environment already exists, skipping creation."
-    source venv/bin/activate
-else
-    python3 -m venv venv
-    source venv/bin/activate
-    pip install .
-fi
+# if [ -d "venv" ]; then
+#     echo "Virtual environment already exists, skipping creation."
+#     source venv/bin/activate
+# else
+#     python3 -m venv venv
+#     source venv/bin/activate
+#     pip install .
+# fi
 
 
 # Manage the dataset creation
