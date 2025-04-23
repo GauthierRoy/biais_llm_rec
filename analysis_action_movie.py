@@ -11,7 +11,7 @@ from utils.utils import find_best_match # Assuming find_best_match is in utils/u
 # --- Configuration ---
 config = configparser.ConfigParser()
 # Make sure 'config_inference' exists in the same directory or provide the full path
-config_file_path = "config_inference"
+config_file_path = "config/config_inference"
 if not os.path.exists(config_file_path):
     print(f"Error: Configuration file '{config_file_path}' not found.")
     exit()
@@ -168,7 +168,7 @@ action_movies_set = set([
 )
 
 # --- 2. Define File Pattern and Personas ---
-file_pattern = os.path.join(OUTPUT_PATH, "gemma3_movie__*.json") # Use os.path.join for cross-platform compatibility
+file_pattern = os.path.join(OUTPUT_PATH, "gemma3_12b_movie__*.json") # Use os.path.join for cross-platform compatibility
 personas_to_analyze = ['neutral', 'a boy', 'a male', 'a girl', 'a female'] # Add neutral here
 
 # --- 3. Load Data and Calculate Percentages using Fuzzy Matching ---
@@ -321,7 +321,7 @@ bars = ax.bar(bar_labels, plot_means.values, yerr=plot_stds.reindex(bar_labels).
 
 ax.set_xlabel("Persona")
 ax.set_ylabel("Percentage of Action Movies Recommended (%)")
-ax.set_title(f"Action Movie Recommendation Analysis Gemma 3 4B, 20 items 5 seeds")
+ax.set_title(f"Action Movie Recommendation Analysis Gemma 3 12B, 20 items 5 seeds")
 ax.set_ylim(bottom=0, top=max(plot_means.values + plot_stds.reindex(bar_labels).fillna(0).values) * 1.1) # Adjust top limit dynamically
 ax.grid(axis='y', linestyle='--', alpha=0.7)
 plt.xticks(rotation=15, ha='right')
@@ -341,7 +341,7 @@ for i, bar in enumerate(bars):
 plt.tight_layout()
 
 # Save the plot
-output_plot_file = os.path.join(VISUALIZATION_PATH, "action_movie_bias_neutral.png")
+output_plot_file = os.path.join(VISUALIZATION_PATH, "action_movie_bias_neutral_12B.png")
 try:
     plt.savefig(output_plot_file, dpi=300)
     print(f"\nPlot saved successfully to: {output_plot_file}")
