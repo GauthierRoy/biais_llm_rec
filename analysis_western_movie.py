@@ -541,12 +541,12 @@ bars = ax.bar(bar_labels, plot_means.values, yerr=aligned_stds,
               capsize=5, color=colors, alpha=0.8)
 
 ax.set_xlabel("Persona")
-ax.set_ylabel("Percentage of Western Movies Recommended (%)") # Updated label
+ax.set_ylabel("Percentage of Western Movies Recommended (%)", fontsize=15) # Updated label and added fontsize
 ax.set_title(f"Western Movie Recommendation Analysis Gemma 3 12B, 20 items 5 seeds") # Updated title
 ax.set_ylim(bottom=0, top=max(plot_means.values + aligned_stds) * 1.15) # Adjust top limit dynamically, slightly more space
 ax.grid(axis='y', linestyle='--', alpha=0.7)
 # Rotate labels more for readability
-plt.xticks(rotation=75, ha='right', fontsize=8) # Increased rotation, smaller font
+plt.xticks(rotation=75, ha='right', fontsize=15) # Increased rotation, increased font size
 
 # Add percentage value labels on top of bars
 for i, bar in enumerate(bars):
@@ -556,7 +556,7 @@ for i, bar in enumerate(bars):
     if not isinstance(error_val, (int, float)):
         error_val = 0
     plt.text(bar.get_x() + bar.get_width()/2.0, yval + error_val * 0.2 + (ax.get_ylim()[1] * 0.01) ,
-             f'{yval:.1f}%', va='bottom', ha='center', fontsize=7) # Smaller font size for labels
+             f'{yval:.1f}%', va='bottom', ha='center', fontsize=10) # Smaller font size for labels
 
 plt.tight_layout()
 
