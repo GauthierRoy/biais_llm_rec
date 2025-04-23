@@ -342,7 +342,7 @@ for i, bar in enumerate(bars):
 plt.tight_layout()
 
 # Save the plot
-output_plot_file = os.path.join(VISUALIZATION_PATH, "action_movie_bias_neutral_12B.png")
+output_plot_file = os.path.join(VISUALIZATION_PATH, "action_movie_bias_neutral_4B.png")
 try:
     plt.savefig(output_plot_file, dpi=300)
     print(f"\nPlot saved successfully to: {output_plot_file}")
