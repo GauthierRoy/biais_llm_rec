@@ -174,12 +174,13 @@ fig, ax = plt.subplots(figsize=(12, 7))
 
 df_plot.plot(kind='bar', ax=ax, width=0.6) # Adjust width if needed for two bars
 
-ax.set_xlabel("Dataset", fontsize=12)
-ax.set_ylabel("Overall Mean IOU Divergence", fontsize=12)
-ax.set_title("Overall Mean IOU Divergence: Gemma 3 4B vs Llama 3.2 3B Across Datasets", fontsize=14, pad=15)
-ax.tick_params(axis='x', rotation=0) # Keep dataset names horizontal
+ax.set_xlabel("Dataset", fontsize=14) # Increased fontsize
+ax.set_ylabel("Overall Mean IOU Divergence", fontsize=14) # Increased fontsize
+ax.set_title("Overall Mean IOU Divergence: Gemma 3 4B vs Llama 3.2 3B Across Datasets", fontsize=16, pad=15) # Increased fontsize
+ax.tick_params(axis='x', rotation=0, labelsize=12) # Keep dataset names horizontal, increased labelsize
+ax.tick_params(axis='y', labelsize=12) # Increased y-axis tick labelsize
 ax.grid(axis='y', linestyle='--', alpha=0.7)
-ax.legend(title="Model", fontsize=10, title_fontsize=11) # Updated legend title
+ax.legend(title="Model", fontsize=12, title_fontsize=13) # Increased legend font sizes
 
 # Adjust y-axis limits slightly for padding if data exists
 if not df_plot.dropna().empty:

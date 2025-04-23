@@ -319,12 +319,13 @@ bar_labels = plot_means.index
 bars = ax.bar(bar_labels, plot_means.values, yerr=plot_stds.reindex(bar_labels).fillna(0).values, # Reindex stds too and fill NaN with 0 for plotting
               capsize=5, color=plot_colors, alpha=0.8)
 
-ax.set_xlabel("Persona")
-ax.set_ylabel("Percentage of Action Movies Recommended (%)")
-ax.set_title(f"Action Movie Recommendation Analysis Gemma 3 12B, 20 items 5 seeds")
+ax.set_xlabel("Persona", fontsize=22) # Increased fontsize
+ax.set_ylabel("Percentage Action Movies (%)", fontsize=22) # Increased fontsize
+ax.set_title(f"Action Movie Recommendation Analysis Gemma 3 12B", fontsize=20, pad=15) # Increased fontsize
 ax.set_ylim(bottom=0, top=max(plot_means.values + plot_stds.reindex(bar_labels).fillna(0).values) * 1.1) # Adjust top limit dynamically
 ax.grid(axis='y', linestyle='--', alpha=0.7)
-plt.xticks(rotation=15, ha='right')
+plt.xticks(rotation=15, ha='right', fontsize=20) # Increased fontsize
+ax.tick_params(axis='y', labelsize=20) # Increased y-axis tick labelsize
 
 # Add percentage value labels on top of bars
 for i, bar in enumerate(bars):
@@ -336,7 +337,7 @@ for i, bar in enumerate(bars):
     if not isinstance(error_val, (int, float)):
         error_val = 0
     plt.text(bar.get_x() + bar.get_width()/2.0, yval + error_val * 0.2 + (ax.get_ylim()[1] * 0.01) , # Adjusted offset slightly based on y-limit
-             f'{yval:.1f}%', va='bottom', ha='center', fontsize=9)
+             f'{yval:.1f}%', va='bottom', ha='center', fontsize=14) # Increased fontsize
 
 plt.tight_layout()
 
