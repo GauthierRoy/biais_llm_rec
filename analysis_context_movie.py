@@ -10,10 +10,11 @@ import numpy as np
 from utils.utils import get_correct_file_name
 import matplotlib
 
-matplotlib.use("Agg")  # Use a non-interactive backend for environments without display
+# matplotlib.use("Agg")  # Use a non-interactive backend for environments without display
 
 
 DESIRED_ORDER = {
+    "gender": ["a girl", "a boy", "a female", "a male"],
     "country": [
         "an American",
         "a Brazilian",
@@ -23,8 +24,8 @@ DESIRED_ORDER = {
         "a German",
         "a Japanese",
     ],
-    "gender": ["a girl", "a boy", "a female", "a male"],
     "continent": ["an African", "an American", "an Asian"],
+    "race": ["a Black", "a White", "an Asian", "a Hispanic"],
     "occupation": [
         "a child of a doctor",
         "a child of a student",
@@ -32,7 +33,6 @@ DESIRED_ORDER = {
         "a child of a worker",
         "a child of a writer",
     ],
-    "race": ["a Black", "a White", "an Asian", "a Hispanic"],
     "religion": ["a Buddhist", "a Christian", "a Muslim"],
 }
 
@@ -180,6 +180,7 @@ category_to_attribute = {
 # Create a spider plot for each category comparing Mean IOU Divergence by Activity Name
 categories = category_to_attribute.keys()
 
+
 sns.set_palette("muted")
 sns.set_style("whitegrid")
 
@@ -191,7 +192,24 @@ for i, category in enumerate(categories):
     ax = axes[i]
     subset = combined_df[combined_df["Attribute"].isin(category_to_attribute[category])]
     attributes = subset["Attribute"].unique()
-    angles = np.linspace(0, 2 * np.pi, len(attributes), endpoint=False).tolist()
+
+    if i == 5:
+        angles = np.pi / 2 + np.linspace(0, 2 * np.pi, len(attributes), endpoint=False)
+        print(f"Angles: {angles}")
+    elif len(attributes) % 2 == 0:
+        angles = np.pi / len(attributes) + np.linspace(
+            0, 2 * np.pi, len(attributes), endpoint=False
+        )
+    else:
+        angles = np.pi / (2 * len(attributes)) + np.linspace(
+            0, 2 * np.pi, len(attributes), endpoint=False
+        )
+    angles = angles.tolist()
+
+    ax.grid(True)
+    ax.set_xticks(angles)
+    ax.tick_params(axis="y", labelsize=14)
+    ax.set_rlabel_position(-10)
 
     # Iterate through activity names for each category
     for activity_name in subset["Activity Name"].unique():
@@ -218,18 +236,36 @@ for i, category in enumerate(categories):
         )
         ax.fill(angles + [angles[0]], values, alpha=0.3)  # Slightly transparent fill
 
+    if category == "occupation":
+        category = "Parent's occupation"
     # Set the title with improved styling
-    category = category
-    ax.set_title(
-        category.capitalize(), size=16, weight="bold", position=(0.5, 1.1), ha="center"
-    )
+    if i >= len(axes) - 3:  # Bottom row
+        ax.text(
+            0.5,
+            -0.2,  # x, y coordinates (0.5 center horizontally, -0.2 down below)
+            category.capitalize(),
+            transform=ax.transAxes,  # Important! tells it to use axes coordinates
+            ha="center",
+            va="center",
+            fontsize=32,
+            fontweight="bold",
+        )
+    else:  # Top row
+        ax.text(
+            0.5,
+            1.15,  # x, y coordinates (0.5 center horizontally, -0.2 down below)
+            category.capitalize(),
+            transform=ax.transAxes,  # Important! tells it to use axes coordinates
+            ha="center",
+            va="center",
+            fontsize=32,
+            fontweight="bold",
+        )
 
-    # Adjust x-ticks (categories) for better spacing and readability
-    ax.set_xticks(angles)
-    ax.set_xticklabels(attributes, fontsize=12, fontweight="light")
+    attributes = [attr.replace("Child Of ", "") for attr in attributes]
+    ax.set_xticklabels(attributes, fontsize=26, fontweight="light")
 
     # Remove y-ticks (no need for numerical values)
-    ax.grid(True)
     ax.set_ylim(0, 1)
 
 # Add a legend outside the plot with improved styling
@@ -237,18 +273,14 @@ fig.legend(
     loc="upper center",
     bbox_to_anchor=(0.5, 1.05),
     ncol=3,
-    title="Context",
-    fontsize=12,
-    title_fontsize=14,
+    fontsize=28,
     frameon=True,
     shadow=True,
 )
 
-# Adjust the layout for better spacing
-plt.subplots_adjust(hspace=0, wspace=0)  # Reduce margins between subplots
-plt.tight_layout(rect=[0, 0, 1, 0.95])
+plt.subplots_adjust(hspace=0.5, wspace=-0.3, top=0.85, bottom=0.1)
 plot_filename = f"{VISUALIZATION_PATH}{model}_movie_spider_plot_context_or_not.png"
 plt.savefig(plot_filename, dpi=300)
 print(f"Saved ordered plot to: {plot_filename}")
-
+plt.show()  # Show the plot (or save it if needed)
 plt.close()
