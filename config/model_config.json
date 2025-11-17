@@ -11,5 +11,11 @@
     },
     "gemma3_1b": {
         "vllm": "google/gemma-3-1b-it"
+    },
+    "qwen3_4b":{
+        "vllm": "Qwen/Qwen3-4B"
+    },
+    "ministral_3b":{
+        "vllm":"ministral/Ministral-3b-instruct"
     }
 }
