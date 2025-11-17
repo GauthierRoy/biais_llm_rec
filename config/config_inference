@@ -6,6 +6,7 @@ visualization_path = data/visualization/
 sensitive_attributes_path = config/sensitive_attributes.json
 
 [parameters]
+# to test: qwen3_4b ministral_3b
 models = gemma3_12b
 dataset_types = college, movie, music
 # type_of_activities = None
