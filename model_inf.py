@@ -109,11 +109,19 @@ class VLLMClient(LLMInterface):
                 f"Model '{model}' not found in conversion map. Available models: {mapping_name_dict.keys()}"
             )
         # Call the OpenAI API with the vLLM server
-
+        if "qwen" in model.lower()
+            opts = dict(self.client_options)
+            extra = dict(opts.get("extra_body") or {})
+            chat_kwargs = dict(extra.get("chat_template_kwargs") or {})
+            chat_kwargs["enable_thinking"] = False
+            extra["chat_template_kwargs"] = chat_kwargs
+            opts["extra_body"] = extra
+        else:
+            opts dict(self.client_options)
         response = self.client.chat.completions.create(
             model=model,
             messages=messages,
-            **self.client_options,  # Pass generation parameters here
+            **opts,  # Pass generation parameters here
         )
         # Standard OpenAI response format
         return response.choices[0].message.content
