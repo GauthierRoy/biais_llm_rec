@@ -1,7 +1,7 @@
 from collections import defaultdict
 
 import numpy as np
-from utils.metrics import calc_iou, calc_serp_ms, calc_prag, get_item_rank
+from utils.metrics import calc_iou, calc_serp_ms, calc_prag, get_item_rank, calc_diversity, calc_repetition_count
 from utils.utils import get_correct_file_name
 
 import argparse
@@ -56,10 +56,12 @@ def results(model, dataset_type, k, type_of_activity,seed):
 
     neutral_list = model_outputs["neutral"]["recommended_list"]
     neutral_rank = get_item_rank(neutral_list, items_rank)
+    neutral_diversity = calc_diversity(neutral_list)
 
     final_metrics = {
         "neutral": {
                 "mean_rank": neutral_rank,
+                "diversity": neutral_diversity,
         }
     }
     del model_outputs["neutral"]
@@ -77,6 +79,7 @@ def results(model, dataset_type, k, type_of_activity,seed):
                 "SERP MS Divergence": 1-calc_serp_ms(neutral_list, extracted_list),
                 "Pragmatic Divergence": 1-calc_prag(neutral_list, extracted_list),
                 "mean_rank" : get_item_rank(extracted_list, items_rank),
+                "diversity": calc_diversity(extracted_list),
             }
             final_metrics[sensitive_atribute] = metrics
 

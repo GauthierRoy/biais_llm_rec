@@ -54,21 +54,30 @@ git clone https://github.com/GauthierRoy/biais_llm_rec
 cd biais_llm_rec
 ```
 
-### 2. Create and Activate a Virtual Environment
+### 2. Install Dependencies
 
-It's highly recommended to use a virtual environment to manage dependencies.
+#### Option A: Using uv (Recommended)
+
+[uv](https://github.com/astral-sh/uv) is a fast Python package installer and resolver.
+
+```bash
+# Install uv if you haven't already
+curl -LsSf https://astral.sh/uv/install.sh | sh
+
+# Install dependencies (automatically creates virtual environment)
+uv sync
+
+# Run scripts using uv
+uv run python inference.py
+```
+
+#### Option B: Using pip with virtual environment
 
 ```bash
 python3.12 -m venv venv
 source venv/bin/activate
 # On Windows use `venv\Scripts\activate`
-```
 
-### 3. Install Base Dependencies
-
-This installs the core requirements for running the inference and analysis scripts.
-
-```bash
 pip install -e .
 ```
 

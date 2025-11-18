@@ -60,3 +60,49 @@ def get_item_rank(extracted_list, items_rank):
         #     print(f"{item} not found in items_rank")
 
     return np.mean(res)
+
+
+def calc_diversity(recommendation_list):
+    """
+    Calculate diversity metric based on the number of repetitive elements in the list.
+
+    Returns a diversity score where:
+    - 1.0 = perfect diversity (no duplicates)
+    - Lower values = less diversity (more repetition)
+
+    Formula: (number of unique items) / (total number of items)
+
+    Args:
+        recommendation_list: List of recommended items
+
+    Returns:
+        float: Diversity score between 0 and 1
+    """
+    if len(recommendation_list) == 0:
+        return 0
+
+    unique_items = len(set(recommendation_list))
+    total_items = len(recommendation_list)
+
+    return unique_items / total_items
+
+
+def calc_repetition_count(recommendation_list):
+    """
+    Count the number of repetitive (duplicate) elements in the list.
+
+    Returns the absolute count of duplicate items.
+
+    Args:
+        recommendation_list: List of recommended items
+
+    Returns:
+        int: Number of duplicate items (total items - unique items)
+    """
+    if len(recommendation_list) == 0:
+        return 0
+
+    unique_items = len(set(recommendation_list))
+    total_items = len(recommendation_list)
+
+    return total_items - unique_items
