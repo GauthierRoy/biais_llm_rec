@@ -117,6 +117,9 @@ You need to set up a backend to serve the LLMs for inference. Choose **one** of 
 
 1.  **Install VLLM Support:**
     ```bash
+    uv sync --extra vllm
+    ```
+    ```bash
     pip install -e .[vllm]
     ```
 2.  **Login to Hugging Face (if needed):** Required for downloading models from Hugging Face Hub.
