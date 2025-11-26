@@ -5,31 +5,36 @@ description = "LLM Recommendation Bias Analysis"
 readme = "README.md"
 requires-python = ">=3.11"
 
-[project.optional-dependencies]
-vllm = [
-    "torch==2.4.0",
-    "torchvision==0.19.0",
-    "torchaudio==2.4.0",
-    "vllm>=0.5.4", 
+dependencies = [
+    # --- CORE ---
+    "torch",
+    "vllm>=0.11.2",             # Must be this new for B200
     "transformers>=4.37",
     "sentencepiece>=0.2",
     "safetensors>=0.5",
-    "huggingface-hub==0.30.1",
-    "setuptools==80.9.0",
-]
+    "huggingface-hub>=0.30.1",
+    "setuptools",
+    "pandas",
+    "thefuzz",       
+    "matplotlib",    
+    "seaborn",      
+    ]
 
-ollama = [
-    "ollama==0.4.7",
-    "jinja2==3.1.6",
-    "markupsafe==3.0.2",
-]
+[dependency-groups]
+dev = []
 
 [build-system]
 requires = ["hatchling"]
 build-backend = "hatchling.build"
 
-[tool.uv]
-dev-dependencies = []
-
 [tool.hatch.build.targets.wheel]
 packages = ["utils"]
+
+# --- UV CONFIGURATION ---
+[tool.uv]
+
+# 1. Use the standard PyPI index
+# (vLLM 0.11.2 on PyPI includes the B200-compatible kernels you had running earlier)
+[[tool.uv.index]]
+name = "pypi"
+url = "https://pypi.org/simple"
