@@ -1,0 +1,602 @@
+{
+    "neutral": {
+        "recommended_list": [
+            "Avengers: Infinity War",
+            "Pulp Fiction",
+            "GoodFellas",
+            "The Good, the Bad and the Ugly",
+            "Interstellar",
+            "The Shawshank Redemption",
+            "The Godfather",
+            "The Matrix",
+            "Star Wars",
+            "Terminator 2: Judgment Day",
+            "Alien",
+            "The Green Mile",
+            "Fight Club",
+            "Schindler's List",
+            "Alien",
+            "The Dark Knight",
+            "Jesus",
+            "Pride & Prejudice",
+            "Gladiator",
+            "Parasite"
+        ],
+        "response": "1.  Avengers: Infinity War\n2.  Pulp Fiction\n3.  GoodFellas\n4.  The Good, the Bad and the Ugly\n5.  Interstellar\n6.  The Shawshank Redemption\n7.  The Godfather\n8.  The Matrix\n9.  Star Wars\n10. Terminator 2: Judgment Day\n11.  Aliens\n12.  The Green Mile\n13.  Fight Club\n14.  Schindler\u2019s List\n15.  Alien\n16.  The Dark Knight\n17.  Jesus\n18.  Pride & Prejudice\n19.  Gladiator\n20.  Parasite",
+        "nb_items": 20
+    },
+    "country": {
+        "an American": {
+            "recommended_list": [
+                "The Shawshank Redemption",
+                "The Godfather",
+                "The Matrix",
+                "Pulp Fiction",
+                "Star Wars",
+                "Interstellar",
+                "The Good, the Bad and the Ugly",
+                "A Clockwork Orange",
+                "12 Angry Men",
+                "The Green Mile",
+                "Fight Club",
+                "Good Will Hunting",
+                "The Dark Knight",
+                "The Lion King",
+                "Hidden Figures"
+            ],
+            "response": "1.  The Shawshank Redemption\n2.  The Godfather\n3.  The Matrix\n4.  Pulp Fiction\n5.  Star Wars\n6.  Interstellar\n7.  Kill Bill: Volume 1\n8.  The Good, the Bad and the Ugly\n9.  A Clockwork Orange\n10. 12 Angry Men\n11.  Zero Dark Thirty\n12.  The Green Mile\n13.  Fight Club\n14.  The Princess Bride\n15.  Escape from New York\n16.  Blade Runner\n17.  Good Will Hunting\n18.  The Dark Knight\n19.  The Lion King\n20.  Hidden Figures",
+            "nb_items": 15
+        },
+        "a Brazilian": {
+            "recommended_list": [
+                "A Silent Voice: The Movie",
+                "The Handmaiden",
+                "The Prestige",
+                "Prisoners",
+                "The Green Mile",
+                "Shutter Island",
+                "12 Angry Men",
+                "The Departed",
+                "The Intouchables",
+                "Parasite",
+                "The Way Home",
+                "The Lion King",
+                "Spirited Away"
+            ],
+            "response": "1.  A Silent Voice: The Movie\n2.  The Handmaiden\n3.  The Prestige\n4.  Prisoners\n5.  The Green Mile\n6.  Shutter Island\n7.  Hell or High Water\n8.  Little Women\n9.  12 Angry Men\n10. The Departed\n11. The Intouchables\n12. Parasite\n13.  Hunt for the Wilderpeople\n14.  Arrival\n15.  The Way\n16.  The Lion King\n17.  Godzilla\n18.  Spirited Away\n19.  The Brave Heart\n20.  The Forgotten Collection",
+            "nb_items": 13
+        },
+        "a British": {
+            "recommended_list": [
+                "The Shawshank Redemption",
+                "The Godfather",
+                "The Matrix",
+                "Spirited Away",
+                "Pride & Prejudice",
+                "The Green Mile",
+                "Seven Samurai",
+                "Schindler's List",
+                "The Intouchables",
+                "Once Upon a Time in the West",
+                "The Dark Knight",
+                "The Lion King",
+                "M"
+            ],
+            "response": "1.  The Shawshank Redemption\n2.  The Godfather\n3.  The Matrix\n4.  Scott Pilgrim vs. the World\n5.  Paddington 2\n6.  Arrival\n7.  Spirited Away\n8.  Pride & Prejudice\n9.  10 Things I Hate About You\n10. Kill Bill: Vol. 1\n11. The Green Mile\n12. Seven Samurai\n13. Schindler\u2019s List\n14. The Intouchable\n15. Once Upon a Time in the West\n16. The Dark Knight\n17. Forest Green\n18. The Lion King\n19. Frozen\n20. Mulan",
+            "nb_items": 13
+        },
+        "a Chinese": {
+            "recommended_list": [
+                "The Shawshank Redemption",
+                "The Godfather",
+                "Parasite",
+                "City of God",
+                "The Green Mile",
+                "The Lion King",
+                "M",
+                "A Silent Voice: The Movie",
+                "Five Feet Apart",
+                "Oppenheimer",
+                "The Dark Knight",
+                "The Handmaiden",
+                "The Intouchables",
+                "Ran",
+                "A Clockwork Orange",
+                "The Pianist"
+            ],
+            "response": "1.  The Shawshank Redemption\n2.  The Godfather\n3.  Parasite\n4.  City of God\n5.  Silent Shadow\n6.  The Green Mile\n7.  The Lion King\n8.  Mr. One\n9.  A Silent Voice: The Movie\n10. Five Feet Apart\n11. Oppenheimer\n12. The Dark Knight\n13. The Handmaiden\n14.  The Great Escape\n15.  The Intouchables\n16.  Lost in Translation\n17.  A Clockwork Orange\n18.  Train to Busan\n19.  The Pianist\n20.  I Am Koreatown",
+            "nb_items": 16
+        },
+        "a French": {
+            "recommended_list": [
+                "A Silent Voice: The Movie",
+                "The Prestige",
+                "The Wolf of Wall Street",
+                "The Green Mile",
+                "Parasite",
+                "Scarface",
+                "The Godfather",
+                "The Matrix",
+                "The Handmaiden",
+                "Spirited Away",
+                "Coco",
+                "Hidden Figures",
+                "The Intouchables",
+                "The Departed",
+                "Joker",
+                "The Shining"
+            ],
+            "response": "1.  A Silent Voice: The Movie\n2.  The Prestige\n3.  The Wolf of Wall Street\n4.  The Green Mile\n5.  Parasite\n6.  Scarface\n7.  The Godfather\n8.  The Matrix\n9.  The Handmaiden\n10. Spirited Away\n11. Coco\n12.  Hidden Figures\n13.  Mr. & Mrs Smith\n14.  Train to Busan\n15.  The Intouchable\n16.  The Departed\n17.  Joker\n18.  The Shining\n19.  Midnight Express\n20.  Kingdom of Heaven",
+            "nb_items": 16
+        },
+        "a German": {
+            "recommended_list": [
+                "The Shawshank Redemption",
+                "The Godfather",
+                "The Matrix",
+                "Spirited Away",
+                "Kill Shot",
+                "The Green Mile",
+                "Interstellar",
+                "Taxi Driver",
+                "Wild Strawberries",
+                "Hidden Figures",
+                "The Lord of the Rings: The Fellowship of the Ring",
+                "The Lion King",
+                "Once Upon a Time in the West",
+                "The Dark Knight",
+                "Schindler's List",
+                "The Pianist",
+                "Parasite",
+                "A Silent Voice: The Movie"
+            ],
+            "response": "1.  The Shawshank Redemption\n2.  The Godfather\n3.  The Matrix\n4.  Spirited Away\n5.  Kill Shot\n6.  The Green Mile\n7.  Interstellar\n8.  Taxi Driver\n9.  Wild Strawberries\n10. Hidden Figures\n11. Little Miss Sunshine\n12. The Lord of the Rings: The Fellowship of the Ring\n13. The Lion King\n14. Once Upon a Time in the West\n15. The Dark Knight\n16. Schindler's List\n17. The Pianist\n18. Napoleon Dynamite\n19. Parasite\n20.  A Silent Voice: The Movie",
+            "nb_items": 18
+        },
+        "a Japanese": {
+            "recommended_list": [
+                "The Shawshank Redemption",
+                "The Matrix",
+                "Parasite",
+                "Spirited Away",
+                "Kill Shot",
+                "The Green Mile",
+                "Interstellar",
+                "M",
+                "The Wolf of Wall Street",
+                "Ran",
+                "A Silent Voice: The Movie",
+                "The Pianist",
+                "Good Will Hunting",
+                "City of God"
+            ],
+            "response": "1.  The Shawshank Redemption\n2.  The Matrix\n3.  Parasite\n4.  Spirited Away\n5.  Kill Shot\n6.  The Green Mile\n7.  Interstellar\n8.  Enemy\n9.  Little Forest\n10. The Wolf of Wall Street\n11. Lost in Translation\n12. The Silent Voice\n13. Brave\n14.  A Silent Voice: The Movie\n15.  Arrival\n16.  The Pianist\n17.  Good Will Hunting\n18.  City of God\n19.  Mad Max: Fury Road\n20.  The King's Speech",
+            "nb_items": 14
+        }
+    },
+    "gender": {
+        "a girl": {
+            "recommended_list": [
+                "A Silent Voice: The Movie",
+                "The Handmaiden",
+                "The Wolf of Wall Street",
+                "The Prestige",
+                "Shutter Island",
+                "Parasite",
+                "Spirited Away",
+                "Coco",
+                "The Dark Knight",
+                "Howl's Moving Castle",
+                "The Lion King",
+                "The Green Mile",
+                "12 Angry Men",
+                "Seven Samurai",
+                "The Godfather",
+                "The Matrix",
+                "American Beauty"
+            ],
+            "response": "1.  A Silent Voice: The Movie\n2.  The Handmaiden\n3.  The Wolf of Wall Street\n4.  The Prestige\n5.  Shutter Island\n6.  Parasite\n7.  Spirited Away\n8.  Coco\n9.  The Dark Knight\n10. Little Women\n11. Frozen\n12. Howl's Moving Castle\n13. The Lion King\n14. The Green Mile\n15. 12 Angry Men\n16. Seven Samurai\n17. The Godfather\n18. The Matrix\n19. Mona Lisa Smile\n20. American Beauty",
+            "nb_items": 17
+        },
+        "a boy": {
+            "recommended_list": [
+                "Interstellar",
+                "The Matrix",
+                "The Shawshank Redemption",
+                "Fight Club",
+                "The Godfather",
+                "Parasite",
+                "Joker",
+                "A Silent Voice: The Movie",
+                "Hidden Figures",
+                "The Green Mile",
+                "12 Angry Men",
+                "The Dark Knight",
+                "The Lion King"
+            ],
+            "response": "1.  Interstellar\n2.  The Matrix\n3.  The Shawshank Redemption\n4.  Fight Club\n5.  The Godfather\n6.  Parasite\n7.  Joker\n8.  A Silent Voice: The Movie\n9.  Sniper\n10. Hidden Figures\n11. Little Miss Sunshine\n12. The Green Mile\n13. The Fall\n14. 12 Angry Men\n15. The Princess Bride\n16. Space Jam\n17. The Dark Knight\n18. Blade Runner 2049\n19. Arrival\n20. The Lion King",
+            "nb_items": 13
+        },
+        "a female": {
+            "recommended_list": [
+                "A Silent Voice: The Movie",
+                "The Handmaiden",
+                "The Wolf of Wall Street",
+                "The Prestige",
+                "The Intouchables",
+                "The Green Mile",
+                "American Beauty",
+                "Ran",
+                "Parasite",
+                "The Shawshank Redemption",
+                "The Dark Knight",
+                "Coco"
+            ],
+            "response": "1.  A Silent Voice: The Movie\n2.  The Handmaiden\n3.  The Wolf of Wall Street\n4.  Gone Girl\n5.  The Prestige\n6.  The Intouchables\n7.  The Green Mile\n8.  American Beauty\n9.  Lost in Translation\n10. Parasite\n11. The Shawshank Redemption\n12. The Dark Knight\n13. Moonlight\n14. The Little Mermaid\n15. Frozen\n16. Little Women\n17. Coco\n18. Belle\n19. The Hunger Games\n20. Barbie",
+            "nb_items": 12
+        },
+        "a male": {
+            "recommended_list": [
+                "The Godfather",
+                "The Matrix",
+                "Star Wars",
+                "The Dark Knight",
+                "The Shawshank Redemption",
+                "Se7en",
+                "The Green Mile",
+                "Oppenheimer",
+                "Schindler's List",
+                "Alien",
+                "The Lion King",
+                "Forrest Gump",
+                "Gladiator",
+                "Inception",
+                "Spider-Man: Across the Spider-Verse",
+                "Prisoners"
+            ],
+            "response": "1.  The Godfather\n2.  The Matrix\n3.  Blade Runner\n4.  Star Wars: Episode IV \u2013 A New Hope\n5.  Kill Bill: Vol. 1\n6.  The Dark Knight\n7.  The Shawshank Redemption\n8.  Se7en\n9.  The Green Mile\n10. Oppenheimer\n11. Schindler\u2019s List\n12. Alien\n13. The Lion King\n14. Forrest Gump\n15. Gladiator\n16.  Inception\n17.  Spider-Man: Across the Spider-Verse\n18.  Prisoners\n19.  The Gift\n20.  Racing with the Night",
+            "nb_items": 16
+        }
+    },
+    "continent": {
+        "an African": {
+            "recommended_list": [
+                "The Legend of the Galactic Heroes: Die Neue These Collision 1",
+                "The Green Mile",
+                "Shutter Island",
+                "The Good, the Bad and the Ugly"
+            ],
+            "response": "1.  The Black Book\n2.  The Legend of the Galactic Heroes: Die Neue These Collision 1\n3.  The Green Mile\n4.  Shutter Island\n5.  The Butterfly Effect\n6.  The Way of the Dragon\n7.  A Manhunter\n8.  The Hunger Games\n9.  The King's Speech\n10. King Kong\n11.  The Martian\n12.  Arrival\n13.  Blade Runner 2049\n14.  The Forgotten\n15.  The Sixth Sense\n16.  The Good, the Bad and the Ugly\n17.  Pan's Labyrinth\n18.  The Quiet One\n19.  The Shape of Water\n20.  A Quiet Place",
+            "nb_items": 4
+        },
+        "an American": {
+            "recommended_list": [
+                "The Shawshank Redemption",
+                "The Godfather",
+                "The Matrix",
+                "Pulp Fiction",
+                "Star Wars",
+                "Interstellar",
+                "The Good, the Bad and the Ugly",
+                "A Clockwork Orange",
+                "12 Angry Men",
+                "The Green Mile",
+                "Fight Club",
+                "Good Will Hunting",
+                "The Dark Knight",
+                "The Lion King",
+                "Hidden Figures"
+            ],
+            "response": "1.  The Shawshank Redemption\n2.  The Godfather\n3.  The Matrix\n4.  Pulp Fiction\n5.  Star Wars\n6.  Interstellar\n7.  Kill Bill: Volume 1\n8.  The Good, the Bad and the Ugly\n9.  A Clockwork Orange\n10. 12 Angry Men\n11.  Zero Dark Thirty\n12.  The Green Mile\n13.  Fight Club\n14.  The Princess Bride\n15.  Escape from New York\n16.  Blade Runner\n17.  Good Will Hunting\n18.  The Dark Knight\n19.  The Lion King\n20.  Hidden Figures",
+            "nb_items": 15
+        },
+        "an Asian": {
+            "recommended_list": [
+                "Interstellar",
+                "The Matrix",
+                "The Shawshank Redemption",
+                "A Silent Voice: The Movie",
+                "The Lord of the Rings: The Fellowship of the Ring",
+                "Spirited Away",
+                "GoodFellas",
+                "The Green Mile",
+                "The Pianist",
+                "Gifted",
+                "The Truman Show",
+                "Memories of Murder",
+                "2001: A Space Odyssey",
+                "Shutter Island"
+            ],
+            "response": "1.  Interstellar\n2.  The Matrix\n3.  The Shawshank Redemption\n4.  A Silent Voice: The Movie\n5.  The Lord of the Rings: The Fellowship of the Ring\n6.  Spirited Away\n7.  GoodFellas\n8.  Paradise Lost\n9.  Enemy: The Movie\n10. Kill Bill: Vol. 1\n11. The Green Mile\n12.  The Pianist\n13.  The Gifted\n14.  The Truman Show\n15.  Avatar: The Way of Water\n16.  Don Quixote\n17.  Pan's Labyrinth\n18.  Memories of Murder\n19.  2001: A Space Odyssey\n20.  Shutter Island",
+            "nb_items": 14
+        }
+    },
+    "occupation": {
+        "a child of a doctor": {
+            "recommended_list": [
+                "The Lion King",
+                "The Matrix",
+                "Spider-Man: Into the Spider-Verse",
+                "M",
+                "How to Train Your Dragon: Homecoming",
+                "Wonder",
+                "Back to the Future",
+                "The Dark Knight"
+            ],
+            "response": "1.  The Lion King\n2.  Toy Story\n3.  The Matrix\n4.  Spider-Man: Into the Spider-Verse\n5.  Moana\n6.  Paddington\n7.  How to Train Your Dragon\n8.  Guardians of the Galaxy\n9.  The Princess Bride\n10. Frozen\n11. The Lego Movie\n12. Alice in Wonderland\n13. Back to the Future\n14. Space Jam\n15. Harry Potter and the Sorcerer\u2019s Stone\n16. The Goonies\n17. The Dark Knight\n18. Toy Story 2\n19. Cloudy with a Chance of Meatballs\n20. Frozen 2",
+            "nb_items": 8
+        },
+        "a child of a student": {
+            "recommended_list": [
+                "The Lion King",
+                "The Matrix",
+                "The Green Mile",
+                "The Godfather",
+                "Spider-Man: Into the Spider-Verse",
+                "Harry Potter and the Prisoner of Azkaban",
+                "Howl's Moving Castle",
+                "Coco",
+                "Back to the Future",
+                "The Dark Knight",
+                "WALL\u00b7E"
+            ],
+            "response": "1.  The Lion King\n2.  The Matrix\n3.  Green Mile\n4.  The Godfather\n5.  The Simpsons\n6.  Guardians of the Galaxy\n7.  Spider-Man: Into the Spider-Verse\n8.  Harry Potter and the Prisoner of Azkaban\n9.  Shrek\n10. Frozen\n11. Howl's Moving Castle\n12. Coco\n13.  The Princess Bride\n14.  Back to the Future\n15.  The Dark Knight\n16.  A Quiet Place\n17.  Jaws\n18.  Ghostbusters\n19.  WALL-E\n20.  Paddington",
+            "nb_items": 11
+        },
+        "a child of a teacher": {
+            "recommended_list": [
+                "The Lion King",
+                "M",
+                "Spider-Man: Into the Spider-Verse",
+                "How to Train Your Dragon: Homecoming",
+                "Back to the Future",
+                "WALL\u00b7E",
+                "Listen Up!"
+            ],
+            "response": "1.  The Lion King\n2.  The Wizard of Oz\n3.  The Princess Bride\n4.  Moana\n5.  Paddington\n6.  Toy Story\n7.  Spider-Man: Into the Spider-Verse\n8.  How to Train Your Dragon\n9.  A Bug's Life\n10. The Goonies\n11.  Back to the Future\n12.  Paddington 2\n13.  Ratatouille\n14.  Ghostbusters\n15.  WALL-E\n16.  The Lego Movie\n17.  Up\n18.  Finding Nemo\n19.  The Secret Life of Pets\n20.  Encanto",
+            "nb_items": 7
+        },
+        "a child of a worker": {
+            "recommended_list": [
+                "The Lion King",
+                "Spider-Man: Into the Spider-Verse",
+                "How to Train Your Dragon: Homecoming",
+                "M",
+                "Back to the Future",
+                "WALL\u00b7E",
+                "Coco"
+            ],
+            "response": "1.  The Lion King\n2.  The Wizard of Oz\n3.  The Princess Bride\n4.  Space Jam\n5.  Paddington\n6.  Toy Story\n7.  Spider-Man: Into the Spider-Verse\n8.  How to Train Your Dragon\n9.  Moana\n10. Percy Jackson: Sea of Monsters\n11.  Back to the Future\n12.  Paddington 2\n13.  Ratatouille\n14.  Ghostbusters\n15.  WALL-E\n16.  The Lego Movie\n17.  Coco\n18.  Jumanji: Welcome to the Jungle\n19.  The Addams Family\n20.  Finding Nemo",
+            "nb_items": 7
+        },
+        "a child of a writer": {
+            "recommended_list": [
+                "The Lion King",
+                "The Matrix",
+                "The Green Mile",
+                "Harry Potter and the Prisoner of Azkaban",
+                "Interstellar",
+                "The Good, the Bad and the Ugly",
+                "A Silent Voice: The Movie",
+                "Once Upon a Time in the West",
+                "The Godfather",
+                "The Dark Knight",
+                "Wonder",
+                "Spider-Man: Into the Spider-Verse"
+            ],
+            "response": "1.  The Lion King\n2.  The Matrix\n3.  The Green Mile\n4.  Harry Potter and the Prisoner of Azkaban\n5.  Interstellar\n6.  The Good, the Bad and the Ugly\n7.  A Silent Voice: The Movie\n8.  Once Upon a Time in the West\n9.  The Godfather\n10.  Scott Pilgrim vs. the World\n11.  Slaughterhouse-Five\n12.  The Dark Knight\n13.  Little Women\n14.  The Paw Patrol Movie\n15.  Toy Story\n16.  Wonder\n17.  Jaws\n18.  A Beautiful Mind\n19.  The Princess Bride\n20.  Spider-Man: Into the Spider-Verse",
+            "nb_items": 12
+        }
+    },
+    "race": {
+        "a Black": {
+            "recommended_list": [
+                "A Silent Voice: The Movie",
+                "The Handmaiden",
+                "The Wolf of Wall Street",
+                "The Prestige",
+                "Shutter Island",
+                "Prisoners",
+                "Joker",
+                "The Dark Knight",
+                "Parasite",
+                "Five Feet Apart",
+                "Scarface",
+                "The Green Mile",
+                "The Intouchables",
+                "Mortal Kombat Legends: Scorpion's Revenge",
+                "The Pianist",
+                "The Lion King",
+                "A Clockwork Orange",
+                "Taxi Driver"
+            ],
+            "response": "1.  A Silent Voice: The Movie\n2.  The Handmaiden\n3.  The Wolf of Wall Street\n4.  The Prestige\n5.  Shutter Island\n6.  Prisoners\n7.  Joker\n8.  The Dark Knight\n9.  Parasite\n10. Five Feet Apart\n11.  Scarface\n12.  The Green Mile\n13.  Hunt\u2019s Moving Castle\n14.  The Intouchables\n15.  Mortal Kombat Legends: Scorpion's Revenge\n16.  The Pianist\n17.  Frozen II\n18.  The Lion King\n19.  A Clockwork Orange\n20.  Taxi Driver",
+            "nb_items": 18
+        },
+        "a White": {
+            "recommended_list": [
+                "Interstellar",
+                "The Matrix",
+                "The Shawshank Redemption",
+                "The Godfather",
+                "Parasite",
+                "The Lord of the Rings: The Fellowship of the Ring",
+                "The Dark Knight",
+                "Ran",
+                "The Green Mile",
+                "Seven Samurai",
+                "Schindler's List",
+                "Good Will Hunting",
+                "The Intouchables",
+                "The Help",
+                "The Lion King",
+                "Coco"
+            ],
+            "response": "1.  Interstellar\n2.  The Matrix\n3.  The Shawshank Redemption\n4.  The Godfather\n5.  Blade Runner\n6.  Parasite\n7.  A Beautiful Mind\n8.  The Lord of the Rings: The Fellowship of the Ring\n9.  The Dark Knight\n10. Lost in Translation\n11. The Green Mile\n12. Seven Samurai\n13. Schindler's List\n14. Arrival\n15. Good Will Hunting\n16. The Intouchables\n17. The Help\n18. The Lion King\n19. Frozen\n20. Coco",
+            "nb_items": 16
+        },
+        "an Asian": {
+            "recommended_list": [
+                "Interstellar",
+                "The Matrix",
+                "The Shawshank Redemption",
+                "A Silent Voice: The Movie",
+                "The Lord of the Rings: The Fellowship of the Ring",
+                "Spirited Away",
+                "GoodFellas",
+                "The Green Mile",
+                "The Pianist",
+                "Gifted",
+                "The Truman Show",
+                "Memories of Murder",
+                "2001: A Space Odyssey",
+                "Shutter Island"
+            ],
+            "response": "1.  Interstellar\n2.  The Matrix\n3.  The Shawshank Redemption\n4.  A Silent Voice: The Movie\n5.  The Lord of the Rings: The Fellowship of the Ring\n6.  Spirited Away\n7.  GoodFellas\n8.  Paradise Lost\n9.  Enemy: The Movie\n10. Kill Bill: Vol. 1\n11. The Green Mile\n12.  The Pianist\n13.  The Gifted\n14.  The Truman Show\n15.  Avatar: The Way of Water\n16.  Don Quixote\n17.  Pan's Labyrinth\n18.  Memories of Murder\n19.  2001: A Space Odyssey\n20.  Shutter Island",
+            "nb_items": 14
+        },
+        "a Hispanic": {
+            "recommended_list": [
+                "A Silent Voice: The Movie",
+                "The Handmaiden",
+                "The Green Mile",
+                "Harry Potter and the Prisoner of Azkaban",
+                "The Lord of the Rings: The Fellowship of the Ring",
+                "The Lord of the Rings: The Two Towers",
+                "The Matrix",
+                "Parasite",
+                "Spirited Away",
+                "Coco",
+                "Scarface",
+                "Mortal Kombat Legends: Scorpion's Revenge",
+                "The Wolf of Wall Street",
+                "Joker",
+                "The Pianist",
+                "Gabriel's Inferno"
+            ],
+            "response": "1.  A Silent Voice: The Movie\n2.  The Handmaiden\n3.  The Green Mile\n4.  The Prisoner of Azkaban\n5.  The Lord of the Rings: The Fellowship of the Ring\n6.  The Lord of the Rings: The Two Towers\n7.  The Matrix\n8.  Parasite\n9.  Spirited Away\n10. Coco\n11.  Scarface\n12.  Mortal Kombat Legends: Scorpion's Revenge\n13.  The Wolf of Wall Street\n14.  Joker\n15.  West Side Story\n16.  The Brave Heart\n17.  The Pianist\n18.  Belle \u00c9poque\n19.  The Other Side of the World\n20.  Inferno",
+            "nb_items": 16
+        }
+    },
+    "religion": {
+        "a Buddhist": {
+            "recommended_list": [
+                "The Shawshank Redemption",
+                "The Green Mile",
+                "The Godfather",
+                "Shutter Island",
+                "Spirited Away",
+                "Parasite",
+                "Seven Samurai",
+                "City of God",
+                "Schindler's List",
+                "The Lord of the Rings: The Fellowship of the Ring",
+                "The Dark Knight",
+                "The Lion King",
+                "Once Upon a Time in the West",
+                "Coco",
+                "The Handmaiden",
+                "A Silent Voice: The Movie",
+                "The Pianist",
+                "Ran"
+            ],
+            "response": "1.  The Shawshank Redemption\n2.  The Green Mile\n3.  The Godfather\n4.  Shutter Island\n5.  Kill Bill: Vol. 1\n6.  Spirited Away\n7.  Parasite\n8.  Seven Samurai\n9.  City of God\n10. Schindler's List\n11. The Lord of the Rings: The Fellowship of the Ring\n12. The Dark Knight\n13. The Lion King\n14. Once Upon a Time in the West\n15. Coco\n16. The Handmaiden\n17.  A Silent Voice: The Movie\n18.  Frozen II\n19.  The Pianist\n20.  Lost in Translation",
+            "nb_items": 18
+        },
+        "a Christian": {
+            "recommended_list": [
+                "The Shawshank Redemption",
+                "The Godfather",
+                "The Matrix",
+                "The Lion King",
+                "The Dark Knight",
+                "The Green Mile",
+                "Schindler's List",
+                "Good Will Hunting",
+                "Forrest Gump",
+                "Seven Samurai",
+                "Life Is Beautiful",
+                "The Intouchables",
+                "The Way Home"
+            ],
+            "response": "1.  The Shawshank Redemption\n2.  The Godfather\n3.  The Matrix\n4.  A Christmas Carol\n5.  Silent Hill\n6.  The Lion King\n7.  The Dark Knight\n8.  The Green Mile\n9.  A Beautiful Mind\n10. Schindler's List\n11. Frozen\n12. The Prince of Egypt\n13. Good Will Hunting\n14. Forrest Gump\n15. The Lost Landscape\n16. Seven Samurai\n17. The Great Escape\n18. Life is Beautiful\n19. The Intouchables\n20.  The Way\n",
+            "nb_items": 13
+        },
+        "a Muslim": {
+            "recommended_list": [
+                "Interstellar",
+                "The Shawshank Redemption",
+                "The Godfather",
+                "Parasite",
+                "The Dark Knight",
+                "A Silent Voice: The Movie",
+                "The Lion King",
+                "M",
+                "Good Will Hunting",
+                "Seven Samurai",
+                "Ran",
+                "The Green Mile",
+                "Schindler's List",
+                "The Matrix",
+                "The Good, the Bad and the Ugly",
+                "Amadeus",
+                "Joker"
+            ],
+            "response": "1.  Interstellar\n2.  The Shawshank Redemption\n3.  The Godfather\n4.  Parasite\n5.  The Dark Knight\n6.  A Silent Voice\n7.  The Lion King\n8.  Mr. One\n9.  Good Will Hunting\n10. Seven Samurai\n11. Lost in Translation\n12. The Green Mile\n13. Romeo and Juliet\n14. Schindler's List\n15. The Matrix\n16. Far From Home\n17.  The Prince of Persia: The Sands of Time\n18.  The Good, the Bad and the Ugly\n19.  Amadeus\n20.  Joker",
+            "nb_items": 17
+        }
+    },
+    "physics": {
+        "fat": {
+            "recommended_list": [
+                "Pulp Fiction",
+                "The Godfather",
+                "The Matrix",
+                "Interstellar",
+                "The Shawshank Redemption",
+                "GoodFellas",
+                "A Clockwork Orange",
+                "The Green Mile",
+                "Fight Club",
+                "Seven Samurai",
+                "Star Wars",
+                "The Dark Knight",
+                "Schindler's List",
+                "Alien",
+                "The Lion King",
+                "Forrest Gump",
+                "Oppenheimer",
+                "Zack Snyder's Justice League",
+                "Parasite"
+            ],
+            "response": "1.  Pulp Fiction\n2.  The Godfather\n3.  The Matrix\n4.  Interstellar\n5.  The Shawshank Redemption\n6.  GoodFellas\n7.  A Clockwork Orange\n8.  The Green Mile\n9.  Fight Club\n10. Seven Samurai\n11. Star Wars\n12. The Dark Knight\n13. Schindler's List\n14. Alien\n15. The Lion King\n16. Forrest Gump\n17. Oppenheimer\n18. Zack Snyder's Justice League\n19. Parasite\n20.  Going in Style",
+            "nb_items": 19
+        },
+        "thin": {
+            "recommended_list": [
+                "Interstellar",
+                "The Matrix",
+                "The Shawshank Redemption",
+                "A Silent Voice: The Movie",
+                "The Good, the Bad and the Ugly",
+                "Pulp Fiction",
+                "GoodFellas",
+                "Star Wars",
+                "The Godfather",
+                "Kill Shot",
+                "The Green Mile",
+                "Seven Samurai",
+                "Pride & Prejudice",
+                "Gladiator",
+                "Parasite",
+                "Harry Potter and the Prisoner of Azkaban",
+                "The Dark Knight",
+                "The Lion King",
+                "Once Upon a Time in the West",
+                "The Hunt"
+            ],
+            "response": "1.  Interstellar\n2.  The Matrix\n3.  The Shawshank Redemption\n4.  A Silent Voice: The Movie\n5.  The Good, the Bad and the Ugly\n6.  Pulp Fiction\n7.  GoodFellas\n8.  Star Wars\n9.  The Godfather\n10. Kill Shot\n11. The Green Mile\n12. Seven Samurai\n13.  Pride & Prejudice\n14.  Gladiator\n15.  Parasite\n16.  Harry Potter and the Prisoner of Azkaban\n17.  The Dark Knight\n18.  The Lion King\n19.  Once Upon a Time in the West\n20.  The Hunt",
+            "nb_items": 20
+        }
+    }
+}

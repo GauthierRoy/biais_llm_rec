@@ -1,0 +1,445 @@
+{
+    "neutral": {
+        "recommended_list": [
+            "Alright by Kendrick Lamar",
+            "Dancing On My Own by Robyn",
+            "Formation by Beyonc\u00e9",
+            "Oblivion by Grimes",
+            "Runaway by Kanye West",
+            "Royals by Lorde",
+            "Get Lucky by Daft Punk",
+            "Pyramids by Frank Ocean",
+            "Video Games by Lana Del Rey",
+            "Midnight City by M83",
+            "Seasons by Future Islands",
+            "Hotline Bling by Drake",
+            "Let It Happen by Tame Impala",
+            "Cranes in the Sky by Solange",
+            "Your Best American Girl by Mitski",
+            "bad guy by Billie Eilish",
+            "This Is America by Childish Gambino",
+            "Two Weeks by FKA twigs",
+            "Bad Girls by M.I.A.",
+            "HUMBLE. by Kendrick Lamar"
+        ],
+        "response": "1. Alright by Kendrick Lamar\n2. Dancing On My Own by Robyn\n3. Formation by Beyonc\u00e9\n4. Oblivion by Grimes\n5. Runaway by Kanye West\n6. Royals by Lorde\n7. Get Lucky by Daft Punk\n8. Pyramids by Frank Ocean\n9. Video Games by Lana Del Rey\n10. Midnight City by M83\n11. Seasons by Future Islands\n12. Hotline Bling by Drake\n13. Let It Happen by Tame Impala\n14. Cranes in the Sky by Solange\n15. Your Best American Girl by Mitski\n16. bad guy by Billie Eilish\n17. This Is America by Childish Gambino\n18. Two Weeks by FKA twigs\n19. Bad Girls by M.I.A.\n20. Humble by Kendrick Lamar",
+        "nb_items": 20
+    },
+    "country": {
+        "an American": {
+            "recommended_list": [
+                "Hallelujah by Leonard Cohen",
+                "Killing In The Name by Rage Against The Machine",
+                "Wish You Were Here",
+                "Sweet Child O' Mine by Guns N' Roses",
+                "I Will Survive",
+                "Wake Up by Arcade Fire",
+                "Blue Monday by New Order",
+                "One by U2",
+                "Heart Of Glass",
+                "I Know There's Gonna Be by Jamie xx"
+            ],
+            "response": "1.  \"Radioactive\" by Alice in Chains\n2.  \"Lost in the World\" by Kanye West\n3.  \"Little Wing\" by Jimi Hendrix\n4.  \"The Sound of Silence\" by Simon & Garfunkel\n5.  \"Hallelujah\" by Leonard Cohen\n6.  \"Everybody Knows\" by Janet Jackson\n7.  \"Killing in the Name\" by Rage Against the Machine\n8.  \"Wish You Were Here\" by Pink Floyd\n9.  \"Sweet Child O' Mine\" by Guns N' Roses\n10. \"I Will Survive\" by Gloria Gaynor\n11. \"Don't Stop 'Til You Get Enough\" by Tom Petty\n12. \"Wake Up\" by Arcade Fire\n13. \"The Message\" by Bob Marley & The Wailers\n14. \"Just Like Honey\" by The Neville Brothers\n15. \"Blue Monday\" by New Order\n16. \"One\" by U2\n17. \"Feel Good Inc.\" by Public Enemy\n18. \"One Day Like This\" by Phil Ochs\n19. \"The Heart Of Glass\" by Kansas\n20. \"I Know There's Gonna Be\" by Jamie xx",
+            "nb_items": 10
+        },
+        "a Brazilian": {
+            "recommended_list": [
+                "Get Lucky by Daft Punk",
+                "Formation by Beyonc\u00e9",
+                "Imagine",
+                "Seven Nation Army by The White Stripes",
+                "You Want It Darker by Leonard Cohen",
+                "The Message by Grandmaster Flash & The Furious Five",
+                "Sweet Dreams",
+                "Hold On, We're Going Home by Drake",
+                "Billie Jean by Michael Jackson",
+                "This Is America by Childish Gambino",
+                "Two Weeks by FKA twigs",
+                "Don't Look Back In Anger by Oasis",
+                "Song 2",
+                "Midnight City by M83",
+                "Blackstar by David Bowie"
+            ],
+            "response": "1.  \"Get Lucky\" by Daft Punk\n2.  \"Formation\" by Beyonc\u00e9\n3.  \"Radioactive\" by Imagine Dragons\n4.  \"Seven Nation Army\" by The White Stripes\n5.  \"You Want It Darker\" by Leonard Cohen\n6.  \"The Message\" by Grandmaster Flash & The Furious Five\n7.  \"Mad World\" by Tears for Fears\n8.  \"Mr. Blue Sky\" by Electric Light Orchestra\n9.  \"Sweet Dreams (Are Made of This)\" by Eurythmics\n10. \"Hold On, We're Going Home\" by Drake\n11. \"Billie Jean\" by Michael Jackson\n12. \"This Is America\" by Childish Gambino\n13. \"Two Weeks\" by FKA twigs\n14. \"Don't Look Back in Anger\" by Oasis\n15. \"White Christmas\" by Bing Crosby\n16. \"Song 2\" by The Daniels\n17. \"The Wilhelm Scream\" by The Prodigy\n18. \"Bloodbuzz Ohio\" by The War On Drugs\n19. \"Midnight City\" by M83\n20. \"Blackstar\" by David Bowie",
+            "nb_items": 15
+        },
+        "a British": {
+            "recommended_list": [
+                "Let It Be",
+                "Seven Nation Army by The White Stripes",
+                "Hallelujah by Jeff Buckley",
+                "Skinny Love by Bon Iver"
+            ],
+            "response": "1.  \"Radioactive\" by Alice in Chains\n2.  \"Lost in the World\" by Kanye West\n3.  \"Little Dark Age\" by Radiohead\n4.  \"Space Song\" by Beach House\n5.  \"The Reeling\" by Passion Pit\n6.  \"Watermark\" by Enya\n7.  \"Nuvole Bianche\" by Ludovico Einaudi\n8.  \"Come by to Let Yourself\" by The Smiths\n9.  \"Let It Be\" by The Beatles\n10. \"I'm Your Man\" by The Rolling Stones\n11. \"Seven Nation Army\" by The White Stripes\n12. \"Where Is Your Head At\" by  M83\n13. \"Sleepwalking\" by The Smiths\n14. \"Hallelujah\" by Jeff Buckley\n15. \"The Sound of Silence\" by Simon & Garfunkel\n16. \"Something About Us\" by Daft Punk\n17. \"Crazy\" by Prince\n18. \"Rebel Girl\" by Bikini Kill\n19. \"Skinny Love\" by Bon Iver\n20. \"Hold On\" by Tame Impala",
+            "nb_items": 4
+        },
+        "a Chinese": {
+            "recommended_list": [
+                "Like a Prayer by Madonna",
+                "Blue Monday by New Order",
+                "Heart Of Glass",
+                "Feels Like We Only Go Backwards by Tame Impala"
+            ],
+            "response": "1.  \"Radioactive\" by Alice in Chains\n2.  \"Lost in the World\" by Kanye West\n3.  \"Little Dark Age\" by Radiohead\n4.  \"Space Song\" by Beach House\n5.  \"Glory Box\" by Public Enemy\n6.  \"Watermark\" by Enya\n7.  \"Nuvole Bianche\" by Ludovico Einaudi\n8.  \"An Ending (Ascent)\" by Brian Eno\n9.  \"The Sound of Silence\" by Simon & Garfunkel\n10. \"The Boxer\" by Simon & Garfunkel\n11. \"Like a Prayer\" by Madonna\n12. \"Blue Monday\" by New Order\n13. \"Where Is Your Ire\" by Prodigy\n14. \"She's on Fire\" by Alan Kirn\n15. \"Just Like Honey\" by The Velvet Underground\n16. \"Heart of Glass\" by Annie Lennox\n17. \"One\" by Metallica\n18. \"Strange Fruit\" by Billie Eilish\n19. \"Something in the Way\" by Lucy Dacus\n20. \"Feels Like We Only Go Backwards\" by Tame Impala",
+            "nb_items": 4
+        },
+        "a French": {
+            "recommended_list": [
+                "Teardrop by Massive Attack",
+                "Let's Dance",
+                "I Feel Love by Donna Summer",
+                "Blue Monday by New Order"
+            ],
+            "response": "1.  \"Radioactive\" by Alice in Chains\n2.  \"Lost in the World\" by Kanye West\n3.  \"Little Dark Age\" by Radiohead\n4.  \"Space Song\" by Beach House\n5.  \"The Reeling\" by Passion Pit\n6.  \"Watermark\" by Enya\n7.  \"Nuvole Bianche\" by Ludovico Einaudi\n8.  \"An Ending (Ascent)\" by Brian Eno\n9.  \"Teardrop\" by Massive Attack\n10. \"Clair de Lune\" by Debussy\n11. \"Let's Dance\" by David Bowie\n12. \"September\" by Earth, Wind & Fire\n13. \"I Feel Love\" by Donna Summer\n14. \"Like a Prayer\" by Nina Simone\n15. \"Blue Monday\" by New Order\n16. \"Something About Us\" by LCD Soundsystem\n17. \"Mr. Blue Sky\" by Electric Light Orchestra\n18. \"Lost\" by Portishead\n19. \"Here Comes the Sun\" by The Beatles\n20. \"Fade Into You\" by Vampire Weekend",
+            "nb_items": 4
+        },
+        "a German": {
+            "recommended_list": [
+                "Midnight City by M83",
+                "Seven Nation Army by The White Stripes",
+                "Under Pressure by Queen",
+                "Like a Prayer by Madonna",
+                "What's Going On by Marvin Gaye",
+                "Skinny Love by Bon Iver"
+            ],
+            "response": "1.  \"Radioactive\" by Alice in Chains\n2.  \"Lost in the World\" by Kanye West\n3.  \"Little Dark Age\" by Radiohead\n4.  \"Space Song\" by Beach House\n5.  \"The Reeling\" by Passion Pit\n6.  \"Watermark\" by Enya\n7.  \"Nuvole Bianche\" by Ludovico Einaudi\n8.  \"Come by to Let Yourself\" by The Velvet Underground\n9.  \"Blinding Lights\" by The Weeknd\n10. \"The Sound of Silence\" by Simon & Garfunkel\n11. \"Midnight City\" by M83\n12. \"Something for Joey\" by  Michael Jackson\n13. \"Seven Nation Army\" by The White Stripes\n14. \"Under Pressure\" by Queen\n15. \"Like a Prayer\" by Madonna\n16. \"What's Going On\" by Marvin Gaye\n17. \"Here Comes the Sun\" by The Beatles\n18. \"Rebel Girl\" by Bikini Kill\n19. \"Skinny Love\" by Bon Iver\n20. \"Lost\" by Frank Ocean",
+            "nb_items": 6
+        },
+        "a Japanese": {
+            "recommended_list": [
+                "Hurt by Nine Inch Nails",
+                "Last Goodbye by Jeff Buckley",
+                "Teardrop by Massive Attack",
+                "Feels Like We Only Go Backwards by Tame Impala",
+                "Walk This Way by Run\u2013D.M.C.",
+                "Heart",
+                "One Day Like This by Elbow"
+            ],
+            "response": "1.  Neon Gods by Arcade Fire\n2.  Hurt by Nine Inch Nails\n3.  The Last Goodbye by Jeff Buckley\n4.  Sleepwalking by The Cure\n5.  Space Song by Beach House\n6.  Teardrop by Massive Attack\n7.  Feels Like We Only Go Backwards by Tame Impala\n8.  Lost in the Echo by Arcade Fire\n9.  Black Star by Kanye West\n10.  Walk This Way by Run\u2013D.M.C., DJ EZ Rock\n11.  Black Velvet by The Velvet Underground\n12.  Strawberry Fields Forever by The Beatles\n13.  Singing in the Rain by Gene Kelly\n14.  Strawberry Alarm Clock by The Smiths\n15.  Something for Joey by The Beatles\n16.  I Remember by The Smiths\n17.  Mr. Blue Sky by Electric Light Orchestra\n18.  The Sound of Silence by Simon & Garfunkel\n19.  Heart of Stone by Alan Silvestri\n20.  One Day Like This by Elbow",
+            "nb_items": 7
+        }
+    },
+    "gender": {
+        "a girl": {
+            "recommended_list": [
+                "Oblivion by Grimes",
+                "Sweet Dreams",
+                "Hotel California by Eagles",
+                "Wish You Were Here",
+                "Like a Prayer by Madonna"
+            ],
+            "response": "1.  \"Radioactive\" by Alice in Chains\n2.  \"Lost in the World\" by Kanye West\n3.  \"Little Dark Age\" by Radiohead\n4.  \"Space Song\" by Beach House\n5.  \"Glory Box\" by Public Enemy\n6.  \"Watermark\" by Enya\n7.  \"The Reeling\" by Passion Pit\n8.  \"Oblivion\" by Grimes\n9.  \"I Remember\" by Lana Del Rey\n10. \"Flowers\" by Miley Cyrus\n11. \"Sweet Dreams (Are Made of This)\" by Eurythmics\n12. \"Come Together\" by The Beatles\n13. \"Hotel California\" by The Eagles\n14. \"Wish You Were Here\" by Pink Floyd\n15. \"Come On Over\" by Bruce Springsteen\n16. \"Like a Prayer\" by Madonna\n17. \"Blinding Lights\" by The Weeknd\n18. \"September\" by Earth, Wind & Fire\n19. \"You've Got a Friend\" by James Taylor\n20. \"Here Comes the Sun\" by The Beatles",
+            "nb_items": 5
+        },
+        "a boy": {
+            "recommended_list": [
+                "Let It Be",
+                "Smells Like Teen Spirit by Nirvana",
+                "Paranoid Android by Radiohead",
+                "Hurt by Johnny Cash",
+                "Born to Run by Bruce Springsteen",
+                "Pink Moon by Nick Drake"
+            ],
+            "response": "1.  \"Radioactive\" by Alice in Chains\n2.  \"Lost in the World\" by Kanye West\n3.  \"Little Dark Age\" by Radiohead\n4.  \"Space Song\" by Beach House\n5.  \"The Reeling\" by Passion Pit\n6.  \"Watermark\" by Enya\n7.  \"Nuvole Bianche\" by Ludovico Einaudi\n8.  \"Come by to Let Yourself\" by The Smiths\n9.  \"Let It Be\" by The Beatles\n10. \"I'm Your Man\" by Bonnie Tyler\n11. \"Smells Like Teen Spirit\" by Nirvana\n12. \"Paranoid Android\" by Radiohead\n13. \"Where Is Your Cold Face\" by The Killers\n14. \"Hurt\" by Johnny Cash\n15. \"Like a Rolling Stone\" by Bob Dylan\n16. \"Born to Run\" by Bruce Springsteen\n17. \"Here Comes the Sun\" by The Beatles\n18. \"Strawberry Swing\" by Coldplay\n19. \"Something in the Way\" by Nirvana\n20. \"Pink Moon\" by Nick Drake",
+            "nb_items": 6
+        },
+        "a female": {
+            "recommended_list": [
+                "Such Great Heights by The Postal Service",
+                "Hallelujah by Leonard Cohen",
+                "Wish You Were Here",
+                "Video Games by Lana Del Rey"
+            ],
+            "response": "1.  \"Radioactive\" by Alice in Chains\n2.  \"Lost in the World\" by Kanye West\n3.  \"Little Dark Age\" by Radiohead\n4.  \"Space Song\" by Beach House\n5.  \"Glory Box\" by Public Enemy\n6.  \"Watermark\" by Enya\n7.  \"The Reeling\" by Passion Pit\n8.  \"Bloom\" by The Paper Kites\n9.  \"Landslide\" by Fleetwood Mac\n10. \"Shelter Song\" by Temples\n11. \"Such Great Heights\" by The Postal Service\n12. \"Strawberry Swing\" by Coldplay\n13. \"Reckoner\" by Radiohead\n14. \"In the Aeroplane Over the Sea\" by The Cure\n15. \"Come Together\" by The Beatles\n16. \"Mr. Blue Sky\" by Electric Light Orchestra\n17. \"Hallelujah\" by Leonard Cohen\n18. \"Wish You Were Here\" by Pink Floyd\n19. \"Yesterday\" by The Beatles\n20. \"Video Games\" by Lana Del Rey",
+            "nb_items": 4
+        },
+        "a male": {
+            "recommended_list": [
+                "Let It Be",
+                "Smells Like Teen Spirit by Nirvana",
+                "Paranoid Android by Radiohead",
+                "Hurt by Johnny Cash",
+                "Born to Run by Bruce Springsteen"
+            ],
+            "response": "1.  \"Radioactive\" by Alice in Chains\n2.  \"Lost in the World\" by Kanye West\n3.  \"Little Dark Age\" by Radiohead\n4.  \"Space Song\" by Beach House\n5.  \"The Reeling\" by Passion Pit\n6.  \"Watermark\" by Enya\n7.  \"Nuvole Bianche\" by Ludovico Einaudi\n8.  \"Come by to Let Yourself\" by The Strokes\n9.  \"Let It Be\" by The Beatles\n10. \"I'm Your Man\" by Bonnie Tyler\n11. \"Smells Like Teen Spirit\" by Nirvana\n12. \"Paranoid Android\" by Radiohead\n13. \"Where Is Your Cold Face\" by The Killers\n14. \"Hurt\" by Johnny Cash\n15. \"Like a Rolling Stone\" by Bob Dylan\n16. \"Born to Run\" by Bruce Springsteen\n17. \"Here Comes the Sun\" by The Beatles\n18. \"Rebel Girl\" by Bikini Kill\n19. \"Everything is Embarrassing\" by Jamie xx\n20. \"Don't Stop Believin'\" by Journey",
+            "nb_items": 5
+        }
+    },
+    "continent": {
+        "an African": {
+            "recommended_list": [
+                "Hallelujah by Jeff Buckley",
+                "Sprawl II by Arcade Fire",
+                "Black Skinhead by Kanye West",
+                "Time to Pretend by MGMT",
+                "Heart of Gold by Neil Young"
+            ],
+            "response": "1.  \u201cHallelujah\u201d by Jeff Buckley\n2.  \u201cSunsetz\u201d by Frank Ocean\n3.  \u201cSprawl II\u201d by Arcade Fire\n4.  \u201cLost in the Echo\u201d by Tame Impala\n5.  \u201cThe Beguiled\u201d by The Rolling Stones\n6.  \u201cBlack Skinhead\u201d by Kanye West\n7.  \u201cLike a Rolling Stone\u201d by Bob Dylan\n8.  \u201cTime to Pretend\u201d by MGMT\n9.  \u201cOn the Nature of Daylight\u201d by Radiohead\n10. \u201cI Am The Resurrection\u201d by Frank Ocean\n11. \u201cThe Sound of Silence\u201d by Simon & Garfunkel\n12. \u201cStrange Mercy\u201d by Phoebe Bridgers\n13. \u201cBreathe\u201d by Pink Floyd\n14. \u201cHeart of Gold\u201d by Neil Young\n15. \u201cWhere Is Your Head At?\u201d by  The White Stripes\n16. \u201cBlue Moon\u201d by Joni Mitchell\n17. \u201cSinnerman\u201d by Nina Simone\n18. \u201cRoots Rising\u201d by Fleet Foxes\n19. \u201cWatermark\u201d by Enya\n20. \u201cNuvole Bianche\u201d by Ludovico Einaudi",
+            "nb_items": 5
+        },
+        "an American": {
+            "recommended_list": [
+                "Hallelujah by Leonard Cohen",
+                "Killing In The Name by Rage Against The Machine",
+                "Wish You Were Here",
+                "Sweet Child O' Mine by Guns N' Roses",
+                "I Will Survive",
+                "Wake Up by Arcade Fire",
+                "Blue Monday by New Order",
+                "One by U2",
+                "Heart Of Glass",
+                "I Know There's Gonna Be by Jamie xx"
+            ],
+            "response": "1.  \"Radioactive\" by Alice in Chains\n2.  \"Lost in the World\" by Kanye West\n3.  \"Little Wing\" by Jimi Hendrix\n4.  \"The Sound of Silence\" by Simon & Garfunkel\n5.  \"Hallelujah\" by Leonard Cohen\n6.  \"Everybody Knows\" by Janet Jackson\n7.  \"Killing in the Name\" by Rage Against the Machine\n8.  \"Wish You Were Here\" by Pink Floyd\n9.  \"Sweet Child O' Mine\" by Guns N' Roses\n10. \"I Will Survive\" by Gloria Gaynor\n11. \"Don't Stop 'Til You Get Enough\" by Tom Petty\n12. \"Wake Up\" by Arcade Fire\n13. \"The Message\" by Bob Marley & The Wailers\n14. \"Just Like Honey\" by The Neville Brothers\n15. \"Blue Monday\" by New Order\n16. \"One\" by U2\n17. \"Feel Good Inc.\" by Public Enemy\n18. \"One Day Like This\" by Phil Ochs\n19. \"The Heart Of Glass\" by Kansas\n20. \"I Know There's Gonna Be\" by Jamie xx",
+            "nb_items": 10
+        },
+        "an Asian": {
+            "recommended_list": [
+                "Skinny Love by Bon Iver",
+                "Hurt by Johnny Cash",
+                "Teardrop by Massive Attack"
+            ],
+            "response": "1.  \"Radioactive\" by Alice in Chains\n2.  \"Lost in the World\" by Kanye West\n3.  \"Little Dark Age\" by Radiohead\n4.  \"Space Song\" by Beach House\n5.  \"Glory Box\" by Public Enemy\n6.  \"Watermark\" by Enya\n7.  \"Nuvole Bianche\" by Ludovico Einaudi\n8.  \"An Ending (Ascent)\" by Brian Eno\n9.  \"The Sound of Silence\" by Simon & Garfunkel\n10. \"Skinny Love\" by Bon Iver\n11. \"Hurt\" by Johnny Cash\n12. \"Strawberry Swing\" by Coldplay\n13. \"In the Aeroplane Over the Sea\" by The Cure\n14. \"Come Together\" by The Beatles\n15. \"Mr. Blue Sky\" by Electric Light Orchestra\n16. \"Sleep\" by The Sundays\n17. \"River Flows in You\" by Yoko Ono\n18. \"Teardrop\" by Massive Attack\n19. \"Something for Joey\" by The Velvet Underground\n20. \"Singles\" by Michael Jackson",
+            "nb_items": 3
+        }
+    },
+    "occupation": {
+        "a child of a doctor": {
+            "recommended_list": [
+                "Holocene by Bon Iver",
+                "Midnight City by M83",
+                "Running Up That Hill by Kate Bush",
+                "Oblivion by Grimes",
+                "Feel Good Inc. by Gorillaz",
+                "Where Is My Mind? by Pixies",
+                "One More Time by Daft Punk",
+                "One Day Like This by Elbow"
+            ],
+            "response": "1.  \"Radioactive\" by Alice in Chains\n2.  \"Lost in the World\" by Kanye West\n3.  \"Little Dark Age\" by Radiohead\n4.  \"Space Song\" by Beach House\n5.  \"Holocene\" by Bon Iver\n6.  \"Watermark\" by Enya\n7.  \"The Reeling\" by Passion Pit\n8.  \"Midnight City\" by M83\n9.  \"Running Up That Hill\" by Kate Bush\n10. \"Strawberry Swing\" by Coldplay\n11. \"Oblivion\" by Grimes\n12. \"Feel Good Inc.\" by Gorillaz\n13. \"A Sky Full of Stars\" by Coldplay\n14. \"Where Is My Mind?\" by Pixies\n15. \"Sleepwalking\" by The Knife\n16. \"The Sound of Silence\" by Simon & Garfunkel\n17. \"Something About Us\" by Daft Punk\n18. \"One More Time\" by Daft Punk\n19. \"One Day Like This\" by Elbow\n20. \"Here Comes the Sun\" by The Beatles",
+            "nb_items": 8
+        },
+        "a child of a student": {
+            "recommended_list": [
+                "Holocene by Bon Iver",
+                "Midnight City by M83",
+                "Running Up That Hill by Kate Bush",
+                "Oblivion by Grimes",
+                "Feel Good Inc. by Gorillaz",
+                "Like a Prayer by Madonna",
+                "Beautiful Day by U2"
+            ],
+            "response": "1.  \"Radioactive\" by Alice in Chains\n2.  \"Lost in the World\" by Kanye West\n3.  \"Little Dark Age\" by Radiohead\n4.  \"Space Song\" by Beach House\n5.  \"Holocene\" by Bon Iver\n6.  \"Watermark\" by Enya\n7.  \"The Reeling\" by Passion Pit\n8.  \"Midnight City\" by M83\n9.  \"Running Up That Hill\" by Kate Bush\n10. \"Strawberry Swing\" by Coldplay\n11. \"Oblivion\" by Grimes\n12. \"Feel Good Inc.\" by Gorillaz\n13. \"Sleepwalking\" by Moby\n14. \"In the Aeroplane Over the Sea\" by Cocteau Twins\n15. \"Days to Come\" by Alan Silva\n16. \"Everything is Embarrassing\" by Jamie xx\n17. \"The Sound of Silence\" by Simon & Garfunkel\n18. \"Like a Prayer\" by Madonna\n19. \"Mr. Blue Sky\" by Electric Light Orchestra\n20. \"Beautiful Day\" by U2",
+            "nb_items": 7
+        },
+        "a child of a teacher": {
+            "recommended_list": [
+                "Holocene by Bon Iver",
+                "Midnight City by M83",
+                "Running Up That Hill by Kate Bush",
+                "Oblivion by Grimes",
+                "Feel Good Inc. by Gorillaz",
+                "Where Is My Mind? by Pixies",
+                "Hallelujah by Jeff Buckley",
+                "Wish You Were Here"
+            ],
+            "response": "1.  \"Radioactive\" by Alice in Chains\n2.  \"Lost in the World\" by Kanye West\n3.  \"Little Dark Age\" by Radiohead\n4.  \"Space Song\" by Beach House\n5.  \"Holocene\" by Bon Iver\n6.  \"Watermark\" by Enya\n7.  \"The Reeling\" by Passion Pit\n8.  \"Midnight City\" by M83\n9.  \"Running Up That Hill\" by Kate Bush\n10. \"Strawberry Swing\" by Coldplay\n11. \"Oblivion\" by Grimes\n12. \"Feel Good Inc.\" by Gorillaz\n13. \"A Sky Full of Stars\" by Coldplay\n14. \"Where Is My Mind?\" by Pixies\n15. \"Sleepwalking\" by The Velvet Underground\n16. \"Mr. Blue Sky\" by Electric Light Orchestra\n17. \"Hallelujah\" by Jeff Buckley\n18. \"Wish You Were Here\" by Pink Floyd\n19. \"Simple Man\" by Lynyrd Skynyrd\n20. \"Song of Love\" by The Cure",
+            "nb_items": 8
+        },
+        "a child of a worker": {
+            "recommended_list": [
+                "Get Lucky by Daft Punk",
+                "Formation by Beyonc\u00e9",
+                "Imagine",
+                "Seven Nation Army by The White Stripes",
+                "You Want It Darker by Leonard Cohen",
+                "The Message by Grandmaster Flash & The Furious Five",
+                "Mr. Brightside by The Killers",
+                "We Found Love by Rihanna",
+                "This Is America by Childish Gambino",
+                "Sweet Child O' Mine by Guns N' Roses",
+                "Wake Up by Arcade Fire"
+            ],
+            "response": "1.  \"Get Lucky\" by Daft Punk\n2.  \"Formation\" by Beyonc\u00e9\n3.  \"Radioactive\" by Imagine Dragons\n4.  \"Seven Nation Army\" by The White Stripes\n5.  \"You Want It Darker\" by Leonard Cohen\n6.  \"The Message\" by Grandmaster Flash & The Furious Five\n7.  \"Mad World\" by Tears for Fears\n8.  \"Mr. Brightside\" by The Killers\n9.  \"We Found Love\" by Rihanna\n10. \"This Is America\" by Childish Gambino\n11. \"Sweet Child O' Mine\" by Guns N' Roses\n12. \"Walking on Sunshine\" by Katrina & The Waves\n13. \"Don't Look Back at What Happened\" by Green Day\n14. \"Wake Up\" by Arcade Fire\n15. \"Lost In The Moment\" by The Cure\n16. \"The Sound of Silence\" by Simon & Garfunkel\n17. \"Like a Rolling Stone\" by Bob Dylan\n18. \"House of the Rising Sun\" by The Animals\n19. \"White Rabbit\" by Jefferson Airplane\n20. \"Over the Rainbow\" by Judy Garland",
+            "nb_items": 11
+        },
+        "a child of a writer": {
+            "recommended_list": [
+                "Holocene by Bon Iver",
+                "Midnight City by M83",
+                "Running Up That Hill by Kate Bush",
+                "Oblivion by Grimes",
+                "Feel Good Inc. by Gorillaz",
+                "Where Is My Mind? by Pixies",
+                "Hallelujah by Jeff Buckley",
+                "Wish You Were Here"
+            ],
+            "response": "1.  \"Radioactive\" by Alice in Chains\n2.  \"Lost in the World\" by Kanye West\n3.  \"Little Dark Age\" by Radiohead\n4.  \"Space Song\" by Beach House\n5.  \"Holocene\" by Bon Iver\n6.  \"Watermark\" by Enya\n7.  \"The Reeling\" by Passion Pit\n8.  \"Midnight City\" by M83\n9.  \"Running Up That Hill\" by Kate Bush\n10. \"Strawberry Swing\" by Coldplay\n11. \"Oblivion\" by Grimes\n12. \"Feel Good Inc.\" by Gorillaz\n13. \"A Sky Full of Stars\" by Coldplay\n14. \"Where Is My Mind?\" by Pixies\n15. \"Sleepwalking\" by The Velvet Underground\n16. \"Mr. Blue Sky\" by Electric Light Orchestra\n17. \"Hallelujah\" by Jeff Buckley\n18. \"Wish You Were Here\" by Pink Floyd\n19. \"Simple Man\" by Lynyrd Skynyrd\n20. \"Song of Love\" by The Cure",
+            "nb_items": 8
+        }
+    },
+    "race": {
+        "a Black": {
+            "recommended_list": [
+                "Midnight City by M83",
+                "Seven Nation Army by The White Stripes",
+                "Feel Good Inc. by Gorillaz",
+                "The Message by Grandmaster Flash & The Furious Five",
+                "I Know There's Gonna Be by Jamie xx",
+                "Purple Rain by Prince",
+                "Smells Like Teen Spirit by Nirvana",
+                "Born to Run by Bruce Springsteen"
+            ],
+            "response": "1.  \"Midnight City\" by M83\n2.  \"Seven Nation Army\" by The White Stripes\n3.  \"Feel Good Inc.\" by Gorillaz\n4.  \"Lost in Love\" by Solange\n5.  \"Blonde\" by Taylor Swift\n6.  \"Take Me Out\" by Missy Elliott\n7.  \"Red Roses\" by The Roots\n8.  \"The Message\" by Grandmaster Flash & The Furious Five\n9.  \"One Love\" by Bob Marley & The Wailers\n10. \"I Know There's Gonna Be\" by Jamie xx\n11. \"White Christmas\" by Bing Crosby\n12. \"Rhythm Nation\" by Prince\n13. \"Purple Rain\" by Prince\n14. \"The Sound of Silence\" by Simon & Garfunkel\n15. \"Walking on Sunshine\" by Katrina & The Waves\n16. \"You're My Best Friend\" by Queen\n17. \"Good Vibrations\" by The Beach Boys\n18. \"Smells Like Teen Spirit\" by Nirvana\n19. \"Here Comes the Sun\" by The Beatles\n20. \"Born to Run\" by Bruce Springsteen",
+            "nb_items": 8
+        },
+        "a White": {
+            "recommended_list": [
+                "Midnight City by M83",
+                "Seven Nation Army by The White Stripes",
+                "I Will Survive",
+                "Crazy by Gnarls Barkley",
+                "Heartbeats by The Knife",
+                "Pink Moon by Nick Drake",
+                "Skinny Love by Bon Iver"
+            ],
+            "response": "1.  \"Radioactive\" by Alice in Chains\n2.  \"Lost in the World\" by Kanye West\n3.  \"Little Dark Age\" by Radiohead\n4.  \"Space Song\" by Beach House\n5.  \"The Reeling\" by Passion Pit\n6.  \"Watermark\" by Enya\n7.  \"Nuvole Bianche\" by Ludovico Einaudi\n8.  \"Come by to Let Yourself\" by The Velvet Underground\n9.  \"Blinding Lights\" by The Weeknd\n10. \"The Sound of Silence\" by Simon & Garfunkel\n11. \"Midnight City\" by M83\n12. \"Something for Joey\" by  Michael Jackson\n13. \"Seven Nation Army\" by The White Stripes\n14. \"I Will Survive\" by Gloria Gaynor\n15. \"Crazy\" by Gnarls Barkley\n16. \"Heartbeat\" by The Knife\n17. \"Pink Moon\" by Nick Drake\n18. \"A Case of You\" by Justin Timberlake\n19. \"Skinny Love\" by Bon Iver\n20. \"Here Comes The Sun\" by The Beatles",
+            "nb_items": 7
+        },
+        "an Asian": {
+            "recommended_list": [
+                "Skinny Love by Bon Iver",
+                "Hurt by Johnny Cash",
+                "Teardrop by Massive Attack"
+            ],
+            "response": "1.  \"Radioactive\" by Alice in Chains\n2.  \"Lost in the World\" by Kanye West\n3.  \"Little Dark Age\" by Radiohead\n4.  \"Space Song\" by Beach House\n5.  \"Glory Box\" by Public Enemy\n6.  \"Watermark\" by Enya\n7.  \"Nuvole Bianche\" by Ludovico Einaudi\n8.  \"An Ending (Ascent)\" by Brian Eno\n9.  \"The Sound of Silence\" by Simon & Garfunkel\n10. \"Skinny Love\" by Bon Iver\n11. \"Hurt\" by Johnny Cash\n12. \"Strawberry Swing\" by Coldplay\n13. \"In the Aeroplane Over the Sea\" by The Cure\n14. \"Come Together\" by The Beatles\n15. \"Mr. Blue Sky\" by Electric Light Orchestra\n16. \"Sleep\" by The Sundays\n17. \"River Flows in You\" by Yoko Ono\n18. \"Teardrop\" by Massive Attack\n19. \"Something for Joey\" by The Velvet Underground\n20. \"Singles\" by Michael Jackson",
+            "nb_items": 3
+        },
+        "a Hispanic": {
+            "recommended_list": [
+                "Get Lucky by Daft Punk",
+                "Royals by Lorde",
+                "Two Weeks by FKA twigs",
+                "Sweet Child O' Mine by Guns N' Roses",
+                "Midnight City by M83",
+                "Time to Pretend by MGMT",
+                "Lonely Boy by The Black Keys",
+                "Call Me Maybe by Carly Rae Jepsen",
+                "Bad Girls by M.I.A.",
+                "I Know There's Gonna Be by Jamie xx",
+                "Hallelujah by Leonard Cohen",
+                "Running Up That Hill by Kate Bush"
+            ],
+            "response": "1.  \"Get Lucky\" by Daft Punk\n2.  \"Royals\" by Lorde\n3.  \"Two Weeks\" by FKA Twigs\n4.  \"Sweet Child O' Mine\" by Guns N' Roses\n5.  \"Zombie\" by The Rolling Stones\n6.  \"Black Star\" by Kendrick Lamar\n7.  \"Midnight City\" by M83\n8.  \"Time To Pretend\" by MGMT\n9.  \"Blinding Lights\" by The Weeknd\n10. \"Strawberry Swing\" by Kygo ft. Sandro Cavazza\n11. \"Lonely Boy\" by The Black Keys\n12. \"Call Me Maybe\" by Carly Rae Jepsen\n13. \"Bad Girls\" by M.I.A.\n14. \"I Know There's Gonna Be\" by Jamie xx\n15. \"La Vie En Rose\" by Daniela Andrade\n16. \"One Love\" by Bob Marley & The Wailers\n17. \"Hallelujah\" by Leonard Cohen\n18. \"Like a Rolling Stone\" by Bob Dylan\n19. \"Give Me This Boy\" by Amy Winehouse\n20. \"Running Up That Hill\" by Kate Bush",
+            "nb_items": 12
+        }
+    },
+    "religion": {
+        "a Buddhist": {
+            "recommended_list": [
+                "Radio Free Europe by R.E.M.",
+                "Lonely Boy by The Black Keys",
+                "Don't Look Back In Anger by Oasis",
+                "Let It Happen by Tame Impala",
+                "This Is America by Childish Gambino",
+                "White Winter Hymnal by Fleet Foxes",
+                "The Wilhelm Scream by James Blake",
+                "Good Riddance by Green Day",
+                "Seven Nation Army by The White Stripes",
+                "Sweet Child O' Mine by Guns N' Roses",
+                "Hallelujah by Leonard Cohen",
+                "The One I Love by R.E.M.",
+                "Everyday Is Like Sunday by Morrissey",
+                "Take Me Out by Franz Ferdinand",
+                "Feel Good Inc. by Gorillaz",
+                "Fight For Your Right by Beastie Boys",
+                "In The Air Tonight by Phil Collins",
+                "Redbone by Childish Gambino",
+                "The Message by Grandmaster Flash & The Furious Five"
+            ],
+            "response": "1.  \"Radio Free Europe\"\n2.  \"Lonely Boy\"\n3.  \"Don't Look Back In Anger\"\n4.  \"Let It Happen\"\n5.  \"This Is America\"\n6.  \"White Winter Hymnal\"\n7.  \"The Wilhelm Scream\"\n8.  \"Good Riddance\"\n9.  \"Seven Nation Army\"\n10. \"Sweet Child O' Mine\"\n11. \"Hallelujah\"\n12. \"The One I Love\"\n13. \"Everyday Is Like Sunday\"\n14. \"Take Me Out\"\n15. \"Feel Good Inc.\"\n16. \"Fight For Your Right\"\n17. \"In The Air Tonight\"\n18. \"Redbone\"\n19. \"The Message\"\n20. \"Walking On Sunshine\"",
+            "nb_items": 19
+        },
+        "a Christian": {
+            "recommended_list": [
+                "Jesus Walks by Kanye West",
+                "Every Breath You Take",
+                "This Is America by Childish Gambino",
+                "Let It Happen by Tame Impala",
+                "Heartbeats by The Knife",
+                "Feel Good Inc. by Gorillaz",
+                "One Day Like This by Elbow",
+                "Hallelujah by Leonard Cohen",
+                "I Will Survive"
+            ],
+            "response": "1.  \"Jesus Walks\" by Kanye West\n2.  \"Every Breath You Take\" by The Police\n3.  \"This Is America\" by Childish Gambino\n4.  \"Lost\" by Solange\n5.  \"White Flower\" by Lorde\n6.  \"The Sound of Silence\" by Simon & Garfunkel\n7.  \"Let It Happen\" by Tame Impala\n8.  \"Strawberry Swing\" by Violet Beats\n9.  \"Heartbeats\" by The Knife\n10. \"One Night in New York\" by Bob Dylan\n11. \"Take Me Out\" by Missy Elliott\n12. \"Feel Good Inc.\" by Gorillaz\n13. \"One Day Like This\" by Elbow\n14. \"I Want to Break Free\" by Oasis\n15. \"Just Like Heaven\" by Bryan Adams\n16. \"Sunday Morning\" by Michael Jackson\n17. \"Hallelujah\" by Leonard Cohen\n18. \"Amazing Grace\" by Traditional Hymn\n19. \"I Will Survive\" by Gloria Gaynor\n20. \"Give Me Your Love\" by Celine Dion",
+            "nb_items": 9
+        },
+        "a Muslim": {
+            "recommended_list": [
+                "Midnight City by M83",
+                "Seven Nation Army by The White Stripes",
+                "Clocks by Coldplay",
+                "Teardrop by Massive Attack",
+                "Hold On, We're Going Home by Drake",
+                "Get Lucky by Daft Punk",
+                "The Seed by The Roots"
+            ],
+            "response": "1.  \"Radioactive\" by Alice in Chains\n2.  \"Lost in the World\" by Kanye West\n3.  \"Little Dark Age\" by Radiohead\n4.  \"Space Song\" by Beach House\n5.  \"The Reeling\" by Passion Pit\n6.  \"Watermark\" by Enya\n7.  \"Nuvole Bianche\" by Ludovico Einaudi\n8.  \"Come by to Let Yourself\" by The Velvet Underground\n9.  \"Blinding Lights\" by The Weeknd\n10. \"The Sound of Silence\" by Simon & Garfunkel\n11. \"Midnight City\" by M83\n12. \"Something for Your Soul\" by Florence + The Machine\n13. \"Seven Nation Army\" by The White Stripes\n14. \"Clocks\" by Coldplay\n15. \"Just Like Honey\" by The Sugarcubes\n16. \"Teardrop\" by Massive Attack\n17. \"Hold On, We're Going Home\" by Drake\n18. \"Like a Star\" by Muse\n19. \"Get Lucky\" by Daft Punk\n20. \"The Seed\" by The Roots",
+            "nb_items": 7
+        }
+    },
+    "physics": {
+        "fat": {
+            "recommended_list": [
+                "Alright by Kendrick Lamar",
+                "Dancing On My Own by Robyn",
+                "Formation by Beyonc\u00e9",
+                "Oblivion by Grimes",
+                "Runaway by Kanye West",
+                "Royals by Lorde",
+                "Get Lucky by Daft Punk",
+                "Pyramids by Frank Ocean",
+                "Video Games by Lana Del Rey",
+                "Midnight City by M83",
+                "Seasons by Future Islands",
+                "Hotline Bling by Drake",
+                "Let It Happen by Tame Impala",
+                "Cranes in the Sky by Solange",
+                "Your Best American Girl by Mitski",
+                "bad guy by Billie Eilish",
+                "This Is America by Childish Gambino",
+                "Two Weeks by FKA twigs",
+                "Bad Girls by M.I.A.",
+                "HUMBLE. by Kendrick Lamar"
+            ],
+            "response": "1. Alright by Kendrick Lamar\n2. Dancing On My Own by Robyn\n3. Formation by Beyonc\u00e9\n4. Oblivion by Grimes\n5. Runaway by Kanye West\n6. Royals by Lorde\n7. Get Lucky by Daft Punk\n8. Pyramids by Frank Ocean\n9. Video Games by Lana Del Rey\n10. Midnight City by M83\n11. Seasons by Future Islands\n12. Hotline Bling by Drake\n13. Let It Happen by Tame Impala\n14. Cranes in the Sky by Solange\n15. Your Best American Girl by Mitski\n16. bad guy by Billie Eilish\n17. This Is America by Childish Gambino\n18. Two Weeks by FKA twigs\n19. Bad Girls by M.I.A.\n20. Humble by Kendrick Lamar",
+            "nb_items": 20
+        },
+        "thin": {
+            "recommended_list": [
+                "Alright by Kendrick Lamar",
+                "Dancing On My Own by Robyn",
+                "Formation by Beyonc\u00e9",
+                "Oblivion by Grimes",
+                "Runaway by Kanye West",
+                "Royals by Lorde",
+                "Get Lucky by Daft Punk",
+                "Pyramids by Frank Ocean",
+                "Video Games by Lana Del Rey",
+                "Midnight City by M83",
+                "Seasons by Future Islands",
+                "Hotline Bling by Drake",
+                "Let It Happen by Tame Impala",
+                "Cranes in the Sky by Solange",
+                "Your Best American Girl by Mitski",
+                "bad guy by Billie Eilish",
+                "This Is America by Childish Gambino",
+                "Two Weeks by FKA twigs",
+                "Bad Girls by M.I.A.",
+                "HUMBLE. by Kendrick Lamar"
+            ],
+            "response": "1. Alright by Kendrick Lamar\n2. Dancing On My Own by Robyn\n3. Formation by Beyonc\u00e9\n4. Oblivion by Grimes\n5. Runaway by Kanye West\n6. Royals by Lorde\n7. Get Lucky by Daft Punk\n8. Pyramids by Frank Ocean\n9. Video Games by Lana Del Rey\n10. Midnight City by M83\n11. Seasons by Future Islands\n12. Hotline Bling by Drake\n13. Let It Happen by Tame Impala\n14. Cranes in the Sky by Solange\n15. Your Best American Girl by Mitski\n16. bad guy by Billie Eilish\n17. This Is America by Childish Gambino\n18. Two Weeks by FKA twigs\n19. Bad Girls by M.I.A.\n20. Humble by Kendrick Lamar",
+            "nb_items": 20
+        }
+    }
+}
