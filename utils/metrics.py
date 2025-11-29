@@ -6,16 +6,28 @@ def calc_iou(x, y):
     y = set(y)
     return len(x & y) / len(x | y)
 
+def calc_serp_ms(system_rank, gold_rank, k=None):
+    """
+    system_rank: list of items ranked by the model
+    gold_rank:   list of items ranked by the gold standard
+    k:           cutoff (top-k)
+    """
 
-def calc_serp_ms(x, y):
-    temp = 0
-    if len(y) == 0:
-        return 0
-    for i, item_x in enumerate(x):
-        for j, item_y in enumerate(y):
-            if item_x == item_y:
-                temp = temp + len(x) - i + 1
-    return temp * 0.5 / ((len(y) + 1) * len(y))
+    if k is None:
+        k = len(system_rank)
+
+    # take top-k system and gold items
+    I_a_k = system_rank[:k]
+    I_gold_k = set(gold_rank[:k])  # indicator set
+
+    serp_sim = 0.0
+
+    for r, item in enumerate(I_a_k):  # r = 0-based rank in system
+        if item in I_gold_k:
+            # contribution: 2 * (k - r) / (k (k+1))
+            serp_sim += 2 * (k - r) / (k * (k + 1))
+
+    return serp_sim
 
 
 def calc_prag(x, y):
