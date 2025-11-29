@@ -6,11 +6,10 @@ visualization_path = data/visualization/
 sensitive_attributes_path = config/sensitive_attributes.json
 
 [parameters]
-# to test: qwen3_4b ministral_3b
-models = gemma3_12b
+models = llama3.2_11b
 dataset_types = college, movie, music
-# type_of_activities = None
-type_of_activities = mathy, action movie fan, rock fan
+type_of_activities = None
+# type_of_activities = mathy, action movie fan, rock fan
 k = 20
 type_inf = vllm
 seeds = 0, 1, 2, 3, 4

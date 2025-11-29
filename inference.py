@@ -1,4 +1,4 @@
-import ollama
+# import ollama
 import json
 from users import User
 

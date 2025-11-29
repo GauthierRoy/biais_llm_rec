@@ -3,6 +3,12 @@
         "ollama": "meta-llama/Llama-3.2-3B-Instruct",
         "vllm": "meta-llama/Llama-3.2-3B-Instruct"
     },
+    "llama3.2_1b": {
+        "vllm": "meta-llama/Llama-3.2-1B-Instruct"
+    },
+    "llama3.2_11b": {
+        "vllm": "meta-llama/Llama-3.2-11B-Vision-Instruct"
+    },
     "gemma3_4b": {
         "vllm": "google/gemma-3-4b-it"
     },
@@ -12,10 +18,22 @@
     "gemma3_1b": {
         "vllm": "google/gemma-3-1b-it"
     },
+    "qwen3_1.7b": {
+        "vllm": "Qwen/Qwen3-1.7B"
+    },
     "qwen3_4b":{
         "vllm": "Qwen/Qwen3-4B"
     },
+    "qwen3_14b": {
+        "vllm": "Qwen/Qwen3-14B"
+    },
     "ministral_3b":{
         "vllm":"ministral/Ministral-3b-instruct"
+    },
+    "minicpm3_4b": {
+        "vllm": "openbmb/MiniCPM3-4B"
+    },
+    "smollm3_3b": {
+        "vllm": "HuggingFaceTB/SmolLM3-3B"
     }
 }

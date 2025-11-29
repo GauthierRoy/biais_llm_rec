@@ -20,6 +20,8 @@ def calculate_metrics_stats(data: dict) -> dict:
     iou_means, iou_stds = [], []
     serp_means, serp_stds = [], []
     prag_means, prag_stds = [], []
+    diversity_means, diversity_stds = [], []
+
 
     for attribute_name, attribute_data in data.items():
         if attribute_name == "neutral":
@@ -36,6 +38,10 @@ def calculate_metrics_stats(data: dict) -> dict:
         if "Pragmatic Divergence" in attribute_data:
             prag_means.append(attribute_data["Pragmatic Divergence"].get("mean", 0.0))
             prag_stds.append(attribute_data["Pragmatic Divergence"].get("std", 0.0))
+        
+        if "diversity" in attribute_data:
+            diversity_means.append(attribute_data["diversity"].get("mean", 0.0))
+            diversity_stds.append(attribute_data["diversity"].get("std", 0.0))
 
     def calculate_average(lst):
         return sum(lst) / len(lst) if lst else 0.0
@@ -47,6 +53,8 @@ def calculate_metrics_stats(data: dict) -> dict:
         "overall_mean_std_serp": round(calculate_average(serp_stds), 2),
         "overall_mean_prag": round(calculate_average(prag_means), 2),
         "overall_mean_std_prag": round(calculate_average(prag_stds), 2),
+        "overall_mean_diversity": round(calculate_average(diversity_means), 2),
+        "overall_mean_std_diversity": round(calculate_average(diversity_stds), 2)
     }
 
     return stats
@@ -101,6 +109,24 @@ if __name__ == "__main__":
         "data/metric_results/gemma3_12b_college_.json",
         "data/metric_results/gemma3_12b_music_.json",
         "data/metric_results/gemma3_12b_movie_.json",
+        "data/metric_results/qwen3_4b_college_.json",
+        "data/metric_results/qwen3_4b_music_.json",
+        "data/metric_results/qwen3_4b_movie_.json",
+        "data/metric_results/minicpm3_4b_college_.json",
+        "data/metric_results/minicpm3_4b_music_.json",
+        "data/metric_results/minicpm3_4b_movie_.json",
+        "data/metric_results/smollm3_3b_college_.json",
+        "data/metric_results/smollm3_3b_music_.json",
+        "data/metric_results/smollm3_3b_movie_.json",
+        "data/metric_results/llama3.2_1b_college_.json",
+        "data/metric_results/llama3.2_1b_music_.json",
+        "data/metric_results/llama3.2_1b_movie_.json",
+        "data/metric_results/qwen3_1.7b_college_.json",
+        "data/metric_results/qwen3_1.7b_music_.json",
+        "data/metric_results/qwen3_1.7b_movie_.json",
+        "data/metric_results/qwen3_14b_college_.json",
+        "data/metric_results/qwen3_14b_music_.json",
+        "data/metric_results/qwen3_14b_movie_.json",
     ]
 
     process_and_print_stats(files_to_analyze)

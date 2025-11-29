@@ -1,7 +1,7 @@
 from collections import abc
 import abc
 import json
-import ollama  # Make sure ollama is installed: pip install ollama
+# import ollama  # Make sure ollama is installed: pip install ollama
 from typing import List, Dict, Any, Optional, Type, Union
 from openai import OpenAI
 from pydantic import BaseModel
@@ -79,7 +79,7 @@ class VLLMClient(LLMInterface):
 
     def __init__(
         self,
-        base_url: str = "http://localhost:8000/v1",
+        base_url: str = "http://localhost:8010/v1",
         api_key: str = "dummy",
         options: Dict[str, Any] = None,
     ):
@@ -102,6 +102,7 @@ class VLLMClient(LLMInterface):
     def chat(self, model: str, messages: List[ChatMessage]) -> str:
         """Sends messages via OpenAI client to vLLM and returns the content string."""
         # Convert model name if necessary
+        print(mapping_name_dict[model])
         if model in mapping_name_dict:
             model = mapping_name_dict[model]["vllm"]
         else:
@@ -109,7 +110,7 @@ class VLLMClient(LLMInterface):
                 f"Model '{model}' not found in conversion map. Available models: {mapping_name_dict.keys()}"
             )
         # Call the OpenAI API with the vLLM server
-        if "qwen" in model.lower()
+        if "qwen" in model.lower():
             opts = dict(self.client_options)
             extra = dict(opts.get("extra_body") or {})
             chat_kwargs = dict(extra.get("chat_template_kwargs") or {})
@@ -117,7 +118,7 @@ class VLLMClient(LLMInterface):
             extra["chat_template_kwargs"] = chat_kwargs
             opts["extra_body"] = extra
         else:
-            opts dict(self.client_options)
+            opts = dict(self.client_options)
         response = self.client.chat.completions.create(
             model=model,
             messages=messages,
