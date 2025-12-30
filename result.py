@@ -15,7 +15,7 @@ import configparser
 parser = argparse.ArgumentParser()
 parser.add_argument("--models", type=str, default=["llama3.2"])
 parser.add_argument("--dataset_types", type=str, default=["college"])
-parser.add_argument("--type_of_activities", type=str, default=["student"])
+parser.add_argument("--user_personas", type=str, default=["student"])
 parser.add_argument("--k", type=int)
 parser.add_argument("--seeds", type=str, default="0, 1")
 
@@ -33,24 +33,24 @@ SENSITIVE_ATRIBUTES_PATH = config["paths"]["sensitive_attributes_path"]
 
 models = config["parameters"]["models"].split(", ")
 dataset_types = config["parameters"]["dataset_types"].split(", ")
-type_of_activities = config["parameters"]["type_of_activities"].split(", ")
+user_personas = config["parameters"]["user_personas"].split(", ")
 k = int(config["parameters"]["k"])
 seeds = [int(seed) for seed in config["parameters"]["seeds"].split(", ")]
-if type_of_activities[0] == "None":
-    type_of_activities = ["","",""]
+if user_personas[0] == "None":
+    user_personas = ["","",""]
 
 # if result_path directory does not exist, create it
 import os
 if not os.path.exists(RESULT_PATH):
     os.makedirs(RESULT_PATH)
 
-def results(model, dataset_type, k, type_of_activity,seed):
-    print(f"Running results for {model} on {dataset_type} as {type_of_activity}")
+def results(model, dataset_type, k, user_persona,seed):
+    print(f"Running results for {model} on {dataset_type} as {user_persona}")
     with open(f"{DATASET_PATH}{dataset_type}.json", "r") as f:
         items = json.load(f)
     items_rank = {item: i for i, item in enumerate(items)}
 
-    file_name = get_correct_file_name(f"{model}_{dataset_type}_{type_of_activity}_{seed}.json")
+    file_name = get_correct_file_name(f"{model}_{dataset_type}_{user_persona}_{seed}.json")
     with open(f"{OUTPUT_PATH}{file_name}", "r") as f:
         model_outputs = json.load(f)
 
@@ -89,7 +89,7 @@ def results(model, dataset_type, k, type_of_activity,seed):
     # with open(file, "w") as f:
     #     json.dump(final_metrics, f, indent=4)
 
-def aggregate_and_save_metrics(metrics_by_seed, model, dataset_type, type_of_activity):
+def aggregate_and_save_metrics(metrics_by_seed, model, dataset_type, user_persona):
     print(f"Processing results for {model}, Dataset: {dataset_type}")
     # neutral rank
     collected_values = defaultdict(lambda: defaultdict(list))
@@ -112,24 +112,24 @@ def aggregate_and_save_metrics(metrics_by_seed, model, dataset_type, type_of_act
                 "std": std_val,
                 "num_values": num_aggregated
             }
-    file_name = get_correct_file_name(f"{model}_{dataset_type}_{type_of_activity}.json")
+    file_name = get_correct_file_name(f"{model}_{dataset_type}_{user_persona}.json")
     file = f"{RESULT_PATH}{file_name}"
     with open(file, "w") as f:
         json.dump(aggregated_output, f, indent=4)
 
 if __name__ == "__main__":
     for model in models:
-        for dataset_type, type_of_activity in zip(dataset_types, type_of_activities):
+        for dataset_type, user_persona in zip(dataset_types, user_personas):
             metric_for_seed_aggragation = {}
             for seed in seeds:
-                metric_for_seed_aggragation[seed] = results(model, dataset_type, k, type_of_activity,seed)
+                metric_for_seed_aggragation[seed] = results(model, dataset_type, k, user_persona,seed)
             # save aggregated results
             print(metric_for_seed_aggragation)
             aggregate_and_save_metrics(
                 metric_for_seed_aggragation,
                 model,
                 dataset_type,
-                type_of_activity,
+                user_persona,
             )
 
 

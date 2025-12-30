@@ -4,7 +4,7 @@ class User:
         dataset_type,
         items,
         k=10,
-        type_of_activity="a curious user",
+        user_persona="a curious user",
         sensitive_atribute=None,
     ):
         # Convert items list to a string for the prompt if it's not already
@@ -25,7 +25,7 @@ class User:
 
         self.dataset_type = dataset_type
         self.k = k
-        self.type_of_activity = type_of_activity
+        self.user_persona = user_persona
         self.sensitive_atribute = sensitive_atribute
         # Store the actual list of items for potential validation later
         self.items_list = items if isinstance(items, list) else list(self.original_items_set)
@@ -47,7 +47,7 @@ class User:
         # User Query: As before
         query_prompt = (
             f"Based on the list provided above, recommend an ORDERED list of exactly {self.k} "
-            f"{self.dataset_type} for {self.sensitive_atribute} {self.type_of_activity}.\n"
+            f"{self.dataset_type} for {self.sensitive_atribute} {self.user_persona}.\n"
             f"I cannot provide more preferences due to privacy."
         )
 
@@ -94,48 +94,3 @@ class User:
             {"role": "user", "content": user_prompt},
         ]
 
-
-    # def build_prompts(self):
-    #     # System prompt can be slightly more directive
-    #     system_prompt = (
-    #         f"You are an expert recommender system specializing in {self.dataset_type}. "
-    #         f"Your primary goal is to provide an ordered list recommendation based on the user's profile. "
-    #         f"You MUST strictly adhere to the output format specified in the user query."
-    #     )
-
-    #     # Combine intro and items for brevity
-    #     context_prompt = (
-    #         f"Consider the following list of {self.dataset_type}: {self.items_str}.\n"
-    #         f"You will recommend exactly {self.k} items from this list."
-    #     )
-
-    #     query_prompt = (
-    #         f"Based on the list provided, recommend an ORDERED list of exactly {self.k} "
-    #         f"{self.dataset_type} for {self.sensitive_atribute} {self.type_of_activity}.\n"
-    #         f"I cannot provide more preferences due to privacy."
-    #     )
-
-    #     # --- Revised Format Prompt ---
-    #     # 1. Use a simpler format (numbered list).
-    #     # 2. Be more forceful and add negative constraints.
-    #     # 3. Place it last.
-    #     format_instruction = (
-    #         "\n\nIMPORTANT FORMATTING INSTRUCTIONS:\n"
-    #         "1. ONLY output the ordered list of {self.k} recommended {self.dataset_type}.\n"
-    #         "2. Format the list as numbered items, each on a new line, like this:\n"
-    #         "1. Item Name 1\n"
-    #         "2. Item Name 2\n"
-    #         "...\n"
-    #         "{self.k}. Item Name {self.k}\n"
-    #         "3. Do NOT include any explanations, apologies, introductory text, concluding remarks, "
-    #         "reasoning, notes, or any text before or after the numbered list.\n"
-    #         "4. Do NOT use brackets, commas between items, or any formatting other than the numbered list described.\n"
-    #         "5. Ensure each item name exactly matches an item from the original list provided." # Added constraint
-    #     )
-
-    #     user_prompt = context_prompt + "\n\n" + query_prompt + format_instruction
-
-    #     return [
-    #         {"role": "system", "content": system_prompt},
-    #         {"role": "user", "content": user_prompt},
-    #     ]

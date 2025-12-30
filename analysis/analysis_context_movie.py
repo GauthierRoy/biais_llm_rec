@@ -50,7 +50,7 @@ CATEGORY_ORDER = [
 parser = argparse.ArgumentParser()
 parser.add_argument("--models", type=str, default=["llama3.2"])
 # parser.add_argument("--dataset_types", type=str, default=["college"])
-parser.add_argument("--type_of_activities", type=str, default=["student"])
+parser.add_argument("--user_personas", type=str, default=["student"])
 parser.add_argument("--k", type=int)
 parser.add_argument("--seeds", type=str, default="0, 1")
 
@@ -66,13 +66,13 @@ SENSITIVE_ATRIBUTES_PATH = config["paths"]["sensitive_attributes_path"]
 
 models = config["parameters"]["models"].split(", ")
 dataset_types = ["movie", "movie"]
-type_of_activities = ["", "action movie fan"]
+user_personas = ["", "action movie fan"]
 models = config["parameters"]["models"].split(", ")
 
 df_activities = {}
 for model in models:
-    for dataset_type, type_of_activity in zip(dataset_types, type_of_activities):
-        name_save = get_correct_file_name(f"{model}_{dataset_type}_{type_of_activity}")
+    for dataset_type, user_persona in zip(dataset_types, user_personas):
+        name_save = get_correct_file_name(f"{model}_{dataset_type}_{user_persona}")
         filepath = f"{RESULT_PATH}{name_save}.json"
 
         with open(filepath, "r") as f:
@@ -127,8 +127,8 @@ for model in models:
         df_pivot_mean = df_pivot_mean.reindex(final_ordered_attributes)
         df_pivot_std = df_pivot_std.reindex(final_ordered_attributes)
 
-        df_activities[f"{type_of_activity}_mean"] = df_pivot_mean
-        df_activities[f"{type_of_activity}_std"] = df_pivot_std
+        df_activities[f"{user_persona}_mean"] = df_pivot_mean
+        df_activities[f"{user_persona}_std"] = df_pivot_std
 
         sns.set_style("whitegrid")
 
