@@ -183,9 +183,9 @@ Experiment parameters, models, and attributes are defined in configuration files
 
     # Optional: Contextual information added to the prompt, specific to each dataset type.
     # Order must match dataset_types. Use 'None' if no context for a specific dataset.
-    type_of_activities = student, action movie fan, rock fan
+    user_personas = student, action movie fan, rock fan
     # Example with no context for 'movie':
-    # type_of_activities = student, None, rock fan
+    # user_personas = student, None, rock fan
 
     # Number of items the LLM should rank in its response
     k = 20

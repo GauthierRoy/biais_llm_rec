@@ -1,5 +1,5 @@
 import re
-import logging # Import the logging library
+import logging 
 
 # --- Configure Logging ---
 # Set up logging to write matches to a file
@@ -65,69 +65,52 @@ def find_best_match(extracted_item, original_items_set, score_cutoff=89):
     else:
         return None
 
+
 def extract_list_from_response(content: str, original_items_set: set, k: int = 10, score_cutoff: int = 88):
     """
-    Extracts items from a simple numbered list format (1. Item\n2. Item...).
-    Performs fuzzy matching against original_items_set for validation.
-
-    Args:
-        content (str): The raw text response from the LLM.
-        original_items_set (set): A set containing the valid items from the original dataset.
-        k (int): The maximum number of items to extract.
-        score_cutoff (int): Minimum fuzzy matching score required (0-100).
-
-    Returns:
-        tuple[list[str], int]: A tuple containing:
-            - list: The list of *validated* item names (matching original set).
-            - int: The count of extracted lines that *failed* fuzzy matching.
+    Extracts items silently. 
+    Returns: (validated_list, error_count, list_of_invalid_strings)
     """
     matched_items = []
+    invalid_items = [] 
     error_count = 0
-    invalid_items = []
-    processed_lines = 0
 
     if not content or not isinstance(content, str):
-        print("Warning: Received invalid content for extraction.")
-        return [], 0
+        return [], 0, []
+
+    content = re.sub(r'<think>.*?</think>', '', content, flags=re.DOTALL)
 
     lines = [line.strip() for line in content.strip().split('\n')]
 
     for line in lines:
-        # Basic regex for "number. item_name" or "number: item_name"
-        # Makes the number part optional to catch lists that might lose numbering
-        match = re.match(r'^\s*(?:\d+[:.]\s*)?(.*)', line)
-        processed_lines += 1
+        # Matches "1. Item" or "1) Item" or just "Item" if structured poorly
+        # The regex ^\s*(?:\d+[:.)]\s*)?(.*) looks for optional number followed by text
+        match = re.match(r'^\s*(?:\d+[:.)]\s*)?(.*)', line)
+        
         if match:
             raw_item = match.group(1).strip()
-            if not raw_item: # Skip empty lines or lines with only numbering
+            # Skip empty lines or lines that were just numbers
+            if not raw_item: 
                 continue
 
-           
+            # Fuzzy Match
             matched_item = find_best_match(raw_item, original_items_set, score_cutoff)
 
             if matched_item:
                 matched_items.append(matched_item)
             else:
                 error_count += 1
-                invalid_items.append(raw_item) # Collect invalid items for error reporting
+                invalid_items.append(raw_item)
         else:
+            # Fallback if regex fails completely
             error_count += 1
-            invalid_items.append(raw_item)
+            invalid_items.append(line)
 
         if len(matched_items) == k:
             break
-    
-    if error_count > 0:
-        # Append errors to a file
-        with open("errors.txt", "a") as error_file:
-            print("-" * 20 + "\n")
-            print(f"{error_count} items not in the original list, for {processed_lines} rankings\n")
-            for invalid_item in invalid_items:
-                error_file.write(f"'{invalid_item}'\n")
-            print("-" * 20 + "\n")
-
-
-    return matched_items[:k], error_count
+            
+    # Return 3 values: The result, the stats, and the raw bad data
+    return matched_items[:k], error_count, invalid_items
 
 
 def get_correct_file_name(file_name:str)->str:
