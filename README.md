@@ -117,6 +117,9 @@ You need to set up a backend to serve the LLMs for inference. Choose **one** of 
 
 1.  **Install VLLM Support:**
     ```bash
+    uv sync --extra vllm
+    ```
+    ```bash
     pip install -e .[vllm]
     ```
 2.  **Login to Hugging Face (if needed):** Required for downloading models from Hugging Face Hub.
@@ -180,9 +183,9 @@ Experiment parameters, models, and attributes are defined in configuration files
 
     # Optional: Contextual information added to the prompt, specific to each dataset type.
     # Order must match dataset_types. Use 'None' if no context for a specific dataset.
-    type_of_activities = student, action movie fan, rock fan
+    user_personas = student, action movie fan, rock fan
     # Example with no context for 'movie':
-    # type_of_activities = student, None, rock fan
+    # user_personas = student, None, rock fan
 
     # Number of items the LLM should rank in its response
     k = 20
