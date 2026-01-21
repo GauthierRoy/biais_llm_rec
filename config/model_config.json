@@ -12,8 +12,29 @@
     "gemma3_1b": {
         "vllm": "google/gemma-3-1b-it"
     },
-    "qwen3_4b":{
+    "qwen3_0.6b": {
+        "vllm": "Qwen/Qwen3-0.6B"
+    },
+    "qwen3_1.7b": {
+        "vllm": "Qwen/Qwen3-1.7B"
+    },
+    "qwen3_4b": {
         "vllm": "Qwen/Qwen3-4B"
+    },
+    "qwen3_8b": {
+        "vllm": "Qwen/Qwen3-8B"
+    },
+    "qwen3_14b": {
+        "vllm": "Qwen/Qwen3-14B"
+    },
+    "qwen3_32b": {
+        "vllm": "Qwen/Qwen3-32B"
+    },
+    "qwen3_30b_moe": {
+        "vllm": "Qwen/Qwen3-30B-A3B"
+    },
+    "qwen3_235b_moe": {
+        "vllm": "Qwen/Qwen3-235B-A22B"
     },
     "ministral_3b":{
         "vllm":"ministral/Ministral-3b-instruct"

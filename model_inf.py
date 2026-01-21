@@ -2,6 +2,16 @@ import json
 from typing import List, Dict, Any, Optional
 import torch
 
+import os
+from dotenv import load_dotenv
+from huggingface_hub import login
+
+# Load .env and auto-login
+load_dotenv()
+HF_TOKEN = os.getenv("HF_TOKEN")
+if HF_TOKEN:
+    login(token=HF_TOKEN)
+
 # Try importing vLLM
 try:
     from vllm import LLM, SamplingParams
@@ -29,7 +39,11 @@ class VLLMOfflineClient:
 
         # 1. Resolve Model Path
         if model_key in mapping_name_dict:
-            self.model_path = mapping_name_dict.get(model_key)
+            model_info = mapping_name_dict[model_key]
+            if isinstance(model_info, dict):
+                self.model_path = model_info.get("vllm", model_key)
+            else:
+                self.model_path = model_info
         else:
             self.model_path = model_key
 
@@ -41,7 +55,8 @@ class VLLMOfflineClient:
             model=self.model_path,
             gpu_memory_utilization=gpu_utilization,
             trust_remote_code=True,
-            enforce_eager=False 
+            enforce_eager=False,
+            tensor_parallel_size=2
         )
         
         self.tokenizer = self.llm_engine.get_tokenizer()
@@ -60,7 +75,8 @@ class VLLMOfflineClient:
         """
         # 1. Pre-process text (Apply Chat Template)
         prompts = [
-            self.tokenizer.apply_chat_template(msgs, tokenize=False, add_generation_prompt=True)
+            self.tokenizer.apply_chat_template(msgs, tokenize=False, add_generation_prompt=True,enable_thinking=False  # Disable thinking for Qwen models
+)
             for msgs in messages_list
         ]
 

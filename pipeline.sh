@@ -33,10 +33,10 @@ for dataset in "${dataset_list[@]}"; do
 done
 
 # launch the inference 
-python inference.py
+uv run python inference.py
 
 # compute the metrics
-python result.py
+uv run  python result.py
 
 # create the visualization
-python visualization.py
+uv run python visualization.py
