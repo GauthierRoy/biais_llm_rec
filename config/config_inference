@@ -6,9 +6,9 @@ visualization_path = data/visualization/
 sensitive_attributes_path = config/sensitive_attributes.json
 
 [parameters]
-models = qwen3_32b
-dataset_types = college, movie, music
-user_personas = high school student, movie fan, music fan
+models = qwen3_32b, qwen3_14b, qwen3_8b, qwen3_4b, qwen3_1.7b, qwen3_0.6b
+dataset_types = music
+user_personas = , ,
 # user_personas = mathy, action movie fan, rock fan
 k = 20
 type_inf = vllm
