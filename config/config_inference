@@ -13,4 +13,5 @@ user_personas = , ,
 k = 20
 type_inf = vllm
 seeds = 0, 1, 2, 3, 4
+gpu_ids = 0, 1
 
