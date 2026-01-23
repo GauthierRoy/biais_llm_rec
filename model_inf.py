@@ -33,9 +33,18 @@ class VLLMOfflineClient:
     """
     Dedicated client for Offline Batch Inference.
     """
-    def __init__(self, model_key: str, gpu_utilization: float = 0.9, options: Dict[str, Any] = None):
+    def __init__(self, model_key: str, gpu_utilization: float = 0.9, options: Dict[str, Any] = None, gpu_ids: Optional[List[int]] = None, tensor_parallel_size: Optional[int] = None):
         if not LLM:
             raise ImportError("vLLM library is missing.")
+
+        if gpu_ids is not None:
+            os.environ['CUDA_VISIBLE_DEVICES'] = ','.join(map(str, gpu_ids))
+            print(f"--- Using GPUs: {gpu_ids} ---")
+            # Default tensor_parallel to number of specified GPUs if not set
+            if tensor_parallel_size is None:
+                tensor_parallel_size = len(gpu_ids)
+        elif tensor_parallel_size is None:
+            tensor_parallel_size = 1  # Conservative default: use 1 GPU
 
         # 1. Resolve Model Path
         if model_key in mapping_name_dict:
@@ -56,7 +65,7 @@ class VLLMOfflineClient:
             gpu_memory_utilization=gpu_utilization,
             trust_remote_code=True,
             enforce_eager=False,
-            tensor_parallel_size=2
+            tensor_parallel_size=tensor_parallel_size,
         )
         
         self.tokenizer = self.llm_engine.get_tokenizer()
