@@ -38,5 +38,11 @@
     },
     "ministral_3b":{
         "vllm":"ministral/Ministral-3b-instruct"
+    },
+    "minicpm3_4b": {
+        "vllm": "openbmb/MiniCPM3-4B"
+    },
+    "smollm3_3b": {
+        "vllm": "HuggingFaceTB/SmolLM3-3B"
     }
 }
