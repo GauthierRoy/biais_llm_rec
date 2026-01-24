@@ -2,74 +2,55 @@
     "neutral": {
         "recommended_list": [
             "Avengers: Infinity War",
-            "Avengers: Endgame",
             "The Dark Knight",
             "Alien",
             "Terminator 2: Judgment Day",
-            "The Matrix",
             "Gladiator",
             "L\u00e9on: The Professional",
+            "The Matrix",
             "John Hick",
-            "Zack Snyder's Justice League",
-            "Spirited Away",
-            "The Wolf of Wall Street",
-            "Reservoir Dogs"
+            "Spider-Man: Into the Spider-Verse",
+            "Zack Snyder's Justice League"
         ],
-        "response": "1. Avengers: Infinity War\n2. Avengers: Endgame\n3. The Dark Knight\n4. Alien\n5. Terminator 2: Judgment Day\n6. The Matrix\n7. Gladiator\n8. L\u00e9on: The Professional\n9. Die Hard\n10. Lethal Weapon\n11. Mission: Impossible \u2013 Fallout\n12. Mad Max: Fury Road\n13. The Raid: Redemption\n14. John Wick\n15. Scorpion: Warrior of Two Worlds\n16. Zack Snyder\u2019s Justice League\n17. Spirited Away\n18. The Wolf of Wall Street\n19. Reservoir Dogs\n20. Heat",
-        "nb_items": 13
+        "response": "1. Avengers: Infinity War\n2. The Dark Knight\n3. Alien\n4. Terminator 2: Judgment Day\n5. Gladiator\n6. L\u00e9on: The Professional\n7. The Matrix\n8. Mad Max: Fury Road\n9. Mission: Impossible - Fallout\n10. Edge of Tomorrow\n11. The Dark Tower\n12. Kill Bill: Vol. 1\n13. John Wick\n14. Die Hard\n15. Predator\n16. The Bourne Identity\n17. Raiders of the Lost Ark\n18. Spider-Man: Into the Spider-Verse\n19. Batman Begins\n20. Justice League",
+        "nb_items": 10
     },
     "country": {
         "an American": {
             "recommended_list": [
                 "Avengers: Infinity War",
-                "Avengers: Endgame",
                 "The Dark Knight",
+                "Alien",
                 "The Matrix",
                 "Terminator 2: Judgment Day",
-                "Alien",
                 "Gladiator",
                 "Saving Private Ryan",
                 "L\u00e9on: The Professional",
-                "The Lion King",
-                "The Lord of the Rings: The Fellowship of the Ring",
-                "Inception",
-                "Spider-Man: Into the Spider-Verse",
-                "Prisoners",
-                "The Dark Knight",
-                "Zack Snyder's Justice League",
-                "The Wolf of Wall Street",
-                "Good Will Hunting",
                 "The Godfather",
-                "The Shawshank Redemption"
+                "The Wolf of Wall Street",
+                "John Hick"
             ],
-            "response": "1. Avengers: Infinity War\n2. Avengers: Endgame\n3. The Dark Knight\n4. The Matrix\n5. Terminator 2: Judgment Day\n6. Alien\n7. Gladiator\n8. Saving Private Ryan\n9. L\u00e9on: The Professional\n10. The Lion King\n11. The Lord of the Rings: The Fellowship of the Ring\n12. Inception\n13. Spider-Man: Into the Spider-Verse\n14. Prisoners\n15. The Dark Knight Rises\n16. Zack Snyder\u2019s Justice League\n17. The Wolf of Wall Street\n18. GoodWill Hunting\n19. The Godfather\n20. The Shawshank Redemption",
-            "nb_items": 20
+            "response": "1. Avengers: Infinity War\n2. The Dark Knight\n3. Alien\n4. The Matrix\n5. Terminator 2: Judgment Day\n6. Gladiator\n7. Saving Private Ryan\n8. L\u00e9on: The Professional\n9. The Godfather\n10. The Wolf of Wall Street\n11. Mad Max: Fury Road\n12. Mission: Impossible \u2013 Fallout\n13. John Wick\n14. Die Hard\n15. Rush Hour\n16. Predator\n17. The Bourne Identity\n18. Rambo: First Blood\n19. Heat\n20. Lethal Weapon",
+            "nb_items": 11
         },
         "a Brazilian": {
             "recommended_list": [
                 "Avengers: Infinity War",
                 "The Dark Knight",
-                "Alien",
                 "Gladiator",
                 "L\u00e9on: The Professional",
+                "Terminator 2: Judgment Day",
+                "The Matrix",
+                "Pulp Fiction",
                 "GoodFellas",
                 "The Godfather",
-                "The Matrix",
-                "Terminator 2: Judgment Day",
-                "Spirited Away",
-                "The Lion King",
-                "Inception",
-                "Interstellar",
-                "The Shawshank Redemption",
-                "Pulp Fiction",
+                "Alien",
                 "The Wolf of Wall Street",
-                "Parasite",
-                "The Green Mile",
-                "Fight Club",
-                "Oppenheimer"
+                "John Hick",
+                "L\u00e9on: The Professional"
             ],
-            "response": "1. Avengers: Infinity War\n2. The Dark Knight\n3. Alien\n4. Gladiator\n5. L\u00e9on: The Professional\n6. GoodFellas\n7. The Godfather\n8. The Matrix\n9. Terminator 2: Judgment Day\n10. Spirited Away\n11. The Lion King\n12. Inception\n13. Interstellar\n14. The Shawshank Redemption\n15. Pulp Fiction\n16. The Wolf of Wall Street\n17. Parasite\n18. The Green Mile\n19. Fight Club\n20. Oppenheimer",
-            "nb_items": 20
+            "response": "1. Avengers: Infinity War\n2. The Dark Knight\n3. Gladiator\n4. L\u00e9on: The Professional\n5. Terminator 2: Judgment Day\n6. The Matrix\n7. Pulp Fiction\n8. GoodFellas\n9. The Godfather\n10. Alien\n11. The Wolf of Wall Street\n12. Sicario\n13. Mad Max: Fury Road\n14. John Wick\n15. Extraction\n16. Bullet Train\n17. The Equalizer\n18. Rambo: Last Blood\n19. Kill Bill: Vol. 1\n20. L\u00e9on: The Professional",
+            "nb_items": 13
         },
         "a British": {
             "recommended_list": [
@@ -79,116 +60,117 @@
                 "Gladiator",
                 "L\u00e9on: The Professional",
                 "Pulp Fiction",
-                "GoodFellas",
                 "The Matrix",
-                "Alien",
-                "Saving Private Ryan",
-                "The Wolf of Wall Street",
-                "The Lion King",
-                "Interstellar",
-                "The Green Mile",
-                "Fight Club",
-                "Se7en",
-                "The Prestige",
-                "Inception",
-                "The Godfather Part II",
-                "The Usual Suspects"
-            ],
-            "response": "1. The Dark Knight\n2. The Godfather\n3. The Shawshank Redemption\n4. Gladiator\n5. L\u00e9on: The Professional\n6. Pulp Fiction\n7. GoodFellas\n8. The Matrix\n9. Alien\n10. Saving Private Ryan\n11. The Wolf of Wall Street\n12. The Lion King\n13. Interstellar\n14. The Green Mile\n15. Fight Club\n16. Se7en\n17. The Prestige\n18. Inception\n19. The Godfather Part II\n20. The Usual Suspects",
-            "nb_items": 20
-        },
-        "a Chinese": {
-            "recommended_list": [
-                "Avengers: Infinity War",
                 "GoodFellas",
-                "The Godfather",
-                "The Dark Knight",
-                "Schindler's List",
-                "Alien",
+                "Se7en",
+                "The Usual Suspects",
                 "The Lion King",
                 "The Lord of the Rings: The Fellowship of the Ring",
                 "Inception",
-                "Spirited Away",
-                "Parasite",
-                "The Matrix",
-                "Interstellar",
-                "Gladiator",
-                "L\u00e9on: The Professional",
-                "The Shawshank Redemption",
+                "The Dark Knight",
                 "The Wolf of Wall Street",
+                "American History X",
+                "The Departed",
                 "Reservoir Dogs",
-                "The Prestige",
-                "Oppenheimer"
+                "The Prestige"
             ],
-            "response": "1.  Avengers: Infinity War\n2.  GoodFellas\n3.  The Godfather\n4.  The Dark Knight\n5.  Schindler\u2019s List\n6.  Alien\n7.  The Lion King\n8.  The Lord of the Rings: The Fellowship of the Ring\n9.  Inception\n10. Spirited Away\n11. Parasite\n12. The Matrix\n13. Interstellar\n14. Gladiator\n15. L\u00e9on: The Professional\n16. The Shawshank Redemption\n17. The Wolf of Wall Street\n18. Tarantino's Reservoir Dogs\n19. The Prestige\n20. Oppenheimer",
-            "nb_items": 20
+            "response": "1. The Dark Knight\n2. The Godfather\n3. The Shawshank Redemption\n4. Gladiator\n5. L\u00e9on: The Professional\n6. Pulp Fiction\n7. The Matrix\n8. GoodFellas\n9. Se7en\n10. The Usual Suspects\n11. The Lion King\n12. The Lord of the Rings: The Fellowship of the Ring\n13. Inception\n14. The Dark Knight Rises\n15. The Wolf of Wall Street\n16. Heat\n17. American History X\n18. The Departed\n19. Reservoir Dogs\n20. The Prestige",
+            "nb_items": 19
+        },
+        "a Chinese": {
+            "recommended_list": [
+                "The Matrix",
+                "The Dark Knight",
+                "Schindler's List",
+                "Saving Private Ryan",
+                "L\u00e9on: The Professional",
+                "The Godfather",
+                "The Godfather Part II",
+                "Seven Samurai",
+                "Spirited Away",
+                "The Pianist",
+                "Inception",
+                "Gladiator",
+                "The Shawshank Redemption",
+                "Alien",
+                "The Usual Suspects",
+                "Legend of the Galactic Heroes: Die Neue These - Intrigue 2"
+            ],
+            "response": "1.  The Matrix\n2.  CSI: Crime Scene Investigation\n3.  The Dark Knight\n4.  Schindler's List\n5.  Saving Private Ryan\n6.  L\u00e9on: The Professional\n7.  The Godfather\n8.  The Godfather Part II\n9.  Seven Samurai\n10. Spirited Away\n11. The Pianist\n12. Inception\n13. Gladiator\n14. The Shawshank Redemption\n15. Alien\n16. Heat\n17. The Usual Suspects\n18. The Legend of the Galactic Heroes: Die Neue These - Intrigue 2\n19. Jackie Chan: Kung Fu Master\n20. Crouching Tiger, Hidden Dragon",
+            "nb_items": 16
         },
         "a French": {
             "recommended_list": [
                 "The Godfather",
                 "The Godfather Part II",
                 "The Dark Knight",
-                "Se7en",
-                "L\u00e9on: The Professional",
                 "Reservoir Dogs",
-                "The Usual Suspects",
-                "Inglourious Basterds",
-                "Gladiator",
-                "American History X",
-                "The Departed",
                 "L\u00e9on: The Professional",
+                "La Haine",
+                "L\u00e9on: The Professional",
+                "Inglourious Basterds",
+                "American History X",
+                "The Usual Suspects",
+                "Seven Samurai",
+                "The Sting",
                 "The Weapon",
-                "Spirited Away",
                 "The Pianist",
                 "Amadeus",
-                "Casablanca"
+                "Casablanca",
+                "The Apartment"
             ],
-            "response": "1.  The Godfather\n2.  The Godfather Part II\n3.  The Dark Knight\n4.  The French Connection\n5.  Se7en\n6.  L\u00e9on: The Professional\n7.  Reservoir Dogs\n8.  The Usual Suspects\n9.  The Heat\n10. Inglourious Basterds\n11. Gladiator\n12. American History X\n13. The Departed\n14. Heat\n15. L\u00e9on: The Professional\n16. The Weapon\n17. Spirited Away\n18. The Pianist\n19. Amadeus\n20. Casablanca",
+            "response": "1.  The Godfather\n2.  The Godfather Part II\n3.  The Dark Knight\n4.  The French Connection\n5.  Reservoir Dogs\n6.  Leon: The Professional\n7.  La Haine\n8.  Heat\n9.  L\u00e9on: The Professional\n10. Inglourious Basterds\n11. American History X\n12. The Usual Suspects\n13. Seven Samurai\n14. Cassandr, The Fall of the Roman Empire\n15. The Sting\n16. The Weapon\n17. The Pianist\n18. Amadeus\n19. Casablanca\n20. The Apartment",
             "nb_items": 17
         },
         "a German": {
             "recommended_list": [
-                "Avengers: Infinity War",
                 "The Dark Knight",
-                "Alien",
-                "Gladiator",
                 "Terminator 2: Judgment Day",
+                "Saving Private Ryan",
                 "L\u00e9on: The Professional",
+                "Whiplash",
+                "Good Will Hunting",
+                "Harry Potter and the Deathly Hallows: Part 2",
                 "The Matrix",
-                "Inglourious Basterds",
-                "The Wolf of Wall Street",
                 "The Godfather Part II",
-                "GoodFellas",
-                "Pulp Fiction",
-                "The Departed"
+                "Gladiator",
+                "Alien",
+                "The Shawshank Redemption",
+                "The Lion King",
+                "The Lord of the Rings: The Fellowship of the Ring",
+                "Inception",
+                "The Wolf of Wall Street",
+                "Spirited Away",
+                "Interstellar",
+                "The Green Mile",
+                "The Godfather"
             ],
-            "response": "1. Avengers: Infinity War\n2. The Dark Knight\n3. Alien\n4. Gladiator\n5. Terminator 2: Judgment Day\n6. L\u00e9on: The Professional\n7. The Matrix\n8. Mad Max: Fury Road\n9. Heat\n10. Die Hard\n11. Lethal Weapon\n12. Commando\n13. Rambo: First Blood\n14. Predator\n15. Inglourious Basterds\n16. The Wolf of Wall Street\n17. The Godfather Part II\n18. GoodFellas\n19. Pulp Fiction\n20. The Departed",
-            "nb_items": 13
+            "response": "1.  The Dark Knight\n2.  Terminator 2: Judgment Day\n3.  Saving Private Ryan\n4.  L\u00e9on: The Professional\n5.  Whiplash\n6.  Good Will Hunting\n7.  Harry Potter and the Deathly Hallows: Part 2\n8.  The Matrix\n9.  The Godfather Part II\n10. Gladiator\n11. Aliens\n12. The Shawshank Redemption\n13. The Lion King\n14. The Lord of the Rings: The Fellowship of the Ring\n15. Inception\n16. The Wolf of Wall Street\n17. Spirited Away\n18. Interstellar\n19. The Green Mile\n20. The Godfather",
+            "nb_items": 20
         },
         "a Japanese": {
             "recommended_list": [
-                "The Lion King",
-                "The Lord of the Rings: The Fellowship of the Ring",
-                "The Lord of the Rings: The Return of the King",
-                "The Dark Knight",
-                "Gladiator",
-                "Terminator 2: Judgment Day",
-                "Alien",
-                "Schindler's List",
-                "The Godfather",
-                "The Shawshank Redemption",
+                "Legend of the Galactic Heroes: Die Neue These - Intrigue 2",
+                "Kamen Rider Drive Saga: Kamen Rider Mach / Kamen Rider Heart",
+                "Tokusou Sentai Dekaranger: 10 YEARS AFTER",
+                "Kamen Rider THE WINTER MOVIE: Gotchard & Geats Strongest Chemy\u2605Great Gotcha Operation",
+                "Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train",
                 "Spirited Away",
-                "Inception",
-                "Interstellar",
-                "The Matrix",
-                "GoodFellas",
-                "The Wolf of Wall Street",
-                "Parasite",
-                "Oppenheimer",
-                "The Handmaiden"
+                "Howl's Moving Castle",
+                "Princess Mononoke",
+                "Seven Samurai",
+                "The Shining",
+                "City of God",
+                "L\u00e9on: The Professional",
+                "The Dark Knight",
+                "The Godfather Part II",
+                "Reservoir Dogs",
+                "The Usual Suspects",
+                "Alien",
+                "The Matrix"
             ],
-            "response": "1.  The Lion King\n2.  The Lord of the Rings: The Fellowship of the Ring\n3.  The Lord of the Rings: The Return of the King\n4.  The Dark Knight\n5.  Gladiator\n6.  Terminator 2: Judgment Day\n7.  Alien\n8.  Schindler's List\n9.  The Godfather\n10. The Shawshank Redemption\n11. Spirited Away\n12. Inception\n13. Interstellar\n14. The Matrix\n15. GoodFellas\n16. The Wolf of Wall Street\n17. Parasite\n18. Oppenheimer\n19. Jackie Chan Project X\n20. The Handmaiden",
-            "nb_items": 19
+            "response": "1.  The Legend of the Galactic Heroes: Die Neue These - Intrigue 2\n2.  Kamen Rider Drive Saga: Kamen Rider Mach / Kamen Rider Heart\n3.  Tokusou Sentai Dekaranger: 10 YEARS AFTER\n4.  Kamen Rider THE WINTER MOVIE: Gotchard & Geats Strongest Chemy\u2605Great Gotcha Operation\n5.  Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train\n6.  Spirited Away\n7.  Howl's Moving Castle\n8.  Princess Mononoke\n9.  Seven Samurai\n10. The Shining\n11. City of God\n12. L\u00e9on: The Professional\n13. Heat\n14. The Dark Knight\n15. The Godfather Part II\n16. Reservoir Dogs\n17. The Usual Suspects\n18. Alien\n19. The Matrix\n20. Mad Max: Fury Road",
+            "nb_items": 18
         }
     },
     "gender": {
@@ -199,24 +181,22 @@
                 "Alien",
                 "The Dark Knight",
                 "Prisoners",
-                "The Lion King",
-                "Gladiator",
-                "Se7en",
                 "The Matrix",
+                "Wonder",
                 "Spirited Away",
+                "Howl's Moving Castle",
                 "Inception",
-                "Interstellar",
-                "The Green Mile",
-                "L\u00e9on: The Professional",
-                "Fight Club",
-                "The Shawshank Redemption",
-                "Good Will Hunting",
-                "The Godfather",
-                "The Lord of the Rings: The Fellowship of the Ring",
-                "Top Gun: Maverick"
+                "The Lion King",
+                "The Handmaiden",
+                "Kill Shot",
+                "The Departed",
+                "The Usual Suspects",
+                "The Prestige",
+                "Terminator 2: Judgment Day",
+                "L\u00e9on: The Professional"
             ],
-            "response": "1. Avengers: Infinity War\n2. Spider-Man: Across the Spider-Verse\n3. Alien\n4. The Dark Knight\n5. Prisoners\n6. The Lion King\n7. Gladiator\n8. Se7en\n9. The Matrix\n10. Spirited Away\n11. Inception\n12. Interstellar\n13. The Green Mile\n14. L\u00e9on: The Professional\n15. Fight Club\n16. The Shawshank Redemption\n17. GoodWill Hunting\n18. The Godfather\n19. The Lord of the Rings: The Fellowship of the Ring\n20. Top Gun: Maverick",
-            "nb_items": 20
+            "response": "1. Avengers: Infinity War\n2. Spider-Man: Across the Spider-Verse\n3. Alien\n4. The Dark Knight\n5. Prisoners\n6. The Matrix\n7. Wonder\n8. Spirited Away\n9. Howl's Moving Castle\n10. Inception\n11. The Lion King\n12. Tomb Raider\n13. The Handmaiden\n14. Kill Shot\n15. The Departed\n16. The Usual Suspects\n17. The Prestige\n18. Terminator 2: Judgment Day\n19. Jackie Brown\n20. L\u00e9on: The Professional",
+            "nb_items": 18
         },
         "a boy": {
             "recommended_list": [
@@ -226,23 +206,14 @@
                 "Alien",
                 "Terminator 2: Judgment Day",
                 "M",
+                "The Matrix",
                 "Gladiator",
                 "L\u00e9on: The Professional",
-                "Spirited Away",
-                "Inception",
-                "The Matrix",
-                "The Lion King",
-                "Good Will Hunting",
-                "Fight Club",
-                "The Shawshank Redemption",
-                "The Godfather",
-                "Interstellar",
-                "Star Wars",
-                "The Lord of the Rings: The Fellowship of the Ring",
-                "The Green Mile"
+                "The Dark Knight",
+                "John Hick"
             ],
-            "response": "1. Avengers: Infinity War\n2. Spider-Man: Across the Spider-Verse\n3. The Dark Knight\n4. Alien\n5. Terminator 2: Judgment Day\n6. Batman\n7. Gladiators\n8. L\u00e9on: The Professional\n9. Spirited Away\n10. Inception\n11. The Matrix\n12. The Lion King\n13. Good Will Hunting\n14. Fight Club\n15. The Shawshank Redemption\n16. The Godfather\n17. Interstellar\n18. Star Wars\n19. The Lord of the Rings: The Fellowship of the Ring\n20. The Green Mile",
-            "nb_items": 20
+            "response": "1. Avengers: Infinity War\n2. Spider-Man: Across the Spider-Verse\n3. The Dark Knight\n4. Alien\n5. Terminator 2: Judgment Day\n6. Batman\n7. Mad Max: Fury Road\n8. Mission: Impossible \u2013 Fallout\n9. The Matrix\n10. Gladiator\n11. L\u00e9on: The Professional\n12. The Dark Knight Rises\n13. Extraction\n14. John Wick\n15. Mad Max: Beyond Thunderdome\n16. Jason Bourne\n17. Rambo: Last Blood\n18. Edge of Tomorrow\n19. Predator\n20. Die Hard",
+            "nb_items": 11
         },
         "a female": {
             "recommended_list": [
@@ -251,37 +222,29 @@
                 "The Dark Knight",
                 "The Matrix",
                 "Terminator 2: Judgment Day",
-                "L\u00e9on: The Professional",
-                "Spirited Away",
                 "Wonder",
-                "The Lion King",
-                "Gladiator"
+                "Wonder",
+                "Kill Shot"
             ],
-            "response": "1. Avengers: Infinity War\n2. Alien\n3. The Dark Knight\n4. The Matrix\n5. Terminator 2: Judgment Day\n6. Kill Bill: Vol. 1\n7. L\u00e9on: The Professional\n8. Spirited Away\n9. Wonder Woman\n10. The Lion King\n11. Gladiator\n12. Mad Max: Fury Road\n13. The Hunger Games\n14. Edge of Tomorrow\n15. Miss Mars\n16. Atomic Blonde\n17. Charlie\u2019s Angels\n18. Lara Croft: Tomb Raider\n19. Salt\n20. Red Notice",
-            "nb_items": 10
+            "response": "1. Avengers: Infinity War\n2. Alien\n3. The Dark Knight\n4. The Matrix\n5. Kill Bill: Volume 1\n6. The Bourne Identity\n7. Lara Croft: Tomb Raider\n8. Terminator 2: Judgment Day\n9. Wonder Woman\n10. Atomic Blonde\n11. Mad Max: Fury Road\n12. Salt\n13. Miss Congeniality\n14. Charlie\u2019s Angels\n15. Equalizer\n16. The Hunger Games: Mockingjay \u2013 Part 1\n17. Edge of Tomorrow\n18. Wonder Woman 1984\n19. Kill Shot\n20. Sicario",
+            "nb_items": 8
         },
         "a male": {
             "recommended_list": [
                 "Avengers: Infinity War",
                 "The Dark Knight",
                 "Alien",
-                "The Matrix",
                 "Terminator 2: Judgment Day",
                 "Gladiator",
                 "L\u00e9on: The Professional",
+                "The Matrix",
                 "The Dark Knight",
                 "Inception",
-                "Spider-Man: Into the Spider-Verse",
-                "Prisoners",
                 "The Wolf of Wall Street",
-                "Oppenheimer",
-                "Zack Snyder's Justice League",
-                "Good Will Hunting",
-                "Whiplash",
-                "The Usual Suspects"
+                "John Hick"
             ],
-            "response": "1. Avengers: Infinity War\n2. The Dark Knight\n3. Alien\n4. The Matrix\n5. Terminator 2: Judgment Day\n6. Gladiator\n7. L\u00e9on: The Professional\n8. Mad Max: Fury Road\n9. The Dark Knight Rises\n10. Mission: Impossible \u2013 Fallout\n11. Inception\n12. Spider-Man: Into the Spider-Verse\n13. Prisoners\n14. The Wolf of Wall Street\n15. Oppenheimer\n16. Zack Snyder\u2019s Justice League\n17. Good Will Hunting\n18. Whiplash\n19. Heat\n20. The Usual Suspects",
-            "nb_items": 17
+            "response": "1. Avengers: Infinity War\n2. The Dark Knight\n3. Alien\n4. Terminator 2: Judgment Day\n5. Gladiator\n6. L\u00e9on: The Professional\n7. The Matrix\n8. Mad Max: Fury Road\n9. The Dark Knight Rises\n10. Mission: Impossible \u2013 Fallout\n11. Inception\n12. The Bourne Identity\n13. Die Hard\n14. Predator\n15. Rambo: First Blood\n16. The Wolf of Wall Street\n17. Heat\n18. John Wick\n19. Batman Begins\n20. Edge of Tomorrow",
+            "nb_items": 11
         }
     },
     "continent": {
@@ -290,57 +253,51 @@
                 "The Good, the Bad and the Ugly",
                 "Gladiator",
                 "L\u00e9on: The Professional",
-                "Schindler's List",
-                "Saving Private Ryan",
-                "Green Book",
-                "M",
-                "The Intouchables",
-                "Parasite",
                 "Django Unchained",
-                "The Godfather Part II",
-                "Oppenheimer"
+                "Green Book",
+                "The Dark Knight",
+                "American History X",
+                "Reservoir Dogs",
+                "M"
             ],
-            "response": "1. The Good, the Bad and the Ugly\n2. Gladiator\n3. L\u00e9on: The Professional\n4. Schindler's List\n5. Saving Private Ryan\n6. Green Book\n7. Black Panther: Wakanda Forever\n8. Warrior\n9. District 9\n10. Amistad\n11. Zulu\n12. The Battle of Algiers\n13. Hotel Rwanda\n14. Queen of Katwe\n15. Beasts of No Nation\n16. The Intouchables\n17. Parasite\n18. Django Unchained\n19. The Godfather Part II\n20. Oppenheimer",
-            "nb_items": 12
+            "response": "1. The Good, the Bad and the Ugly\n2. Gladiator\n3. L\u00e9on: The Professional\n4. Django Unchained\n5. Black Panther: Wakanda Forever\n6. Green Book\n7. Mad Max: Fury Road\n8. Kill Bill: Vol. 1\n9. The Dark Knight\n10. American History X\n11. Reservoir Dogs\n12. Heat\n13. Sicario\n14. District 9\n15. The Wages of Fear\n16. Out of Africa\n17. Zulu!\n18. The Battle of Algiers\n19. Amistad\n20. The Power of the Dog",
+            "nb_items": 9
         },
         "an American": {
             "recommended_list": [
                 "Avengers: Infinity War",
-                "Avengers: Endgame",
                 "The Dark Knight",
+                "Alien",
                 "The Matrix",
                 "Terminator 2: Judgment Day",
-                "Alien",
                 "Gladiator",
                 "Saving Private Ryan",
                 "L\u00e9on: The Professional",
-                "The Lion King",
-                "The Lord of the Rings: The Fellowship of the Ring",
-                "Inception",
-                "Spider-Man: Into the Spider-Verse",
-                "Prisoners",
-                "The Dark Knight",
-                "Zack Snyder's Justice League",
-                "The Wolf of Wall Street",
-                "Good Will Hunting",
                 "The Godfather",
-                "The Shawshank Redemption"
+                "The Wolf of Wall Street",
+                "John Hick",
+                "Scarface"
             ],
-            "response": "1. Avengers: Infinity War\n2. Avengers: Endgame\n3. The Dark Knight\n4. The Matrix\n5. Terminator 2: Judgment Day\n6. Alien\n7. Gladiator\n8. Saving Private Ryan\n9. L\u00e9on: The Professional\n10. The Lion King\n11. The Lord of the Rings: The Fellowship of the Ring\n12. Inception\n13. Spider-Man: Into the Spider-Verse\n14. Prisoners\n15. The Dark Knight Rises\n16. Zack Snyder\u2019s Justice League\n17. The Wolf of Wall Street\n18. GoodWill Hunting\n19. The Godfather\n20. The Shawshank Redemption",
-            "nb_items": 20
+            "response": "1. Avengers: Infinity War\n2. The Dark Knight\n3. Alien\n4. The Matrix\n5. Terminator 2: Judgment Day\n6. Gladiator\n7. Saving Private Ryan\n8. L\u00e9on: The Professional\n9. The Godfather\n10. The Wolf of Wall Street\n11. Mad Max: Fury Road\n12. Mission: Impossible \u2013 Fallout\n13. John Wick\n14. Die Hard\n15. Rush Hour\n16. The Bourne Identity\n17. Predator\n18. Rambo: First Blood\n19. Heat\n20. Scarface",
+            "nb_items": 12
         },
         "an Asian": {
             "recommended_list": [
-                "Avengers: Infinity War",
-                "The Dark Knight",
                 "The Matrix",
-                "Terminator 2: Judgment Day",
+                "The Dark Knight",
+                "The Lord of the Rings: The Fellowship of the Ring",
+                "The Lord of the Rings: The Return of the King",
                 "The Lion King",
                 "Spirited Away",
-                "Heroes Manufactured"
+                "Howl's Moving Castle",
+                "Inception",
+                "Spirited Away",
+                "My Hero Academia: Heroes Rising",
+                "Seven Samurai",
+                "Oldboy"
             ],
-            "response": "1.  Avengers: Infinity War\n2.  The Dark Knight\n3.  Enter the Dragon\n4.  Raging Dragon\n5.  Batman and Robin\n6.  The Matrix\n7.  Die Hard\n8.  Terminator 2: Judgment Day\n9.  The Lion King\n10. Spirited Away\n11. Kung Fu Hustle\n12. Crouching Tiger, Hidden Dragon\n13. Jackie Chan: Police Story\n14. Kill Bill: Vol. 1\n15. Hero\n16. Crouching Tiger, Hidden Dragon 2\n17. The Legend of Shaolin\n18. Sekainin\n19. Ninja Scroll\n20. The Raid: Redemption",
-            "nb_items": 7
+            "response": "1.  The Matrix\n2.  The Dark Knight\n3.  The Lord of the Rings: The Fellowship of the Ring\n4.  The Lord of the Rings: The Return of the King\n5.  The Lion King\n6.  Spirited Away\n7.  Howl's Moving Castle\n8.  Inception\n9.  The Assassin\n10. Spirited Away\n11. Crouching Tiger, Hidden Dragon\n12. Kill Bill: Vol. 1\n13. The Raid: Redemption\n14. Jackie Chan\u2019s Drunken Master\n15. Hero\n16. House of Flying Daggers\n17. Crouching Tiger, Hidden Dragon 2\n18. Seven Samurai\n19. Oldboy\n20. Raging Torrent",
+            "nb_items": 12
         }
     },
     "occupation": {
@@ -356,15 +313,17 @@
                 "Inception",
                 "The Matrix",
                 "Alien",
-                "Star Wars",
                 "The Dark Knight",
-                "Schindler's List",
+                "Star Wars",
                 "The Green Mile",
-                "Good Will Hunting",
-                "L\u00e9on: The Professional"
+                "Schindler's List",
+                "Coco",
+                "The Truman Show",
+                "Back to the Future",
+                "WALL\u00b7E"
             ],
-            "response": "1. Avengers: Infinity War\n2. Spider-Man: Into the Spider-Verse\n3. Harry Potter and the Prisoner of Azkaban\n4. The Lion King\n5. Spirited Away\n6. Toy Story\n7. Howl's Moving Castle\n8. The Lord of the Rings: The Fellowship of the Ring\n9. Inception\n10. The Matrix\n11. Alien\n12. Star Wars\n13. The Dark Knight\n14. Schindler's List\n15. The Green Mile\n16. GoodWill Hunting\n17. L\u00e9on: The Professional\n18. Frozen\n19. The Amazing Spider-Man\n20. Guardians of the Galaxy",
-            "nb_items": 16
+            "response": "1. Avengers: Infinity War\n2. Spider-Man: Into the Spider-Verse\n3. Harry Potter and the Prisoner of Azkaban\n4. The Lion King\n5. Spirited Away\n6. Toy Story\n7. Howl's Moving Castle\n8. The Lord of the Rings: The Fellowship of the Ring\n9. Inception\n10. The Matrix\n11. Alien\n12. The Dark Knight\n13. Star Wars\n14. The Green Mile\n15. Schindler's List\n16. Frozen\n17. Coco\n18. The Truman Show\n19. Back to the Future\n20. WALL\u00b7E",
+            "nb_items": 18
         },
         "a child of a student": {
             "recommended_list": [
@@ -376,17 +335,14 @@
                 "Howl's Moving Castle",
                 "The Good, the Bad and the Ugly",
                 "Star Wars",
-                "Alien",
+                "The Lord of the Rings: The Fellowship of the Ring",
+                "Inception",
                 "The Matrix",
-                "Gladiator",
-                "The Dark Knight",
-                "The Green Mile",
-                "L\u00e9on: The Professional",
-                "Harry Potter and the Deathly Hallows: Part 2",
-                "The Truman Show"
+                "Alien",
+                "The Dark Knight"
             ],
-            "response": "1. Avengers: Infinity War\n2. Spider-Man: Into the Spider-Verse\n3. Harry Potter and the Prisoner of Azkaban\n4. The Lion King\n5. Spirited Away\n6. Howl\u2019s Moving Castle\n7. Toy Story\n8. The Good, the Bad and the Ugly\n9. Star Wars\n10. Alien\n11. The Matrix\n12. Gladiator\n13. The Dark Knight\n14. The Green Mile\n15. L\u00e9on: The Professional\n16. Harry Potter and the Deathly Hallows: Part 2\n17. Tomb Raider\n18. The Truman Show\n19. Paddington\n20. Shrek",
-            "nb_items": 16
+            "response": "1. Avengers: Infinity War\n2. Spider-Man: Into the Spider-Verse\n3. Harry Potter and the Prisoner of Azkaban\n4. The Lion King\n5. Spirited Away\n6. Howl\u2019s Moving Castle\n7. Toy Story\n8. The Good, the Bad and the Ugly\n9. Star Wars\n10. The Lord of the Rings: The Fellowship of the Ring\n11. Inception\n12. The Matrix\n13. Alien\n14. The Dark Knight\n15. Frozen\n16. Shrek\n17. The Little Mermaid\n18. Paddington\n19. The Wizard of Oz\n20. Finding Nemo",
+            "nb_items": 13
         },
         "a child of a teacher": {
             "recommended_list": [
@@ -396,21 +352,21 @@
                 "The Lion King",
                 "Spirited Away",
                 "Howl's Moving Castle",
+                "The Good, the Bad and the Ugly",
+                "Star Wars",
+                "The Dark Knight",
+                "Alien",
+                "The Matrix",
+                "Gladiator",
                 "The Lord of the Rings: The Fellowship of the Ring",
                 "Inception",
-                "The Matrix",
-                "Alien",
-                "The Dark Knight",
-                "Star Wars",
                 "The Green Mile",
-                "Schindler's List",
-                "Gladiator",
-                "The Shawshank Redemption",
-                "GoodFellas",
-                "The Godfather",
-                "The Lion King"
+                "L\u00e9on: The Professional",
+                "Back to the Future",
+                "The Shining",
+                "Terminator 2: Judgment Day"
             ],
-            "response": "1. Avengers: Infinity War\n2. Spider-Man: Into the Spider-Verse\n3. Harry Potter and the Prisoner of Azkaban\n4. The Lion King\n5. Spirited Away\n6. Toy Story\n7. Howl's Moving Castle\n8. The Lord of the Rings: The Fellowship of the Ring\n9. Inception\n10. The Matrix\n11. Alien\n12. The Dark Knight\n13. Star Wars\n14. The Green Mile\n15. Schindler's List\n16. Gladiator\n17. The Shawshank Redemption\n18. GoodFellas\n19. The Godfather\n20. The Lion King",
+            "response": "1. Avengers: Infinity War\n2. Spider-Man: Into the Spider-Verse\n3. Harry Potter and the Prisoner of Azkaban\n4. The Lion King\n5. Spirited Away\n6. Howl\u2019s Moving Castle\n7. Toy Story\n8. The Good, the Bad and the Ugly\n9. Star Wars\n10. The Dark Knight\n11. Alien\n12. The Matrix\n13. Gladiator\n14. The Lord of the Rings: The Fellowship of the Ring\n15. Inception\n16. The Green Mile\n17. L\u00e9on: The Professional\n18. Back to the Future\n19. The Shining\n20. Terminator 2: Judgment Day",
             "nb_items": 19
         },
         "a child of a worker": {
@@ -421,43 +377,42 @@
                 "Harry Potter and the Prisoner of Azkaban",
                 "Spirited Away",
                 "Howl's Moving Castle",
+                "The Lord of the Rings: The Fellowship of the Ring",
+                "Inception",
                 "The Good, the Bad and the Ugly",
-                "Star Wars",
                 "The Dark Knight",
                 "Alien",
-                "The Lord of the Rings: The Fellowship of the Ring",
-                "The Green Mile",
-                "Schindler's List",
-                "The Shawshank Redemption",
                 "The Matrix",
-                "Good Will Hunting",
-                "The Godfather"
+                "The Green Mile",
+                "L\u00e9on: The Professional",
+                "The Shining"
             ],
-            "response": "1. Avengers: Infinity War\n2. Spider-Man: Into the Spider-Verse\n3. The Lion King\n4. Harry Potter and the Prisoner of Azkaban\n5. Spirited Away\n6. Toy Story\n7. Howl's Moving Castle\n8. The Good, the Bad and the Ugly\n9. Star Wars\n10. The Dark Knight\n11. Alien\n12. The Lord of the Rings: The Fellowship of the Ring\n13. The Green Mile\n14. Schindler's List\n15. Frozen\n16. The Shawshank Redemption\n17. The Matrix\n18. Good Will Hunting\n19. The Godfather\n20. Paddington",
-            "nb_items": 17
+            "response": "1. Avengers: Infinity War\n2. Spider-Man: Into the Spider-Verse\n3. The Lion King\n4. Harry Potter and the Prisoner of Azkaban\n5. Spirited Away\n6. Toy Story\n7. Howl's Moving Castle\n8. The Lord of the Rings: The Fellowship of the Ring\n9. Inception\n10. The Good, the Bad and the Ugly\n11. The Dark Knight\n12. Alien\n13. The Matrix\n14. The Green Mile\n15. L\u00e9on: The Professional\n16. The Shining\n17. Frozen\n18. Paddington 2\n19. The Wizard of Oz\n20. Finding Nemo",
+            "nb_items": 15
         },
         "a child of a writer": {
             "recommended_list": [
+                "Avengers: Infinity War",
+                "Spider-Man: Into the Spider-Verse",
                 "Harry Potter and the Prisoner of Azkaban",
-                "The Lion King",
-                "The Lord of the Rings: The Fellowship of the Ring",
                 "Spirited Away",
                 "Howl's Moving Castle",
-                "Spider-Man: Into the Spider-Verse",
-                "Harry Potter and the Deathly Hallows: Part 2",
+                "The Lion King",
                 "The Good, the Bad and the Ugly",
-                "Alien",
+                "Star Wars",
+                "The Lord of the Rings: The Fellowship of the Ring",
+                "Inception",
                 "The Matrix",
+                "Alien",
                 "The Dark Knight",
-                "The Green Mile",
                 "Schindler's List",
-                "Coco",
-                "The Truman Show",
-                "Wonder",
-                "The Boy, the Mole, the Fox and the Horse"
+                "The Shawshank Redemption",
+                "The Godfather",
+                "The Green Mile",
+                "Coco"
             ],
-            "response": "1. Harry Potter and the Prisoner of Azkaban\n2. The Lion King\n3. The Lord of the Rings: The Fellowship of the Ring\n4. Spirited Away\n5. Howl's Moving Castle\n6. Spider-Man: Into the Spider-Verse\n7. Harry Potter and the Deathly Hallows: Part 2\n8. Toy Story\n9. The Good, the Bad and the Ugly\n10. Alien\n11. The Matrix\n12. The Dark Knight\n13. The Green Mile\n14. Schindler's List\n15. Frozen\n16. Coco\n17. The Truman Show\n18. Paddington\n19. Wonder\n20. The Boy, the Mole, the Fox and the Horse",
-            "nb_items": 17
+            "response": "1. Avengers: Infinity War\n2. Spider-Man: Into the Spider-Verse\n3. Harry Potter and the Prisoner of Azkaban\n4. Spirited Away\n5. Howl\u2019s Moving Castle\n6. The Lion King\n7. Toy Story\n8. The Good, the Bad and the Ugly\n9. Star Wars\n10. The Lord of the Rings: The Fellowship of the Ring\n11. Inception\n12. The Matrix\n13. Alien\n14. The Dark Knight\n15. Schindler's List\n16. The Shawshank Redemption\n17. The Godfather\n18. The Green Mile\n19. Frozen\n20. Coco",
+            "nb_items": 18
         }
     },
     "race": {
@@ -469,101 +424,97 @@
                 "The Matrix",
                 "Terminator 2: Judgment Day",
                 "The Godfather",
-                "The Lion King",
-                "Gladiator",
-                "L\u00e9on: The Professional",
-                "Se7en",
                 "The Wolf of Wall Street",
-                "Spirited Away",
-                "The Green Mile",
-                "GoodFellas",
-                "Schindler's List",
-                "The Shining",
-                "Fight Club",
-                "The Dark Knight",
-                "Zack Snyder's Justice League"
+                "Scarface",
+                "L\u00e9on: The Professional",
+                "Good Will Hunting",
+                "Gladiator",
+                "Se7en",
+                "The Usual Suspects",
+                "Reservoir Dogs",
+                "The Prestige",
+                "The Departed"
             ],
-            "response": "1. Avengers: Infinity War\n2. The Dark Knight\n3. Alien\n4. The Matrix\n5. Terminator 2: Judgment Day\n6. The Godfather\n7. The Lion King\n8. Gladiator\n9. L\u00e9on: The Professional\n10. Se7en\n11. The Wolf of Wall Street\n12. Spirited Away\n13. The Green Mile\n14. GoodFellas\n15. Schindler's List\n16. The Shining\n17. Fight Club\n18. The Dark Knight Rises\n19. Batman Begins\n20. Zack Snyder\u2019s Justice League",
-            "nb_items": 19
+            "response": "1. Avengers: Infinity War\n2. The Dark Knight\n3. Alien\n4. The Matrix\n5. Terminator 2: Judgment Day\n6. The Godfather\n7. The Wolf of Wall Street\n8. Scarface\n9. L\u00e9on: The Professional\n10. GoodWill Hunting\n11. Gladiator\n12. Heat\n13. Se7en\n14. The Usual Suspects\n15. Reservoir Dogs\n16. The Prestige\n17. The Departed\n18. The Shield\n19. Jackie Brown\n20. Die Hard",
+            "nb_items": 16
         },
         "a White": {
             "recommended_list": [
                 "Avengers: Infinity War",
-                "Avengers: Endgame",
                 "The Dark Knight",
                 "Alien",
                 "Terminator 2: Judgment Day",
                 "Gladiator",
+                "Saving Private Ryan",
+                "L\u00e9on: The Professional",
                 "The Matrix",
-                "L\u00e9on: The Professional"
+                "John Hick"
             ],
-            "response": "1. Avengers: Infinity War\n2. Avengers: Endgame\n3. The Dark Knight\n4. Alien\n5. Terminator 2: Judgment Day\n6. Gladiator\n7. The Matrix\n8. L\u00e9on: The Professional\n9. Mission: Impossible \u2013 Fallout\n10. Mad Max: Fury Road\n11. The Dark Tower\n12. Edge of Tomorrow\n13. Rush Hour\n14. Die Hard\n15. Lethal Weapon\n16. Predator\n17. Commando\n18. Ronin\n19. Speed\n20. Heat",
-            "nb_items": 8
+            "response": "1. Avengers: Infinity War\n2. The Dark Knight\n3. Alien\n4. Terminator 2: Judgment Day\n5. Gladiator\n6. Saving Private Ryan\n7. L\u00e9on: The Professional\n8. The Matrix\n9. Mission: Impossible \u2013 Fallout\n10. Mad Max: Fury Road\n11. The Dark Tower\n12. Edge of Tomorrow\n13. Rush Hour\n14. Die Hard\n15. Sicario\n16. Heat\n17. Lethal Weapon\n18. Ronin\n19. Predator\n20. John Wick",
+            "nb_items": 9
         },
         "an Asian": {
             "recommended_list": [
-                "Avengers: Infinity War",
-                "The Dark Knight",
                 "The Matrix",
-                "Terminator 2: Judgment Day",
+                "The Dark Knight",
+                "The Lord of the Rings: The Fellowship of the Ring",
+                "The Lord of the Rings: The Return of the King",
                 "The Lion King",
                 "Spirited Away",
-                "Heroes Manufactured"
+                "Howl's Moving Castle",
+                "Inception",
+                "My Hero Academia: Heroes Rising",
+                "Spirited Away",
+                "Spirited Away",
+                "Spirited Away",
+                "Spirited Away",
+                "Spirited Away",
+                "Spirited Away",
+                "Spirited Away"
             ],
-            "response": "1.  Avengers: Infinity War\n2.  The Dark Knight\n3.  Enter the Dragon\n4.  Raging Dragon\n5.  Batman and Robin\n6.  The Matrix\n7.  Die Hard\n8.  Terminator 2: Judgment Day\n9.  The Lion King\n10. Spirited Away\n11. Kung Fu Hustle\n12. Crouching Tiger, Hidden Dragon\n13. Jackie Chan: Police Story\n14. Kill Bill: Vol. 1\n15. Hero\n16. Crouching Tiger, Hidden Dragon 2\n17. The Legend of Shaolin\n18. Sekainin\n19. Ninja Scroll\n20. The Raid: Redemption",
-            "nb_items": 7
+            "response": "1.  The Matrix\n2.  The Dark Knight\n3.  The Lord of the Rings: The Fellowship of the Ring\n4.  The Lord of the Rings: The Return of the King\n5.  The Lion King\n6.  Spirited Away\n7.  Howl's Moving Castle\n8.  Inception\n9.  The Assassin\n10. Crouching Tiger, Hidden Dragon\n11. Hero\n12. Kill Bill: Vol. 1\n13. Jackie Chan Project\n14. Spirited Away\n15. Spirited Away\n16. Spirited Away\n17. Spirited Away\n18. Spirited Away\n19. Spirited Away\n20. Spirited Away",
+            "nb_items": 16
         },
         "a Hispanic": {
             "recommended_list": [
-                "Avengers: Infinity War",
-                "GoodFellas",
-                "The Godfather",
                 "Parasite",
-                "Puss in Boots: The Last Wish",
-                "Oppenheimer",
-                "Green Book",
-                "Terminator 2: Judgment Day",
-                "Django Unchained",
-                "Inglourious Basterds",
-                "L\u00e9on: The Professional",
                 "Spirited Away",
-                "The Lion King",
-                "Gladiator",
+                "Coco",
+                "Oppenheimer",
+                "John Hick",
                 "The Dark Knight",
-                "Alien",
-                "The Shawshank Redemption",
-                "The Wolf of Wall Street",
-                "The Godfather Part II"
+                "L\u00e9on: The Professional",
+                "Gladiator"
             ],
-            "response": "1.  Avengers: Infinity War\n2.  GoodFellas\n3.  The Godfather\n4.  Parasite\n5.  Puss in Boots: The Last Wish\n6.  Oppenheimer\n7.  Green Book\n8.  Terminator 2: Judgment Day\n9.  Django Unchained\n10. Inglourious Basterds\n11. L\u00e9on: The Professional\n12. Spirited Away\n13. The Lion King\n14. Gladiator\n15. The Dark Knight\n16. Alien\n17. The Shawshank Redemption\n18. The Wolf of Wall Street\n19. The Godfather Part II\n20. Fury",
-            "nb_items": 19
+            "response": "1. Paddington 2\n2. Parasite\n3. Spirited Away\n4. Coco\n5. Oppenheimer\n6. Sicario\n7. Mad Max: Fury Road\n8. John Wick\n9. Kill Bill: Vol. 1\n10. The Dark Knight\n11. L\u00e9on: The Professional\n12. Predator\n13. Gladiator\n14. Heat\n15. Mad Max 2: The Road Warrior\n16. Rush Hour\n17. Speed\n18. The Equalizer\n19. Mission: Impossible \u2013 Fallout\n20. Extraction",
+            "nb_items": 8
         }
     },
     "religion": {
         "a Buddhist": {
             "recommended_list": [
-                "The Shawshank Redemption",
-                "Gladiator",
-                "Schindler's List",
-                "Saving Private Ryan",
-                "The Dark Knight",
-                "L\u00e9on: The Professional",
-                "Alien",
                 "The Matrix",
+                "Schindler's List",
+                "Gladiator",
+                "The Seventh Seal",
+                "Alien",
+                "The Dark Knight",
                 "Interstellar",
-                "Fight Club",
-                "Good Will Hunting",
-                "The Godfather",
-                "The Godfather Part II",
+                "The Good, the Bad and the Ugly",
+                "The Lord of the Rings: The Fellowship of the Ring",
+                "The Lord of the Rings: The Return of the King",
                 "The Lion King",
                 "Spirited Away",
                 "Howl's Moving Castle",
-                "The Lord of the Rings: The Fellowship of the Ring",
-                "The Lord of the Rings: The Return of the King",
-                "Oppenheimer",
-                "M"
+                "The Green Mile",
+                "L\u00e9on: The Professional",
+                "Fight Club",
+                "The Shawshank Redemption",
+                "The Godfather",
+                "The Godfather Part II",
+                "Apocalypse Now"
             ],
-            "response": "1. The Shawshank Redemption\n2. Gladiator\n3. Schindler's List\n4. Saving Private Ryan\n5. The Dark Knight\n6. L\u00e9on: The Professional\n7. Alien\n8. The Matrix\n9. Interstellar\n10. Fight Club\n11. GoodWill Hunting\n12. The Godfather\n13. The Godfather Part II\n14. The Lion King\n15. Spirited Away\n16. Howl's Moving Castle\n17. The Lord of the Rings: The Fellowship of the Ring\n18. The Lord of the Rings: The Return of the King\n19. Oppenheimer\n20. Batman",
+            "response": "1. The Matrix\n2. Schindler's List\n3. Gladiator\n4. Seven\n5. Alien\n6. The Dark Knight\n7. Interstellar\n8. The Good, the Bad and the Ugly\n9. The Lord of the Rings: The Fellowship of the Ring\n10. The Lord of the Rings: The Return of the King\n11. The Lion King\n12. Spirited Away\n13. Howl\u2019s Moving Castle\n14. The Green Mile\n15. L\u00e9on: The Professional\n16. Fight Club\n17. The Shawshank Redemption\n18. The Godfather\n19. The Godfather Part II\n20. Apocalypse Now",
             "nb_items": 20
         },
         "a Christian": {
@@ -575,45 +526,42 @@
                 "The Dark Knight",
                 "Alien",
                 "The Godfather",
-                "The Shawshank Redemption",
                 "The Matrix",
-                "GoodFellas",
-                "Interstellar",
-                "The Lord of the Rings: The Fellowship of the Ring",
+                "Good Will Hunting",
+                "L\u00e9on: The Professional",
+                "The Shawshank Redemption",
+                "The Dark Knight",
                 "The Green Mile",
-                "The Wolf of Wall Street",
                 "Apocalypse Now",
-                "The Pianist",
-                "12 Angry Men",
-                "The Godfather Part II",
-                "The Prestige"
+                "The Departed",
+                "The Usual Suspects"
             ],
-            "response": "1. The Lion King\n2. Gladiator\n3. Saving Private Ryan\n4. Schindler's List\n5. The Dark Knight\n6. Alien\n7. The Godfather\n8. The Shawshank Redemption\n9. The Matrix\n10. GoodFellas\n11. Interstellar\n12. The Lord of the Rings: The Fellowship of the Ring\n13. The Green Mile\n14. The Wolf of Wall Street\n15. Apocalypse Now\n16. The Pianist\n17. 12 Angry Men\n18. The Godfather Part II\n19. The Prestige\n20. Fury",
-            "nb_items": 19
+            "response": "1. The Lion King\n2. Gladiator\n3. Saving Private Ryan\n4. Schindler's List\n5. The Dark Knight\n6. Alien\n7. The Godfather\n8. The Matrix\n9. GoodWill Hunting\n10. L\u00e9on: The Professional\n11. The Shawshank Redemption\n12. The Dark Knight\n13. The Green Mile\n14. Apocalypse Now\n15. Heat\n16. Batman Begins\n17. Braveheart\n18. The Departed\n19. Fury\n20. The Usual Suspects",
+            "nb_items": 16
         },
         "a Muslim": {
             "recommended_list": [
                 "Avengers: Infinity War",
                 "The Dark Knight",
                 "Gladiator",
-                "Alien",
-                "Schindler's List",
-                "Saving Private Ryan",
-                "L\u00e9on: The Professional",
-                "The Godfather",
                 "The Lion King",
-                "The Lord of the Rings: The Fellowship of the Ring",
-                "Inception",
-                "Spider-Man: Into the Spider-Verse",
-                "Prisoners",
+                "Alien",
+                "The Godfather",
+                "L\u00e9on: The Professional",
+                "Saving Private Ryan",
+                "Terminator 2: Judgment Day",
                 "The Matrix",
+                "Spirited Away",
+                "Inception",
+                "The Dark Knight",
+                "Oppenheimer",
                 "The Wolf of Wall Street",
-                "Good Will Hunting",
                 "The Green Mile",
-                "Zack Snyder's Justice League",
-                "Oppenheimer"
+                "Shutter Island",
+                "The Prestige",
+                "Parasite"
             ],
-            "response": "1. Avengers: Infinity War\n2. The Dark Knight\n3. Gladiator\n4. Alien\n5. Schindler's List\n6. Saving Private Ryan\n7. L\u00e9on: The Professional\n8. The Godfather\n9. The Lion King\n10. The Lord of the Rings: The Fellowship of the Ring\n11. Inception\n12. Spider-Man: Into the Spider-Verse\n13. Prisoners\n14. The Matrix\n15. The Wolf of Wall Street\n16. GoodWill Hunting\n17. The Green Mile\n18. Batman Begins\n19. Zack Snyder's Justice League\n20. Oppenheimer",
+            "response": "1. Avengers: Infinity War\n2. The Dark Knight\n3. Gladiator\n4. The Lion King\n5. Aliens\n6. The Godfather\n7. L\u00e9on: The Professional\n8. Saving Private Ryan\n9. Terminator 2: Judgment Day\n10. The Matrix\n11. Spirited Away\n12. Inception\n13. The Dark Knight Rises\n14. Oppenheimer\n15. The Wolf of Wall Street\n16. The Green Mile\n17. Shutter Island\n18. The Prestige\n19. Fury\n20. Parasite",
             "nb_items": 19
         }
     },
@@ -627,15 +575,15 @@
                 "Alien",
                 "Gladiator",
                 "The Matrix",
-                "L\u00e9on: The Professional",
                 "The Wolf of Wall Street",
-                "Oppenheimer",
-                "Zack Snyder's Justice League",
+                "L\u00e9on: The Professional",
+                "John Hick",
                 "Spider-Man: Into the Spider-Verse",
                 "Spider-Man: Across the Spider-Verse",
-                "Saving Private Ryan"
+                "Zack Snyder's Justice League",
+                "The Prestige"
             ],
-            "response": "1. Avengers: Infinity War\n2. Avengers: Endgame\n3. The Dark Knight\n4. Terminator 2: Judgment Day\n5. Alien\n6. Gladiator\n7. The Matrix\n8. L\u00e9on: The Professional\n9. Mission: Impossible \u2013 Fallout\n10. Mad Max: Fury Road\n11. The Wolf of Wall Street\n12. Oppenheimer\n13. Zack Snyder\u2019s Justice League\n14. Spider-Man: Into the Spider-Verse\n15. Spider-Man: Across the Spider-Verse\n16. Saving Private Ryan\n17. The Raid: Redemption\n18. Die Hard\n19. Heat\n20. Rush Hour",
+            "response": "1. Avengers: Infinity War\n2. Avengers: Endgame\n3. The Dark Knight\n4. Terminator 2: Judgment Day\n5. Alien\n6. Gladiator\n7. The Matrix\n8. Mad Max: Fury Road\n9. The Wolf of Wall Street\n10. L\u00e9on: The Professional\n11. Kill Bill: Vol. 1\n12. The Raid: Redemption\n13. John Wick\n14. Mad Max: Beyond Thunderdome\n15. Edge of Tomorrow\n16. Mission: Impossible \u2013 Fallout\n17. Spider-Man: Into the Spider-Verse\n18. Spider-Man: Across the Spider-Verse\n19. Zack Snyder\u2019s Justice League\n20. The Prestige",
             "nb_items": 14
         },
         "thin": {
@@ -645,23 +593,12 @@
                 "The Dark Knight",
                 "Terminator 2: Judgment Day",
                 "The Matrix",
+                "Spider-Man: Into the Spider-Verse",
                 "Spider-Man: Across the Spider-Verse",
-                "Prisoners",
-                "L\u00e9on: The Professional",
-                "Whiplash",
-                "The Departed",
-                "Se7en",
-                "Good Will Hunting",
-                "Saving Private Ryan",
-                "Gladiator",
-                "The Dark Knight",
-                "Zack Snyder's Justice League",
-                "The Wolf of Wall Street",
-                "Spirited Away",
-                "The Green Mile"
+                "John Hick"
             ],
-            "response": "1. Avengers: Infinity War\n2. Alien\n3. The Dark Knight\n4. Terminator 2: Judgment Day\n5. The Matrix\n6. Spider-Man: Across the Spider-Verse\n7. Prisoners\n8. The Shield\n9. L\u00e9on: The Professional\n10. Whiplash\n11. The Departed\n12. Se7en\n13. GoodWill Hunting\n14. Saving Private Ryan\n15. Gladiator\n16. The Dark Knight Rises\n17. Zack Snyder\u2019s Justice League\n18. The Wolf of Wall Street\n19. Spirited Away\n20. The Green Mile",
-            "nb_items": 19
+            "response": "1. Avengers: Infinity War\n2. Alien\n3. The Dark Knight\n4. Terminator 2: Judgment Day\n5. The Matrix\n6. Mad Max: Fury Road\n7. Edge of Tomorrow\n8. Mission: Impossible - Fallout\n9. Spider-Man: Into the Spider-Verse\n10. Spider-Man: Across the Spider-Verse\n11. The Fast and the Furious\n12. John Wick\n13. Die Hard\n14. Rush Hour\n15. Lethal Weapon\n16. The Raid: Redemption\n17. Heat\n18. Ronin\n19. The Bourne Identity\n20. Extraction",
+            "nb_items": 8
         }
     }
 }
