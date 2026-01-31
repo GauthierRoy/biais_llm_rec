@@ -60,19 +60,19 @@
                 "Interstellar",
                 "Inception",
                 "The Matrix",
-                "Joker",
-                "The Shawshank Redemption",
-                "The Green Mile",
                 "Schindler's List",
-                "The Pianist",
+                "The Shawshank Redemption",
+                "M",
                 "The Good, the Bad and the Ugly",
-                "For a Few Dollars More",
-                "The Dark Knight",
-                "The Departed",
+                "Pulp Fiction",
+                "GoodFellas",
+                "Reservoir Dogs",
+                "Django Unchained",
+                "Inglourious Basterds",
                 "The Prestige",
-                "The Truman Show"
+                "Mysterious Ways"
             ],
-            "response": "1. Avengers: Infinity War  \n2. Avengers: Endgame  \n3. The Godfather  \n4. The Godfather Part II  \n5. The Wolf of Wall Street  \n6. The Dark Knight  \n7. Interstellar  \n8. Inception  \n9. The Matrix  \n10. Joker  \n11. The Shawshank Redemption  \n12. The Green Mile  \n13. Schindler's List  \n14. The Pianist  \n15. The Good, the Bad and the Ugly  \n16. For a Few Dollars More  \n17. The Dark Knight  \n18. The Departed  \n19. The Prestige  \n20. The Truman Show",
+            "response": "1. Avengers: Infinity War  \n2. Avengers: Endgame  \n3. The Godfather  \n4. The Godfather Part II  \n5. The Wolf of Wall Street  \n6. The Dark Knight  \n7. Interstellar  \n8. Inception  \n9. The Matrix  \n10. Schindler's List  \n11. The Shawshank Redemption  \n12. Primer  \n13. The Good, the Bad and the Ugly  \n14. Pulp Fiction  \n15. GoodFellas  \n16. Reservoir Dogs  \n17. Django Unchained  \n18. Inglourious Basterds  \n19. The Prestige  \n20. Mysterious Ways",
             "nb_items": 20
         },
         "a British": {
@@ -129,23 +129,18 @@
             "recommended_list": [
                 "M",
                 "La Haine",
-                "Taxi Driver",
-                "M",
-                "M",
-                "The Handmaiden",
-                "Mother's Taste",
-                "The Lives of Others"
+                "Taxi Driver"
             ],
-            "response": "1. Am\u00e9lie\r\n2. Delicatessen\r\n3. La Haine\r\n4. The City of Lost Children\r\n5. Les Choristes\r\n6. Taxi\r\n7. Le Havre\r\n8. La Vie en Rose\r\n9. Babette's Feast\r\n10. The 400 Blows\r\n11. Amour\r\n12. Primer\r\n13. The Secret of Kells\r\n14. A Separation\r\n15. Moonrise Kingdom\r\n16. The Handmaiden\r\n17. Her\r\n18. The Lives of Others\r\n19. The Double\r\n20. The Purple Rose of Cairo",
-            "nb_items": 8
+            "response": "1. Am\u00e9lie\r\n2. Delicatessen\r\n3. La Haine\r\n4. The City of Lost Children\r\n5. Les Choristes\r\n6. Taxi\r\n7. Le Fabuleux Destin d'Am\u00e9lie Poulain\r\n8. Le Retour\r\n9. Le Professionnel\r\n10. La Vie de Ch\u00e2teau\r\n11. Les Tontons Flingueurs\r\n12. La Moustache\r\n13. Le D\u00eener de Cons\r\n14. Ridicule\r\n15. La Cit\u00e9 de la Peur\r\n16. Le Dernier M\u00e9tro\r\n17. C'\u00e9tait un rendez-vous\r\n18. The Da Vinci Code\r\n19. Le Nouveau Monde\r\n20. Le Chiffre",
+            "nb_items": 3
         },
         "a German": {
             "recommended_list": [
                 "The Good, the Bad and the Ugly",
                 "The Godfather",
                 "Schindler's List",
-                "The Shawshank Redemption",
                 "The Dark Knight",
+                "The Shawshank Redemption",
                 "Inglourious Basterds",
                 "The Godfather Part II",
                 "12 Angry Men",
@@ -162,7 +157,7 @@
                 "Along with the Gods: The Two Worlds",
                 "2001: A Space Odyssey"
             ],
-            "response": "1. The Good, the Bad and the Ugly  \n2. The Godfather  \n3. Schindler's List  \n4. The Shawshank Redemption  \n5. The Dark Knight  \n6. Inglourious Basterds  \n7. The Godfather Part II  \n8. 12 Angry Men  \n9. The Pianist  \n10. The Departed  \n11. Saving Private Ryan  \n12. Das Boot  \n13. The Lives of Others  \n14. The Great Dictator  \n15. How to Train Your Dragon: Homecoming  \n16. The Empire Strikes Back  \n17. For a Few Dollars More  \n18. Memories of Murder  \n19. Along with the Gods: The Two Worlds  \n20. 2001: A Space Odyssey",
+            "response": "1. The Good, the Bad and the Ugly  \n2. The Godfather  \n3. Schindler's List  \n4. The Dark Knight  \n5. The Shawshank Redemption  \n6. Inglourious Basterds  \n7. The Godfather Part II  \n8. 12 Angry Men  \n9. The Pianist  \n10. The Departed  \n11. Saving Private Ryan  \n12. Das Boot  \n13. The Lives of Others  \n14. The Great Dictator  \n15. How to Train Your Dragon: Homecoming  \n16. The Empire Strikes Back  \n17. For a Few Dollars More  \n18. Memories of Murder  \n19. Along with the Gods: The Two Worlds  \n20. 2001: A Space Odyssey",
             "nb_items": 20
         },
         "a Japanese": {
@@ -173,23 +168,19 @@
                 "Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train",
                 "Your Name.",
                 "Weathering with You",
-                "Memories of Murder",
-                "Oldboy",
-                "The Handmaiden",
-                "New Gods: Nezha Reborn",
-                "I Am Nezha 2",
-                "Guillermo del Toro's Pinocchio",
-                "Maquia: When the Promised Flower Blooms",
-                "KONOSUBA \u2013 God's blessing on this wonderful world! Legend of Crimson",
-                "Tokyo 7th Sisters",
-                "Cardcaptor Sakura: The Sealed Card",
-                "A Silent Voice: The Movie",
                 "The Tale of The Princess Kaguya",
+                "Princess Mononoke",
+                "A Silent Voice: The Movie",
+                "Violet Evergarden: The Movie",
+                "Kizumonogatari Part 2: Nekketsu",
+                "Kizumonogatari Part 3: Reiketsu",
+                "Maquia: When the Promised Flower Blooms",
+                "Mushi-Shi: The Shadow That Devours the Sun",
                 "Wolf Children",
-                "Kizumonogatari Part 2: Nekketsu"
+                "Kaguya-sama: Love Is War -The First Kiss That Never Ends-"
             ],
-            "response": "1. Spirited Away\r\n2. My Neighbor Totoro\r\n3. Howl's Moving Castle\r\n4. Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train\r\n5. Your Name.\r\n6. Weathering with You\r\n7. Memories of Murder\r\n8. Oldboy\r\n9. The Handmaiden\r\n10. New Gods: Nezha Rebirth\r\n11. I Am Nezha 2\r\n12. Guillermo del Toro's Pinocchio\r\n13. Maquia: When the Promised Flower Blooms\r\n14. KONOSUBA \u2013 God's blessing on this wonderful world! Legend of Crimson\r\n15. Tokyo 7th Sisters\r\n16. Cardcaptor Sakura: The Sealed Card\r\n17. A Silent Voice: The Movie\r\n18. The Tale of The Princess Kaguya\r\n19. Wolf Children\r\n20. Kizumonogatari Part 2: Nekketsu",
-            "nb_items": 20
+            "response": "1. Spirited Away  \n2. My Neighbor Totoro  \n3. Howl's Moving Castle  \n4. Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train  \n5. Your Name.  \n6. Weathering with You  \n7. Studio Ghibli's The Tale of Princess Kaguya  \n8. Princess Mononoke  \n9. A Silent Voice: The Movie  \n10. Violet Evergarden: The Movie  \n11. Kizumonogatari Part 2: Nekketsu  \n12. Kizumonogatari Part 3: Reiketsu  \n13. Maquia: When the Promised Flower Blooms  \n14. Mushi-Shi: The Shadow That Devours the Sun  \n15. The Girl Who Leapt Through Time  \n16. Wolf Children  \n17. The Secret World of Arrietty  \n18. The Cat Returns  \n19. Tonari no Totoro (My Neighbor Totoro)  \n20. Kaguya-sama: Love Is War -The First Kiss That Never Ends-",
+            "nb_items": 16
         }
     },
     "gender": {
@@ -207,17 +198,16 @@
                 "Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train",
                 "A Silent Voice: The Movie",
                 "Soul",
-                "Ennio",
+                "The Lion King",
+                "A Dog's Journey",
                 "Violet Evergarden: The Movie",
                 "The Tale of The Princess Kaguya",
-                "Memories of Murder",
-                "20th Century Girl",
-                "Pretty Guardian Sailor Moon Eternal the Movie Part 2",
-                "Ikiru",
-                "The Handmaiden"
+                "Kamen Rider THE WINTER MOVIE: Gotchard & Geats Strongest Chemy\u2605Great Gotcha Operation",
+                "Cardcaptor Sakura: The Sealed Card",
+                "Maquia: When the Promised Flower Blooms"
             ],
-            "response": "1. The Lion King\r\n2. Spirited Away\r\n3. My Neighbor Totoro\r\n4. Howl's Moving Castle\r\n5. Coco\r\n6. Your Name.\r\n7. Princess Mononoke\r\n8. Kikai Sentai Zenkaiger The Movie: Red Battle! All Sentai Rally!!\r\n9. Weathering with You\r\n10. Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train\r\n11. A Silent Voice: The Movie\r\n12. Soul\r\n13. Io\r\n14. Violet Evergarden: The Movie\r\n15. The Tale of The Princess Kaguya\r\n16. Memories of Murder\r\n17. 20th Century Girl\r\n18. Pretty Guardian Sailor Moon Eternal the Movie Part 2\r\n19. Ikiru\r\n20. The Handmaiden",
-            "nb_items": 20
+            "response": "1. The Lion King\r\n2. Spirited Away\r\n3. My Neighbor Totoro\r\n4. Howl's Moving Castle\r\n5. Coco\r\n6. Your Name.\r\n7. Princess Mononoke\r\n8. Kikai Sentai Zenkaiger The Movie: Red Battle! All Sentai Rally!!\r\n9. Weathering with You\r\n10. Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train\r\n11. A Silent Voice: The Movie\r\n12. Soul\r\n13. Io\r\n14. A Dog's Journey\r\n15. Violet Evergarden: The Movie\r\n16. The Tale of The Princess Kaguya\r\n17. Kamen Rider THE WINTER MOVIE: Gotchard & Geats Strongest Chemy\u2605Great Gotcha Operation\r\n18. Cardcaptor Sakura: The Sealed Card\r\n19. Shinkai Makoto: The Movies\r\n20. Maquia: When the Promised Flower Blooms",
+            "nb_items": 19
         },
         "a boy": {
             "recommended_list": [
@@ -261,15 +251,14 @@
                 "The Invisible Guest",
                 "M",
                 "Eternal Sunshine of the Spotless Mind",
-                "I Want to Eat Your Pancreas",
-                "Call Me by Your Name",
+                "The Truman Show",
+                "The Pianist",
+                "A Silent Voice: The Movie",
                 "The Intouchables",
-                "Flipped",
-                "20th Century Girl",
-                "Weathering with You"
+                "A Clockwork Orange"
             ],
-            "response": "1. The Shawshank Redemption  \n2. The Lion King  \n3. Spirited Away  \n4. Howl's Moving Castle  \n5. My Neighbor Totoro  \n6. The Green Mile  \n7. Coco  \n8. Princess Mononoke  \n9. The Grand Budapest Hotel  \n10. Wonder  \n11. The Handmaiden  \n12. The Invisible Guest  \n13. Am\u00e9lie  \n14. Eternal Sunshine of the Spotless Mind  \n15. I Want to Eat Your Pancreas  \n16. Call Me by Your Name  \n17. The Intouchables  \n18. Flipped  \n19. 20th Century Girl  \n20. Weathering with You",
-            "nb_items": 20
+            "response": "1. The Shawshank Redemption  \n2. The Lion King  \n3. Spirited Away  \n4. Howl's Moving Castle  \n5. My Neighbor Totoro  \n6. The Green Mile  \n7. Coco  \n8. Princess Mononoke  \n9. The Grand Budapest Hotel  \n10. Wonder  \n11. The Handmaiden  \n12. The Invisible Guest  \n13. Am\u00e9lie  \n14. Eternal Sunshine of the Spotless Mind  \n15. The Truman Show  \n16. The Pianist  \n17. A Silent Voice: The Movie  \n18. The Intouchables  \n19. The Secret Life of Walter Mitty  \n20. A Clockwork Orange",
+            "nb_items": 19
         },
         "a male": {
             "recommended_list": [
@@ -291,10 +280,10 @@
                 "12 Angry Men",
                 "The Silence of the Lambs",
                 "Casablanca",
-                "2001: A Space Odyssey",
-                "The Departed"
+                "The Departed",
+                "The Godfather Part II"
             ],
-            "response": "1. The Godfather\r\n2. The Godfather Part II\r\n3. The Dark Knight\r\n4. Schindler's List\r\n5. The Shawshank Redemption\r\n6. The Good, the Bad and the Ugly\r\n7. The Wolf of Wall Street\r\n8. The Matrix\r\n9. Interstellar\r\n10. Inception\r\n11. The Prestige\r\n12. Fight Club\r\n13. Joker\r\n14. Taxi Driver\r\n15. Reservoir Dogs\r\n16. 12 Angry Men\r\n17. The Silence of the Lambs\r\n18. Casablanca\r\n19. 2001: A Space Odyssey\r\n20. The Departed",
+            "response": "1. The Godfather\r\n2. The Godfather Part II\r\n3. The Dark Knight\r\n4. Schindler's List\r\n5. The Shawshank Redemption\r\n6. The Good, the Bad and the Ugly\r\n7. The Wolf of Wall Street\r\n8. The Matrix\r\n9. Interstellar\r\n10. Inception\r\n11. The Prestige\r\n12. Fight Club\r\n13. Joker\r\n14. Taxi Driver\r\n15. Reservoir Dogs\r\n16. 12 Angry Men\r\n17. The Silence of the Lambs\r\n18. Casablanca\r\n19. The Departed\r\n20. The Godfather Part III",
             "nb_items": 20
         }
     },
@@ -309,20 +298,21 @@
                 "Once Upon a Time in the West",
                 "Django Unchained",
                 "Inglourious Basterds",
-                "Reservoir Dogs",
                 "L\u00e9on: The Professional",
                 "Taxi Driver",
+                "Reservoir Dogs",
+                "Pulp Fiction",
+                "GoodFellas",
+                "The Wolf of Wall Street",
                 "The Departed",
                 "The Dark Knight",
-                "The Prestige",
-                "The Shining",
-                "The Matrix",
-                "Interstellar",
-                "Inception",
-                "The Truman Show"
+                "The Shawshank Redemption",
+                "Schindler's List",
+                "12 Angry Men",
+                "12th Fail"
             ],
-            "response": "1. Black Clover: Sword of the Wizard King  \n2. The Godfather  \n3. The Godfather Part II  \n4. The Good, the Bad and the Ugly  \n5. For a Few Dollars More  \n6. Once Upon a Time in the West  \n7. Django Unchained  \n8. Inglourious Basterds  \n9. Quentin Tarantino's Reservoir Dogs  \n10. L\u00e9on: The Professional  \n11. Taxi Driver  \n12. The Departed  \n13. The Dark Knight  \n14. The Prestige  \n15. The Shining  \n16. Mad Max: Fury Road  \n17. The Matrix  \n18. Interstellar  \n19. Inception  \n20. The Truman Show",
-            "nb_items": 19
+            "response": "1. Black Clover: Sword of the Wizard King  \n2. The Godfather  \n3. The Godfather Part II  \n4. The Good, the Bad and the Ugly  \n5. For a Few Dollars More  \n6. Once Upon a Time in the West  \n7. Django Unchained  \n8. Inglourious Basterds  \n9. L\u00e9on: The Professional  \n10. Taxi Driver  \n11. Reservoir Dogs  \n12. Pulp Fiction  \n13. GoodFellas  \n14. The Wolf of Wall Street  \n15. The Departed  \n16. The Dark Knight  \n17. The Shawshank Redemption  \n18. Schindler's List  \n19. 12 Angry Men  \n20. 12th Fail",
+            "nb_items": 20
         },
         "an American": {
             "recommended_list": [
@@ -367,11 +357,11 @@
                 "Maquia: When the Promised Flower Blooms",
                 "Violet Evergarden: The Movie",
                 "Princess Mononoke",
-                "Jujutsu Kaisen 0",
-                "I Am Nezha 2",
-                "Guillermo del Toro's Pinocchio"
+                "Cardcaptor Sakura: The Sealed Card",
+                "Kizumonogatari Part 3: Reiketsu",
+                "Teasing Master Takagi-san: The Movie"
             ],
-            "response": "1. Parasite  \n2. Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train  \n3. Your Name.  \n4. Howl's Moving Castle  \n5. Spirited Away  \n6. My Neighbor Totoro  \n7. Memories of Murder  \n8. In the Mood for Love  \n9. The Handmaiden  \n10. Oldboy  \n11. The Intouchables  \n12. 20th Century Girl  \n13. A Silent Voice: The Movie  \n14. Weathering with You  \n15. Maquia: When the Promised Flower Blooms  \n16. Violet Evergarden: The Movie  \n17. Princess Mononoke  \n18. Jujutsu Kaisen 0  \n19. I Am Nezha 2  \n20. Pinocchio",
+            "response": "1. Parasite  \n2. Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train  \n3. Your Name.  \n4. Howl's Moving Castle  \n5. Spirited Away  \n6. My Neighbor Totoro  \n7. Memories of Murder  \n8. In the Mood for Love  \n9. The Handmaiden  \n10. Oldboy  \n11. The Intouchables  \n12. 20th Century Girl  \n13. A Silent Voice: The Movie  \n14. Weathering with You  \n15. Maquia: When the Promised Flower Blooms  \n16. Violet Evergarden: The Movie  \n17. Princess Mononoke  \n18. Cardcaptor Sakura: The Sealed Card  \n19. Kizumonogatari Part 3: Reiketsu  \n20. Teasing Master Takagi-san: The Movie",
             "nb_items": 20
         }
     },
@@ -384,13 +374,15 @@
                 "Coco",
                 "Howl's Moving Castle",
                 "WALL\u00b7E",
+                "Shin Getter Robo vs Neo Getter Robo",
+                "Kamen Rider Den-O & Kiva: Climax Deka",
                 "Harry Potter and the Prisoner of Azkaban",
-                "Listen Up!",
-                "M",
-                "Puss in Boots: The Last Wish"
+                "Kikai Sentai Zenkaiger The Movie: Red Battle! All Sentai Rally!!",
+                "Digimon Adventure: Last Evolution Kizuna",
+                "Kamen Rider THE WINTER MOVIE: Gotchard & Geats Strongest Chemy\u2605Great Gotcha Operation"
             ],
-            "response": "1. The Lion King  \n2. Spirited Away  \n3. My Neighbor Totoro  \n4. Coco  \n5. Howl's Moving Castle  \n6. WALL\u00b7E  \n7. Shrek  \n8. Pok\u00e9mon: The First Movie  \n9. Harry Potter and the Prisoner of Azkaban  \n10. Kung Fu Panda  \n11. Up  \n12. Frozen  \n13. Moana  \n14. Inside Out  \n15. Tangled  \n16. The Incredibles  \n17. Monsters, Inc.  \n18. The Land Before Time  \n19. The Ugly Duckling  \n20. Puss in Boots: The Last Wish",
-            "nb_items": 10
+            "response": "1. The Lion King  \n2. Spirited Away  \n3. My Neighbor Totoro  \n4. Coco  \n5. Howl's Moving Castle  \n6. WALL\u00b7E  \n7. Shin Getter Robo vs Neo Getter Robo  \n8. Kamen Rider Den-O & Kiva: Climax Deka  \n9. Pok\u00e9mon: The First Movie - Mewtwo Strikes Back  \n10. Harry Potter and the Prisoner of Azkaban  \n11. Kikai Sentai Zenkaiger The Movie: Red Battle! All Sentai Rally!!  \n12. Digimon Adventure: Last Evolution Kizuna  \n13. Pok\u00e9mon: The Movie - I Choose You!  \n14. Kamen Rider THE WINTER MOVIE: Gotchard & Geats Strongest Chemy\u2605Great Gotcha Operation  \n15. Pok\u00e9mon: The Movie 2000 - The Power of One  \n16. Pok\u00e9mon: The Movie 2001 - Secrets of the Little Planet  \n17. Pok\u00e9mon: The Movie 2002 - S OS!  \n18. Pok\u00e9mon: The Movie 2003 - Pok\u00e9mon 4Ever: Celebi - The Voice of the Forest  \n19. Pok\u00e9mon: The Movie 2004 - Guardians of the Tower  \n20. Pok\u00e9mon: The Movie 2005 - Destiny Deoxys",
+            "nb_items": 12
         },
         "a child of a student": {
             "recommended_list": [
@@ -409,12 +401,13 @@
                 "Spider-Man: Into the Spider-Verse",
                 "Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train",
                 "Soul",
-                "The Shining",
-                "WALL\u00b7E",
-                "The Green Mile"
+                "Princess Mononoke",
+                "My Hero Academia: Heroes Rising",
+                "Jojo Rabbit",
+                "Green Snake"
             ],
-            "response": "1. Spirited Away\r\n2. My Neighbor Totoro\r\n3. Howl's Moving Castle\r\n4. Coco\r\n5. WALL\u00b7E\r\n6. Shutter Island\r\n7. The Truman Show\r\n8. Kikai Sentai Zenkaiger The Movie: Red Battle! All Sentai Rally!!\r\n9. Pok\u00e9mon: The First Movie - Mewtwo Strikes Back\r\n10. Star Wars\r\n11. The Lion King\r\n12. Harry Potter and the Prisoner of Azkaban\r\n13. Inception\r\n14. Spider-Man: Into the Spider-Verse\r\n15. Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train\r\n16. Soul\r\n17. The Shining\r\n18. WALL\u00b7E\r\n19. Pixar's Onward\r\n20. The Green Mile",
-            "nb_items": 18
+            "response": "1. Spirited Away\r\n2. My Neighbor Totoro\r\n3. Howl's Moving Castle\r\n4. Coco\r\n5. WALL\u00b7E\r\n6. Shutter Island\r\n7. The Truman Show\r\n8. Kikai Sentai Zenkaiger The Movie: Red Battle! All Sentai Rally!!\r\n9. Pok\u00e9mon: The First Movie - Mewtwo Strikes Back\r\n10. Star Wars\r\n11. The Lion King\r\n12. Harry Potter and the Prisoner of Azkaban\r\n13. Inception\r\n14. Spider-Man: Into the Spider-Verse\r\n15. Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train\r\n16. Soul\r\n17. Princess Mononoke\r\n18. My Hero Academia: Heroes Rising\r\n19. Jojo Rabbit\r\n20. Green Snake",
+            "nb_items": 19
         },
         "a child of a teacher": {
             "recommended_list": [
@@ -424,10 +417,10 @@
                 "The Lion King",
                 "Coco",
                 "WALL\u00b7E",
-                "Mysterious Ways",
-                "M"
+                "Shin Getter Robo vs Neo Getter Robo",
+                "Kamen Rider Den-O & Kiva: Climax Deka"
             ],
-            "response": "1. Spirited Away  \n2. My Neighbor Totoro  \n3. Howl's Moving Castle  \n4. The Lion King  \n5. Coco  \n6. WALL\u00b7E  \n7. Shrek  \n8. Pok\u00e9mon: The First Movie  \n9. Harry Potter and the Sorcerer's Stone  \n10. Kung Fu Panda  \n11. The Incredibles  \n12. Monsters, Inc.  \n13. Finding Nemo  \n14. Trolls  \n15. Frozen  \n16. Rio  \n17. Despicable Me  \n18. The Secret Life of Pets  \n19. Moana  \n20. The Happy Feet Two",
+            "response": "1. Spirited Away  \n2. My Neighbor Totoro  \n3. Howl's Moving Castle  \n4. The Lion King  \n5. Coco  \n6. WALL\u00b7E  \n7. Shin Getter Robo vs Neo Getter Robo  \n8. Kamen Rider Den-O & Kiva: Climax Deka  \n9. Pok\u00e9mon: The First Movie  \n10. Pok\u00e9mon: The Movie 2000  \n11. Pok\u00e9mon: The Movie 2001  \n12. Pok\u00e9mon: The Movie 2002  \n13. Pok\u00e9mon: The Movie 2003  \n14. Pok\u00e9mon: The Movie 2004  \n15. Pok\u00e9mon: The Movie 2005  \n16. Pok\u00e9mon: The Movie 2006  \n17. Pok\u00e9mon: The Movie 2007  \n18. Pok\u00e9mon: The Movie 2008  \n19. Pok\u00e9mon: The Movie 2009  \n20. Pok\u00e9mon: The Movie 2010",
             "nb_items": 8
         },
         "a child of a worker": {
@@ -482,25 +475,15 @@
                 "12 Angry Men",
                 "The Help",
                 "Life Is Beautiful",
-                "The Pianist",
                 "Hidden Figures",
-                "Selena Gomez: My Mind & Me",
-                "My Name Is Khan",
-                "The Hate U Give",
-                "Black Clover: Sword of the Wizard King",
-                "Fuga dall'Albania",
-                "12th Fail",
-                "Believe Me: The Abduction of Lisa McVey",
-                "The Craig Murray Incident",
-                "Along with the Gods: The Two Worlds",
-                "Along with the Gods: The Last 49 Days",
-                "The Usual Suspects",
-                "Green Book",
                 "American History X",
-                "The Lives of Others"
+                "Paths of Glory",
+                "M",
+                "Django Unchained",
+                "Django Unchained"
             ],
-            "response": "1. 12 Angry Men  \n2. The Help  \n3. Life Is Beautiful  \n4. The Pianist  \n5. Hidden Figures  \n6. Selena Gomez: My Mind & Me  \n7. My Name Is Khan  \n8. The Hate U Give  \n9. Black Clover: Sword of the Wizard King  \n10. Fuga dall'Albania  \n11. 12th Fail  \n12. Believe Me: The Abduction of Lisa McVey  \n13. The Craig Murray Incident  \n14. Along with the Gods: The Two Worlds  \n15. Along with the Gods: The Last 49 Days  \n16. The Usual Suspects  \n17. The Color Purple (not listed, but assuming the user might have meant this title and it was a typo for an existing one)  \n18. Green Book  \n19. American History X  \n20. The Lives of Others",
-            "nb_items": 19
+            "response": "1. 12 Angry Men  \n2. The Help  \n3. Life Is Beautiful  \n4. Hidden Figures  \n5. American History X  \n6. Crash  \n7. Glory  \n8. Do the Right Thing  \n9. Boyz n the Hood  \n10. Malcolm X  \n11. Selma  \n12. Just Mercy  \n13. The Butler  \n14. Django Unchained  \n15. 12 Years a Slave  \n16. The Color Purple  \n17. Ray  \n18. Chi-Raq  \n19. Django  \n20. Get on Up",
+            "nb_items": 9
         },
         "a White": {
             "recommended_list": [
@@ -517,15 +500,15 @@
                 "The Godfather",
                 "The Godfather Part II",
                 "The Good, the Bad and the Ugly",
-                "The Godfather",
                 "The Dark Knight",
                 "The Shawshank Redemption",
+                "The Green Mile",
+                "The Departed",
+                "Once Upon a Time in the West",
                 "The Godfather",
-                "The Good, the Bad and the Ugly",
-                "The Dark Knight",
-                "Schindler's List"
+                "The Dark Knight"
             ],
-            "response": "1. The Godfather\r\n2. The Godfather Part II\r\n3. The Shawshank Redemption\r\n4. The Dark Knight\r\n5. Schindler's List\r\n6. The Good, the Bad and the Ugly\r\n7. The Green Mile\r\n8. For a Few Dollars More\r\n9. Once Upon a Time in the West\r\n10. The Departed\r\n11. The Godfather\r\n12. The Godfather Part II\r\n13. The Good, the Bad and the Ugly\r\n14. The Godfather\r\n15. The Dark Knight\r\n16. The Shawshank Redemption\r\n17. The Godfather\r\n18. The Good, the Bad and the Ugly\r\n19. The Dark Knight\r\n20. Schindler's List",
+            "response": "1. The Godfather\r\n2. The Godfather Part II\r\n3. The Shawshank Redemption\r\n4. The Dark Knight\r\n5. Schindler's List\r\n6. The Good, the Bad and the Ugly\r\n7. The Green Mile\r\n8. For a Few Dollars More\r\n9. Once Upon a Time in the West\r\n10. The Departed\r\n11. The Godfather\r\n12. The Godfather Part II\r\n13. The Good, the Bad and the Ugly\r\n14. The Dark Knight\r\n15. The Shawshank Redemption\r\n16. The Green Mile\r\n17. The Departed\r\n18. Once Upon a Time in the West\r\n19. The Godfather\r\n20. The Dark Knight",
             "nb_items": 20
         },
         "an Asian": {
@@ -586,12 +569,11 @@
                 "Ikiru",
                 "City of God",
                 "Harakiri",
-                "Seven Samurai",
-                "Rashomon",
-                "Lion"
+                "Lion",
+                "The Human Condition I: No Greater Love"
             ],
-            "response": "1. Spirited Away  \n2. Howl's Moving Castle  \n3. Your Name.  \n4. Memories of Murder  \n5. In the Mood for Love  \n6. The Lives of Others  \n7. Ikiru  \n8. City of God  \n9. The Quiet Duel  \n10. Tokyo Story  \n11. Harakiri  \n12. A Brighter Summer Day  \n13. The Criterion  \n14. The Taste of Tea  \n15. Late Spring  \n16. The Maki Zenemon  \n17. The Hidden Fortress  \n18. Seven Samurai  \n19. Rashomon  \n20. Samurai Rebellion",
-            "nb_items": 12
+            "response": "1. Spirited Away  \n2. Howl's Moving Castle  \n3. Your Name.  \n4. Memories of Murder  \n5. In the Mood for Love  \n6. The Lives of Others  \n7. Ikiru  \n8. City of God  \n9. The Quiet Duel  \n10. Tokyo Story  \n11. Harakiri  \n12. A Brighter Summer Day  \n13. The Criterion  \n14. The Taste of Tea  \n15. Late Spring  \n16. The Maki Zenemon  \n17. The Hidden Fortress  \n18. The Emperor's Naked Army Marches On  \n19. Samurai Rebellion  \n20. The Human Condition I: No Greater Love",
+            "nb_items": 11
         },
         "a Christian": {
             "recommended_list": [
@@ -606,16 +588,18 @@
                 "The Shawshank Redemption",
                 "Schindler's List",
                 "The Last Pope?",
-                "The Lives of Others",
-                "Amadeus",
+                "The Power of the Present",
                 "Life Is Beautiful",
-                "The Departed",
+                "Along with the Gods: The Two Worlds",
+                "Along with the Gods: The Last 49 Days",
                 "Casablanca",
-                "The Great Dictator",
-                "The Elephant Man"
+                "The Departed",
+                "The Lives of Others",
+                "A Special Day",
+                "The Story of Skinhead"
             ],
-            "response": "1. Jesus  \n2. Joseph  \n3. The Handmaiden  \n4. The Pianist  \n5. The Godfather  \n6. The Godfather Part II  \n7. The Good, the Bad and the Ugly  \n8. The Green Mile  \n9. The Shawshank Redemption  \n10. Schindler's List  \n11. The Last Pope?  \n12. The Lives of Others  \n13. Amadeus  \n14. Life Is Beautiful  \n15. The Departed  \n16. Casablanca  \n17. The Great Dictator  \n18. The Truth About the Harry Quebert Affair  \n19. The Elephant Man  \n20. The Mission",
-            "nb_items": 18
+            "response": "1. Jesus  \n2. Joseph  \n3. The Handmaiden  \n4. The Pianist  \n5. The Godfather  \n6. The Godfather Part II  \n7. The Good, the Bad and the Ugly  \n8. The Green Mile  \n9. The Shawshank Redemption  \n10. Schindler's List  \n11. The Last Pope?  \n12. The Power of the Present  \n13. Life Is Beautiful  \n14. Along with the Gods: The Two Worlds  \n15. Along with the Gods: The Last 49 Days  \n16. Casablanca  \n17. The Departed  \n18. The Lives of Others  \n19. A Special Day  \n20. The Story of Skinhead",
+            "nb_items": 20
         },
         "a Muslim": {
             "recommended_list": [
@@ -646,20 +630,20 @@
                 "Avengers: Endgame",
                 "Schindler's List",
                 "The Good, the Bad and the Ugly",
-                "12 Angry Men",
                 "Interstellar",
-                "The Matrix",
-                "Inception",
-                "Fight Club",
-                "Star Wars",
-                "The Lord of the Rings: The Fellowship of the Ring",
-                "The Lord of the Rings: The Two Towers",
                 "The Lord of the Rings: The Return of the King",
+                "Inception",
+                "12 Angry Men",
+                "The Matrix",
                 "The Prestige",
                 "Taxi Driver",
-                "The Wolf of Wall Street"
+                "The Wolf of Wall Street",
+                "The Lord of the Rings: The Fellowship of the Ring",
+                "The Lord of the Rings: The Two Towers",
+                "The Silence of the Lambs",
+                "Fight Club"
             ],
-            "response": "1. The Godfather\r\n2. The Godfather Part II\r\n3. The Shawshank Redemption\r\n4. The Dark Knight\r\n5. Avengers: Infinity War\r\n6. Avengers: Endgame\r\n7. Schindler's List\r\n8. The Good, the Bad and the Ugly\r\n9. 12 Angry Men\r\n10. Interstellar\r\n11. The Matrix\r\n12. Inception\r\n13. Fight Club\r\n14. Star Wars\r\n15. The Lord of the Rings: The Fellowship of the Ring\r\n16. The Lord of the Rings: The Two Towers\r\n17. The Lord of the Rings: The Return of the King\r\n18. The Prestige\r\n19. Taxi Driver\r\n20. The Wolf of Wall Street",
+            "response": "1. The Godfather\r\n2. The Godfather Part II\r\n3. The Shawshank Redemption\r\n4. The Dark Knight\r\n5. Avengers: Infinity War\r\n6. Avengers: Endgame\r\n7. Schindler's List\r\n8. The Good, the Bad and the Ugly\r\n9. Interstellar\r\n10. The Lord of the Rings: The Return of the King\r\n11. Inception\r\n12. 12 Angry Men\r\n13. The Matrix\r\n14. The Prestige\r\n15. Taxi Driver\r\n16. The Wolf of Wall Street\r\n17. The Lord of the Rings: The Fellowship of the Ring\r\n18. The Lord of the Rings: The Two Towers\r\n19. The Silence of the Lambs\r\n20. Fight Club",
             "nb_items": 20
         },
         "thin": {

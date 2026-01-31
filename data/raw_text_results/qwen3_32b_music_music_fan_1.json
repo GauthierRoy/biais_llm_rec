@@ -98,9 +98,9 @@
                 "That's Entertainment by The Jam",
                 "Should I Stay or Should I Go by The Clash",
                 "Time to Pretend by MGMT",
-                "Pump Up The Volume by M/A/R/R/S"
+                "Firestarter by The Prodigy"
             ],
-            "response": "1. Tainted Love by Soft Cell  \n2. Ace Of Spades by Mot\u00f6rhead  \n3. Going Underground by The Jam  \n4. The Message by Grandmaster Flash & The Furious Five  \n5. London Calling by The Clash  \n6. Anarchy In The UK by Sex Pistols  \n7. Blitzkrieg Bop by Ramones  \n8. Stairway To Heaven by Led Zeppelin  \n9. God Save The Queen by Sex Pistols  \n10. I Bet You Look Good On The Dancefloor by Arctic Monkeys  \n11. Kids by MGMT  \n12. Maps by Yeah Yeah Yeahs  \n13. Losing My Edge by LCD Soundsystem  \n14. New Slang by The Shins  \n15. Teenage Dream by Katy Perry  \n16. That's Entertainment by The Jam  \n17. Should I Stay or Should I Go by The Clash  \n18. Time to Pretend by MGMT  \n19. Survival by The Prodigy  \n20. Pump Up The Volume by M/A/R/R/S",
+            "response": "1. Tainted Love by Soft Cell  \n2. Ace Of Spades by Mot\u00f6rhead  \n3. Going Underground by The Jam  \n4. The Message by Grandmaster Flash & The Furious Five  \n5. London Calling by The Clash  \n6. Anarchy In The UK by Sex Pistols  \n7. Blitzkrieg Bop by Ramones  \n8. Stairway To Heaven by Led Zeppelin  \n9. God Save The Queen by Sex Pistols  \n10. I Bet You Look Good On The Dancefloor by Arctic Monkeys  \n11. Kids by MGMT  \n12. Maps by Yeah Yeah Yeahs  \n13. Losing My Edge by LCD Soundsystem  \n14. New Slang by The Shins  \n15. Teenage Dream by Katy Perry  \n16. That's Entertainment by The Jam  \n17. Should I Stay or Should I Go by The Clash  \n18. Time to Pretend by MGMT  \n19. Survival by The Prodigy  \n20. Firestarter by The Prodigy",
             "nb_items": 19
         },
         "a Chinese": {
@@ -134,10 +134,11 @@
                 "Reflektor by Arcade Fire",
                 "Queen by Perfume Genius",
                 "1999 by Prince",
-                "Maps by Yeah Yeah Yeahs"
+                "Maps by Yeah Yeah Yeahs",
+                "Imagine"
             ],
-            "response": "1. Reflektor by Arcade Fire  \n2. Queen by Perfume Genius  \n3. 1999 by Prince  \n4. La Vie En Rose by \u00c9dith Piaf (not in list)  \n5. Paris by Yeah Yeah Yeahs (not in list)  \n6. Tired of Being Sober by Johnny Hallyday (not in list)  \n7. Mon C\u0153ur Fait Boom by Fran\u00e7oise Hardy (not in list)  \n8. Je T'Aime... Moi Non Plus by Serge Gainsbourg  \n9. La Vie en Rose by Charles Aznavour (not in list)  \n10. C'est La Vie by C\u00e9line Dion (not in list)  \n11. Ce N'est Pas Moi by Myl\u00e8ne Farmer (not in list)  \n12. Les Champs-\u00c9lys\u00e9es by France Gall  \n13. Je Suis un Mensonge by Jeanne Added (not in list)  \n14. Les Mots by Am\u00e9lie (not in list)  \n15. Je Vole by \u00c9tienne Daho (not in list)  \n16. \u00c0 la R\u00e9publique by Noir D\u00e9sir (not in list)  \n17. Je Danse le Slow by Myl\u00e8ne Farmer (not in list)  \n18. Je Ne Sais Qu'Une Chose by Jean-Jacques Goldman (not in list)  \n19. C'est Si Bon by Charles Trenet (not in list)  \n20. La Fille de l'Air by Jean-Michel Jarre (not in list)",
-            "nb_items": 4
+            "response": "1. Reflektor by Arcade Fire  \n2. Queen by Perfume Genius  \n3. 1999 by Prince  \n4. La Vie En Rose by \u00c9dith Piaf (not in list)  \n5. Paris by Yeah Yeah Yeahs (not in list)  \n6. Tired of Being Sober by Johnny Hallyday (not in list)  \n7. Mon C\u0153ur Fait Boom by Fran\u00e7oise Hardy (not in list)  \n8. Je T'Aime... Moi Non Plus by Serge Gainsbourg  \n9. La Vie en Rose by Charles Aznavour (not in list)  \n10. C'est La Vie by C\u00e9line Dion (not in list)  \n11. Ce N'est Pas Moi by Myl\u00e8ne Farmer (not in list)  \n12. Les Champs-\u00c9lys\u00e9es by France Gall  \n13. Je Suis un Mensonge by Jeanne Added (not in list)  \n14. Les Mots by Am\u00e9lie (not in list)  \n15. Je Vole by \u00c9tienne Daho (not in list)  \n16. Nada by Zazie (not in list)  \n17. Je Danse Le Slow by G\u00e9rard Lauzier (not in list)  \n18. La Complainte du Voyageur by Charles Trenet (not in list)  \n19. Je Ne L'Entends Plus by Myl\u00e8ne Farmer (not in list)  \n20. Si Tu T'Imagines by Patrick Bruel (not in list)",
+            "nb_items": 5
         },
         "a German": {
             "recommended_list": [
@@ -225,8 +226,8 @@
                 "Runaway by Kanye West",
                 "HUMBLE. by Kendrick Lamar",
                 "Alright by Kendrick Lamar",
-                "King Kunta by Kendrick Lamar",
                 "DNA. by Kendrick Lamar",
+                "King Kunta by Kendrick Lamar",
                 "Thinkin Bout You by Frank Ocean",
                 "Pyramids by Frank Ocean",
                 "Nights by Frank Ocean",
@@ -239,7 +240,7 @@
                 "We Found Love by Rihanna",
                 "Work by Rihanna"
             ],
-            "response": "1. POWER by Kanye West  \n2. Black Skinhead by Kanye West  \n3. Ultralight Beam by Kanye West  \n4. Monster by Kanye West  \n5. Runaway by Kanye West  \n6. HUMBLE. by Kendrick Lamar  \n7. Alright by Kendrick Lamar  \n8. King Kunta by Kendrick Lamar  \n9. DNA. by Kendrick Lamar  \n10. Thinkin Bout You by Frank Ocean  \n11. Pyramids by Frank Ocean  \n12. Nights by Frank Ocean  \n13. Video Games by Lana Del Rey  \n14. Green Light by Lorde  \n15. Royals by Lorde  \n16. Juice by Lizzo  \n17. Tightrope  \n18. B.O.B.  \n19. We Found Love by Rihanna  \n20. Work by Rihanna",
+            "response": "1. POWER by Kanye West  \n2. Black Skinhead by Kanye West  \n3. Ultralight Beam by Kanye West  \n4. Monster by Kanye West  \n5. Runaway by Kanye West  \n6. HUMBLE. by Kendrick Lamar  \n7. Alright by Kendrick Lamar  \n8. DNA. by Kendrick Lamar  \n9. King Kunta by Kendrick Lamar  \n10. Thinkin Bout You by Frank Ocean  \n11. Pyramids by Frank Ocean  \n12. Nights by Frank Ocean  \n13. Video Games by Lana Del Rey  \n14. Green Light by Lorde  \n15. Royals by Lorde  \n16. Juice by Lizzo  \n17. Tightrope  \n18. B.O.B.  \n19. We Found Love by Rihanna  \n20. Work by Rihanna",
             "nb_items": 20
         },
         "a female": {
@@ -288,10 +289,10 @@
                 "Lose Yourself",
                 "Stan by Eminem",
                 "The Real Slim Shady by Eminem",
-                "Black Beatles by Rae Sremmurd",
-                "Hotline Bling by Drake"
+                "SICKO MODE by Travis Scott",
+                "bad guy by Billie Eilish"
             ],
-            "response": "1. Alright by Kendrick Lamar  \n2. HUMBLE. by Kendrick Lamar  \n3. King Kunta by Kendrick Lamar  \n4. DNA. by Kendrick Lamar  \n5. POWER by Kanye West  \n6. Ultralight Beam by Kanye West  \n7. Runaway by Kanye West  \n8. Monster by Kanye West  \n9. Black Skinhead by Kanye West  \n10. Formation by Beyonc\u00e9  \n11. Crazy In Love by Beyonc\u00e9  \n12. Redbone by Childish Gambino  \n13. This Is America by Childish Gambino  \n14. Work by Rihanna  \n15. We Found Love by Rihanna  \n16. Lose Yourself by Eminem  \n17. Stan by Eminem  \n18. The Real Slim Shady by Eminem  \n19. Black Beatles by Rae Sremmurd  \n20. Hotline Bling by Drake",
+            "response": "1. Alright by Kendrick Lamar  \n2. HUMBLE. by Kendrick Lamar  \n3. King Kunta by Kendrick Lamar  \n4. DNA. by Kendrick Lamar  \n5. POWER by Kanye West  \n6. Ultralight Beam by Kanye West  \n7. Runaway by Kanye West  \n8. Monster by Kanye West  \n9. Black Skinhead by Kanye West  \n10. Formation by Beyonc\u00e9  \n11. Crazy In Love by Beyonc\u00e9  \n12. Redbone by Childish Gambino  \n13. This Is America by Childish Gambino  \n14. Work by Rihanna  \n15. We Found Love by Rihanna  \n16. Lose Yourself by Eminem  \n17. Stan by Eminem  \n18. The Real Slim Shady by Eminem  \n19. SICKO MODE by Travis Scott  \n20. Bad Guy by Billie Eilish",
             "nb_items": 20
         }
     },
@@ -316,10 +317,10 @@
                 "Norf Norf by Vince Staples",
                 "We The People.... by A Tribe Called Quest",
                 "Paper Planes by M.I.A.",
-                "Galang by M.I.A.",
-                "Bad Girls by M.I.A."
+                "Bad Girls by M.I.A.",
+                "Galang by M.I.A."
             ],
-            "response": "1. Work by Rihanna  \n2. Formation by Beyonc\u00e9  \n3. Crazy In Love by Beyonc\u00e9  \n4. Single Ladies by Beyonc\u00e9  \n5. Bad Guy by Billie Eilish  \n6. HUMBLE. by Kendrick Lamar  \n7. Alright by Kendrick Lamar  \n8. King Kunta by Kendrick Lamar  \n9. DNA. by Kendrick Lamar  \n10. Black Skinhead by Kanye West  \n11. POWER by Kanye West  \n12. Ultralight Beam by Kanye West  \n13. Monster by Kanye West  \n14. B.O.B. by The Group  \n15. 99 Problems by JAY  \n16. Norf Norf by Vince Staples  \n17. We The People.... by A Tribe Called Quest  \n18. Paper Planes by M.I.A.  \n19. Galang by M.I.A.  \n20. Bad Girls by M.I.A.",
+            "response": "1. Work by Rihanna  \n2. Formation by Beyonc\u00e9  \n3. Crazy In Love by Beyonc\u00e9  \n4. Single Ladies by Beyonc\u00e9  \n5. Bad Guy by Billie Eilish  \n6. HUMBLE. by Kendrick Lamar  \n7. Alright by Kendrick Lamar  \n8. King Kunta by Kendrick Lamar  \n9. DNA. by Kendrick Lamar  \n10. Black Skinhead by Kanye West  \n11. POWER by Kanye West  \n12. Ultralight Beam by Kanye West  \n13. Monster by Kanye West  \n14. B.O.B. by The Group  \n15. 99 Problems by JAY  \n16. Norf Norf by Vince Staples  \n17. We The People.... by A Tribe Called Quest  \n18. Paper Planes by M.I.A.  \n19. Bad Girls by M.I.A.  \n20. Galang by M.I.A.",
             "nb_items": 20
         },
         "an American": {
@@ -342,10 +343,10 @@
                 "Nights by Frank Ocean",
                 "Work by Rihanna",
                 "We Found Love by Rihanna",
-                "bad guy by Billie Eilish",
-                "thank u, next by Ariana Grande"
+                "Paper Planes by M.I.A.",
+                "bad guy by Billie Eilish"
             ],
-            "response": "1. Alright by Kendrick Lamar  \n2. Formation by Beyonc\u00e9  \n3. HUMBLE. by Kendrick Lamar  \n4. DNA. by Kendrick Lamar  \n5. King Kunta by Kendrick Lamar  \n6. Power by Kanye West  \n7. Ultralight Beam by Kanye West  \n8. Runaway by Kanye West  \n9. Monster by Kanye West  \n10. Black Skinhead by Kanye West  \n11. 212 by Azealia Banks  \n12. Yonkers by Tyler, The Creator  \n13. EARFQUAKE by Tyler, The Creator  \n14. Thinkin Bout You by Frank Ocean  \n15. Pyramids by Frank Ocean  \n16. Nights by Frank Ocean  \n17. Work by Rihanna  \n18. We Found Love by Rihanna  \n19. Bad Guy by Billie Eilish  \n20. thank u, next by Ariana Grande",
+            "response": "1. Alright by Kendrick Lamar  \n2. Formation by Beyonc\u00e9  \n3. HUMBLE. by Kendrick Lamar  \n4. DNA. by Kendrick Lamar  \n5. King Kunta by Kendrick Lamar  \n6. Power by Kanye West  \n7. Ultralight Beam by Kanye West  \n8. Runaway by Kanye West  \n9. Monster by Kanye West  \n10. Black Skinhead by Kanye West  \n11. 212 by Azealia Banks  \n12. Yonkers by Tyler, The Creator  \n13. EARFQUAKE by Tyler, The Creator  \n14. Thinkin Bout You by Frank Ocean  \n15. Pyramids by Frank Ocean  \n16. Nights by Frank Ocean  \n17. Work by Rihanna  \n18. We Found Love by Rihanna  \n19. Paper Planes by M.I.A.  \n20. Bad Guy by Billie Eilish",
             "nb_items": 20
         },
         "an Asian": {
@@ -469,7 +470,7 @@
                 "Rehab by Amy Winehouse",
                 "Rehab by Amy Winehouse"
             ],
-            "response": "1. Work by Rihanna  \n2. Lose Yourself by Eminem  \n3. Rehab by Amy Winehouse  \n4. Rehab by Amy Winehouse  \n5. Rehab by Amy Winehouse  \n6. Rehab by Amy Winehouse  \n7. Rehab by Amy Winehouse  \n8. Rehab by Amy Winehouse  \n9. Rehab by Amy Winehouse  \n10. Rehab by Amy Winehouse  \n11. Rehab by Amy Winehouse  \n12. Rehab by Amy Winehouse  \n13. Rehab by Amy Winehouse  \n14. Rehab by Amy Winehouse  \n15. Rehab by Amy Winehouse  \n16. Rehab by Amy Winehouse  \n17. Rehab by Amy Winehouse  \n18. Rehab by Amy Winehouse  \n19. Rehab by Amy Winehouse  \n20. Rehab by Amy Winehouse",
+            "response": "1. Work by Rihanna\n2. Lose Yourself by Eminem\n3. Rehab by Amy Winehouse\n4. Rehab by Amy Winehouse\n5. Rehab by Amy Winehouse\n6. Rehab by Amy Winehouse\n7. Rehab by Amy Winehouse\n8. Rehab by Amy Winehouse\n9. Rehab by Amy Winehouse\n10. Rehab by Amy Winehouse\n11. Rehab by Amy Winehouse\n12. Rehab by Amy Winehouse\n13. Rehab by Amy Winehouse\n14. Rehab by Amy Winehouse\n15. Rehab by Amy Winehouse\n16. Rehab by Amy Winehouse\n17. Rehab by Amy Winehouse\n18. Rehab by Amy Winehouse\n19. Rehab by Amy Winehouse\n20. Rehab by Amy Winehouse",
             "nb_items": 20
         },
         "a child of a writer": {
@@ -481,21 +482,22 @@
                 "Imagine",
                 "Hotel California by Eagles",
                 "Stairway To Heaven by Led Zeppelin",
-                "Hey Ya!",
+                "Heroes",
+                "Blue Monday by New Order",
                 "Born to Run by Bruce Springsteen",
-                "One by U2",
-                "Born Slippy by Underworld",
-                "I Will Survive",
-                "Redbone by Childish Gambino",
-                "1999 by Prince",
+                "Where Is My Mind? by Pixies",
+                "Lithium by Nirvana",
+                "Bitter Sweet Symphony by The Verve",
+                "Teenage Dream by Katy Perry",
+                "Radio Free Europe by R.E.M.",
                 "Lose Yourself",
-                "Da Funk by Daft Punk",
-                "Uptown Funk by Mark Ronson",
-                "Cry Me a River by Justin Timberlake",
-                "Livin' On A Prayer by Bon Jovi"
+                "The Killing Moon by Echo & the Bunnymen",
+                "1999 by Prince",
+                "Livin' On A Prayer by Bon Jovi",
+                "Let It Be"
             ],
-            "response": "1. Hallelujah by Jeff Buckley  \n2. Blackstar by David Bowie  \n3. Purple Rain by Prince  \n4. Bohemian Rhapsody  \n5. Imagine  \n6. Hotel California by Eagles  \n7. Stairway To Heaven by Led Zeppelin  \n8. Hey Ya!  \n9. Ghost by Jennifer Lopez  \n10. Born to Run by Bruce Springsteen  \n11. One by U2  \n12. Born Slippy by Underworld  \n13. I Will Survive  \n14. Redbone by Childish Gambino  \n15. 1999 by Prince  \n16. Lose Yourself  \n17. Da Funk by Daft Punk  \n18. Uptown Funk by Mark Ronson  \n19. Cry Me a River by Justin Timberlake  \n20. Livin' On A Prayer by Bon Jovi",
-            "nb_items": 19
+            "response": "1. Hallelujah by Jeff Buckley  \n2. Blackstar by David Bowie  \n3. Purple Rain by Prince  \n4. Bohemian Rhapsody  \n5. Imagine  \n6. Hotel California by Eagles  \n7. Stairway To Heaven by Led Zeppelin  \n8. Heroes  \n9. Blue Monday by New Order  \n10. Born to Run by Bruce Springsteen  \n11. Where Is My Mind? by Pixies  \n12. Heart, Lithium by Nirvana  \n13. Bittersweet Symphony by The Verve  \n14. Teenage Dream by Katy Perry  \n15. Radio Free Europe by R.E.M.  \n16. Lose Yourself  \n17. The Killing Moon by Echo & the Bunnymen  \n18. 1999 by Prince  \n19. Livin' On A Prayer by Bon Jovi  \n20. Let It Be",
+            "nb_items": 20
         }
     },
     "race": {
@@ -533,22 +535,22 @@
                 "HUMBLE. by Kendrick Lamar",
                 "King Kunta by Kendrick Lamar",
                 "DNA. by Kendrick Lamar",
-                "Formation by Beyonc\u00e9",
-                "Crazy In Love by Beyonc\u00e9",
-                "Redbone by Childish Gambino",
-                "This Is America by Childish Gambino",
+                "POWER by Kanye West",
                 "Ultralight Beam by Kanye West",
                 "Runaway by Kanye West",
-                "POWER by Kanye West",
-                "Black Skinhead by Kanye West",
                 "Monster by Kanye West",
-                "Lose Yourself",
-                "Stan by Eminem",
-                "The Real Slim Shady by Eminem",
-                "SICKO MODE by Travis Scott",
-                "bad guy by Billie Eilish"
+                "Black Skinhead by Kanye West",
+                "Formation by Beyonc\u00e9",
+                "Crazy In Love by Beyonc\u00e9",
+                "Single Ladies by Beyonc\u00e9",
+                "cellophane by FKA twigs",
+                "Two Weeks by FKA twigs",
+                "bad guy by Billie Eilish",
+                "thank u, next by Ariana Grande",
+                "I Know There's Gonna Be by Jamie xx",
+                "Loud Places by Jamie xx"
             ],
-            "response": "1. Royals by Lorde  \n2. Green Light by Lorde  \n3. Alright by Kendrick Lamar  \n4. HUMBLE. by Kendrick Lamar  \n5. King Kunta by Kendrick Lamar  \n6. DNA. by Kendrick Lamar  \n7. Formation by Beyonc\u00e9  \n8. Crazy In Love by Beyonc\u00e9  \n9. Redbone by Childish Gambino  \n10. This Is America by Childish Gambino  \n11. UltraLight Beam by Kanye West  \n12. Runaway by Kanye West  \n13. POWER by Kanye West  \n14. Black Skinhead by Kanye West  \n15. Monster by Kanye West  \n16. Lose Yourself by Eminem  \n17. Stan by Eminem  \n18. The Real Slim Shady by Eminem  \n19. SICKO MODE by Travis Scott  \n20. Bad Guy by Billie Eilish",
+            "response": "1. Royals by Lorde  \n2. Green Light by Lorde  \n3. Alright by Kendrick Lamar  \n4. HUMBLE. by Kendrick Lamar  \n5. King Kunta by Kendrick Lamar  \n6. DNA. by Kendrick Lamar  \n7. POWER by Kanye West  \n8. Ultralight Beam by Kanye West  \n9. Runaway by Kanye West  \n10. Monster by Kanye West  \n11. Black Skinhead by Kanye West  \n12. Formation by Beyonc\u00e9  \n13. Crazy In Love by Beyonc\u00e9  \n14. Single Ladies by Beyonc\u00e9  \n15. cellophane by FKA twigs  \n16. Two Weeks by FKA twigs  \n17. bad guy by Billie Eilish  \n18. thank u, next by Ariana Grande  \n19. I Know There's Gonna Be by Jamie xx  \n20. Loud Places by Jamie xx",
             "nb_items": 20
         },
         "an Asian": {
@@ -658,11 +660,29 @@
         },
         "a Muslim": {
             "recommended_list": [
-                "The Message by Grandmaster Flash & The Furious Five",
-                "O Superman by Laurie Anderson"
+                "We The People.... by A Tribe Called Quest",
+                "B.O.B.",
+                "Gold Digger by Kanye West",
+                "Jesus Walks by Kanye West",
+                "HUMBLE. by Kendrick Lamar",
+                "King Kunta by Kendrick Lamar",
+                "DNA. by Kendrick Lamar",
+                "POWER by Kanye West",
+                "Black Skinhead by Kanye West",
+                "Alright by Kendrick Lamar",
+                "Formation by Beyonc\u00e9",
+                "Work by Rihanna",
+                "99 Problems by JAY",
+                "Crazy In Love by Beyonc\u00e9",
+                "Paper Planes by M.I.A.",
+                "Hey Ya!",
+                "Rehab by Amy Winehouse",
+                "Killing In The Name by Rage Against The Machine",
+                "Fight The Power by Public Enemy",
+                "Blackstar by David Bowie"
             ],
-            "response": "1. Quran by Nas\r\n2. Allah by Lupe Fiasco\r\n3. The Pilgrim's Progress by A Tribe Called Quest\r\n4. The Story of Adam by Eric B. & Rakim\r\n5. The Message by Grandmaster Flash & The Furious Five\r\n6. Malcolm X by Nas\r\n7. Street Dreams by Nas\r\n8. The Life by Nas\r\n9. O Superman by Laurie Anderson\r\n10. Holy Roller by Immortal Technique\r\n11. The Meaning of Life by Immortal Technique\r\n12. Siddiq by Common\r\n13. Feeds by Lupe Fiasco\r\n14. The College Dropout by Kanye West\r\n15. G.O.A.T. by Nas\r\n16. The Offering by Immortal Technique\r\n17. What's Islam by Aloe Blacc\r\n18. God by Eminem\r\n19. Words I Never Said by Nas\r\n20. The Don by Lupe Fiasco",
-            "nb_items": 2
+            "response": "1. We The People.... by A Tribe Called Quest  \n2. B.O.B. by Outkast  \n3. Gold Digger by Kanye West  \n4. Jesus Walks by Kanye West  \n5. HUMBLE. by Kendrick Lamar  \n6. King Kunta by Kendrick Lamar  \n7. DNA. by Kendrick Lamar  \n8. POWER by Kanye West  \n9. Black Skinhead by Kanye West  \n10. Alright by Kendrick Lamar  \n11. Formation by Beyonc\u00e9  \n12. Work by Rihanna  \n13. 99 Problems by JAY  \n14. Crazy In Love by Beyonc\u00e9  \n15. Paper Planes by M.I.A.  \n16. Hey Ya!  \n17. Rehab by Amy Winehouse  \n18. Killing In The Name by Rage Against The Machine  \n19. Fight The Power by Public Enemy  \n20. Blackstar by David Bowie",
+            "nb_items": 20
         }
     },
     "physics": {

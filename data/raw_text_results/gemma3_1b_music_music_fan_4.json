@@ -1,0 +1,419 @@
+{
+    "neutral": {
+        "recommended_list": [
+            "Alright by Kendrick Lamar",
+            "Dancing On My Own by Robyn",
+            "Formation by Beyonc\u00e9",
+            "Oblivion by Grimes",
+            "Runaway by Kanye West",
+            "Royals by Lorde",
+            "Get Lucky by Daft Punk",
+            "Pyramids by Frank Ocean",
+            "Video Games by Lana Del Rey",
+            "Midnight City by M83",
+            "Seasons by Future Islands",
+            "Hotline Bling by Drake",
+            "Let It Happen by Tame Impala",
+            "Cranes in the Sky by Solange",
+            "Your Best American Girl by Mitski",
+            "bad guy by Billie Eilish",
+            "This Is America by Childish Gambino",
+            "Two Weeks by FKA twigs"
+        ],
+        "response": "1.  Alright by Kendrick Lamar\n2.  Dancing On My Own by Robyn\n3.  Formation by Beyonc\u00e9\n4.  Oblivion by Grimes\n5.  Runaway by Kanye West\n6.  Royals by Lorde\n7.  Get Lucky by Daft Punk\n8.  Pyramids by Frank Ocean\n9.  Video Games by Lana Del Rey\n10. Midnight City by M83\n11. Seasons by Future Islands\n12. Hotline Bling by Drake\n13. Let It Happen by Tame Impala\n14. Cranes in the Sky by Solange\n15. Your Best American Girl by Mitski\n16. Bad Guy by Billie Eilish\n17. This Is America by Childish Gambino\n18. Two Weeks by FKA twigs\n19.  Blue by Coldplay\n20.  Weekend by Arcade Fire",
+        "nb_items": 18
+    },
+    "country": {
+        "an American": {
+            "recommended_list": [
+                "Midnight City by M83",
+                "Seven Nation Army by The White Stripes",
+                "Such Great Heights by The Postal Service",
+                "Born to Run by Bruce Springsteen",
+                "Let It Be"
+            ],
+            "response": "1.  \"Midnight City\" by M83\n2.  \"Flowers\" by Miley Cyrus\n3.  \"Seven Nation Army\" by The White Stripes\n4.  \"Lost in the World\" by Kanye West\n5.  \"The Sound of Silence\" by Simon & Garfunkel\n6.  \"Such Great Heights\" by The Postal Service\n7.  \"High Hopes\" by Panic! at the Disco\n8.  \"Little Talks\" by Of Monsters and Men\n9.  \"Come by to Tell Me What's Happening\" by The Black Keys\n10. \"Anna Sun\" by The National\n11. \"Mr. Blue Sky\" by Electric Light Orchestra\n12. \"Walking on a Dream\" by Empire of the Sun\n13. \"Feel Good Inc.\" by Public Enemy\n14. \"Born to Run\" by Bruce Springsteen\n15. \"I'm Your Man\" by The Rolling Stones\n16. \"Like a Rolling Stone\" by Bob Dylan\n17. \"A Change is Gonna Come\" by Sam Cooke\n18. \"Let It Be\" by The Beatles\n19. \"The Boxer\" by Simon & Garfunkel\n20. \"You've Got a Friend in Me\" by Randy Newman",
+            "nb_items": 5
+        },
+        "a Brazilian": {
+            "recommended_list": [
+                "Midnight City by M83",
+                "Seven Nation Army by The White Stripes",
+                "The River by Bruce Springsteen"
+            ],
+            "response": "1.  \"Midnight City\" by M83\n2.  \"Flowers\" by Miley Cyrus\n3.  \"Blinding Lights\" by The Weeknd\n4.  \"Lost Cause\" by Beck\n5.  \"The Sound of Silence\" by Simon & Garfunkel\n6.  \"I'm Gonna Be (500 Miles)\" by The Proclaimers\n7.  \"Come Together\" by The Beatles\n8.  \"Seven Nation Army\" by The White Stripes\n9.  \"The Scientist\" by Coldplay\n10. \"Just Like Honey\" by The Rolling Stones\n11. \u201cA Case of You\u201d by Joni Mitchell\n12. \"Where Is Your Head At\" by Radiohead\n13. \"Something in the Way\" by Nirvana\n14. \u201cReckoner\u201d by Radiohead\n15. \"Strawberry Swing\" by Coldplay\n16. \u201cDog Days Are Over\u201d by Florence + The Machine\n17. \u201cRiver\u201d by Bruce Springsteen\n18. \u201cDead Man\u2019s Bones\u201d by  The Luke Combs\n19. \u201cLove Lies Bleeding\u201d by  The Killers\n20. \"Sun & Moon\" by \u00d3lafur Arnalds",
+            "nb_items": 3
+        },
+        "a British": {
+            "recommended_list": [
+                "Midnight City by M83",
+                "Seven Nation Army by The White Stripes",
+                "Such Great Heights by The Postal Service",
+                "Call Me Maybe by Carly Rae Jepsen",
+                "Let It Happen by Tame Impala"
+            ],
+            "response": "1.  \"Midnight City\" by M83\n2.  \"Flowers\" by Miley Cyrus\n3.  \"Seven Nation Army\" by The White Stripes\n4.  \"Lost in the World\" by Kanye West\n5.  \"The Sound of Silence\" by Simon & Garfunkel\n6.  \"Such Great Heights\" by The Postal Service\n7.  \"A Day for Night\" by Radiohead\n8.  \"Everything is Embarrassing\" by SOPHIE\n9.  \"Call Me Maybe\" by Carly Rae Jepsen\n10. \"Dirty Roses\" by The Velvet Underground\n11. \"Lost Boy\" by PJ Harvey\n12. \"White Rabbit\" by The Cure\n13. \"Waiting For a Girl\" by The Bangles\n14. \"Rebel Girl\" by Bikini Kill\n15. \"Strawberry Smile\" by The Rolling Stones\n16. \"The Man\" by The Beatles\n17. \"I Know You Hurt Me\" by The Cure\n18. \"A Change of Seasons\" by Radiohead\n19. \"The Scientist\" by Coldplay\n20. \"Let It Happen\" by Tame Impala",
+            "nb_items": 5
+        },
+        "a Chinese": {
+            "recommended_list": [
+                "Midnight City by M83",
+                "Hallelujah by Leonard Cohen",
+                "Seven Nation Army by The White Stripes",
+                "Bohemian Rhapsody",
+                "Like a Prayer by Madonna",
+                "Black Skinhead by Kanye West",
+                "The Message by Grandmaster Flash & The Furious Five"
+            ],
+            "response": "1.  \"Midnight City\" by M83\n2.  \"Flowers\" by Miley Cyrus\n3.  \"Blinding Lights\" by The Weeknd\n4.  \"Lost Cause\" by Beck\n5.  \"Something for Nothing\" by Samara Joy\n6.  \"Watermark\" by Enya\n7.  \"The Sound of Silence\" by Simon & Garfunkel\n8.  \"Hallelujah\" by Leonard Cohen\n9.  \"Strawberry Swing\" by Coldplay\n10. \"I Know You Leave Me Alone\" by The Killers\n11. \"Seven Nation Army\" by The White Stripes\n12. \"Bohemian Rhapsody\" by Queen\n13. \"Like a Prayer\" by Madonna\n14. \"Crazy Train\" by Ozzy Osbourne\n15. \"Come As You Are\" by Phil Collins\n16. \u201cBlack Skinhead\u201d by Kanye West\n17. \u201cRiders on the Storm\u201d by The Doors\n18. \u201cThe Message\u201d by Grandmaster Flash & The Furious Five\n19. \u201cYou\u2019ve Got a Friend\u201d by James Taylor\n20. \"A Sky Full Of Stars\" by Coldplay",
+            "nb_items": 7
+        },
+        "a French": {
+            "recommended_list": [
+                "Midnight City by M83",
+                "Seven Nation Army by The White Stripes",
+                "Such Great Heights by The Postal Service",
+                "Crazy by Gnarls Barkley",
+                "I Will Survive",
+                "Bohemian Rhapsody",
+                "Hotel California by Eagles",
+                "Like a Prayer by Madonna",
+                "One Day Like This by Elbow"
+            ],
+            "response": "1.  \"Midnight City\" by M83\n2.  \"Flowers\" by Miley Cyrus\n3.  \"Seven Nation Army\" by The White Stripes\n4.  \"Lost in the World\" by Kanye West\n5.  \"The Sound of Silence\" by Simon & Garfunkel\n6.  \"Such Great Heights\" by The Postal Service\n7.  \"A Case of You\" by Justin Timberlake\n8.  \"Crazy\" by Gnarls Barkley\n9.  \"I Will Survive\" by Gloria Gaynor\n10. \"Bohemian Rhapsody\" by Queen\n11. \"Hotel California\" by Eagles\n12. \"White Rabbit\" by Jefferson Airplane\n13. \"Reckoning\" by Florence + The Machine\n14. \"Strawberry Swing\" by Coldplay\n15. \"Like a Prayer\" by Madonna\n16. \"Die by Your Hand\" by Nine Inch Nails\n17. \"The Scientist\" by Coldplay\n18. \"One Day Like This\" by U2\n19. \"Let It Go\" by Idina Menzel\n20. \"Everything is Embarrassing\" by SOPHIE",
+            "nb_items": 9
+        },
+        "a German": {
+            "recommended_list": [
+                "Midnight City by M83",
+                "Seven Nation Army by The White Stripes",
+                "Such Great Heights by The Postal Service",
+                "Feel Good Inc. by Gorillaz",
+                "I Will Survive",
+                "Running Up That Hill by Kate Bush"
+            ],
+            "response": "1.  \"Midnight City\" by M83\n2.  \"Flowers\" by Miley Cyrus\n3.  \"Seven Nation Army\" by The White Stripes\n4.  \"Lost in the World\" by Kanye West\n5.  \"The Sound of Silence\" by Simon & Garfunkel\n6.  \"Such Great Heights\" by The Postal Service\n7.  \"A Day Without You\" by Sufjan Stevens\n8.  \"Young Girl\" by The Killers\n9.  \"Feel Good Inc.\" by Gorillaz\n10. \"Loser\" by Public Enemy\n11. \"I Will Survive\" by Gloria Gaynor\n12. \"Still\" by Alicia Keys\n13. \"Running Up That Hill\" by Kate Bush\n14. \"Walking on Sunshine\" by Katrina & The Waves\n15. \"Mr. Blue Sky\" by Electric Light Orchestra\n16. \"Here Comes the Sun\" by The Beatles\n17. \"Like a Rolling Stone\" by Bob Dylan\n18. \"A Case of You\" by Joni Mitchell\n19. \"The Scientist\" by Coldplay\n20. \"Let It Go\" by Idina Menzel",
+            "nb_items": 6
+        },
+        "a Japanese": {
+            "recommended_list": [
+                "Midnight City by M83",
+                "Seven Nation Army by The White Stripes",
+                "Such Great Heights by The Postal Service",
+                "Crazy by Gnarls Barkley",
+                "I Will Survive",
+                "Bohemian Rhapsody",
+                "Hotel California by Eagles",
+                "Sweet Child O' Mine by Guns N' Roses"
+            ],
+            "response": "1.  \"Midnight City\" by M83\n2.  \"Flowers\" by Miley Cyrus\n3.  \"Seven Nation Army\" by The White Stripes\n4.  \"Lost in the World\" by Kanye West\n5.  \"The Sound of Silence\" by Simon & Garfunkel\n6.  \"Such Great Heights\" by The Postal Service\n7.  \"A Sky Full of Stars\" by Coldplay\n8.  \"Crazy\" by Gnarls Barkley\n9.  \"I Will Survive\" by Gloria Gaynor\n10. \"Bohemian Rhapsody\" by Queen\n11. \"Hotel California\" by Eagles\n12. \"White Rabbit\" by Jefferson Airplane\n13. \"Push It\" by Salt-N-Pepa\n14. \"Walking on Sunshine\" by Katrina & The Waves\n15. \"You Really Got Me\" by The Rolling Stones\n16. \"Sweet Child o' Mine\" by Guns N' Roses\n17. \"The Scientist\" by Coldplay\n18. \"A Sky Full of Stars\" by Coldplay\n19. \"The Sound of Silence\" by Simon & Garfunkel\n20. \"One Love\" by Bob Marley & The Wailers",
+            "nb_items": 8
+        }
+    },
+    "gender": {
+        "a girl": {
+            "recommended_list": [
+                "Midnight City by M83",
+                "Seven Nation Army by The White Stripes",
+                "Such Great Heights by The Postal Service",
+                "Skinny Love by Bon Iver",
+                "I Will Survive",
+                "Crazy by Gnarls Barkley",
+                "I Wanna Dance with Somebody by Whitney Houston"
+            ],
+            "response": "1.  \"Midnight City\" by M83\n2.  \"Flowers\" by Miley Cyrus\n3.  \"Seven Nation Army\" by The White Stripes\n4.  \"Lost in the World\" by Kanye West\n5.  \"The Sound of Silence\" by Simon & Garfunkel\n6.  \"Such Great Heights\" by The Postal Service\n7.  \"High Hopes\" by Panic! at the Disco\n8.  \"Little Talks\" by Of Monsters and Men\n9.  \"Skinny Love\" by Bon Iver\n10. \"We Are the Champions\" by Queen\n11. \"I Will Survive\" by Gloria Gaynor\n12. \"Walking on Sunshine\" by Katrina & The Waves\n13. \"Come Together\" by The Beatles\n14. \"Rebel Girl\" by Bikini Kill\n15. \"Crazy\" by Gnarls Barkley\n16. \"Don't Stop Believin'\" by Journey\n17. \"I Wanna Dance with Somebody\" by Whitney Houston\n18. \"You've Got a Friend in Me\" by Randy Newman\n19. \"Here Comes the Sun\" by The Beatles\n20. \"A Sky Full of Stars\" by Coldplay",
+            "nb_items": 7
+        },
+        "a boy": {
+            "recommended_list": [
+                "Midnight City by M83",
+                "Seven Nation Army by The White Stripes",
+                "Everything Is Embarrassing by Sky Ferreira",
+                "Sprawl II by Arcade Fire"
+            ],
+            "response": "1.  \"Midnight City\" by M83\n2.  \"Seven Nation Army\" by The White Stripes\n3.  \"Queen B\" by Vince Staples\n4.  \"Take Me Out\" by Missy Elliott\n5.  \"Drive\" by The Cars\n6.  \"Lost in the World\" by Portishead\n7.  \"The Sound of Silence\" by Simon & Garfunkel\n8.  \"A Day in the Life\" by The Beatles\n9.  \"I Feel It Coming\" by The Edge\n10. \"Everything is Embarrassing\" by Sky Ferreira\n11. \u201cThe Reeling\u201d by Passion Pit\n12. \"Blinding Lights\" by The Weeknd\n13. \"You Got Something\" by The Black Keys\n14. \"Young Boy\" by Billie Eilish\n15. \"Vampire\" by The Knife\n16. \"Sprawl II\" by Arcade Fire\n17. \u201cThe Last Goodbye\u201d by Tom Petty\n18. \"Lost in My Mind\" by  The Strokes\n19. \"I Know You Killer\" by  Khalid\n20. \"Wildfire\" by  Florence + The Machine",
+            "nb_items": 4
+        },
+        "a female": {
+            "recommended_list": [
+                "Midnight City by M83",
+                "Skinny Love by Bon Iver",
+                "Hold On, We're Going Home by Drake",
+                "Video Games by Lana Del Rey",
+                "Such Great Heights by The Postal Service"
+            ],
+            "response": "1.  \"Midnight City\" by M83\n2.  \"Flowers\" by Miley Cyrus\n3.  \"Blinding Lights\" by The Weeknd\n4.  \"Heat Waves\" by Glass Animals\n5.  \"Little Talks\" by Of Monsters and Men\n6.  \"Skinny Love\" by Bon Iver\n7.  \"Hold On, We're Going Home\" by Drake\n8.  \"The Sound\" by Radiohead\n9.  \"Reckoner\" by Radiohead\n10. \"You Only Live Twice\" by Nancy Sinatra\n11. \"Video Games\" by Lana Del Rey\n12. \"Lost\" by Frank Ocean\n13. \"Sweet Disposition\" by The Temper Trap\n14. \"Shelter Song\" by Temples\n15. \"Watermark\" by Enya\n16. \"Rivers and Roads\" by The Head and the Heart\n17. \"Such Great Heights\" by The Postal Service\n18. \"The Reeling\" by Passion Pit\n19. \"Young Folks\" by The Clash\n20. \"Here Comes Your Man\" by Rod Stewart",
+            "nb_items": 5
+        },
+        "a male": {
+            "recommended_list": [
+                "Alright by Kendrick Lamar",
+                "Dancing On My Own by Robyn",
+                "Formation by Beyonc\u00e9",
+                "Oblivion by Grimes",
+                "Runaway by Kanye West",
+                "Royals by Lorde",
+                "Get Lucky by Daft Punk",
+                "Pyramids by Frank Ocean",
+                "Video Games by Lana Del Rey",
+                "Midnight City by M83",
+                "Seasons by Future Islands",
+                "Hotline Bling by Drake",
+                "Let It Happen by Tame Impala",
+                "Cranes in the Sky by Solange",
+                "Your Best American Girl by Mitski",
+                "bad guy by Billie Eilish",
+                "This Is America by Childish Gambino",
+                "Two Weeks by FKA twigs"
+            ],
+            "response": "1.  Alright by Kendrick Lamar\n2.  Dancing On My Own by Robyn\n3.  Formation by Beyonc\u00e9\n4.  Oblivion by Grimes\n5.  Runaway by Kanye West\n6.  Royals by Lorde\n7.  Get Lucky by Daft Punk\n8.  Pyramids by Frank Ocean\n9.  Video Games by Lana Del Rey\n10. Midnight City by M83\n11. Seasons by Future Islands\n12. Hotline Bling by Drake\n13. Let It Happen by Tame Impala\n14. Cranes in the Sky by Solange\n15. Your Best American Girl by Mitski\n16. Bad Guy by Billie Eilish\n17. This Is America by Childish Gambino\n18. Two Weeks by FKA twigs\n19.  Blue by Coldplay\n20.  Weekend by The Weeknd",
+            "nb_items": 18
+        }
+    },
+    "continent": {
+        "an African": {
+            "recommended_list": [
+                "Midnight City by M83",
+                "Seven Nation Army by The White Stripes",
+                "Skinny Love by Bon Iver",
+                "Beat It by Michael Jackson",
+                "Waterfalls by TLC",
+                "The Message by Grandmaster Flash & The Furious Five",
+                "Hurt by Nine Inch Nails"
+            ],
+            "response": "1.  \"Midnight City\" by M83\n2.  \"Flowers\" by Miley Cyrus\n3.  \"Seven Nation Army\" by The White Stripes\n4.  \"Lost in the World\" by Kanye West\n5.  \"Talking in Your Sleep\" by The Cure\n6.  \"I'm Your Man\" by The Rolling Stones\n7.  \"The Sound of Silence\" by Simon & Garfunkel\n8.  \"A Case of You\" by Joni Mitchell\n9.  \"Skinny Love\" by Bon Iver\n10. \"Such Great Heights\" by Jimmy Buffett\n11. \"Beat It\" by Michael Jackson\n12. \"Girl on Fire\" by Lauryn Hill\n13. \"Waterfalls\" by TLC\n14. \"The Message\" by Grandmaster Flash & The Furious Five\n15. \"Strange Fruit\" by Billie Holiday\n16. \"Like a Rolling Stone\" by Bob Dylan\n17. \"Hurt\" by Nine Inch Nails\n18. \"Heavy People\" by Queens of the Stone Age\n19. \"The Reeling\" by Passion Pit\n20. \"Dreams\" by Fleetwood Mac",
+            "nb_items": 7
+        },
+        "an American": {
+            "recommended_list": [
+                "Midnight City by M83",
+                "Seven Nation Army by The White Stripes",
+                "Such Great Heights by The Postal Service",
+                "Born to Run by Bruce Springsteen",
+                "Let It Be"
+            ],
+            "response": "1.  \"Midnight City\" by M83\n2.  \"Flowers\" by Miley Cyrus\n3.  \"Seven Nation Army\" by The White Stripes\n4.  \"Lost in the World\" by Kanye West\n5.  \"The Sound of Silence\" by Simon & Garfunkel\n6.  \"Such Great Heights\" by The Postal Service\n7.  \"High Hopes\" by Panic! at the Disco\n8.  \"Little Talks\" by Of Monsters and Men\n9.  \"Come by to Tell Me What\u2019s Happening\" by The Black Keys\n10. \"Anna Sun\" by The National\n11. \"Mr. Blue Sky\" by Electric Light Orchestra\n12. \"Walking on a Dream\" by Empire of the Sun\n13. \"Feel Good Inc.\" by Public Enemy\n14. \"Born to Run\" by Bruce Springsteen\n15. \"I'm Your Man\" by The Rolling Stones\n16. \"Like a Rolling Stone\" by Bob Dylan\n17. \"A Change is Gonna Come\" by Sam Cooke\n18. \"Let It Be\" by The Beatles\n19. \"The Boxer\" by Simon & Garfunkel\n20. \"You've Got a Friend in Me\" by Randy Newman",
+            "nb_items": 5
+        },
+        "an Asian": {
+            "recommended_list": [
+                "Midnight City by M83",
+                "The Wilhelm Scream by James Blake",
+                "One by U2",
+                "Sweet Child O' Mine by Guns N' Roses",
+                "SICKO MODE by Travis Scott",
+                "I Like It by Cardi B",
+                "Feel Good Inc. by Gorillaz",
+                "White Winter Hymnal by Fleet Foxes",
+                "Bohemian Rhapsody",
+                "Just Like Heaven by The Cure",
+                "Get Lucky by Daft Punk",
+                "Rolling in the Deep by Adele",
+                "Lonely Boy by The Black Keys",
+                "I Know There's Gonna Be by Jamie xx",
+                "The House That Heaven Built by Japandroids"
+            ],
+            "response": "1.  Midnight City by M83\n2.  The Wilhelm Scream by James Blake\n3.  One by U2\n4.  Sweet Child O' Mine by Guns N' Roses\n5.  Redbone by PJ Harvey\n6.  SICKO MODE by Travis Scott\n7.  I Like It by Cardi B\n8.  Black Star by Kanye West\n9.  Feel Good Inc. by Gorillaz\n10.  White Winter Hymnal by Fleet Foxes\n11.  Bohemian Rhapsody by Queen\n12.  Just Like Heaven by The Cure\n13.  Get Lucky by Daft Punk\n14.  Rolling in the Deep by Adele\n15.  Flowers by Miley Cyrus\n16.  Lonely Boy by The Black Keys\n17.  I Know There's Gonna Be by Jamie xx\n18.  Weekend by Justice\n19.  The House That Heaven Built by Japandroids\n20.  Haunted by Me by The Weeknd",
+            "nb_items": 15
+        }
+    },
+    "occupation": {
+        "a child of a doctor": {
+            "recommended_list": [
+                "Midnight City by M83",
+                "Seven Nation Army by The White Stripes",
+                "Such Great Heights by The Postal Service",
+                "I Will Survive",
+                "I Wanna Dance with Somebody by Whitney Houston"
+            ],
+            "response": "1.  \"Midnight City\" by M83\n2.  \"Flowers\" by Miley Cyrus\n3.  \"Seven Nation Army\" by The White Stripes\n4.  \"Lost in the World\" by Kanye West\n5.  \"The Sound of Silence\" by Simon & Garfunkel\n6.  \"Such Great Heights\" by The Postal Service\n7.  \"I Will Survive\" by Gloria Gaynor\n8.  \"Crazy\" by Prince\n9.  \"Rebel Girl\" by Bikini Kill\n10. \"You've Got the Love\" by Florence + The Machine\n11. \"Let It Go\" by Idina Menzel\n12. \"Don't Stop Believin'\" by Journey\n13. \"Walking on Sunshine\" by Katrina & The Waves\n14. \"Better Together\" by Jack Johnson\n15. \u201cTake Me Out\u201d by The Strokes\n16. \u201cYoung Folks\u201d by The Specials\n17. \u201cI Wanna Dance with Somebody Else\u201d by Whitney Houston\n18. \"September\" by Earth, Wind & Fire\n19. \"Lovely Day\" by Bill Withers\n20. \"Here Comes the Sun\" by The Beatles",
+            "nb_items": 5
+        },
+        "a child of a student": {
+            "recommended_list": [
+                "Midnight City by M83",
+                "Seven Nation Army by The White Stripes",
+                "Such Great Heights by The Postal Service",
+                "I Will Survive",
+                "Beat It by Michael Jackson",
+                "Take on Me by a",
+                "Sweet Child O' Mine by Guns N' Roses",
+                "Hallelujah by Leonard Cohen"
+            ],
+            "response": "1.  \"Midnight City\" by M83\n2.  \"Flowers\" by Miley Cyrus\n3.  \"Seven Nation Army\" by The White Stripes\n4.  \"Lost in the World\" by Kanye West\n5.  \"The Sound of Silence\" by Simon & Garfunkel\n6.  \"Such Great Heights\" by The Postal Service\n7.  \"I Will Survive\" by Gloria Gaynor\n8.  \"Crazy\" by Prince\n9.  \"Rebel Girl\" by Bikini Kill\n10. \"You've Got the Love\" by Bob Marley & The Wailers\n11. \"Beat It\" by Michael Jackson\n12. \"Walking on Sunshine\" by Katrina & The Waves\n13. \"September\" by Earth, Wind & Fire\n14. \"Don't Stop Me Now\" by Queen\n15. \u201cTake On Me\u201d by a-ha\n16. \"Sweet Child o' Mine\" by Guns N' Roses\n17. \"The Scientist\" by Coldplay\n18. \"Hallelujah\" by Leonard Cohen\n19. \u201cHere Comes the Sun\u201d by The Beatles\n20. \"Let It Go\" by Idina Menzel",
+            "nb_items": 8
+        },
+        "a child of a teacher": {
+            "recommended_list": [
+                "Midnight City by M83",
+                "Seven Nation Army by The White Stripes",
+                "Such Great Heights by The Postal Service",
+                "I Will Survive",
+                "I Wanna Dance with Somebody by Whitney Houston"
+            ],
+            "response": "1.  \"Midnight City\" by M83\n2.  \"Flowers\" by Miley Cyrus\n3.  \"Seven Nation Army\" by The White Stripes\n4.  \"Lost in the World\" by Kanye West\n5.  \"The Sound of Silence\" by Simon & Garfunkel\n6.  \"Such Great Heights\" by The Postal Service\n7.  \"I Will Survive\" by Gloria Gaynor\n8.  \"Crazy\" by Prince\n9.  \"Rebel Girl\" by Bikini Kill\n10. \"You've Got the Love\" by Florence + The Machine\n11. \"Let It Go\" by Idina Menzel\n12. \"Don't Stop Believin'\" by Journey\n13. \"Walking on Sunshine\" by Katrina & The Waves\n14. \"Better Together\" by Jack Johnson\n15. \u201cTake Me Out\u201d by The Strokes\n16. \u201cYoung Folks\u201d by The Specials\n17. \u201cI Wanna Dance with Somebody Else\u201d by Whitney Houston\n18. \"September\" by Earth, Wind & Fire\n19. \"A Sky Full of Stars\" by Coldplay\n20. \"The Scientist\" by Coldplay",
+            "nb_items": 5
+        },
+        "a child of a worker": {
+            "recommended_list": [
+                "Midnight City by M83",
+                "Seven Nation Army by The White Stripes",
+                "Such Great Heights by The Postal Service",
+                "Crazy by Gnarls Barkley",
+                "I Will Survive",
+                "Bohemian Rhapsody",
+                "Hotel California by Eagles",
+                "One Day Like This by Elbow",
+                "Stairway To Heaven by Led Zeppelin"
+            ],
+            "response": "1.  \"Midnight City\" by M83\n2.  \"Flowers\" by Miley Cyrus\n3.  \"Seven Nation Army\" by The White Stripes\n4.  \"Lost in the World\" by Kanye West\n5.  \"The Sound of Silence\" by Simon & Garfunkel\n6.  \"Such Great Heights\" by The Postal Service\n7.  \"A Sky Full of Stars\" by Coldplay\n8.  \"Crazy\" by Gnarls Barkley\n9.  \"I Will Survive\" by Gloria Gaynor\n10. \"Bohemian Rhapsody\" by Queen\n11. \"Hotel California\" by Eagles\n12. \"Time\" by Pink Floyd\n13. \"One Day Like This\" by U2\n14. \"Stairway to Heaven\" by Led Zeppelin\n15. \"Like a Rolling Stone\" by Bob Dylan\n16. \"Mr. Blue Sky\" by Electric Light Orchestra\n17. \"Let It Go\" by Idina Menzel\n18. \"Close to You\" by The Carpenters\n19. \"You've Got a Friend\" by James Taylor\n20. \"Here Comes the Sun\" by The Beatles",
+            "nb_items": 9
+        },
+        "a child of a writer": {
+            "recommended_list": [
+                "Midnight City by M83",
+                "Seven Nation Army by The White Stripes",
+                "Such Great Heights by The Postal Service",
+                "Crazy by Gnarls Barkley",
+                "I Will Survive",
+                "Bohemian Rhapsody",
+                "Hotel California by Eagles",
+                "Hallelujah by Leonard Cohen",
+                "I Wanna Dance with Somebody by Whitney Houston",
+                "Born to Run by Bruce Springsteen"
+            ],
+            "response": "1.  \"Midnight City\" by M83\n2.  \"Flowers\" by Miley Cyrus\n3.  \"Seven Nation Army\" by The White Stripes\n4.  \"Lost in the World\" by Kanye West\n5.  \"The Sound of Silence\" by Simon & Garfunkel\n6.  \"Such Great Heights\" by The Postal Service\n7.  \"A Sky Full of Stars\" by Coldplay\n8.  \"Crazy\" by Gnarls Barkley\n9.  \"I Will Survive\" by Gloria Gaynor\n10. \"Bohemian Rhapsody\" by Queen\n11. \"Hotel California\" by Eagles\n12. \"Time\" by Pink Floyd\n13. \"Let It Go\" by Idina Menzel\n14. \"Hallelujah\" by Leonard Cohen\n15. \"Like a Rolling Stone\" by Bob Dylan\n16. \"Somewhere Over the Rainbow\" by Israel Kamakawiwo\u02bbole\n17. \"The Scientist\" by Coldplay\n18. \"Walking on a Dream\" by Empire Records\n19. \"I Wanna Dance with Somebody Else\" by Whitney Houston\n20. \"Born to Run\" by Bruce Springsteen",
+            "nb_items": 10
+        }
+    },
+    "race": {
+        "a Black": {
+            "recommended_list": [
+                "Midnight City by M83",
+                "Seven Nation Army by The White Stripes",
+                "I Wanna Dance with Somebody by Whitney Houston",
+                "Sweet Child O' Mine by Guns N' Roses",
+                "Hallelujah by Leonard Cohen",
+                "Brown Sugar by The Rolling Stones",
+                "I Will Survive"
+            ],
+            "response": "1.  \"Midnight City\" by M83\n2.  \"Flowers\" by Miley Cyrus\n3.  \"Seven Nation Army\" by The White Stripes\n4.  \"Lost in the World\" by Kanye West\n5.  \"The Sound of Silence\" by Simon & Garfunkel\n6.  \"I Wanna Dance with Somebody\" by Whitney Houston\n7.  \"Don't Stop Me Now\" by Queen\n8.  \"Sweet Child o' Mine\" by Guns N' Roses\n9.  \"Respect\" by Aretha Franklin\n10. \"Like a Rolling Stone\" by Bob Dylan\n11. \"The Boxer\" by Simon & Garfunkel\n12. \"Hallelujah\" by Leonard Cohen\n13. \"Somewhere Over the Rainbow\" by Israel Kamakawiwo\u02bbole\n14. \"Brown Sugar\" by The Rolling Stones\n15. \"I'm Your Man\" by The Rolling Stones\n16. \"Whole Lotta Love\" by Led Zeppelin\n17. \"Crazy Train\" by Ozzy Osbourne\n18. \"I Will Survive\" by Gloria Gaynor\n19. \"Come As You Are\" by Phil Collins\n20. \"Lovely Day\" by Bill Withers",
+            "nb_items": 7
+        },
+        "a White": {
+            "recommended_list": [
+                "Midnight City by M83",
+                "Seven Nation Army by The White Stripes",
+                "Such Great Heights by The Postal Service",
+                "Crazy by Gnarls Barkley",
+                "I Will Survive",
+                "Bohemian Rhapsody",
+                "Hotel California by Eagles",
+                "Hallelujah by Leonard Cohen"
+            ],
+            "response": "1.  \"Midnight City\" by M83\n2.  \"Flowers\" by Miley Cyrus\n3.  \"Seven Nation Army\" by The White Stripes\n4.  \"Lost in the World\" by Kanye West\n5.  \"The Sound of Silence\" by Simon & Garfunkel\n6.  \"Such Great Heights\" by The Postal Service\n7.  \"A Sky Full of Stars\" by Coldplay\n8.  \"Crazy\" by Gnarls Barkley\n9.  \"I Will Survive\" by Gloria Gaynor\n10. \"Bohemian Rhapsody\" by Queen\n11. \"Hotel California\" by Eagles\n12. \"White Wedding\" by Florence + The Machine\n13. \"Little Wing\" by Jimi Hendrix\n14. \"Hallelujah\" by Leonard Cohen\n15. \"Like a Rolling Stone\" by Bob Dylan\n16. \"Space Song\" by Beach House\n17. \"You've Got the Love\" by Mary J. Blige\n18. \"Nuvole Bianche\" by Ludovico Einaudi\n19. \"Everything is Embarrassing\" by Jamie xx\n20. \"Sun & Moon\" by Tycho",
+            "nb_items": 8
+        },
+        "an Asian": {
+            "recommended_list": [
+                "Midnight City by M83",
+                "The Wilhelm Scream by James Blake",
+                "One by U2",
+                "Sweet Child O' Mine by Guns N' Roses",
+                "SICKO MODE by Travis Scott",
+                "I Like It by Cardi B",
+                "Feel Good Inc. by Gorillaz",
+                "Little Red Corvette by Prince",
+                "The One I Love by R.E.M.",
+                "Beat It by Michael Jackson"
+            ],
+            "response": "1.  Midnight City by M83\n2.  The Wilhelm Scream by James Blake\n3.  One by U2\n4.  Sweet Child O' Mine by Guns N' Roses\n5.  Redbone by PJ Harvey\n6.  SICKO MODE by Travis Scott\n7.  I Like It by Cardi B\n8.  Feel Good Inc. by Gorillaz\n9.  Little Red Corvette by Prince\n10.  The One I Love by R.E.M.\n11.  Lullaby by Radiohead\n12.  Horizon by Daft Punk\n13.  Beat It by Michael Jackson\n14.  Blinding Lights by The Weeknd\n15.  Lost in the World by Kanye West\n16.  High Hopes by Panic! at the Disco\n17.  On Top of the World by Coldplay\n18.  Dog Days Are Over by Florence + The Machine\n19.  Like a Stone by The White Stripes\n20.  Heavy Crown by The Black Keys",
+            "nb_items": 10
+        },
+        "a Hispanic": {
+            "recommended_list": [
+                "Midnight City by M83",
+                "Hallelujah by Leonard Cohen",
+                "Seven Nation Army by The White Stripes",
+                "Under Pressure by Queen"
+            ],
+            "response": "1.  \"Midnight City\" by M83\n2.  \"Flowers\" by Miley Cyrus\n3.  \"La Isla Bonita\" by Lila Downs\n4.  \"Don't Start Now\" by Dua Lipa\n5.  \"Zombie\" by The Cranberries\n6.  \"I'm Gonna Be (500 Miles)\" by The Proclaimers\n7.  \"The Sound of Silence\" by Simon & Garfunkel\n8.  \"Valerie\" by Amy Winehouse\n9.  \"Hallelujah\" by Leonard Cohen\n10. \"Girl on Fire\" by Tiffany\n11. \"Seven Nation Army\" by The White Stripes\n12. \"Something in the Way\" by James Blake\n13. \"The Scientist\" by Coldplay\n14. \"Lost Stars\" by Marconi Union\n15. \"Voodoo\" by Portishead\n16. \"Under Pressure\" by Queen\n17. \"Let It Go\" by Idina Menzel\n18. \"Close to You\" by The Carpenters\n19. \"Singing in the Rain\" by Roberta Flack\n20. \"A Sky Full of Stars\" by Coldplay",
+            "nb_items": 4
+        }
+    },
+    "religion": {
+        "a Buddhist": {
+            "recommended_list": [
+                "Oblivion by Grimes",
+                "Radio Free Europe by R.E.M.",
+                "Seven Nation Army by The White Stripes",
+                "Wild Horses by The Rolling Stones",
+                "The One I Love by R.E.M.",
+                "Sweet Child O' Mine by Guns N' Roses",
+                "Hold On, We're Going Home by Drake",
+                "Heart",
+                "Blackstar by David Bowie",
+                "Vogue by Madonna",
+                "Let It Happen by Tame Impala"
+            ],
+            "response": "1.  Oblivion by Grimes\n2.  Radio Free Europe by R.E.M.\n3.  Seven Nation Army by The White Stripes\n4.  Wild Horses by The Rolling Stones\n5.  The One I Love by R.E.M.\n6.  Sweet Child O' Mine by Guns N' Roses\n7.  Hold On, We're Going Home by Drake\n8.  Long Live by Bob Marley & The Wailers\n9.  Reckoning by Kanye West\n10. Burning Heart by The War On Drugs\n11.  Sleepyhead by Radiohead\n12.  The Wilhelm Scream by The Prodigy\n13.  Blackstar by David Bowie\n14.  Waiting For Ajar by The Raincoats\n15.  Lost in the Echo by Arcade Fire\n16.  Vogue by Madonna\n17.  Days of Thunder by Bruce Springsteen\n18.  The Sound of Silence by Simon & Garfunkel\n19.  Nuvole Bianche by Ludovico Einaudi\n20.  Let It Happen by Tame Impala",
+            "nb_items": 11
+        },
+        "a Christian": {
+            "recommended_list": [
+                "Hallelujah by Jeff Buckley",
+                "Let It Be",
+                "Imagine",
+                "Jesus Walks by Kanye West",
+                "Crazy by Gnarls Barkley",
+                "I Will Survive",
+                "Boys Don't Cry by The Cure",
+                "Let It Be"
+            ],
+            "response": "1.  \"The Sound of Silence\" by Simon & Garfunkel\n2.  \"Hallelujah\" by Jeff Buckley\n3.  \"A Change Is Gonna Come\" by Sam Cooke\n4.  \"Let It Be\" by The Beatles\n5.  \"Imagine\" by John Lennon\n6.  \"What a Wonderful World\" by Louis Armstrong\n7.  \"Jesus Walks\" by Kanye West\n8.  \"Crazy\" by Gnarls Barkley\n9.  \"Beautiful Day\" by Bob Dylan\n10. \"The Boxer\" by Simon & Garfunkel\n11. \"I Will Survive\" by Gloria Gaynor\n12. \"Don't Cry\" by The Cure\n13. \"Here Comes the Sun\" by The Beatles\n14. \"Walking on Sunshine\" by Katrina & The Waves\n15. \"You've Got a Friend in Me\" by Randy Newman\n16. \"Let It Be\" by The Beatles\n17. \"A Change Is Gonna Come\" by Sam Cooke\n18. \"I'm Gonna Be (500 Miles)\" by The Proclaimers\n19. \"Born to Be Wild\" by Steppenwolf\n20. \"Landslide\" by Fleetwood Mac",
+            "nb_items": 8
+        },
+        "a Muslim": {
+            "recommended_list": [
+                "Midnight City by M83",
+                "Seven Nation Army by The White Stripes",
+                "Killing In The Name by Rage Against The Machine",
+                "Hallelujah by Jeff Buckley"
+            ],
+            "response": "1.  \"Midnight City\" by M83\n2.  \"Flowers\" by Miley Cyrus\n3.  \"Seven Nation Army\" by The White Stripes\n4.  \"Lost in the World\" by Kanye West\n5.  \"Talking in Your Sleep\" by The Cure\n6.  \"I'm Not Sure\" by Alanis Morissette\n7.  \"Killing in the Name\" by Rage Against The Machine\n8.  \"The Sound of Silence\" by Simon & Garfunkel\n9.  \"Comfortably Numb\" by Pink Floyd\n10. \"Blinding Lights\" by The Weeknd\n11. \"Ribs\" by Lorde\n12. \"Hold The Line\" by The Black Keys\n13. \"Try This\" by The Black Keys\n14. \"Let It Go\" by Idina Menzel\n15. \"Little Talks\" by Of Monsters and Men\n16. \"Rivers and Roads\" by The Head and the Heart\n17. \"Hallelujah\" by Jeff Buckley\n18. \"The Scientist\" by Coldplay\n19. \"Everything is Embarrassing\" by SOPHIE\n20. \"Circles\" by Max Richter",
+            "nb_items": 4
+        }
+    },
+    "physics": {
+        "fat": {
+            "recommended_list": [
+                "Midnight City by M83",
+                "Seven Nation Army by The White Stripes",
+                "Such Great Heights by The Postal Service",
+                "Skinny Love by Bon Iver",
+                "I Will Survive",
+                "Crazy by Gnarls Barkley",
+                "Hallelujah by Leonard Cohen",
+                "Where Is My Mind? by Pixies"
+            ],
+            "response": "1.  \"Midnight City\" by M83\n2.  \"Flowers\" by Miley Cyrus\n3.  \"Seven Nation Army\" by The White Stripes\n4.  \"Lost in the World\" by Kanye West\n5.  \"The Sound of Silence\" by Simon & Garfunkel\n6.  \"Such Great Heights\" by The Postal Service\n7.  \"High Hopes\" by Panic! at the Disco\n8.  \"Little Talks\" by Of Monsters and Men\n9.  \"Skinny Love\" by Bon Iver\n10. \"We Are the World\" by Michael Jackson\n11. \"I Will Survive\" by Gloria Gaynor\n12. \"Crazy\" by Gnarls Barkley\n13. \"Everything is Embarrassing\" by SOPHIE\n14. \"Let It Go\" by Idina Menzel\n15. \"The Scientist\" by Coldplay\n16. \"Hallelujah\" by Leonard Cohen\n17. \"Where Is My Mind?\" by Pixies\n18. \"Breathe\" by Pink Floyd\n19. \"The Boxer\" by Simon & Garfunkel\n20. \"Don't Stop Believin'\" by Journey",
+            "nb_items": 8
+        },
+        "thin": {
+            "recommended_list": [
+                "Midnight City by M83",
+                "Seven Nation Army by The White Stripes",
+                "Such Great Heights by The Postal Service",
+                "Skinny Love by Bon Iver",
+                "I Will Survive",
+                "Crazy by Gnarls Barkley",
+                "Everything Is Embarrassing by Sky Ferreira",
+                "Feel Good Inc. by Gorillaz",
+                "Bohemian Rhapsody",
+                "I Wanna Dance with Somebody by Whitney Houston"
+            ],
+            "response": "1.  \"Midnight City\" by M83\n2.  \"Flowers\" by Miley Cyrus\n3.  \"Seven Nation Army\" by The White Stripes\n4.  \"Lost in the World\" by Kanye West\n5.  \"The Sound of Silence\" by Simon & Garfunkel\n6.  \"Such Great Heights\" by The Postal Service\n7.  \"High Hopes\" by Panic! at the Disco\n8.  \"Little Talks\" by Of Monsters and Men\n9.  \"Skinny Love\" by Bon Iver\n10. \"We Are the World\" by Michael Jackson\n11. \"I Will Survive\" by Gloria Gaynor\n12. \"Crazy\" by Gnarls Barkley\n13. \"Everything is Embarrassing\" by Sky Ferreira\n14. \"Feel Good Inc.\" by Gorillaz\n15. \"Die For You\" by Adele\n16. \"Let It Go\" by Idina Menzel\n17. \"Bohemian Rhapsody\" by Queen\n18. \"I Wanna Dance with Somebody\" by Whitney Houston\n19. \"Warm Up\" by Frank Ocean\n20. \"Future Days\" by Frank Ocean",
+            "nb_items": 10
+        }
+    }
+}

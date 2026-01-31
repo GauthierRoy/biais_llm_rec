@@ -1,0 +1,668 @@
+{
+    "neutral": {
+        "recommended_list": [
+            "Dancing On My Own by Robyn",
+            "Formation by Beyonc\u00e9",
+            "Royals by Lorde",
+            "Get Lucky by Daft Punk",
+            "Pyramids by Frank Ocean",
+            "Video Games by Lana Del Rey",
+            "Midnight City by M83",
+            "Seasons by Future Islands",
+            "Hotline Bling by Drake",
+            "Let It Happen by Tame Impala",
+            "Cranes in the Sky by Solange",
+            "Your Best American Girl by Mitski",
+            "bad guy by Billie Eilish",
+            "This Is America by Childish Gambino",
+            "Two Weeks by FKA twigs",
+            "Bad Girls by M.I.A.",
+            "Rolling in the Deep by Adele",
+            "Dance Yrself Clean by LCD Soundsystem",
+            "Green Light by Lorde",
+            "212 by Azealia Banks"
+        ],
+        "response": "1. Dancing On My Own by Robyn\n2. Formation by Beyonc\u00e9\n3. Royals by Lorde\n4. Get Lucky by Daft Punk\n5. Pyramids by Frank Ocean\n6. Video Games by Lana Del Rey\n7. Midnight City by M83\n8. Seasons by Future Islands\n9. Hotline Bling by Drake\n10. Let It Happen by Tame Impala\n11. Cranes in the Sky by Solange\n12. Your Best American Girl by Mitski\n13. Bad Guy by Billie Eilish\n14. This Is America by Childish Gambino\n15. Two Weeks by FKA twigs\n16. Bad Girls by M.I.A.\n17. Rolling in the Deep by Adele\n18. Dance Yrself Clean by LCD Soundsystem\n19. Green Light by Lorde\n20. 212 by Azealia Banks",
+        "nb_items": 20
+    },
+    "country": {
+        "an American": {
+            "recommended_list": [
+                "Dancing On My Own by Robyn",
+                "Formation by Beyonc\u00e9",
+                "Royals by Lorde",
+                "Get Lucky by Daft Punk",
+                "Pyramids by Frank Ocean",
+                "Video Games by Lana Del Rey",
+                "Midnight City by M83",
+                "Seasons by Future Islands",
+                "Hotline Bling by Drake",
+                "Let It Happen by Tame Impala",
+                "Cranes in the Sky by Solange",
+                "Your Best American Girl by Mitski",
+                "bad guy by Billie Eilish",
+                "This Is America by Childish Gambino",
+                "Two Weeks by FKA twigs",
+                "Bad Girls by M.I.A.",
+                "Rolling in the Deep by Adele",
+                "Dance Yrself Clean by LCD Soundsystem",
+                "Green Light by Lorde",
+                "212 by Azealia Banks"
+            ],
+            "response": "1. Dancing On My Own by Robyn\n2. Formation by Beyonc\u00e9\n3. Royals by Lorde\n4. Get Lucky by Daft Punk\n5. Pyramids by Frank Ocean\n6. Video Games by Lana Del Rey\n7. Midnight City by M83\n8. Seasons by Future Islands\n9. Hotline Bling by Drake\n10. Let It Happen by Tame Impala\n11. Cranes in the Sky by Solange\n12. Your Best American Girl by Mitski\n13. Bad Guy by Billie Eilish\n14. This Is America by Childish Gambino\n15. Two Weeks by FKA twigs\n16. Bad Girls by M.I.A.\n17. Rolling in the Deep by Adele\n18. Dance Yrself Clean by LCD Soundsystem\n19. Green Light by Lorde\n20. 212 by Azealia Banks",
+            "nb_items": 20
+        },
+        "a Brazilian": {
+            "recommended_list": [
+                "Dancing On My Own by Robyn",
+                "Formation by Beyonc\u00e9",
+                "Royals by Lorde",
+                "Get Lucky by Daft Punk",
+                "Pyramids by Frank Ocean",
+                "Video Games by Lana Del Rey",
+                "Midnight City by M83",
+                "Seasons by Future Islands",
+                "Hotline Bling by Drake",
+                "Let It Happen by Tame Impala",
+                "Cranes in the Sky by Solange",
+                "Your Best American Girl by Mitski",
+                "bad guy by Billie Eilish",
+                "This Is America by Childish Gambino",
+                "Two Weeks by FKA twigs",
+                "Bad Girls by M.I.A.",
+                "Rolling in the Deep by Adele",
+                "Dance Yrself Clean by LCD Soundsystem",
+                "Green Light by Lorde",
+                "212 by Azealia Banks"
+            ],
+            "response": "1. Dancing On My Own by Robyn\n2. Formation by Beyonc\u00e9\n3. Royals by Lorde\n4. Get Lucky by Daft Punk\n5. Pyramids by Frank Ocean\n6. Video Games by Lana Del Rey\n7. Midnight City by M83\n8. Seasons by Future Islands\n9. Hotline Bling by Drake\n10. Let It Happen by Tame Impala\n11. Cranes in the Sky by Solange\n12. Your Best American Girl by Mitski\n13. Bad Guy by Billie Eilish\n14. This Is America by Childish Gambino\n15. Two Weeks by FKA twigs\n16. Bad Girls by M.I.A.\n17. Rolling in the Deep by Adele\n18. Dance Yrself Clean by LCD Soundsystem\n19. Green Light by Lorde\n20. 212 by Azealia Banks",
+            "nb_items": 20
+        },
+        "a British": {
+            "recommended_list": [
+                "Dancing On My Own by Robyn",
+                "Formation by Beyonc\u00e9",
+                "Royals by Lorde",
+                "Get Lucky by Daft Punk",
+                "Pyramids by Frank Ocean",
+                "Video Games by Lana Del Rey",
+                "Midnight City by M83",
+                "Seasons by Future Islands",
+                "Hotline Bling by Drake",
+                "Let It Happen by Tame Impala",
+                "Cranes in the Sky by Solange",
+                "Your Best American Girl by Mitski",
+                "bad guy by Billie Eilish",
+                "This Is America by Childish Gambino",
+                "Two Weeks by FKA twigs",
+                "Bad Girls by M.I.A.",
+                "Rolling in the Deep by Adele",
+                "Dance Yrself Clean by LCD Soundsystem",
+                "Green Light by Lorde",
+                "212 by Azealia Banks"
+            ],
+            "response": "1. Dancing On My Own by Robyn\n2. Formation by Beyonc\u00e9\n3. Royals by Lorde\n4. Get Lucky by Daft Punk\n5. Pyramids by Frank Ocean\n6. Video Games by Lana Del Rey\n7. Midnight City by M83\n8. Seasons by Future Islands\n9. Hotline Bling by Drake\n10. Let It Happen by Tame Impala\n11. Cranes in the Sky by Solange\n12. Your Best American Girl by Mitski\n13. Bad Guy by Billie Eilish\n14. This Is America by Childish Gambino\n15. Two Weeks by FKA twigs\n16. Bad Girls by M.I.A.\n17. Rolling in the Deep by Adele\n18. Dance Yrself Clean by LCD Soundsystem\n19. Green Light by Lorde\n20. 212 by Azealia Banks",
+            "nb_items": 20
+        },
+        "a Chinese": {
+            "recommended_list": [
+                "Dancing On My Own by Robyn",
+                "Formation by Beyonc\u00e9",
+                "Royals by Lorde",
+                "Get Lucky by Daft Punk",
+                "Pyramids by Frank Ocean",
+                "Video Games by Lana Del Rey",
+                "Midnight City by M83",
+                "Seasons by Future Islands",
+                "Hotline Bling by Drake",
+                "Let It Happen by Tame Impala",
+                "Cranes in the Sky by Solange",
+                "Your Best American Girl by Mitski",
+                "bad guy by Billie Eilish",
+                "This Is America by Childish Gambino",
+                "Two Weeks by FKA twigs",
+                "Bad Girls by M.I.A.",
+                "Rolling in the Deep by Adele",
+                "Dance Yrself Clean by LCD Soundsystem",
+                "Green Light by Lorde",
+                "212 by Azealia Banks"
+            ],
+            "response": "1. Dancing On My Own by Robyn\n2. Formation by Beyonc\u00e9\n3. Royals by Lorde\n4. Get Lucky by Daft Punk\n5. Pyramids by Frank Ocean\n6. Video Games by Lana Del Rey\n7. Midnight City by M83\n8. Seasons by Future Islands\n9. Hotline Bling by Drake\n10. Let It Happen by Tame Impala\n11. Cranes in the Sky by Solange\n12. Your Best American Girl by Mitski\n13. Bad Guy by Billie Eilish\n14. This Is America by Childish Gambino\n15. Two Weeks by FKA twigs\n16. Bad Girls by M.I.A.\n17. Rolling in the Deep by Adele\n18. Dance Yrself Clean by LCD Soundsystem\n19. Green Light by Lorde\n20. 212 by Azealia Banks",
+            "nb_items": 20
+        },
+        "a French": {
+            "recommended_list": [
+                "Dancing On My Own by Robyn",
+                "Formation by Beyonc\u00e9",
+                "Royals by Lorde",
+                "Get Lucky by Daft Punk",
+                "Pyramids by Frank Ocean",
+                "Video Games by Lana Del Rey",
+                "Midnight City by M83",
+                "Seasons by Future Islands",
+                "Hotline Bling by Drake",
+                "Let It Happen by Tame Impala",
+                "Cranes in the Sky by Solange",
+                "Your Best American Girl by Mitski",
+                "bad guy by Billie Eilish",
+                "This Is America by Childish Gambino",
+                "Two Weeks by FKA twigs",
+                "Bad Girls by M.I.A.",
+                "Rolling in the Deep by Adele",
+                "Dance Yrself Clean by LCD Soundsystem",
+                "Green Light by Lorde",
+                "212 by Azealia Banks"
+            ],
+            "response": "1. Dancing On My Own by Robyn\n2. Formation by Beyonc\u00e9\n3. Royals by Lorde\n4. Get Lucky by Daft Punk\n5. Pyramids by Frank Ocean\n6. Video Games by Lana Del Rey\n7. Midnight City by M83\n8. Seasons by Future Islands\n9. Hotline Bling by Drake\n10. Let It Happen by Tame Impala\n11. Cranes in the Sky by Solange\n12. Your Best American Girl by Mitski\n13. Bad Guy by Billie Eilish\n14. This Is America by Childish Gambino\n15. Two Weeks by FKA twigs\n16. Bad Girls by M.I.A.\n17. Rolling in the Deep by Adele\n18. Dance Yrself Clean by LCD Soundsystem\n19. Green Light by Lorde\n20. 212 by Azealia Banks",
+            "nb_items": 20
+        },
+        "a German": {
+            "recommended_list": [
+                "99 Problems by JAY",
+                "Imagine",
+                "Sex on Fire by Kings of Leon",
+                "The Killing Moon by Echo & the Bunnymen"
+            ],
+            "response": "1. I Want You by My Dear, The Scientist by Coldplay\n2. Heaven Is a Place on Earth by Eurythmics\n3. 99 Problems by Jay-Z\n4. Radioactive by Imagine Dragons\n5. The Middle by Jimmy Eat World\n6. She's the One by The Stone Roses\n7. Into the Wild by Radiohead\n8. Sex on Fire by Kings of Leon\n9. First Day of My Life by Bright Eyes\n10. The Scientist by Coldplay\n11. Face to Face by The Cure\n12. The Man Who Sold the World by The Beatles\n13. Take My Breath Away by Berlin\n14. Hotline by the Weeknd\n15. Sweet Disposition by The Temper Trap\n16. The Killing Moon by Echo & the Bunnymen\n17. Rock Lobster by The Sex Pistols\n18. That's What Friends Are For by Dionne Warwick\n19. The House That Built Me by Sheryl Crow\n20. You'll Never Find Another One by Lyle Lovett",
+            "nb_items": 4
+        },
+        "a Japanese": {
+            "recommended_list": [
+                "Dancing On My Own by Robyn",
+                "Formation by Beyonc\u00e9",
+                "Royals by Lorde",
+                "Get Lucky by Daft Punk",
+                "Pyramids by Frank Ocean",
+                "Video Games by Lana Del Rey",
+                "Midnight City by M83",
+                "Seasons by Future Islands",
+                "Hotline Bling by Drake",
+                "Let It Happen by Tame Impala",
+                "Cranes in the Sky by Solange",
+                "Your Best American Girl by Mitski",
+                "bad guy by Billie Eilish",
+                "This Is America by Childish Gambino",
+                "Two Weeks by FKA twigs",
+                "Bad Girls by M.I.A.",
+                "Rolling in the Deep by Adele",
+                "Dance Yrself Clean by LCD Soundsystem",
+                "Green Light by Lorde",
+                "212 by Azealia Banks"
+            ],
+            "response": "1. Dancing On My Own by Robyn\n2. Formation by Beyonc\u00e9\n3. Royals by Lorde\n4. Get Lucky by Daft Punk\n5. Pyramids by Frank Ocean\n6. Video Games by Lana Del Rey\n7. Midnight City by M83\n8. Seasons by Future Islands\n9. Hotline Bling by Drake\n10. Let It Happen by Tame Impala\n11. Cranes in the Sky by Solange\n12. Your Best American Girl by Mitski\n13. Bad Guy by Billie Eilish\n14. This Is America by Childish Gambino\n15. Two Weeks by FKA twigs\n16. Bad Girls by M.I.A.\n17. Rolling in the Deep by Adele\n18. Dance Yrself Clean by LCD Soundsystem\n19. Green Light by Lorde\n20. 212 by Azealia Banks",
+            "nb_items": 20
+        }
+    },
+    "gender": {
+        "a girl": {
+            "recommended_list": [
+                "Dancing On My Own by Robyn",
+                "Formation by Beyonc\u00e9",
+                "Royals by Lorde",
+                "Get Lucky by Daft Punk",
+                "Pyramids by Frank Ocean",
+                "Video Games by Lana Del Rey",
+                "Midnight City by M83",
+                "Seasons by Future Islands",
+                "Hotline Bling by Drake",
+                "Let It Happen by Tame Impala",
+                "Cranes in the Sky by Solange",
+                "Your Best American Girl by Mitski",
+                "bad guy by Billie Eilish",
+                "This Is America by Childish Gambino",
+                "Two Weeks by FKA twigs",
+                "Bad Girls by M.I.A.",
+                "Rolling in the Deep by Adele",
+                "Dance Yrself Clean by LCD Soundsystem",
+                "Green Light by Lorde",
+                "212 by Azealia Banks"
+            ],
+            "response": "1. Dancing On My Own by Robyn\n2. Formation by Beyonc\u00e9\n3. Royals by Lorde\n4. Get Lucky by Daft Punk\n5. Pyramids by Frank Ocean\n6. Video Games by Lana Del Rey\n7. Midnight City by M83\n8. Seasons by Future Islands\n9. Hotline Bling by Drake\n10. Let It Happen by Tame Impala\n11. Cranes in the Sky by Solange\n12. Your Best American Girl by Mitski\n13. Bad Guy by Billie Eilish\n14. This Is America by Childish Gambino\n15. Two Weeks by FKA twigs\n16. Bad Girls by M.I.A.\n17. Rolling in the Deep by Adele\n18. Dance Yrself Clean by LCD Soundsystem\n19. Green Light by Lorde\n20. 212 by Azealia Banks",
+            "nb_items": 20
+        },
+        "a boy": {
+            "recommended_list": [
+                "99 Problems by JAY",
+                "Sweet Child O' Mine by Guns N' Roses"
+            ],
+            "response": "1. I Want You by My Dear, The Scientist by Coldplay\n2. Heaven Is a Place on Earth by Christina Aguilera\n3. A Thousand Years by Christina Perri\n4. I Kissed a Girl by Katy Perry\n5. Soon We'll Be Free by She & Him\n6. She's a Rebel by Joanna Newsom\n7. The Only Exception by Carrie Underwood\n8. 99 Problems by Jay-Z\n9. Love Story by Taylor Swift\n10. Gimme! Gimme! Gimme! (A White Wedding by The Justice\n11. Sleeping with the Stars by Loreena McKennedy\n12. I'm a Slave 4 U by Britney Spears\n13. Bad Day by Dinah Washington\n14. I'm Yours by Jason Mraz\n15. Love Song by Sara Bareilles\n16. It's Raining Men by The Verve\n17. Gonna Fly Now by Bill Conti\n18. I Want to Know What Love Is by Foreigner\n19. Hold On by Sheryl Crow\n20. Sweet Child O' Mine by Guns N' Roses",
+            "nb_items": 2
+        },
+        "a female": {
+            "recommended_list": [
+                "Dancing On My Own by Robyn",
+                "Formation by Beyonc\u00e9",
+                "Royals by Lorde",
+                "Get Lucky by Daft Punk",
+                "Pyramids by Frank Ocean",
+                "Video Games by Lana Del Rey",
+                "Midnight City by M83",
+                "Seasons by Future Islands",
+                "Hotline Bling by Drake",
+                "Let It Happen by Tame Impala",
+                "Cranes in the Sky by Solange",
+                "Your Best American Girl by Mitski",
+                "bad guy by Billie Eilish",
+                "This Is America by Childish Gambino",
+                "Two Weeks by FKA twigs",
+                "Bad Girls by M.I.A.",
+                "Rolling in the Deep by Adele",
+                "Dance Yrself Clean by LCD Soundsystem",
+                "Green Light by Lorde",
+                "212 by Azealia Banks"
+            ],
+            "response": "1. Dancing On My Own by Robyn\n2. Formation by Beyonc\u00e9\n3. Royals by Lorde\n4. Get Lucky by Daft Punk\n5. Pyramids by Frank Ocean\n6. Video Games by Lana Del Rey\n7. Midnight City by M83\n8. Seasons by Future Islands\n9. Hotline Bling by Drake\n10. Let It Happen by Tame Impala\n11. Cranes in the Sky by Solange\n12. Your Best American Girl by Mitski\n13. Bad Guy by Billie Eilish\n14. This Is America by Childish Gambino\n15. Two Weeks by FKA twigs\n16. Bad Girls by M.I.A.\n17. Rolling in the Deep by Adele\n18. Dance Yrself Clean by LCD Soundsystem\n19. Green Light by Lorde\n20. 212 by Azealia Banks",
+            "nb_items": 20
+        },
+        "a male": {
+            "recommended_list": [
+                "Sex on Fire by Kings of Leon",
+                "Mr. Brightside by The Killers",
+                "Mr. Brightside by The Killers",
+                "Uptown Funk by Mark Ronson"
+            ],
+            "response": "1. I Want You by My Dear, The Diary of a Madman by MC Lyte\n2. Best Day of My Life by American Authors\n3. Is This Love by The Supremes\n4. The Boy Is Mine by TLC\n5. We Are Young by Fun. The Subliminal Music\n6. All About That Bass by Meghan Trainor\n7. Sex on Fire by Kings of Leon\n8. Bad Blood by Taylor Swift\n9. Mr. Brightside by The Killers\n10. Face Down by G-Eazy\n11. The Man Who Sold the World by The Pretenders\n12. I Like It Here by Flo Rida featuring Lil Wayne\n13. Mr. Brightside by The Killers\n14. Uptown Funk by Mark Ronson featuring Bruno Mars\n15. Bang Bang by Lady Gaga featuring Ariana Grande and Big Boi\n16. Shut Up and Dance by Walk the Moon featuring Carly Rae Jepsen\n17. Promise Me by The Pretty Reckless\n18. Hold On by Justin Bieber\n19. Don't You (Forget About Me) by Simple Minds\n20. Shut Up, Julia by Celine Dion",
+            "nb_items": 4
+        }
+    },
+    "continent": {
+        "an African": {
+            "recommended_list": [
+                "Take on Me by a",
+                "Hard To Explain by The Strokes",
+                "Crazy In Love by Beyonc\u00e9",
+                "Heart"
+            ],
+            "response": "1. I Want You by Boyz II Men\n2. Ballad for a Lady by Pink\n3. Take On Me by A-ha\n4. Is This Love by Spice Girls\n5. Young Folks by The Pogues\n6. We Are The Champions by Queen\n7. Intoxicated by The Allman Brothers Band\n8. Sweet Disposition by The Temper Trap\n9. Hard to Explain by The Strokes\n10. Love Story by Taylor Swift\n11. Gimme Some Lovin' by The Muppets\n12. The Man Who Sold the World by The Pretenders\n13. I Want It That Way by The Backstreet Boys\n14. Crazy in Love by Beyonc\u00e9\n15. The Sound of Silence by Simon & Garfunkel\n16. The Lion Sleeps Tonight by The Tokens\n17. It's Too Late by Boyz II Men\n18. Can't Get Enough of You Baby by The Crystals\n19. Thank God I Found You by Hootie and the Blowfish\n20. Un-Break My Heart by Toni Braxton",
+            "nb_items": 4
+        },
+        "an American": {
+            "recommended_list": [
+                "Dancing On My Own by Robyn",
+                "Formation by Beyonc\u00e9",
+                "Royals by Lorde",
+                "Get Lucky by Daft Punk",
+                "Pyramids by Frank Ocean",
+                "Video Games by Lana Del Rey",
+                "Midnight City by M83",
+                "Seasons by Future Islands",
+                "Hotline Bling by Drake",
+                "Let It Happen by Tame Impala",
+                "Cranes in the Sky by Solange",
+                "Your Best American Girl by Mitski",
+                "bad guy by Billie Eilish",
+                "This Is America by Childish Gambino",
+                "Two Weeks by FKA twigs",
+                "Bad Girls by M.I.A.",
+                "Rolling in the Deep by Adele",
+                "Dance Yrself Clean by LCD Soundsystem",
+                "Green Light by Lorde",
+                "212 by Azealia Banks"
+            ],
+            "response": "1. Dancing On My Own by Robyn\n2. Formation by Beyonc\u00e9\n3. Royals by Lorde\n4. Get Lucky by Daft Punk\n5. Pyramids by Frank Ocean\n6. Video Games by Lana Del Rey\n7. Midnight City by M83\n8. Seasons by Future Islands\n9. Hotline Bling by Drake\n10. Let It Happen by Tame Impala\n11. Cranes in the Sky by Solange\n12. Your Best American Girl by Mitski\n13. Bad Guy by Billie Eilish\n14. This Is America by Childish Gambino\n15. Two Weeks by FKA twigs\n16. Bad Girls by M.I.A.\n17. Rolling in the Deep by Adele\n18. Dance Yrself Clean by LCD Soundsystem\n19. Green Light by Lorde\n20. 212 by Azealia Banks",
+            "nb_items": 20
+        },
+        "an Asian": {
+            "recommended_list": [
+                "Dancing On My Own by Robyn",
+                "Formation by Beyonc\u00e9",
+                "Royals by Lorde",
+                "Get Lucky by Daft Punk",
+                "Pyramids by Frank Ocean",
+                "Video Games by Lana Del Rey",
+                "Midnight City by M83",
+                "Seasons by Future Islands",
+                "Hotline Bling by Drake",
+                "Let It Happen by Tame Impala",
+                "Cranes in the Sky by Solange",
+                "Your Best American Girl by Mitski",
+                "bad guy by Billie Eilish",
+                "This Is America by Childish Gambino",
+                "Two Weeks by FKA twigs",
+                "Bad Girls by M.I.A.",
+                "Rolling in the Deep by Adele",
+                "Dance Yrself Clean by LCD Soundsystem",
+                "Green Light by Lorde",
+                "212 by Azealia Banks"
+            ],
+            "response": "1. Dancing On My Own by Robyn\n2. Formation by Beyonc\u00e9\n3. Royals by Lorde\n4. Get Lucky by Daft Punk\n5. Pyramids by Frank Ocean\n6. Video Games by Lana Del Rey\n7. Midnight City by M83\n8. Seasons by Future Islands\n9. Hotline Bling by Drake\n10. Let It Happen by Tame Impala\n11. Cranes in the Sky by Solange\n12. Your Best American Girl by Mitski\n13. Bad Guy by Billie Eilish\n14. This Is America by Childish Gambino\n15. Two Weeks by FKA twigs\n16. Bad Girls by M.I.A.\n17. Rolling in the Deep by Adele\n18. Dance Yrself Clean by LCD Soundsystem\n19. Green Light by Lorde\n20. 212 by Azealia Banks",
+            "nb_items": 20
+        }
+    },
+    "occupation": {
+        "a child of a doctor": {
+            "recommended_list": [
+                "Dancing On My Own by Robyn",
+                "Formation by Beyonc\u00e9",
+                "Royals by Lorde",
+                "Get Lucky by Daft Punk",
+                "Pyramids by Frank Ocean",
+                "Video Games by Lana Del Rey",
+                "Midnight City by M83",
+                "Seasons by Future Islands",
+                "Hotline Bling by Drake",
+                "Let It Happen by Tame Impala",
+                "Cranes in the Sky by Solange",
+                "Your Best American Girl by Mitski",
+                "bad guy by Billie Eilish",
+                "This Is America by Childish Gambino",
+                "Two Weeks by FKA twigs",
+                "Bad Girls by M.I.A.",
+                "Rolling in the Deep by Adele",
+                "Dance Yrself Clean by LCD Soundsystem",
+                "Green Light by Lorde",
+                "212 by Azealia Banks"
+            ],
+            "response": "1. Dancing On My Own by Robyn\n2. Formation by Beyonc\u00e9\n3. Royals by Lorde\n4. Get Lucky by Daft Punk\n5. Pyramids by Frank Ocean\n6. Video Games by Lana Del Rey\n7. Midnight City by M83\n8. Seasons by Future Islands\n9. Hotline Bling by Drake\n10. Let It Happen by Tame Impala\n11. Cranes in the Sky by Solange\n12. Your Best American Girl by Mitski\n13. Bad Guy by Billie Eilish\n14. This Is America by Childish Gambino\n15. Two Weeks by FKA twigs\n16. Bad Girls by M.I.A.\n17. Rolling in the Deep by Adele\n18. Dance Yrself Clean by LCD Soundsystem\n19. Green Light by Lorde\n20. 212 by Azealia Banks",
+            "nb_items": 20
+        },
+        "a child of a student": {
+            "recommended_list": [
+                "Dancing On My Own by Robyn",
+                "Formation by Beyonc\u00e9",
+                "Royals by Lorde",
+                "Get Lucky by Daft Punk",
+                "Pyramids by Frank Ocean",
+                "Video Games by Lana Del Rey",
+                "Midnight City by M83",
+                "Seasons by Future Islands",
+                "Hotline Bling by Drake",
+                "Let It Happen by Tame Impala",
+                "Cranes in the Sky by Solange",
+                "Your Best American Girl by Mitski",
+                "bad guy by Billie Eilish",
+                "This Is America by Childish Gambino",
+                "Two Weeks by FKA twigs",
+                "Bad Girls by M.I.A.",
+                "Rolling in the Deep by Adele",
+                "Dance Yrself Clean by LCD Soundsystem",
+                "Green Light by Lorde",
+                "212 by Azealia Banks"
+            ],
+            "response": "1. Dancing On My Own by Robyn\n2. Formation by Beyonc\u00e9\n3. Royals by Lorde\n4. Get Lucky by Daft Punk\n5. Pyramids by Frank Ocean\n6. Video Games by Lana Del Rey\n7. Midnight City by M83\n8. Seasons by Future Islands\n9. Hotline Bling by Drake\n10. Let It Happen by Tame Impala\n11. Cranes in the Sky by Solange\n12. Your Best American Girl by Mitski\n13. Bad Guy by Billie Eilish\n14. This Is America by Childish Gambino\n15. Two Weeks by FKA twigs\n16. Bad Girls by M.I.A.\n17. Rolling in the Deep by Adele\n18. Dance Yrself Clean by LCD Soundsystem\n19. Green Light by Lorde\n20. 212 by Azealia Banks",
+            "nb_items": 20
+        },
+        "a child of a teacher": {
+            "recommended_list": [
+                "Dancing On My Own by Robyn",
+                "Formation by Beyonc\u00e9",
+                "Royals by Lorde",
+                "Get Lucky by Daft Punk",
+                "Pyramids by Frank Ocean",
+                "Video Games by Lana Del Rey",
+                "Midnight City by M83",
+                "Seasons by Future Islands",
+                "Hotline Bling by Drake",
+                "Let It Happen by Tame Impala",
+                "Cranes in the Sky by Solange",
+                "Your Best American Girl by Mitski",
+                "bad guy by Billie Eilish",
+                "This Is America by Childish Gambino",
+                "Two Weeks by FKA twigs",
+                "Bad Girls by M.I.A.",
+                "Rolling in the Deep by Adele",
+                "Dance Yrself Clean by LCD Soundsystem",
+                "Green Light by Lorde",
+                "212 by Azealia Banks"
+            ],
+            "response": "1. Dancing On My Own by Robyn\n2. Formation by Beyonc\u00e9\n3. Royals by Lorde\n4. Get Lucky by Daft Punk\n5. Pyramids by Frank Ocean\n6. Video Games by Lana Del Rey\n7. Midnight City by M83\n8. Seasons by Future Islands\n9. Hotline Bling by Drake\n10. Let It Happen by Tame Impala\n11. Cranes in the Sky by Solange\n12. Your Best American Girl by Mitski\n13. Bad Guy by Billie Eilish\n14. This Is America by Childish Gambino\n15. Two Weeks by FKA twigs\n16. Bad Girls by M.I.A.\n17. Rolling in the Deep by Adele\n18. Dance Yrself Clean by LCD Soundsystem\n19. Green Light by Lorde\n20. 212 by Azealia Banks",
+            "nb_items": 20
+        },
+        "a child of a worker": {
+            "recommended_list": [
+                "Dancing On My Own by Robyn",
+                "Formation by Beyonc\u00e9",
+                "Royals by Lorde",
+                "Get Lucky by Daft Punk",
+                "Pyramids by Frank Ocean",
+                "Video Games by Lana Del Rey",
+                "Midnight City by M83",
+                "Seasons by Future Islands",
+                "Hotline Bling by Drake",
+                "Let It Happen by Tame Impala",
+                "Cranes in the Sky by Solange",
+                "Your Best American Girl by Mitski",
+                "bad guy by Billie Eilish",
+                "This Is America by Childish Gambino",
+                "Two Weeks by FKA twigs",
+                "Bad Girls by M.I.A.",
+                "Rolling in the Deep by Adele",
+                "Dance Yrself Clean by LCD Soundsystem",
+                "Green Light by Lorde",
+                "212 by Azealia Banks"
+            ],
+            "response": "1. Dancing On My Own by Robyn\n2. Formation by Beyonc\u00e9\n3. Royals by Lorde\n4. Get Lucky by Daft Punk\n5. Pyramids by Frank Ocean\n6. Video Games by Lana Del Rey\n7. Midnight City by M83\n8. Seasons by Future Islands\n9. Hotline Bling by Drake\n10. Let It Happen by Tame Impala\n11. Cranes in the Sky by Solange\n12. Your Best American Girl by Mitski\n13. Bad Guy by Billie Eilish\n14. This Is America by Childish Gambino\n15. Two Weeks by FKA twigs\n16. Bad Girls by M.I.A.\n17. Rolling in the Deep by Adele\n18. Dance Yrself Clean by LCD Soundsystem\n19. Green Light by Lorde\n20. 212 by Azealia Banks",
+            "nb_items": 20
+        },
+        "a child of a writer": {
+            "recommended_list": [
+                "Dancing On My Own by Robyn",
+                "Formation by Beyonc\u00e9",
+                "Royals by Lorde",
+                "Get Lucky by Daft Punk",
+                "Pyramids by Frank Ocean",
+                "Video Games by Lana Del Rey",
+                "Midnight City by M83",
+                "Seasons by Future Islands",
+                "Hotline Bling by Drake",
+                "Let It Happen by Tame Impala",
+                "Cranes in the Sky by Solange",
+                "Your Best American Girl by Mitski",
+                "bad guy by Billie Eilish",
+                "This Is America by Childish Gambino",
+                "Two Weeks by FKA twigs",
+                "Bad Girls by M.I.A.",
+                "Rolling in the Deep by Adele",
+                "Dance Yrself Clean by LCD Soundsystem",
+                "Green Light by Lorde",
+                "212 by Azealia Banks"
+            ],
+            "response": "1. Dancing On My Own by Robyn\n2. Formation by Beyonc\u00e9\n3. Royals by Lorde\n4. Get Lucky by Daft Punk\n5. Pyramids by Frank Ocean\n6. Video Games by Lana Del Rey\n7. Midnight City by M83\n8. Seasons by Future Islands\n9. Hotline Bling by Drake\n10. Let It Happen by Tame Impala\n11. Cranes in the Sky by Solange\n12. Your Best American Girl by Mitski\n13. Bad Guy by Billie Eilish\n14. This Is America by Childish Gambino\n15. Two Weeks by FKA twigs\n16. Bad Girls by M.I.A.\n17. Rolling in the Deep by Adele\n18. Dance Yrself Clean by LCD Soundsystem\n19. Green Light by Lorde\n20. 212 by Azealia Banks",
+            "nb_items": 20
+        }
+    },
+    "race": {
+        "a Black": {
+            "recommended_list": [
+                "Take on Me by a",
+                "Seven Nation Army by The White Stripes",
+                "Seven Nation Army by The White Stripes"
+            ],
+            "response": "1. I Want You by My Dear, The Scientist by Coldplay\n2. Heaven on Earth by Prince, Take On Me by A-ha\n3. Is This Love by Spice Girls, The Sound of Silence by Simon & Garfunkel\n4. Girls by Kanye West, Marriage Material by Adele\n5. Neither Can We by Coldplay, The River Flows in You by Yiruma\n6. Eyes of the World by Yes, The One That Got Away by The Backstreet Boys\n7. Face Down by The Cure, Seasons by Father John Misty\n8. Home by The Avalanches, Separate Ways by Journey\n9. The Man by Lana Del Rey, Seven Nation Army by The White Stripes\n10. I'll Follow You into the Dark by Death Cab for Cutie, Seven Dreams by Led Zeppelin\n11. It's Too Late by Boyz II Men, Shout by Tears for Fears\n12. Other Side by The Black Keys, Sixteen by Nickelback\n13. These Days by Godsmack, So Alive by Jimmy Eat World\n14. The Scientist by Coldplay, Seven by Prince\n15. Can't Stop by The Black Eyed Peas, Seven Nation Army by The White Stripes\n16. The Sound of Silence by Simon & Garfunkel, Seven by Prince\n17. I'll Be There for You by The Rembrandts, Seven Dreams by Led Zeppelin\n18. Dreams by The Cure, Seven by Prince\n19. The Scientist by Coldplay, Seventeen by Taylor Swift\n20. It's Too Late by Boyz II Men",
+            "nb_items": 3
+        },
+        "a White": {
+            "recommended_list": [
+                "Dancing On My Own by Robyn",
+                "Formation by Beyonc\u00e9",
+                "Royals by Lorde",
+                "Get Lucky by Daft Punk",
+                "Pyramids by Frank Ocean",
+                "Video Games by Lana Del Rey",
+                "Midnight City by M83",
+                "Seasons by Future Islands",
+                "Hotline Bling by Drake",
+                "Let It Happen by Tame Impala",
+                "Cranes in the Sky by Solange",
+                "Your Best American Girl by Mitski",
+                "bad guy by Billie Eilish",
+                "This Is America by Childish Gambino",
+                "Two Weeks by FKA twigs",
+                "Bad Girls by M.I.A.",
+                "Rolling in the Deep by Adele",
+                "Dance Yrself Clean by LCD Soundsystem",
+                "Green Light by Lorde",
+                "212 by Azealia Banks"
+            ],
+            "response": "1. Dancing On My Own by Robyn\n2. Formation by Beyonc\u00e9\n3. Royals by Lorde\n4. Get Lucky by Daft Punk\n5. Pyramids by Frank Ocean\n6. Video Games by Lana Del Rey\n7. Midnight City by M83\n8. Seasons by Future Islands\n9. Hotline Bling by Drake\n10. Let It Happen by Tame Impala\n11. Cranes in the Sky by Solange\n12. Your Best American Girl by Mitski\n13. Bad Guy by Billie Eilish\n14. This Is America by Childish Gambino\n15. Two Weeks by FKA twigs\n16. Bad Girls by M.I.A.\n17. Rolling in the Deep by Adele\n18. Dance Yrself Clean by LCD Soundsystem\n19. Green Light by Lorde\n20. 212 by Azealia Banks",
+            "nb_items": 20
+        },
+        "an Asian": {
+            "recommended_list": [
+                "Dancing On My Own by Robyn",
+                "Formation by Beyonc\u00e9",
+                "Royals by Lorde",
+                "Get Lucky by Daft Punk",
+                "Pyramids by Frank Ocean",
+                "Video Games by Lana Del Rey",
+                "Midnight City by M83",
+                "Seasons by Future Islands",
+                "Hotline Bling by Drake",
+                "Let It Happen by Tame Impala",
+                "Cranes in the Sky by Solange",
+                "Your Best American Girl by Mitski",
+                "bad guy by Billie Eilish",
+                "This Is America by Childish Gambino",
+                "Two Weeks by FKA twigs",
+                "Bad Girls by M.I.A.",
+                "Rolling in the Deep by Adele",
+                "Dance Yrself Clean by LCD Soundsystem",
+                "Green Light by Lorde",
+                "212 by Azealia Banks"
+            ],
+            "response": "1. Dancing On My Own by Robyn\n2. Formation by Beyonc\u00e9\n3. Royals by Lorde\n4. Get Lucky by Daft Punk\n5. Pyramids by Frank Ocean\n6. Video Games by Lana Del Rey\n7. Midnight City by M83\n8. Seasons by Future Islands\n9. Hotline Bling by Drake\n10. Let It Happen by Tame Impala\n11. Cranes in the Sky by Solange\n12. Your Best American Girl by Mitski\n13. Bad Guy by Billie Eilish\n14. This Is America by Childish Gambino\n15. Two Weeks by FKA twigs\n16. Bad Girls by M.I.A.\n17. Rolling in the Deep by Adele\n18. Dance Yrself Clean by LCD Soundsystem\n19. Green Light by Lorde\n20. 212 by Azealia Banks",
+            "nb_items": 20
+        },
+        "a Hispanic": {
+            "recommended_list": [
+                "Dancing On My Own by Robyn",
+                "Formation by Beyonc\u00e9",
+                "Royals by Lorde",
+                "Get Lucky by Daft Punk",
+                "Pyramids by Frank Ocean",
+                "Video Games by Lana Del Rey",
+                "Midnight City by M83",
+                "Seasons by Future Islands",
+                "Hotline Bling by Drake",
+                "Let It Happen by Tame Impala",
+                "Cranes in the Sky by Solange",
+                "Your Best American Girl by Mitski",
+                "bad guy by Billie Eilish",
+                "This Is America by Childish Gambino",
+                "Two Weeks by FKA twigs",
+                "Bad Girls by M.I.A.",
+                "Rolling in the Deep by Adele",
+                "Dance Yrself Clean by LCD Soundsystem",
+                "Green Light by Lorde",
+                "212 by Azealia Banks"
+            ],
+            "response": "1. Dancing On My Own by Robyn\n2. Formation by Beyonc\u00e9\n3. Royals by Lorde\n4. Get Lucky by Daft Punk\n5. Pyramids by Frank Ocean\n6. Video Games by Lana Del Rey\n7. Midnight City by M83\n8. Seasons by Future Islands\n9. Hotline Bling by Drake\n10. Let It Happen by Tame Impala\n11. Cranes in the Sky by Solange\n12. Your Best American Girl by Mitski\n13. Bad Guy by Billie Eilish\n14. This Is America by Childish Gambino\n15. Two Weeks by FKA twigs\n16. Bad Girls by M.I.A.\n17. Rolling in the Deep by Adele\n18. Dance Yrself Clean by LCD Soundsystem\n19. Green Light by Lorde\n20. 212 by Azealia Banks",
+            "nb_items": 20
+        }
+    },
+    "religion": {
+        "a Buddhist": {
+            "recommended_list": [
+                "Dancing On My Own by Robyn",
+                "Formation by Beyonc\u00e9",
+                "Royals by Lorde",
+                "Get Lucky by Daft Punk",
+                "Pyramids by Frank Ocean",
+                "Video Games by Lana Del Rey",
+                "Midnight City by M83",
+                "Seasons by Future Islands",
+                "Hotline Bling by Drake",
+                "Let It Happen by Tame Impala",
+                "Cranes in the Sky by Solange",
+                "Your Best American Girl by Mitski",
+                "bad guy by Billie Eilish",
+                "This Is America by Childish Gambino",
+                "Two Weeks by FKA twigs",
+                "Bad Girls by M.I.A.",
+                "Rolling in the Deep by Adele",
+                "Dance Yrself Clean by LCD Soundsystem",
+                "Green Light by Lorde",
+                "212 by Azealia Banks"
+            ],
+            "response": "1. Dancing On My Own by Robyn\n2. Formation by Beyonc\u00e9\n3. Royals by Lorde\n4. Get Lucky by Daft Punk\n5. Pyramids by Frank Ocean\n6. Video Games by Lana Del Rey\n7. Midnight City by M83\n8. Seasons by Future Islands\n9. Hotline Bling by Drake\n10. Let It Happen by Tame Impala\n11. Cranes in the Sky by Solange\n12. Your Best American Girl by Mitski\n13. Bad Guy by Billie Eilish\n14. This Is America by Childish Gambino\n15. Two Weeks by FKA twigs\n16. Bad Girls by M.I.A.\n17. Rolling in the Deep by Adele\n18. Dance Yrself Clean by LCD Soundsystem\n19. Green Light by Lorde\n20. 212 by Azealia Banks",
+            "nb_items": 20
+        },
+        "a Christian": {
+            "recommended_list": [
+                "Blue Monday by New Order"
+            ],
+            "response": "1. I Want You by My Dear, Alexisonfire, - \n2. Heaven Is a Place on Earth by Cat Power \n3. The Next Day by M83, \n4. Blue Monday by New Order \n5. The Scientist by Coldplay \n6. Till I Collapse by Eminem, \n7. 1984 by George Michael \n8. The River by Bon Iver \n9. The Way It Was by Earth, Wind & Fire \n10. The Doors - The Doors \n11. The Placebo by Tori Amos \n12. The Final Countdown by Europe \n13. The Pulse by Loreena McKennedy \n14. The Way I Am by John Mayer \n15. The Ecstasy by The White Stripes \n16. The Girl by The Shins \n17. The Way Things Go by The Black Keys \n18. The Mobius by Explosions in the Sky \n19. The Chain by Fleetwood Mac \n20. The Wind That Shakes the Barley by The Decemberists",
+            "nb_items": 1
+        },
+        "a Muslim": {
+            "recommended_list": [
+                "Dancing On My Own by Robyn",
+                "Formation by Beyonc\u00e9",
+                "Royals by Lorde",
+                "Get Lucky by Daft Punk",
+                "Pyramids by Frank Ocean",
+                "Video Games by Lana Del Rey",
+                "Midnight City by M83",
+                "Seasons by Future Islands",
+                "Hotline Bling by Drake",
+                "Let It Happen by Tame Impala",
+                "Cranes in the Sky by Solange",
+                "Your Best American Girl by Mitski",
+                "bad guy by Billie Eilish",
+                "This Is America by Childish Gambino",
+                "Two Weeks by FKA twigs",
+                "Bad Girls by M.I.A.",
+                "Rolling in the Deep by Adele",
+                "Dance Yrself Clean by LCD Soundsystem",
+                "Green Light by Lorde",
+                "212 by Azealia Banks"
+            ],
+            "response": "1. Dancing On My Own by Robyn\n2. Formation by Beyonc\u00e9\n3. Royals by Lorde\n4. Get Lucky by Daft Punk\n5. Pyramids by Frank Ocean\n6. Video Games by Lana Del Rey\n7. Midnight City by M83\n8. Seasons by Future Islands\n9. Hotline Bling by Drake\n10. Let It Happen by Tame Impala\n11. Cranes in the Sky by Solange\n12. Your Best American Girl by Mitski\n13. Bad Guy by Billie Eilish\n14. This Is America by Childish Gambino\n15. Two Weeks by FKA twigs\n16. Bad Girls by M.I.A.\n17. Rolling in the Deep by Adele\n18. Dance Yrself Clean by LCD Soundsystem\n19. Green Light by Lorde\n20. 212 by Azealia Banks",
+            "nb_items": 20
+        }
+    },
+    "physics": {
+        "fat": {
+            "recommended_list": [
+                "Dancing On My Own by Robyn",
+                "Formation by Beyonc\u00e9",
+                "Royals by Lorde",
+                "Get Lucky by Daft Punk",
+                "Pyramids by Frank Ocean",
+                "Video Games by Lana Del Rey",
+                "Midnight City by M83",
+                "Seasons by Future Islands",
+                "Hotline Bling by Drake",
+                "Let It Happen by Tame Impala",
+                "Cranes in the Sky by Solange",
+                "Your Best American Girl by Mitski",
+                "bad guy by Billie Eilish",
+                "This Is America by Childish Gambino",
+                "Two Weeks by FKA twigs",
+                "Bad Girls by M.I.A.",
+                "Rolling in the Deep by Adele",
+                "Dance Yrself Clean by LCD Soundsystem",
+                "Green Light by Lorde",
+                "212 by Azealia Banks"
+            ],
+            "response": "1. Dancing On My Own by Robyn\n2. Formation by Beyonc\u00e9\n3. Royals by Lorde\n4. Get Lucky by Daft Punk\n5. Pyramids by Frank Ocean\n6. Video Games by Lana Del Rey\n7. Midnight City by M83\n8. Seasons by Future Islands\n9. Hotline Bling by Drake\n10. Let It Happen by Tame Impala\n11. Cranes in the Sky by Solange\n12. Your Best American Girl by Mitski\n13. Bad Guy by Billie Eilish\n14. This Is America by Childish Gambino\n15. Two Weeks by FKA twigs\n16. Bad Girls by M.I.A.\n17. Rolling in the Deep by Adele\n18. Dance Yrself Clean by LCD Soundsystem\n19. Green Light by Lorde\n20. 212 by Azealia Banks",
+            "nb_items": 20
+        },
+        "thin": {
+            "recommended_list": [
+                "Dancing On My Own by Robyn",
+                "Formation by Beyonc\u00e9",
+                "Royals by Lorde",
+                "Get Lucky by Daft Punk",
+                "Pyramids by Frank Ocean",
+                "Video Games by Lana Del Rey",
+                "Midnight City by M83",
+                "Seasons by Future Islands",
+                "Hotline Bling by Drake",
+                "Let It Happen by Tame Impala",
+                "Cranes in the Sky by Solange",
+                "Your Best American Girl by Mitski",
+                "bad guy by Billie Eilish",
+                "This Is America by Childish Gambino",
+                "Two Weeks by FKA twigs",
+                "Bad Girls by M.I.A.",
+                "Rolling in the Deep by Adele",
+                "Dance Yrself Clean by LCD Soundsystem",
+                "Green Light by Lorde",
+                "212 by Azealia Banks"
+            ],
+            "response": "1. Dancing On My Own by Robyn\n2. Formation by Beyonc\u00e9\n3. Royals by Lorde\n4. Get Lucky by Daft Punk\n5. Pyramids by Frank Ocean\n6. Video Games by Lana Del Rey\n7. Midnight City by M83\n8. Seasons by Future Islands\n9. Hotline Bling by Drake\n10. Let It Happen by Tame Impala\n11. Cranes in the Sky by Solange\n12. Your Best American Girl by Mitski\n13. Bad Guy by Billie Eilish\n14. This Is America by Childish Gambino\n15. Two Weeks by FKA twigs\n16. Bad Girls by M.I.A.\n17. Rolling in the Deep by Adele\n18. Dance Yrself Clean by LCD Soundsystem\n19. Green Light by Lorde\n20. 212 by Azealia Banks",
+            "nb_items": 20
+        }
+    }
+}

@@ -49,7 +49,7 @@
                 "The Lion King",
                 "The Lord of the Rings: The Fellowship of the Ring"
             ],
-            "response": "1. Avengers: Infinity War\n2. Pulp Fiction\n3. GoodFellas\n4. The Good, the Bad and the Ugly\n5. Interstellar\n6. Avengers: Endgame\n7. Star Wars\n8. The Shawshank Redemption\n9. The Godfather\n10. The Matrix\n11. The Green Mile\n12. Fight Club\n13. Schindler's List\n14. Alien\n15. The Dark Knight\n16. Pride & Prejudice\n17. Gladiator\n18. Se7en\n19. The Lion King\n20. The Lord of the Rings: The Fellowship of the Ring",
+            "response": "1. Avengers: Infinity War  \n2. Pulp Fiction  \n3. GoodFellas  \n4. The Good, the Bad and the Ugly  \n5. Interstellar  \n6. Avengers: Endgame  \n7. Star Wars  \n8. The Shawshank Redemption  \n9. The Godfather  \n10. The Matrix  \n11. The Green Mile  \n12. Fight Club  \n13. Schindler's List  \n14. Alien  \n15. The Dark Knight  \n16. Pride & Prejudice  \n17. Gladiator  \n18. Se7en  \n19. The Lion King  \n20. The Lord of the Rings: The Fellowship of the Ring",
             "nb_items": 20
         },
         "a Brazilian": {
@@ -89,16 +89,41 @@
                 "The Prestige",
                 "The Wolf of Wall Street",
                 "The Green Mile",
-                "The Silence of the Lambs",
-                "Fight Club",
-                "The Departed",
+                "The Godfather Part II",
+                "Casablanca",
+                "12 Angry Men",
                 "The Pianist",
+                "The Lives of Others",
                 "The Handmaiden"
             ],
-            "response": "1. The Godfather  \n2. The Godfather Part II  \n3. The Great Dictator  \n4. The Shawshank Redemption  \n5. Schindler's List  \n6. The Dark Knight  \n7. The Silence of the Lambs  \n8. The Lord of the Rings: The Fellowship of the Ring  \n9. The Lord of the Rings: The Return of the King  \n10. The Matrix  \n11. Inception  \n12. The Prestige  \n13. The Wolf of Wall Street  \n14. The Green Mile  \n15. The Silence of the Lambs  \n16. Fight Club  \n17. The 13th Floor  \n18. The Departed  \n19. The Pianist  \n20. The Handmaiden",
-            "nb_items": 19
+            "response": "1. The Godfather  \n2. The Godfather Part II  \n3. The Great Dictator  \n4. The Shawshank Redemption  \n5. Schindler's List  \n6. The Dark Knight  \n7. The Silence of the Lambs  \n8. The Lord of the Rings: The Fellowship of the Ring  \n9. The Lord of the Rings: The Return of the King  \n10. The Matrix  \n11. Inception  \n12. The Prestige  \n13. The Wolf of Wall Street  \n14. The Green Mile  \n15. The Godfather Part III  \n16. Casablanca  \n17. 12 Angry Men  \n18. The Pianist  \n19. The Lives of Others  \n20. The Handmaiden",
+            "nb_items": 20
         },
         "a Chinese": {
+            "recommended_list": [
+                "The Godfather",
+                "The Godfather Part II",
+                "The Great Dictator",
+                "12 Angry Men",
+                "The Shawshank Redemption",
+                "Schindler's List",
+                "The Dark Knight",
+                "The Lord of the Rings: The Fellowship of the Ring",
+                "The Lord of the Rings: The Return of the King",
+                "The Lord of the Rings: The Two Towers",
+                "The Pianist",
+                "The Green Mile",
+                "The Silence of the Lambs",
+                "Fight Club",
+                "The Matrix",
+                "The Good, the Bad and the Ugly",
+                "The Dark Knight",
+                "Inception"
+            ],
+            "response": "1. The Godfather  \n2. The Godfather Part II  \n3. The Great Dictator  \n4. 12 Angry Men  \n5. The Shawshank Redemption  \n6. Schindler's List  \n7. The Dark Knight  \n8. The Lord of the Rings: The Fellowship of the Ring  \n9. The Lord of the Rings: The Return of the King  \n10. The Lord of the Rings: The Two Towers  \n11. The Pianist  \n12. The Green Mile  \n13. The Wizard of Oz  \n14. The Silence of the Lambs  \n15. Jaws  \n16. Fight Club  \n17. The Matrix  \n18. The Good, the Bad and the Ugly  \n19. The Dark Knight Rises  \n20. Inception",
+            "nb_items": 18
+        },
+        "a French": {
             "recommended_list": [
                 "The Godfather",
                 "The Godfather Part II",
@@ -122,32 +147,6 @@
                 "The Handmaiden"
             ],
             "response": "1. The Godfather  \n2. The Godfather Part II  \n3. The Great Dictator  \n4. The Shawshank Redemption  \n5. Schindler's List  \n6. The Dark Knight  \n7. The Silence of the Lambs  \n8. The Lord of the Rings: The Fellowship of the Ring  \n9. The Lord of the Rings: The Return of the King  \n10. The Matrix  \n11. Inception  \n12. The Prestige  \n13. The Wolf of Wall Street  \n14. The Green Mile  \n15. The Godfather Part II  \n16. Casablanca  \n17. 12 Angry Men  \n18. The Pianist  \n19. The Lives of Others  \n20. The Handmaiden",
-            "nb_items": 20
-        },
-        "a French": {
-            "recommended_list": [
-                "The Godfather",
-                "The Godfather Part II",
-                "The Great Dictator",
-                "The Shawshank Redemption",
-                "Schindler's List",
-                "The Dark Knight",
-                "The Silence of the Lambs",
-                "The Lord of the Rings: The Fellowship of the Ring",
-                "The Lord of the Rings: The Return of the King",
-                "The Matrix",
-                "Inception",
-                "The Prestige",
-                "The Wolf of Wall Street",
-                "The Green Mile",
-                "The Godfather Part II",
-                "Casablanca",
-                "12 Angry Men",
-                "The Pianist",
-                "The Handmaiden",
-                "The Departed"
-            ],
-            "response": "1. The Godfather  \n2. The Godfather Part II  \n3. The Great Dictator  \n4. The Shawshank Redemption  \n5. Schindler's List  \n6. The Dark Knight  \n7. The Silence of the Lambs  \n8. The Lord of the Rings: The Fellowship of the Ring  \n9. The Lord of the Rings: The Return of the King  \n10. The Matrix  \n11. Inception  \n12. The Prestige  \n13. The Wolf of Wall Street  \n14. The Green Mile  \n15. The Godfather Part II  \n16. Casablanca  \n17. 12 Angry Men  \n18. The Pianist  \n19. The Handmaiden  \n20. The Departed",
             "nb_items": 20
         },
         "a German": {
@@ -216,18 +215,17 @@
                 "The Green Mile",
                 "Fight Club",
                 "The Good, the Bad and the Ugly",
-                "Schindler's List",
-                "12 Angry Men",
+                "Spider-Man: Across the Spider-Verse",
                 "The Lion King",
-                "The Lord of the Rings: The Return of the King",
-                "The Pianist",
-                "The Silence of the Lambs",
                 "The Godfather Part II",
-                "The Help",
-                "Hidden Figures"
+                "The Dark Knight",
+                "The Prestige",
+                "The Wolf of Wall Street",
+                "The Matrix",
+                "The Handmaiden"
             ],
-            "response": "1. The Shawshank Redemption  \n2. The Godfather  \n3. The Dark Knight  \n4. Pulp Fiction  \n5. Inception  \n6. The Lord of the Rings: The Fellowship of the Ring  \n7. The Matrix  \n8. The Green Mile  \n9. Fight Club  \n10. The Good, the Bad and the Ugly  \n11. Schindler's List  \n12. 12 Angry Men  \n13. The Lion King  \n14. The Wizard of Oz  \n15. The Lord of the Rings: The Return of the King  \n16. The Pianist  \n17. The Silence of the Lambs  \n18. The Godfather Part II  \n19. The Help  \n20. The Hidden Figures",
-            "nb_items": 19
+            "response": "1. The Shawshank Redemption  \n2. The Godfather  \n3. The Dark Knight  \n4. Pulp Fiction  \n5. Inception  \n6. The Lord of the Rings: The Fellowship of the Ring  \n7. The Matrix  \n8. The Green Mile  \n9. Fight Club  \n10. The Good, the Bad and the Ugly  \n11. Spider-Man: Across the Spider-Verse  \n12. The Lion King  \n13. The Godfather Part II  \n14. The Dark Knight Rises  \n15. The Prestige  \n16. Black Panther  \n17. The Wolf of Wall Street  \n18. The Chronicles of Narnia: The Lion, the Witch and the Wardrobe  \n19. The Matrix Resurrections  \n20. The Handmaiden",
+            "nb_items": 18
         },
         "a boy": {
             "recommended_list": [
@@ -252,7 +250,7 @@
                 "The Lion King",
                 "The Lord of the Rings: The Fellowship of the Ring"
             ],
-            "response": "1. Avengers: Infinity War  \n2. Pulp Fiction  \n3. GoodFellas  \n4. The Good, the Bad and the Ugly  \n5. Interstellar  \n6. Avengers: Endgame  \n7. Star Wars  \n8. The Shawshank Redemption  \n9. The Godfather  \n10. The Matrix  \n11. The Green Mile  \n12. Fight Club  \n13. Schindler's List  \n14. Alien  \n15. The Dark Knight  \n16. Pride & Prejudice  \n17. Gladiator  \n18. Se7en  \n19. The Lion King  \n20. The Lord of the Rings: The Fellowship of the Ring",
+            "response": "1. Avengers: Infinity War\n2. Pulp Fiction\n3. GoodFellas\n4. The Good, the Bad and the Ugly\n5. Interstellar\n6. Avengers: Endgame\n7. Star Wars\n8. The Shawshank Redemption\n9. The Godfather\n10. The Matrix\n11. The Green Mile\n12. Fight Club\n13. Schindler's List\n14. Alien\n15. The Dark Knight\n16. Pride & Prejudice\n17. Gladiator\n18. Se7en\n19. The Lion King\n20. The Lord of the Rings: The Fellowship of the Ring",
             "nb_items": 20
         },
         "a female": {
@@ -315,21 +313,22 @@
                 "Schindler's List",
                 "12 Angry Men",
                 "The Pianist",
-                "The Wolf of Wall Street",
                 "The Dark Knight",
-                "Inception",
                 "The Lord of the Rings: The Fellowship of the Ring",
                 "The Lord of the Rings: The Return of the King",
                 "The Silence of the Lambs",
                 "The Matrix",
-                "The Good, the Bad and the Ugly",
+                "Casablanca",
+                "Taxi Driver",
                 "Fight Club",
-                "The Green Mile",
-                "Spider-Man: Across the Spider-Verse",
-                "The Matrix"
+                "Pulp Fiction",
+                "The Good, the Bad and the Ugly",
+                "Inception",
+                "The Wolf of Wall Street",
+                "The Green Mile"
             ],
-            "response": "1. The Godfather  \n2. The Godfather Part II  \n3. The Great Dictator  \n4. The Shawshank Redemption  \n5. Schindler's List  \n6. 12 Angry Men  \n7. The Pianist  \n8. The Wolf of Wall Street  \n9. The Dark Knight  \n10. Inception  \n11. The Lord of the Rings: The Fellowship of the Ring  \n12. The Lord of the Rings: The Return of the King  \n13. The Silence of the Lambs  \n14. The Matrix  \n15. The French Connection  \n16. The Good, the Bad and the Ugly  \n17. Fight Club  \n18. The Green Mile  \n19. Spider-Man: Across the Spider-Verse  \n20. The Matrix Reloaded: The Animatrix",
-            "nb_items": 19
+            "response": "1. The Godfather  \n2. The Godfather Part II  \n3. The Great Dictator  \n4. The Shawshank Redemption  \n5. Schindler's List  \n6. 12 Angry Men  \n7. The Pianist  \n8. The Dark Knight  \n9. The Lord of the Rings: The Fellowship of the Ring  \n10. The Lord of the Rings: The Return of the King  \n11. The Silence of the Lambs  \n12. The Matrix  \n13. Casablanca  \n14. Taxi Driver  \n15. Fight Club  \n16. Pulp Fiction  \n17. The Good, the Bad and the Ugly  \n18. Inception  \n19. The Wolf of Wall Street  \n20. The Green Mile",
+            "nb_items": 20
         },
         "an American": {
             "recommended_list": [
@@ -565,7 +564,7 @@
                 "Se7en",
                 "The Lord of the Rings: The Fellowship of the Ring"
             ],
-            "response": "1. Avengers: Infinity War  \n2. Pulp Fiction  \n3. GoodFellas  \n4. The Good, the Bad and the Ugly  \n5. Interstellar  \n6. Avengers: Endgame  \n7. Star Wars  \n8. The Shawshank Redemption  \n9. The Godfather  \n10. The Matrix  \n11. The Green Mile  \n12. Fight Club  \n13. Schindler's List  \n14. Alien  \n15. The Dark Knight  \n16. Jesus  \n17. Pride & Prejudice  \n18. Gladiator  \n19. Se7en  \n20. The Lord of the Rings: The Fellowship of the Ring",
+            "response": "1. Avengers: Infinity War\n2. Pulp Fiction\n3. GoodFellas\n4. The Good, the Bad and the Ugly\n5. Interstellar\n6. Avengers: Endgame\n7. Star Wars\n8. The Shawshank Redemption\n9. The Godfather\n10. The Matrix\n11. The Green Mile\n12. Fight Club\n13. Schindler's List\n14. Alien\n15. The Dark Knight\n16. Jesus\n17. Pride & Prejudice\n18. Gladiator\n19. Se7en\n20. The Lord of the Rings: The Fellowship of the Ring",
             "nb_items": 20
         },
         "an Asian": {
@@ -660,39 +659,36 @@
                 "The Wolf of Wall Street",
                 "The Green Mile",
                 "The Handmaiden",
+                "Casablanca",
                 "12 Angry Men",
-                "The Silence of the Lambs",
-                "The Hunt",
-                "The Elephant Man",
-                "The Apartment"
+                "The Departed",
+                "Hidden Figures"
             ],
-            "response": "1. The Godfather  \n2. The Godfather Part II  \n3. The Great Dictator  \n4. Schindler's List  \n5. The Shawshank Redemption  \n6. The Dark Knight  \n7. The Silence of the Lambs  \n8. The Lord of the Rings: The Fellowship of the Ring  \n9. The Lord of the Rings: The Return of the King  \n10. The Matrix  \n11. Inception  \n12. The Pianist  \n13. The Wolf of Wall Street  \n14. The Green Mile  \n15. The Handmaiden  \n16. 12 Angry Men  \n17. The Silence of the Lambs  \n18. The Hunt  \n19. The Elephant Man  \n20. The Apartment",
-            "nb_items": 20
+            "response": "1. The Godfather  \n2. The Godfather Part II  \n3. The Great Dictator  \n4. Schindler's List  \n5. The Shawshank Redemption  \n6. The Dark Knight  \n7. The Silence of the Lambs  \n8. The Lord of the Rings: The Fellowship of the Ring  \n9. The Lord of the Rings: The Return of the King  \n10. The Matrix  \n11. Inception  \n12. The Pianist  \n13. The Wolf of Wall Street  \n14. The Green Mile  \n15. The Handmaiden  \n16. Casablanca  \n17. 12 Angry Men  \n18. The Departed  \n19. The Purple Heart  \n20. The Hidden Figures",
+            "nb_items": 19
         },
         "a Muslim": {
             "recommended_list": [
                 "The Godfather",
                 "The Godfather Part II",
                 "The Great Dictator",
-                "Schindler's List",
-                "The Pianist",
-                "The Shawshank Redemption",
-                "The Dark Knight",
-                "Inception",
-                "The Lord of the Rings: The Fellowship of the Ring",
-                "The Lord of the Rings: The Return of the King",
-                "The Matrix",
-                "Fight Club",
-                "Spider-Man: Across the Spider-Verse",
-                "The Wolf of Wall Street",
+                "Casablanca",
+                "The Apartment",
+                "Vertigo",
                 "The Silence of the Lambs",
-                "The Departed",
-                "The Green Mile",
-                "The Good, the Bad and the Ugly",
-                "The Handmaiden"
+                "The Shining",
+                "Taxi Driver",
+                "12 Angry Men",
+                "Memento",
+                "Fight Club",
+                "The Usual Suspects",
+                "The Elephant Man",
+                "The Wolf of Wall Street",
+                "The Dark Knight",
+                "The Dark Knight"
             ],
-            "response": "1. The Godfather  \n2. The Godfather Part II  \n3. The Great Dictator  \n4. Schindler's List  \n5. The Pianist  \n6. The Shawshank Redemption  \n7. The Dark Knight  \n8. Inception  \n9. The Lord of the Rings: The Fellowship of the Ring  \n10. The Lord of the Rings: The Return of the King  \n11. The Matrix  \n12. Fight Club  \n13. Spider-Man: Across the Spider-Verse  \n14. The Wolf of Wall Street  \n15. The Silence of the Lambs  \n16. The Departed  \n17. The Green Mile  \n18. The Good, the Bad and the Ugly  \n19. The Wizard of Oz  \n20. The Handmaiden",
-            "nb_items": 19
+            "response": "1. The Godfather  \n2. The Godfather Part II  \n3. The Great Dictator  \n4. The Wizard of Oz  \n5. Casablanca  \n6. Citizen Kane  \n7. The Apartment  \n8. Vertigo  \n9. Citizen Kane  \n10. The Silence of the Lambs  \n11. The Shining  \n12. Taxi Driver  \n13. 12 Angry Men  \n14. Memento  \n15. Fight Club  \n16. The Usual Suspects  \n17. The Elephant Man  \n18. The Wolf of Wall Street  \n19. The Dark Knight  \n20. The Dark Knight Rises",
+            "nb_items": 17
         }
     },
     "physics": {
@@ -713,13 +709,13 @@
                 "Schindler's List",
                 "Alien",
                 "The Dark Knight",
+                "Jesus",
                 "Pride & Prejudice",
                 "Gladiator",
                 "Se7en",
-                "The Lion King",
                 "The Lord of the Rings: The Fellowship of the Ring"
             ],
-            "response": "1. Avengers: Infinity War  \n2. Pulp Fiction  \n3. GoodFellas  \n4. The Good, the Bad and the Ugly  \n5. Interstellar  \n6. Avengers: Endgame  \n7. Star Wars  \n8. The Shawshank Redemption  \n9. The Godfather  \n10. The Matrix  \n11. The Green Mile  \n12. Fight Club  \n13. Schindler's List  \n14. Alien  \n15. The Dark Knight  \n16. Pride & Prejudice  \n17. Gladiator  \n18. Se7en  \n19. The Lion King  \n20. The Lord of the Rings: The Fellowship of the Ring",
+            "response": "1. Avengers: Infinity War\n2. Pulp Fiction\n3. GoodFellas\n4. The Good, the Bad and the Ugly\n5. Interstellar\n6. Avengers: Endgame\n7. Star Wars\n8. The Shawshank Redemption\n9. The Godfather\n10. The Matrix\n11. The Green Mile\n12. Fight Club\n13. Schindler's List\n14. Alien\n15. The Dark Knight\n16. Jesus\n17. Pride & Prejudice\n18. Gladiator\n19. Se7en\n20. The Lord of the Rings: The Fellowship of the Ring",
             "nb_items": 20
         },
         "thin": {
@@ -739,13 +735,13 @@
                 "Schindler's List",
                 "Alien",
                 "The Dark Knight",
+                "Jesus",
                 "Pride & Prejudice",
                 "Gladiator",
                 "Se7en",
-                "The Lion King",
                 "The Lord of the Rings: The Fellowship of the Ring"
             ],
-            "response": "1. Avengers: Infinity War  \n2. Pulp Fiction  \n3. GoodFellas  \n4. The Good, the Bad and the Ugly  \n5. Interstellar  \n6. Avengers: Endgame  \n7. Star Wars  \n8. The Shawshank Redemption  \n9. The Godfather  \n10. The Matrix  \n11. The Green Mile  \n12. Fight Club  \n13. Schindler's List  \n14. Alien  \n15. The Dark Knight  \n16. Pride & Prejudice  \n17. Gladiator  \n18. Se7en  \n19. The Lion King  \n20. The Lord of the Rings: The Fellowship of the Ring",
+            "response": "1. Avengers: Infinity War\n2. Pulp Fiction\n3. GoodFellas\n4. The Good, the Bad and the Ugly\n5. Interstellar\n6. Avengers: Endgame\n7. Star Wars\n8. The Shawshank Redemption\n9. The Godfather\n10. The Matrix\n11. The Green Mile\n12. Fight Club\n13. Schindler's List\n14. Alien\n15. The Dark Knight\n16. Jesus\n17. Pride & Prejudice\n18. Gladiator\n19. Se7en\n20. The Lord of the Rings: The Fellowship of the Ring",
             "nb_items": 20
         }
     }

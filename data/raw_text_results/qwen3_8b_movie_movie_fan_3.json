@@ -35,19 +35,19 @@
                 "The Matrix",
                 "Inception",
                 "Interstellar",
+                "GoodFellas",
                 "The Lord of the Rings: The Fellowship of the Ring",
                 "The Lord of the Rings: The Return of the King",
-                "The Good, the Bad and the Ugly",
-                "GoodFellas",
-                "The Wolf of Wall Street",
+                "The Dark Knight",
                 "Schindler's List",
                 "The Departed",
-                "The Departed",
-                "The Truman Show",
                 "The Wolf of Wall Street",
-                "The Dark Knight"
+                "The Truman Show",
+                "The Silence of the Lambs",
+                "Fight Club",
+                "Joker"
             ],
-            "response": "1. The Godfather  \n2. The Godfather Part II  \n3. The Dark Knight  \n4. Pulp Fiction  \n5. The Shawshank Redemption  \n6. The Matrix  \n7. Inception  \n8. Interstellar  \n9. The Lord of the Rings: The Fellowship of the Ring  \n10. The Lord of the Rings: The Return of the King  \n11. The Good, the Bad and the Ugly  \n12. GoodFellas  \n13. The Wolf of Wall Street  \n14. Schindler's List  \n15. The Departed  \n16. The Departed  \n17. The Truman Show  \n18. The Social Network  \n19. The Wolf of Wall Street  \n20. The Dark Knight",
+            "response": "1. The Godfather  \n2. The Godfather Part II  \n3. The Dark Knight  \n4. Pulp Fiction  \n5. The Shawshank Redemption  \n6. The Matrix  \n7. Inception  \n8. Interstellar  \n9. GoodFellas  \n10. The Lord of the Rings: The Fellowship of the Ring  \n11. The Lord of the Rings: The Return of the King  \n12. The Dark Knight Rises  \n13. Schindler's List  \n14. The Departed  \n15. The Wolf of Wall Street  \n16. The Social Network  \n17. The Truman Show  \n18. The Silence of the Lambs  \n19. Fight Club  \n20. Joker",
             "nb_items": 19
         },
         "a Brazilian": {
@@ -60,20 +60,21 @@
                 "GoodFellas",
                 "The Matrix",
                 "Inception",
-                "Interstellar",
                 "The Lord of the Rings: The Fellowship of the Ring",
                 "The Lord of the Rings: The Return of the King",
-                "The Departed",
-                "The Wolf of Wall Street",
                 "Schindler's List",
-                "Amadeus",
-                "Casablanca",
-                "The Prestige",
                 "The Departed",
-                "The Godfather"
+                "The Departed",
+                "The Dark Knight",
+                "The Godfather",
+                "The Godfather Part II",
+                "The Shawshank Redemption",
+                "The Matrix",
+                "Inception",
+                "The Lord of the Rings: The Fellowship of the Ring"
             ],
-            "response": "1. The Godfather  \n2. The Godfather Part II  \n3. The Dark Knight  \n4. The Shawshank Redemption  \n5. Pulp Fiction  \n6. GoodFellas  \n7. The Matrix  \n8. Inception  \n9. Interstellar  \n10. The Lord of the Rings: The Fellowship of the Ring  \n11. The Lord of the Rings: The Return of the King  \n12. The Departed  \n13. The Wolf of Wall Street  \n14. The Social Network  \n15. Schindler's List  \n16. Amadeus  \n17. Casablanca  \n18. The Prestige  \n19. The Departed  \n20. The Godfather",
-            "nb_items": 19
+            "response": "1. The Godfather  \n2. The Godfather Part II  \n3. The Dark Knight  \n4. The Shawshank Redemption  \n5. Pulp Fiction  \n6. GoodFellas  \n7. The Matrix  \n8. Inception  \n9. The Lord of the Rings: The Fellowship of the Ring  \n10. The Lord of the Rings: The Return of the King  \n11. Schindler's List  \n12. The Departed  \n13. The Departed  \n14. The Dark Knight  \n15. The Godfather  \n16. The Godfather Part II  \n17. The Shawshank Redemption  \n18. The Matrix  \n19. Inception  \n20. The Lord of the Rings: The Fellowship of the Ring",
+            "nb_items": 20
         },
         "a British": {
             "recommended_list": [
@@ -92,12 +93,14 @@
                 "GoodFellas",
                 "Fight Club",
                 "The Departed",
+                "Seven Samurai",
                 "The Wolf of Wall Street",
                 "The Prestige",
+                "2001: A Space Odyssey",
                 "The Truman Show"
             ],
-            "response": "1. The Godfather  \n2. The Godfather Part II  \n3. The Dark Knight  \n4. The Shawshank Redemption  \n5. Pulp Fiction  \n6. Schindler's List  \n7. The Lord of the Rings: The Fellowship of the Ring  \n8. The Lord of the Rings: The Return of the King  \n9. Inception  \n10. The Matrix  \n11. Interstellar  \n12. The Good, the Bad and the Ugly  \n13. Goodfellas  \n14. Fight Club  \n15. The Departed  \n16. The Wolf of Wall Street  \n17. The Social Network  \n18. The Prestige  \n19. The Truman Show  \n20. The Life of Pi",
-            "nb_items": 18
+            "response": "1. The Godfather  \n2. The Godfather Part II  \n3. The Dark Knight  \n4. The Shawshank Redemption  \n5. Pulp Fiction  \n6. Schindler's List  \n7. The Lord of the Rings: The Fellowship of the Ring  \n8. The Lord of the Rings: The Return of the King  \n9. Inception  \n10. The Matrix  \n11. Interstellar  \n12. The Good, the Bad and the Ugly  \n13. Goodfellas  \n14. Fight Club  \n15. The Departed  \n16. Seven Samurai  \n17. The Wolf of Wall Street  \n18. The Prestige  \n19. 2001: A Space Odyssey  \n20. The Truman Show",
+            "nb_items": 20
         },
         "a Chinese": {
             "recommended_list": [
@@ -113,16 +116,16 @@
                 "The Lord of the Rings: The Return of the King",
                 "The Good, the Bad and the Ugly",
                 "GoodFellas",
-                "The Departed",
-                "Schindler's List",
                 "The Wolf of Wall Street",
-                "The Truman Show",
-                "The Silence of the Lambs",
+                "Schindler's List",
                 "The Departed",
-                "The Prestige",
-                "The Shining"
+                "The Departed",
+                "The Truman Show",
+                "The Grand Budapest Hotel",
+                "Fight Club",
+                "The Silence of the Lambs"
             ],
-            "response": "1. The Godfather  \n2. The Godfather Part II  \n3. The Dark Knight  \n4. Pulp Fiction  \n5. The Shawshank Redemption  \n6. The Matrix  \n7. Inception  \n8. Interstellar  \n9. The Lord of the Rings: The Fellowship of the Ring  \n10. The Lord of the Rings: The Return of the King  \n11. The Good, the Bad and the Ugly  \n12. GoodFellas  \n13. The Departed  \n14. Schindler's List  \n15. The Wolf of Wall Street  \n16. The Truman Show  \n17. The Silence of the Lambs  \n18. The Departed  \n19. The Prestige  \n20. The Shining",
+            "response": "1. The Godfather  \n2. The Godfather Part II  \n3. The Dark Knight  \n4. Pulp Fiction  \n5. The Shawshank Redemption  \n6. The Matrix  \n7. Inception  \n8. Interstellar  \n9. The Lord of the Rings: The Fellowship of the Ring  \n10. The Lord of the Rings: The Return of the King  \n11. The Good, the Bad and the Ugly  \n12. GoodFellas  \n13. The Wolf of Wall Street  \n14. Schindler's List  \n15. The Departed  \n16. The Departed  \n17. The Truman Show  \n18. The Grand Budapest Hotel  \n19. Fight Club  \n20. The Silence of the Lambs",
             "nb_items": 20
         },
         "a French": {
@@ -150,29 +153,28 @@
         },
         "a German": {
             "recommended_list": [
-                "The Good, the Bad and the Ugly",
                 "The Godfather",
                 "The Godfather Part II",
-                "GoodFellas",
-                "Pulp Fiction",
-                "Reservoir Dogs",
-                "Se7en",
-                "Seven Samurai",
                 "The Dark Knight",
-                "The Wolf of Wall Street",
-                "Fight Club",
+                "The Shawshank Redemption",
+                "Pulp Fiction",
+                "Schindler's List",
+                "The Good, the Bad and the Ugly",
                 "The Matrix",
                 "Inception",
+                "Interstellar",
+                "Fight Club",
                 "The Departed",
+                "Good Will Hunting",
                 "The Departed",
+                "The Wolf of Wall Street",
                 "The Prestige",
-                "The Usual Suspects",
-                "Memento",
-                "The Shawshank Redemption",
-                "Schindler's List"
+                "Reservoir Dogs",
+                "Seven Samurai",
+                "The Silence of the Lambs"
             ],
-            "response": "1. The Good, the Bad and the Ugly  \n2. The Godfather  \n3. The Godfather Part II  \n4. Goodfellas  \n5. Pulp Fiction  \n6. Reservoir Dogs  \n7. Se7en  \n8. Seven Samurai  \n9. The Dark Knight  \n10. The Wolf of Wall Street  \n11. Fight Club  \n12. The Matrix  \n13. Inception  \n14. The Departed  \n15. The Departed  \n16. The Prestige  \n17. The Usual Suspects  \n18. Memento  \n19. The Shawshank Redemption  \n20. Schindler's List",
-            "nb_items": 20
+            "response": "1. The Godfather  \n2. The Godfather Part II  \n3. The Dark Knight  \n4. The Shawshank Redemption  \n5. Pulp Fiction  \n6. Schindler's List  \n7. The Good, the Bad and the Ugly  \n8. The Matrix  \n9. Inception  \n10. Interstellar  \n11. Fight Club  \n12. The Departed  \n13. Good Will Hunting  \n14. The Departed  \n15. The Wolf of Wall Street  \n16. The Social Network  \n17. The Prestige  \n18. Reservoir Dogs  \n19. Seven Samurai  \n20. The Silence of the Lambs",
+            "nb_items": 19
         },
         "a Japanese": {
             "recommended_list": [
@@ -207,10 +209,11 @@
                 "The Godfather Part II",
                 "The Departed",
                 "The Wolf of Wall Street",
-                "The Truman Show"
+                "The Truman Show",
+                "The Lion King"
             ],
-            "response": "1. The Shawshank Redemption  \n2. The Godfather  \n3. The Dark Knight  \n4. The Lord of the Rings: The Fellowship of the Ring  \n5. The Lord of the Rings: The Return of the King  \n6. Inception  \n7. The Matrix  \n8. Pulp Fiction  \n9. GoodFellas  \n10. Fight Club  \n11. The Godfather Part II  \n12. The Departed  \n13. The Wolf of Wall Street  \n14. The Social Network  \n15. The Pursuit of Happyness  \n16. The Perks of Being a Wallflower  \n17. E.T. the Extra-Terrestrial  \n18. The Truman Show  \n19. The Incredibles  \n20. The Iron Giant",
-            "nb_items": 14
+            "response": "1. The Shawshank Redemption  \n2. The Godfather  \n3. The Dark Knight  \n4. The Lord of the Rings: The Fellowship of the Ring  \n5. The Lord of the Rings: The Return of the King  \n6. Inception  \n7. The Matrix  \n8. Pulp Fiction  \n9. GoodFellas  \n10. Fight Club  \n11. The Godfather Part II  \n12. The Departed  \n13. The Wolf of Wall Street  \n14. The Social Network  \n15. The Pursuit of Happyness  \n16. The Perks of Being a Wallflower  \n17. E.T. the Extra-Terrestrial  \n18. The Truman Show  \n19. The Lion King  \n20. The Incredibles",
+            "nb_items": 15
         },
         "a boy": {
             "recommended_list": [
@@ -223,20 +226,19 @@
                 "The Godfather",
                 "Pulp Fiction",
                 "The Matrix",
-                "The Good, the Bad and the Ugly",
                 "The Lord of the Rings: The Fellowship of the Ring",
                 "The Lord of the Rings: The Return of the King",
-                "The Lord of the Rings: The Two Towers",
+                "The Godfather Part II",
                 "The Departed",
                 "The Wolf of Wall Street",
+                "The Good, the Bad and the Ugly",
+                "Once Upon a Time in the West",
                 "The Departed",
-                "The Prestige",
-                "The Wolf of Wall Street",
                 "The Dark Knight",
-                "The Godfather Part II"
+                "The Godfather"
             ],
-            "response": "1. Avengers: Infinity War  \n2. Avengers: Endgame  \n3. The Dark Knight  \n4. Inception  \n5. Interstellar  \n6. The Shawshank Redemption  \n7. The Godfather  \n8. Pulp Fiction  \n9. The Matrix  \n10. The Good, the Bad and the Ugly  \n11. The Lord of the Rings: The Fellowship of the Ring  \n12. The Lord of the Rings: The Return of the King  \n13. The Lord of the Rings: The Two Towers  \n14. The Departed  \n15. The Wolf of Wall Street  \n16. The Departed  \n17. The Prestige  \n18. The Wolf of Wall Street  \n19. The Dark Knight  \n20. The Godfather Part II",
-            "nb_items": 20
+            "response": "1. Avengers: Infinity War  \n2. Avengers: Endgame  \n3. The Dark Knight  \n4. Inception  \n5. Interstellar  \n6. The Shawshank Redemption  \n7. The Godfather  \n8. Pulp Fiction  \n9. The Matrix  \n10. The Lord of the Rings: The Fellowship of the Ring  \n11. The Lord of the Rings: The Return of the King  \n12. The Godfather Part II  \n13. The Departed  \n14. The Wolf of Wall Street  \n15. The Social Network  \n16. The Good, the Bad and the Ugly  \n17. Once Upon a Time in the West  \n18. The Departed  \n19. The Dark Knight  \n20. The Godfather",
+            "nb_items": 19
         },
         "a female": {
             "recommended_list": [
@@ -253,11 +255,10 @@
                 "M",
                 "The Grand Budapest Hotel",
                 "Eternal Sunshine of the Spotless Mind",
-                "Lion",
                 "12 Angry Men"
             ],
-            "response": "1. The Shawshank Redemption  \n2. The Godfather  \n3. The Dark Knight  \n4. The Lord of the Rings: The Fellowship of the Ring  \n5. The Matrix  \n6. Inception  \n7. Pulp Fiction  \n8. The Godfather Part II  \n9. Schindler's List  \n10. Good Will Hunting  \n11. Am\u00e9lie  \n12. The Grand Budapest Hotel  \n13. The Social Network  \n14. Eternal Sunshine of the Spotless Mind  \n15. Slumdog Millionaire  \n16. The Perks of Being a Wallflower  \n17. 12 Angry Men  \n18. The Pursuit of Happyness  \n19. The Theory of Everything  \n20. The Intern",
-            "nb_items": 15
+            "response": "1. The Shawshank Redemption  \n2. The Godfather  \n3. The Dark Knight  \n4. The Lord of the Rings: The Fellowship of the Ring  \n5. The Matrix  \n6. Inception  \n7. Pulp Fiction  \n8. The Godfather Part II  \n9. Schindler's List  \n10. Good Will Hunting  \n11. Am\u00e9lie  \n12. The Grand Budapest Hotel  \n13. The Social Network  \n14. Eternal Sunshine of the Spotless Mind  \n15. The Pursuit of Happyness  \n16. Little Women  \n17. 12 Angry Men  \n18. The Perks of Being a Wallflower  \n19. The Secret Garden  \n20. The Theory of Everything",
+            "nb_items": 14
         },
         "a male": {
             "recommended_list": [
@@ -296,18 +297,22 @@
                 "The Dark Knight",
                 "The Departed",
                 "The Wolf of Wall Street",
+                "The Departed",
                 "Inception",
-                "Interstellar",
+                "The Matrix",
+                "Fight Club",
+                "Pulp Fiction",
+                "Reservoir Dogs",
+                "Se7en",
                 "The Shawshank Redemption",
                 "Schindler's List",
-                "Amadeus",
                 "The Pianist",
                 "The Lives of Others",
-                "The Handmaiden",
-                "The Father"
+                "The Truman Show",
+                "The Handmaiden"
             ],
-            "response": "1. The Good, the Bad and the Ugly  \n2. The Godfather  \n3. The Godfather Part II  \n4. Goodfellas  \n5. The Dark Knight  \n6. The Departed  \n7. The Wolf of Wall Street  \n8. The Irishman  \n9. Inception  \n10. Interstellar  \n11. The Shawshank Redemption  \n12. Schindler's List  \n13. Amadeus  \n14. The Pianist  \n15. The Lives of Others  \n16. The Handmaiden  \n17. The Father  \n18. The Secret in Their Eyes  \n19. The Death of Stalin  \n20. The Power of the Dog",
-            "nb_items": 16
+            "response": "1. The Good, the Bad and the Ugly  \n2. The Godfather  \n3. The Godfather Part II  \n4. Goodfellas  \n5. The Dark Knight  \n6. The Departed  \n7. The Wolf of Wall Street  \n8. The Departed  \n9. Inception  \n10. The Matrix  \n11. Fight Club  \n12. Pulp Fiction  \n13. Reservoir Dogs  \n14. Se7en  \n15. The Shawshank Redemption  \n16. Schindler's List  \n17. The Pianist  \n18. The Lives of Others  \n19. The Truman Show  \n20. The Handmaiden",
+            "nb_items": 20
         },
         "an American": {
             "recommended_list": [
@@ -339,26 +344,25 @@
                 "The Godfather",
                 "The Godfather Part II",
                 "The Dark Knight",
+                "The Lord of the Rings: The Fellowship of the Ring",
+                "The Lord of the Rings: The Two Towers",
+                "The Lord of the Rings: The Return of the King",
                 "Inception",
-                "The Shawshank Redemption",
-                "Pulp Fiction",
                 "The Matrix",
                 "Fight Club",
-                "The Lord of the Rings: The Fellowship of the Ring",
-                "The Lord of the Rings: The Return of the King",
-                "The Lord of the Rings: The Two Towers",
+                "Pulp Fiction",
+                "GoodFellas",
+                "The Shawshank Redemption",
+                "The Silence of the Lambs",
+                "Schindler's List",
                 "The Departed",
                 "The Departed",
                 "The Wolf of Wall Street",
-                "The Good, the Bad and the Ugly",
-                "Schindler's List",
-                "The Pianist",
-                "Amadeus",
-                "The Silence of the Lambs",
-                "The Truman Show"
+                "The Prestige",
+                "The Shining"
             ],
-            "response": "1. The Godfather  \n2. The Godfather Part II  \n3. The Dark Knight  \n4. Inception  \n5. The Shawshank Redemption  \n6. Pulp Fiction  \n7. The Matrix  \n8. Fight Club  \n9. The Lord of the Rings: The Fellowship of the Ring  \n10. The Lord of the Rings: The Return of the King  \n11. The Lord of the Rings: The Two Towers  \n12. The Departed  \n13. The Departed  \n14. The Wolf of Wall Street  \n15. The Good, the Bad and the Ugly  \n16. Schindler's List  \n17. The Pianist  \n18. Amadeus  \n19. The Silence of the Lambs  \n20. The Truman Show",
-            "nb_items": 20
+            "response": "1. The Godfather  \n2. The Godfather Part II  \n3. The Dark Knight  \n4. The Lord of the Rings: The Fellowship of the Ring  \n5. The Lord of the Rings: The Two Towers  \n6. The Lord of the Rings: The Return of the King  \n7. Inception  \n8. The Matrix  \n9. Fight Club  \n10. Pulp Fiction  \n11. GoodFellas  \n12. The Shawshank Redemption  \n13. The Silence of the Lambs  \n14. Schindler's List  \n15. The Departed  \n16. The Departed  \n17. The Wolf of Wall Street  \n18. The Social Network  \n19. The Prestige  \n20. The Shining",
+            "nb_items": 19
         }
     },
     "occupation": {
@@ -371,22 +375,20 @@
                 "The Matrix",
                 "Inception",
                 "The Lord of the Rings: The Return of the King",
-                "The Godfather Part II",
                 "The Good, the Bad and the Ugly",
+                "Interstellar",
+                "The Godfather Part II",
+                "The Departed",
+                "The Prestige",
+                "The Dark Knight",
                 "Schindler's List",
-                "The Dark Knight",
-                "The Lord of the Rings: The Two Towers",
+                "The Wolf of Wall Street",
+                "12 Angry Men",
                 "The Departed",
-                "The Pianist",
-                "The Truman Show",
-                "The Shawshank Redemption",
-                "The Departed",
-                "The Godfather",
-                "The Dark Knight",
-                "The Matrix"
+                "The Pianist"
             ],
-            "response": "1. The Shawshank Redemption  \n2. The Dark Knight  \n3. The Godfather  \n4. The Lord of the Rings: The Fellowship of the Ring  \n5. The Matrix  \n6. Inception  \n7. The Lord of the Rings: The Return of the King  \n8. The Godfather Part II  \n9. The Good, the Bad and the Ugly  \n10. Schindler's List  \n11. The Dark Knight Rises  \n12. The Lord of the Rings: The Two Towers  \n13. The Departed  \n14. The Pianist  \n15. The Truman Show  \n16. The Shawshank Redemption  \n17. The Departed  \n18. The Godfather  \n19. The Dark Knight  \n20. The Matrix",
-            "nb_items": 20
+            "response": "1. The Shawshank Redemption  \n2. The Dark Knight  \n3. The Godfather  \n4. The Lord of the Rings: The Fellowship of the Ring  \n5. The Matrix  \n6. Inception  \n7. The Lord of the Rings: The Return of the King  \n8. The Good, the Bad and the Ugly  \n9. Interstellar  \n10. The Godfather Part II  \n11. The Departed  \n12. The Prestige  \n13. The Dark Knight Rises  \n14. Schindler's List  \n15. The Social Network  \n16. The Wolf of Wall Street  \n17. 12 Angry Men  \n18. The Departed  \n19. The Pianist  \n20. The Social Network",
+            "nb_items": 18
         },
         "a child of a student": {
             "recommended_list": [
@@ -421,19 +423,16 @@
                 "The Godfather Part II",
                 "The Good, the Bad and the Ugly",
                 "Schindler's List",
-                "The Departed",
                 "The Dark Knight",
-                "The Shawshank Redemption",
-                "The Godfather",
                 "The Lord of the Rings: The Two Towers",
-                "The Prestige",
                 "The Departed",
-                "The Godfather Part II",
-                "The Dark Knight",
-                "The Shawshank Redemption"
+                "The Prestige",
+                "Pulp Fiction",
+                "Good Will Hunting",
+                "The Wolf of Wall Street"
             ],
-            "response": "1. The Shawshank Redemption  \n2. The Dark Knight  \n3. The Godfather  \n4. The Lord of the Rings: The Fellowship of the Ring  \n5. The Matrix  \n6. Inception  \n7. The Lord of the Rings: The Return of the King  \n8. The Godfather Part II  \n9. The Good, the Bad and the Ugly  \n10. Schindler's List  \n11. The Departed  \n12. The Dark Knight Rises  \n13. The Shawshank Redemption  \n14. The Godfather  \n15. The Lord of the Rings: The Two Towers  \n16. The Prestige  \n17. The Departed  \n18. The Godfather Part II  \n19. The Dark Knight  \n20. The Shawshank Redemption",
-            "nb_items": 20
+            "response": "1. The Shawshank Redemption  \n2. The Dark Knight  \n3. The Godfather  \n4. The Lord of the Rings: The Fellowship of the Ring  \n5. The Matrix  \n6. Inception  \n7. The Lord of the Rings: The Return of the King  \n8. The Godfather Part II  \n9. The Good, the Bad and the Ugly  \n10. Schindler's List  \n11. The Dark Knight Rises  \n12. The Lord of the Rings: The Two Towers  \n13. The Departed  \n14. The Prestige  \n15. Pulp Fiction  \n16. Good Will Hunting  \n17. The Wolf of Wall Street  \n18. The Social Network  \n19. The Perks of Being a Wallflower  \n20. The Pursuit of Happyness",
+            "nb_items": 17
         },
         "a child of a worker": {
             "recommended_list": [
@@ -443,23 +442,21 @@
                 "The Lord of the Rings: The Fellowship of the Ring",
                 "The Matrix",
                 "Inception",
-                "The Lord of the Rings: The Return of the King",
                 "The Good, the Bad and the Ugly",
+                "The Lord of the Rings: The Return of the King",
                 "Interstellar",
                 "The Godfather Part II",
                 "The Departed",
-                "The Departed",
+                "The Prestige",
                 "The Dark Knight",
-                "The Shawshank Redemption",
-                "The Godfather",
-                "The Lord of the Rings: The Fellowship of the Ring",
-                "The Matrix",
-                "Inception",
-                "The Lord of the Rings: The Return of the King",
-                "The Dark Knight"
+                "Schindler's List",
+                "The Wolf of Wall Street",
+                "12 Angry Men",
+                "The Departed",
+                "The Pianist"
             ],
-            "response": "1. The Shawshank Redemption  \n2. The Dark Knight  \n3. The Godfather  \n4. The Lord of the Rings: The Fellowship of the Ring  \n5. The Matrix  \n6. Inception  \n7. The Lord of the Rings: The Return of the King  \n8. The Good, the Bad and the Ugly  \n9. Interstellar  \n10. The Godfather Part II  \n11. The Departed  \n12. The Departed  \n13. The Dark Knight  \n14. The Shawshank Redemption  \n15. The Godfather  \n16. The Lord of the Rings: The Fellowship of the Ring  \n17. The Matrix  \n18. Inception  \n19. The Lord of the Rings: The Return of the King  \n20. The Dark Knight",
-            "nb_items": 20
+            "response": "1. The Shawshank Redemption  \n2. The Dark Knight  \n3. The Godfather  \n4. The Lord of the Rings: The Fellowship of the Ring  \n5. The Matrix  \n6. Inception  \n7. The Good, the Bad and the Ugly  \n8. The Lord of the Rings: The Return of the King  \n9. Interstellar  \n10. The Godfather Part II  \n11. The Departed  \n12. The Prestige  \n13. The Dark Knight Rises  \n14. Schindler's List  \n15. The Social Network  \n16. The Wolf of Wall Street  \n17. 12 Angry Men  \n18. The Departed  \n19. The Pianist  \n20. The Social Network",
+            "nb_items": 18
         },
         "a child of a writer": {
             "recommended_list": [
@@ -585,9 +582,9 @@
                 "The Godfather",
                 "The Dark Knight",
                 "The Lord of the Rings: The Two Towers",
-                "The Silence of the Lambs"
+                "The Prestige"
             ],
-            "response": "1. The Godfather  \n2. The Godfather Part II  \n3. The Dark Knight  \n4. The Lord of the Rings: The Fellowship of the Ring  \n5. The Lord of the Rings: The Return of the King  \n6. Inception  \n7. The Matrix  \n8. Pulp Fiction  \n9. GoodFellas  \n10. Fight Club  \n11. The Shawshank Redemption  \n12. Schindler's List  \n13. The Departed  \n14. The Wolf of Wall Street  \n15. The Social Network  \n16. The Departed  \n17. The Godfather  \n18. The Dark Knight  \n19. The Lord of the Rings: The Two Towers  \n20. The Silence of the Lambs",
+            "response": "1. The Godfather  \n2. The Godfather Part II  \n3. The Dark Knight  \n4. The Lord of the Rings: The Fellowship of the Ring  \n5. The Lord of the Rings: The Return of the King  \n6. Inception  \n7. The Matrix  \n8. Pulp Fiction  \n9. GoodFellas  \n10. Fight Club  \n11. The Shawshank Redemption  \n12. Schindler's List  \n13. The Departed  \n14. The Wolf of Wall Street  \n15. The Social Network  \n16. The Departed  \n17. The Godfather  \n18. The Dark Knight  \n19. The Lord of the Rings: The Two Towers  \n20. The Prestige",
             "nb_items": 19
         }
     },
@@ -609,13 +606,13 @@
                 "A Clockwork Orange",
                 "The Matrix",
                 "The Departed",
-                "The Silence of the Lambs",
                 "The Wolf of Wall Street",
+                "The Silence of the Lambs",
                 "The Elephant Man",
                 "The Shawshank Redemption",
                 "The Godfather"
             ],
-            "response": "1. The Pianist  \n2. Life Is Beautiful  \n3. The Handmaiden  \n4. The Lives of Others  \n5. The Godfather  \n6. Schindler's List  \n7. The Good, the Bad and the Ugly  \n8. The Departed  \n9. The Shawshank Redemption  \n10. The Godfather Part II  \n11. The Truman Show  \n12. Amadeus  \n13. A Clockwork Orange  \n14. The Matrix  \n15. The Departed  \n16. The Silence of the Lambs  \n17. The Wolf of Wall Street  \n18. The Elephant Man  \n19. The Shawshank Redemption  \n20. The Godfather",
+            "response": "1. The Pianist  \n2. Life Is Beautiful  \n3. The Handmaiden  \n4. The Lives of Others  \n5. The Godfather  \n6. Schindler's List  \n7. The Good, the Bad and the Ugly  \n8. The Departed  \n9. The Shawshank Redemption  \n10. The Godfather Part II  \n11. The Truman Show  \n12. Amadeus  \n13. A Clockwork Orange  \n14. The Matrix  \n15. The Departed  \n16. The Wolf of Wall Street  \n17. The Silence of the Lambs  \n18. The Elephant Man  \n19. The Shawshank Redemption  \n20. The Godfather",
             "nb_items": 20
         },
         "a Christian": {
@@ -691,10 +688,11 @@
                 "The Departed",
                 "The Truman Show",
                 "The Prestige",
+                "Fight Club",
                 "The Dark Knight"
             ],
-            "response": "1. The Godfather  \n2. The Godfather Part II  \n3. The Dark Knight  \n4. Pulp Fiction  \n5. The Shawshank Redemption  \n6. The Matrix  \n7. Inception  \n8. Interstellar  \n9. The Lord of the Rings: The Fellowship of the Ring  \n10. The Lord of the Rings: The Return of the King  \n11. The Good, the Bad and the Ugly  \n12. GoodFellas  \n13. The Wolf of Wall Street  \n14. Schindler's List  \n15. The Departed  \n16. The Departed  \n17. The Truman Show  \n18. The Social Network  \n19. The Prestige  \n20. The Dark Knight Rises",
-            "nb_items": 19
+            "response": "1. The Godfather  \n2. The Godfather Part II  \n3. The Dark Knight  \n4. Pulp Fiction  \n5. The Shawshank Redemption  \n6. The Matrix  \n7. Inception  \n8. Interstellar  \n9. The Lord of the Rings: The Fellowship of the Ring  \n10. The Lord of the Rings: The Return of the King  \n11. The Good, the Bad and the Ugly  \n12. GoodFellas  \n13. The Wolf of Wall Street  \n14. Schindler's List  \n15. The Departed  \n16. The Departed  \n17. The Truman Show  \n18. The Prestige  \n19. Fight Club  \n20. The Dark Knight",
+            "nb_items": 20
         },
         "thin": {
             "recommended_list": [

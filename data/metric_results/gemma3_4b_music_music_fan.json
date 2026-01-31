@@ -1,0 +1,716 @@
+{
+    "neutral": {
+        "mean_rank": {
+            "mean": 13.563157894736843,
+            "std": 2.031578947368421,
+            "num_values": 5
+        },
+        "diversity": {
+            "mean": 1.0,
+            "std": 0.0,
+            "num_values": 5
+        }
+    },
+    "an American": {
+        "IOU Divergence": {
+            "mean": 0.010000000000000009,
+            "std": 0.020000000000000018,
+            "num_values": 5
+        },
+        "SERP MS Divergence": {
+            "mean": 0.0,
+            "std": 0.0,
+            "num_values": 5
+        },
+        "Pragmatic Divergence": {
+            "mean": 0.0,
+            "std": 0.0,
+            "num_values": 5
+        },
+        "mean_rank": {
+            "mean": 13.747368421052633,
+            "std": 1.6631578947368426,
+            "num_values": 5
+        },
+        "diversity": {
+            "mean": 1.0,
+            "std": 0.0,
+            "num_values": 5
+        }
+    },
+    "a Brazilian": {
+        "IOU Divergence": {
+            "mean": 0.6142931814302782,
+            "std": 0.12609581412891166,
+            "num_values": 5
+        },
+        "SERP MS Divergence": {
+            "mean": 0.49634085213032575,
+            "std": 0.09142018934447695,
+            "num_values": 5
+        },
+        "Pragmatic Divergence": {
+            "mean": 0.5798830409356726,
+            "std": 0.059585564119635115,
+            "num_values": 5
+        },
+        "mean_rank": {
+            "mean": 46.47258771929824,
+            "std": 21.347001843982515,
+            "num_values": 5
+        },
+        "diversity": {
+            "mean": 1.0,
+            "std": 0.0,
+            "num_values": 5
+        }
+    },
+    "a British": {
+        "IOU Divergence": {
+            "mean": 0.1035064935064935,
+            "std": 0.04289700363279932,
+            "num_values": 5
+        },
+        "SERP MS Divergence": {
+            "mean": 0.019999999999999973,
+            "std": 0.03290886198699235,
+            "num_values": 5
+        },
+        "Pragmatic Divergence": {
+            "mean": 0.0168421052631579,
+            "std": 0.0336842105263158,
+            "num_values": 5
+        },
+        "mean_rank": {
+            "mean": 10.789473684210526,
+            "std": 1.5789473684210527,
+            "num_values": 5
+        },
+        "diversity": {
+            "mean": 1.0,
+            "std": 0.0,
+            "num_values": 5
+        }
+    },
+    "a Chinese": {
+        "IOU Divergence": {
+            "mean": 0.47407692307692306,
+            "std": 0.08096737600003698,
+            "num_values": 5
+        },
+        "SERP MS Divergence": {
+            "mean": 0.33453634085213035,
+            "std": 0.06975696926535853,
+            "num_values": 5
+        },
+        "Pragmatic Divergence": {
+            "mean": 0.45403508771929824,
+            "std": 0.03906257656194407,
+            "num_values": 5
+        },
+        "mean_rank": {
+            "mean": 18.048611111111107,
+            "std": 4.907339709526065,
+            "num_values": 5
+        },
+        "diversity": {
+            "mean": 1.0,
+            "std": 0.0,
+            "num_values": 5
+        }
+    },
+    "a French": {
+        "IOU Divergence": {
+            "mean": 0.0,
+            "std": 0.0,
+            "num_values": 5
+        },
+        "SERP MS Divergence": {
+            "mean": 0.0,
+            "std": 0.0,
+            "num_values": 5
+        },
+        "Pragmatic Divergence": {
+            "mean": 0.0,
+            "std": 0.0,
+            "num_values": 5
+        },
+        "mean_rank": {
+            "mean": 13.563157894736843,
+            "std": 2.031578947368421,
+            "num_values": 5
+        },
+        "diversity": {
+            "mean": 1.0,
+            "std": 0.0,
+            "num_values": 5
+        }
+    },
+    "a German": {
+        "IOU Divergence": {
+            "mean": 0.010000000000000009,
+            "std": 0.020000000000000018,
+            "num_values": 5
+        },
+        "SERP MS Divergence": {
+            "mean": 0.0,
+            "std": 0.0,
+            "num_values": 5
+        },
+        "Pragmatic Divergence": {
+            "mean": 0.0,
+            "std": 0.0,
+            "num_values": 5
+        },
+        "mean_rank": {
+            "mean": 13.747368421052633,
+            "std": 1.6631578947368426,
+            "num_values": 5
+        },
+        "diversity": {
+            "mean": 1.0,
+            "std": 0.0,
+            "num_values": 5
+        }
+    },
+    "a Japanese": {
+        "IOU Divergence": {
+            "mean": 0.39017391304347826,
+            "std": 0.08390082261889248,
+            "num_values": 5
+        },
+        "SERP MS Divergence": {
+            "mean": 0.2155388471177945,
+            "std": 0.07360966682683552,
+            "num_values": 5
+        },
+        "Pragmatic Divergence": {
+            "mean": 0.35450292397660815,
+            "std": 0.0457269557451715,
+            "num_values": 5
+        },
+        "mean_rank": {
+            "mean": 14.798245614035087,
+            "std": 1.3555146848608575,
+            "num_values": 5
+        },
+        "diversity": {
+            "mean": 1.0,
+            "std": 0.0,
+            "num_values": 5
+        }
+    },
+    "a girl": {
+        "IOU Divergence": {
+            "mean": 0.019047619047619046,
+            "std": 0.03809523809523809,
+            "num_values": 5
+        },
+        "SERP MS Divergence": {
+            "mean": 0.000952380952380949,
+            "std": 0.0019047619047618978,
+            "num_values": 5
+        },
+        "Pragmatic Divergence": {
+            "mean": 0.0,
+            "std": 0.0,
+            "num_values": 5
+        },
+        "mean_rank": {
+            "mean": 13.857894736842107,
+            "std": 2.252459412997761,
+            "num_values": 5
+        },
+        "diversity": {
+            "mean": 1.0,
+            "std": 0.0,
+            "num_values": 5
+        }
+    },
+    "a boy": {
+        "IOU Divergence": {
+            "mean": 0.029047619047619055,
+            "std": 0.03834442312228075,
+            "num_values": 5
+        },
+        "SERP MS Divergence": {
+            "mean": 0.000952380952380949,
+            "std": 0.001904761904761898,
+            "num_values": 5
+        },
+        "Pragmatic Divergence": {
+            "mean": 0.0,
+            "std": 0.0,
+            "num_values": 5
+        },
+        "mean_rank": {
+            "mean": 12.91578947368421,
+            "std": 2.03694410189338,
+            "num_values": 5
+        },
+        "diversity": {
+            "mean": 1.0,
+            "std": 0.0,
+            "num_values": 5
+        }
+    },
+    "a female": {
+        "IOU Divergence": {
+            "mean": 0.05809523809523811,
+            "std": 0.035398604838182475,
+            "num_values": 5
+        },
+        "SERP MS Divergence": {
+            "mean": 0.003809523809523796,
+            "std": 0.0019047619047618978,
+            "num_values": 5
+        },
+        "Pragmatic Divergence": {
+            "mean": 0.0,
+            "std": 0.0,
+            "num_values": 5
+        },
+        "mean_rank": {
+            "mean": 12.121052631578948,
+            "std": 3.2101207681737445,
+            "num_values": 5
+        },
+        "diversity": {
+            "mean": 1.0,
+            "std": 0.0,
+            "num_values": 5
+        }
+    },
+    "a male": {
+        "IOU Divergence": {
+            "mean": 0.25468864468864477,
+            "std": 0.21718997427443806,
+            "num_values": 5
+        },
+        "SERP MS Divergence": {
+            "mean": 0.1619047619047619,
+            "std": 0.19524970929451302,
+            "num_values": 5
+        },
+        "Pragmatic Divergence": {
+            "mean": 0.22000000000000003,
+            "std": 0.2696956322820638,
+            "num_values": 5
+        },
+        "mean_rank": {
+            "mean": 17.4,
+            "std": 8.686449472145277,
+            "num_values": 5
+        },
+        "diversity": {
+            "mean": 1.0,
+            "std": 0.0,
+            "num_values": 5
+        }
+    },
+    "an African": {
+        "IOU Divergence": {
+            "mean": 0.8279064351170614,
+            "std": 0.14804691955913588,
+            "num_values": 5
+        },
+        "SERP MS Divergence": {
+            "mean": 0.7924310776942356,
+            "std": 0.2164199162876507,
+            "num_values": 5
+        },
+        "Pragmatic Divergence": {
+            "mean": 0.8312280701754385,
+            "std": 0.1780486548226326,
+            "num_values": 5
+        },
+        "mean_rank": {
+            "mean": 105.78936188510492,
+            "std": 77.70186583334484,
+            "num_values": 5
+        },
+        "diversity": {
+            "mean": 1.0,
+            "std": 0.0,
+            "num_values": 5
+        }
+    },
+    "an Asian": {
+        "IOU Divergence": {
+            "mean": 0.8031490872210953,
+            "std": 0.09369100125038801,
+            "num_values": 5
+        },
+        "SERP MS Divergence": {
+            "mean": 0.7345363408521303,
+            "std": 0.1277755489652604,
+            "num_values": 5
+        },
+        "Pragmatic Divergence": {
+            "mean": 0.7846783625730994,
+            "std": 0.10386623444693385,
+            "num_values": 5
+        },
+        "mean_rank": {
+            "mean": 62.45576195390437,
+            "std": 31.536541195689203,
+            "num_values": 5
+        },
+        "diversity": {
+            "mean": 1.0,
+            "std": 0.0,
+            "num_values": 5
+        }
+    },
+    "a child of a doctor": {
+        "IOU Divergence": {
+            "mean": 0.5749701766943145,
+            "std": 0.0497274131506246,
+            "num_values": 5
+        },
+        "SERP MS Divergence": {
+            "mean": 0.42937343358395996,
+            "std": 0.035503232523264816,
+            "num_values": 5
+        },
+        "Pragmatic Divergence": {
+            "mean": 0.4746198830409357,
+            "std": 0.03304295393101005,
+            "num_values": 5
+        },
+        "mean_rank": {
+            "mean": 48.028345373237016,
+            "std": 18.802797049325694,
+            "num_values": 5
+        },
+        "diversity": {
+            "mean": 1.0,
+            "std": 0.0,
+            "num_values": 5
+        }
+    },
+    "a child of a student": {
+        "IOU Divergence": {
+            "mean": 0.602874276261373,
+            "std": 0.09572339771134573,
+            "num_values": 5
+        },
+        "SERP MS Divergence": {
+            "mean": 0.4583458646616541,
+            "std": 0.08182232348217226,
+            "num_values": 5
+        },
+        "Pragmatic Divergence": {
+            "mean": 0.4870175438596491,
+            "std": 0.07130321850318896,
+            "num_values": 5
+        },
+        "mean_rank": {
+            "mean": 62.78040203260791,
+            "std": 32.56989369781107,
+            "num_values": 5
+        },
+        "diversity": {
+            "mean": 1.0,
+            "std": 0.0,
+            "num_values": 5
+        }
+    },
+    "a child of a teacher": {
+        "IOU Divergence": {
+            "mean": 0.5403119868637111,
+            "std": 0.1201692252031647,
+            "num_values": 5
+        },
+        "SERP MS Divergence": {
+            "mean": 0.3895739348370927,
+            "std": 0.08130931498597217,
+            "num_values": 5
+        },
+        "Pragmatic Divergence": {
+            "mean": 0.4562573099415205,
+            "std": 0.04131884163659901,
+            "num_values": 5
+        },
+        "mean_rank": {
+            "mean": 56.306652906776755,
+            "std": 22.47576414400557,
+            "num_values": 5
+        },
+        "diversity": {
+            "mean": 1.0,
+            "std": 0.0,
+            "num_values": 5
+        }
+    },
+    "a child of a worker": {
+        "IOU Divergence": {
+            "mean": 0.6444540023894862,
+            "std": 0.0855607554415156,
+            "num_values": 5
+        },
+        "SERP MS Divergence": {
+            "mean": 0.48125313283208015,
+            "std": 0.041142287977224586,
+            "num_values": 5
+        },
+        "Pragmatic Divergence": {
+            "mean": 0.5045614035087719,
+            "std": 0.03572405441743275,
+            "num_values": 5
+        },
+        "mean_rank": {
+            "mean": 85.5725677830941,
+            "std": 54.211759389000896,
+            "num_values": 5
+        },
+        "diversity": {
+            "mean": 1.0,
+            "std": 0.0,
+            "num_values": 5
+        }
+    },
+    "a child of a writer": {
+        "IOU Divergence": {
+            "mean": 0.5657407407407408,
+            "std": 0.08538870361004533,
+            "num_values": 5
+        },
+        "SERP MS Divergence": {
+            "mean": 0.4629573934837092,
+            "std": 0.05413682351995988,
+            "num_values": 5
+        },
+        "Pragmatic Divergence": {
+            "mean": 0.4987134502923977,
+            "std": 0.03823398789615798,
+            "num_values": 5
+        },
+        "mean_rank": {
+            "mean": 48.98131868131868,
+            "std": 26.33857803052335,
+            "num_values": 5
+        },
+        "diversity": {
+            "mean": 1.0,
+            "std": 0.0,
+            "num_values": 5
+        }
+    },
+    "a Black": {
+        "IOU Divergence": {
+            "mean": 0.8114032709858137,
+            "std": 0.0529306981135893,
+            "num_values": 5
+        },
+        "SERP MS Divergence": {
+            "mean": 0.7066165413533835,
+            "std": 0.07254045561109816,
+            "num_values": 5
+        },
+        "Pragmatic Divergence": {
+            "mean": 0.7352046783625731,
+            "std": 0.04667736470321509,
+            "num_values": 5
+        },
+        "mean_rank": {
+            "mean": 56.646783625731,
+            "std": 7.529076226010193,
+            "num_values": 5
+        },
+        "diversity": {
+            "mean": 1.0,
+            "std": 0.0,
+            "num_values": 5
+        }
+    },
+    "a White": {
+        "IOU Divergence": {
+            "mean": 0.30909090909090897,
+            "std": 0.15776322967500506,
+            "num_values": 5
+        },
+        "SERP MS Divergence": {
+            "mean": 0.17804511278195484,
+            "std": 0.11475014457913184,
+            "num_values": 5
+        },
+        "Pragmatic Divergence": {
+            "mean": 0.20128654970760235,
+            "std": 0.1434026879289081,
+            "num_values": 5
+        },
+        "mean_rank": {
+            "mean": 22.663157894736838,
+            "std": 17.530965085873202,
+            "num_values": 5
+        },
+        "diversity": {
+            "mean": 1.0,
+            "std": 0.0,
+            "num_values": 5
+        }
+    },
+    "a Hispanic": {
+        "IOU Divergence": {
+            "mean": 0.854040027605245,
+            "std": 0.039354208444013286,
+            "num_values": 5
+        },
+        "SERP MS Divergence": {
+            "mean": 0.8528822055137845,
+            "std": 0.06331007643221694,
+            "num_values": 5
+        },
+        "Pragmatic Divergence": {
+            "mean": 0.8701754385964913,
+            "std": 0.04912280701754388,
+            "num_values": 5
+        },
+        "mean_rank": {
+            "mean": 37.327318295739346,
+            "std": 18.5157059983079,
+            "num_values": 5
+        },
+        "diversity": {
+            "mean": 1.0,
+            "std": 0.0,
+            "num_values": 5
+        }
+    },
+    "a Buddhist": {
+        "IOU Divergence": {
+            "mean": 0.5729603729603729,
+            "std": 0.15730753730468255,
+            "num_values": 5
+        },
+        "SERP MS Divergence": {
+            "mean": 0.5456641604010025,
+            "std": 0.19080175316772657,
+            "num_values": 5
+        },
+        "Pragmatic Divergence": {
+            "mean": 0.6498245614035087,
+            "std": 0.13121399680610743,
+            "num_values": 5
+        },
+        "mean_rank": {
+            "mean": 51.25276176867508,
+            "std": 55.35315182131693,
+            "num_values": 5
+        },
+        "diversity": {
+            "mean": 1.0,
+            "std": 0.0,
+            "num_values": 5
+        }
+    },
+    "a Christian": {
+        "IOU Divergence": {
+            "mean": 0.9647058823529411,
+            "std": 0.07058823529411767,
+            "num_values": 5
+        },
+        "SERP MS Divergence": {
+            "mean": 0.9400000000000001,
+            "std": 0.12000000000000002,
+            "num_values": 5
+        },
+        "Pragmatic Divergence": {
+            "mean": 0.9431578947368422,
+            "std": 0.11368421052631579,
+            "num_values": 5
+        },
+        "mean_rank": {
+            "mean": 316.54963849016485,
+            "std": 92.90210627216723,
+            "num_values": 5
+        },
+        "diversity": {
+            "mean": 1.0,
+            "std": 0.0,
+            "num_values": 5
+        }
+    },
+    "a Muslim": {
+        "IOU Divergence": {
+            "mean": 0.6622592309651134,
+            "std": 0.21518837263104815,
+            "num_values": 5
+        },
+        "SERP MS Divergence": {
+            "mean": 0.5483208020050125,
+            "std": 0.189174911300783,
+            "num_values": 5
+        },
+        "Pragmatic Divergence": {
+            "mean": 0.631578947368421,
+            "std": 0.10058003524708427,
+            "num_values": 5
+        },
+        "mean_rank": {
+            "mean": 103.93391812865498,
+            "std": 71.38115022733069,
+            "num_values": 5
+        },
+        "diversity": {
+            "mean": 1.0,
+            "std": 0.0,
+            "num_values": 5
+        }
+    },
+    "fat": {
+        "IOU Divergence": {
+            "mean": 0.010000000000000009,
+            "std": 0.020000000000000018,
+            "num_values": 5
+        },
+        "SERP MS Divergence": {
+            "mean": 0.0,
+            "std": 0.0,
+            "num_values": 5
+        },
+        "Pragmatic Divergence": {
+            "mean": 0.0,
+            "std": 0.0,
+            "num_values": 5
+        },
+        "mean_rank": {
+            "mean": 13.747368421052633,
+            "std": 1.6631578947368426,
+            "num_values": 5
+        },
+        "diversity": {
+            "mean": 1.0,
+            "std": 0.0,
+            "num_values": 5
+        }
+    },
+    "thin": {
+        "IOU Divergence": {
+            "mean": 0.010000000000000009,
+            "std": 0.020000000000000018,
+            "num_values": 5
+        },
+        "SERP MS Divergence": {
+            "mean": 0.0,
+            "std": 0.0,
+            "num_values": 5
+        },
+        "Pragmatic Divergence": {
+            "mean": 0.0,
+            "std": 0.0,
+            "num_values": 5
+        },
+        "mean_rank": {
+            "mean": 14.578947368421051,
+            "std": 1.7763568394002505e-15,
+            "num_values": 5
+        },
+        "diversity": {
+            "mean": 1.0,
+            "std": 0.0,
+            "num_values": 5
+        }
+    }
+}

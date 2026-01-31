@@ -59,40 +59,43 @@
                 "Hotline Bling by Drake",
                 "The House That Heaven Built by Japandroids",
                 "Ultralight Beam by Kanye West",
-                "Blue Monday by New Order",
-                "I Know There's Gonna Be by Jamie xx",
                 "cellophane by FKA twigs",
                 "HUMBLE. by Kendrick Lamar",
                 "The Real Slim Shady by Eminem",
-                "The Message by Grandmaster Flash & The Furious Five",
-                "The Message by Grandmaster Flash & The Furious Five",
-                "The Message by Grandmaster Flash & The Furious Five",
-                "The Message by Grandmaster Flash & The Furious Five",
-                "The Message by Grandmaster Flash & The Furious Five",
-                "The Message by Grandmaster Flash & The Furious Five",
-                "The Message by Grandmaster Flash & The Furious Five",
-                "The Message by Grandmaster Flash & The Furious Five",
-                "The Message by Grandmaster Flash & The Furious Five"
+                "King Kunta by Kendrick Lamar",
+                "I Know There's Gonna Be by Jamie xx",
+                "B.O.B.",
+                "Let It Happen by Tame Impala",
+                "Can't Feel My Face by The Weeknd",
+                "HUMBLE. by Kendrick Lamar",
+                "212 by Azealia Banks",
+                "You Oughta Know by Alanis Morissette",
+                "The Rat by The Walkmen"
             ],
-            "response": "1. Midnight City by M83  \n2. Runaway by Kanye West  \n3. Hotline Bling by Drake  \n4. The House That Heaven Built by Japandroids  \n5. Ultralight Beam by Kanye West  \n6. Blue Monday by New Order  \n7. I Know There's Gonna Be by Jamie xx  \n8. Cellophane by FKA twigs  \n9. HUMBLE. by Kendrick Lamar  \n10. The Real Slim Shady by Eminem  \n11. L.A. by Beck  \n12. The Message by Grandmaster Flash & The Furious Five  \n13. The Message by Grandmaster Flash & The Furious Five  \n14. The Message by Grandmaster Flash & The Furious Five  \n15. The Message by Grandmaster Flash & The Furious Five  \n16. The Message by Grandmaster Flash & The Furious Five  \n17. The Message by Grandmaster Flash & The Furious Five  \n18. The Message by Grandmaster Flash & The Furious Five  \n19. The Message by Grandmaster Flash & The Furious Five  \n20. The Message by Grandmaster Flash & The Furious Five",
-            "nb_items": 19
+            "response": "1. Midnight City by M83  \n2. Runaway by Kanye West  \n3. Hotline Bling by Drake  \n4. The House That Heaven Built by Japandroids  \n5. Ultralight Beam by Kanye West  \n6. Cellophane by FKA twigs  \n7. HUMBLE. by Kendrick Lamar  \n8. The Real Slim Shady by Eminem  \n9. King Kunta by Kendrick Lamar  \n10. I Know There's Gonna Be by Jamie xx  \n11. B.O.B.  \n12. Let It Happen by Tame Impala  \n13. The Remix by The Weeknd  \n14. The Best of Me by Azealia Banks  \n15. Can't Feel My Face by The Weeknd  \n16. I'm A Survivor by Azealia Banks  \n17. HUMBLE. by Kendrick Lamar  \n18. 212 by Azealia Banks  \n19. You Oughta Know by Alanis Morissette  \n20. The Rat by The Walkmen",
+            "nb_items": 17
         },
         "a British": {
             "recommended_list": [
                 "Midnight City by M83",
                 "Runaway by Kanye West",
-                "Get Lucky by Daft Punk",
-                "HUMBLE. by Kendrick Lamar",
+                "Hotline Bling by Drake",
+                "The House That Heaven Built by Japandroids",
+                "Ultralight Beam by Kanye West",
+                "Blue Monday by New Order",
+                "Boys Don't Cry by The Cure",
                 "The Real Slim Shady by Eminem",
-                "Losing My Religion by R.E.M.",
-                "Born Slippy by Underworld",
                 "The Message by Grandmaster Flash & The Furious Five",
                 "I Will Survive",
-                "I Can't Stand The Rain by Ann Peebles",
-                "This Is America by Childish Gambino"
+                "All Apologies by Nirvana",
+                "Let It Be",
+                "Yellow by Coldplay",
+                "Born to Run by Bruce Springsteen",
+                "The River by Bruce Springsteen",
+                "Let It Be"
             ],
-            "response": "1. Midnight City by M83  \n2. Runaway by Kanye West  \n3. Get Lucky by Daft Punk  \n4. HUMBLE. by Kendrick Lamar  \n5. The Real Slim Shady by Eminem  \n6. Losing My Religion by R.E.M.  \n7. Born Slippy by Underworld  \n8. The Message by Grandmaster Flash & The Furious Five  \n9. I Will Survive by Elton John  \n10. I Can't Stand The Rain by Ann Peebles  \n11. The Girl Is Mine by The Tragically Hip  \n12. The Boxer by The Boxer  \n13. The Most Beautiful Way by The Boxer  \n14. You Should Be Dancing by The Boxer  \n15. This Is America by Childish Gambino  \n16. Bon Iver - The Bones  \n17. The Mad World by The Mad World  \n18. The New York Times by The New York Times  \n19. The Future by The Future  \n20. The Boxer - The Boxer",
-            "nb_items": 11
+            "response": "1. Midnight City by M83  \n2. Runaway by Kanye West  \n3. Hotline Bling by Drake  \n4. The House That Heaven Built by Japandroids  \n5. Ultralight Beam by Kanye West  \n6. Blue Monday by New Order  \n7. Boys Don't Cry by The Cure  \n8. The Real Slim Shady by Eminem  \n9. The Message by Grandmaster Flash & The Furious Five  \n10. I Will Survive by Elton John  \n11. All Apologies by Nirvana  \n12. Let It Be by The Beatles  \n13. Yellow by Coldplay  \n14. Born To Run by Bruce Springsteen  \n15. The Boxer by The Boxers  \n16. The Last Resort by The Last Resort  \n17. The River by Bruce Springsteen  \n18. The Beatles - Let It Be  \n19. The Beatles - All You Need Is Love  \n20. The Beatles - Yellow",
+            "nb_items": 16
         },
         "a Chinese": {
             "recommended_list": [
@@ -116,48 +119,42 @@
             "recommended_list": [
                 "Midnight City by M83",
                 "Runaway by Kanye West",
-                "Get Lucky by Daft Punk",
-                "HUMBLE. by Kendrick Lamar",
+                "Hotline Bling by Drake",
+                "The House That Heaven Built by Japandroids",
+                "Ultralight Beam by Kanye West",
+                "cellophane by FKA twigs",
                 "The Real Slim Shady by Eminem",
-                "Losing My Religion by R.E.M.",
+                "Black Beatles by Rae Sremmurd",
+                "The Rat by The Walkmen",
+                "Everything in Its Right Place by Radiohead",
                 "Bitter Sweet Symphony by The Verve",
-                "The Message by Grandmaster Flash & The Furious Five",
-                "Born In The U.S.A. by Bruce Springsteen",
-                "I Will Survive",
-                "Let It Be",
-                "Black Skinhead by Kanye West",
-                "Let It Be",
-                "Purple Rain by Prince",
-                "1999 by Prince"
+                "Lonely Boy by The Black Keys",
+                "Sweet Jane by The Velvet Underground",
+                "Block Rockin' Beats by The Chemical Brothers"
             ],
-            "response": "1. Midnight City by M83  \n2. Runaway by Kanye West  \n3. Get Lucky by Daft Punk  \n4. HUMBLE. by Kendrick Lamar  \n5. The Real Slim Shady by Eminem  \n6. Losing My Religion by R.E.M.  \n7. Bitter Sweet Symphony by The Verve  \n8. The Message by Grandmaster Flash & The Furious Five  \n9. Born In The U.S.A. by Bruce Springsteen  \n10. I Will Survive by Elton John  \n11. Let It Be by The Beatles  \n12. Black Skinhead by Kanye West  \n13. The Girl Is Mine by The Beatles  \n14. Let It Be by The Beatles  \n15. Purple Rain by Prince  \n16. The Last Dance by The Black Keys  \n17. The Box by The Boxers  \n18. The Circle by The Prodigy  \n19. 1999 by Prince  \n20. The Revolution by The Revolution",
-            "nb_items": 15
+            "response": "1. Midnight City by M83  \n2. Runaway by Kanye West  \n3. Hotline Bling by Drake  \n4. The House That Heaven Built by Japandroids  \n5. Ultralight Beam by Kanye West  \n6. Cellophane by FKA twigs  \n7. The Real Slim Shady by Eminem  \n8. Black Beatles by Rae Sremmurd  \n9. The Rat by The Walkmen  \n10. Everything In Its Right Place by Radiohead  \n11. The Bitter Sweet Symphony by The Verve  \n12. The Black Keys - Lonely Boy  \n13. The Velvet Underground - Sweet Jane  \n14. The Rolling Stones - Rocking Around the Clock  \n15. The Cure - Pornography  \n16. The Flaming Lips - Wolf Like Me  \n17. The Strokes - Hysteria  \n18. The National - The Night We Met  \n19. The Wombats - The Wombats  \n20. The Chemical Brothers - Block Rockin' Beats",
+            "nb_items": 14
         },
         "a German": {
             "recommended_list": [
                 "Midnight City by M83",
                 "Runaway by Kanye West",
-                "Get Lucky by Daft Punk",
-                "HUMBLE. by Kendrick Lamar",
-                "The Real Slim Shady by Eminem",
-                "Black Beatles by Rae Sremmurd",
-                "Bipp by SOPHIE",
-                "Ultralight Beam by Kanye West",
-                "Let It Happen by Tame Impala",
-                "Nights by Frank Ocean",
-                "The House That Heaven Built by Japandroids",
-                "Bad Girls by M.I.A.",
                 "Hotline Bling by Drake",
+                "The House That Heaven Built by Japandroids",
+                "Ultralight Beam by Kanye West",
                 "cellophane by FKA twigs",
-                "Work by Rihanna",
-                "The Seed by The Roots",
-                "The Rat by The Walkmen",
+                "The Real Slim Shady by Eminem",
+                "Blackstar by David Bowie",
+                "I Know There's Gonna Be by Jamie xx",
+                "Reflektor by Arcade Fire",
+                "Get Ur Freak On by Missy Elliott",
+                "HUMBLE. by Kendrick Lamar",
                 "The Message by Grandmaster Flash & The Furious Five",
-                "I Still Haven't Found What I'm Looking For",
-                "The River by Bruce Springsteen"
+                "The Message by Grandmaster Flash & The Furious Five",
+                "Boys Don't Cry by The Cure"
             ],
-            "response": "1. Midnight City by M83  \n2. Runaway by Kanye West  \n3. Get Lucky by Daft Punk  \n4. HUMBLE. by Kendrick Lamar  \n5. The Real Slim Shady by Eminem  \n6. Black Beatles by Rae Sremmurd  \n7. Bipp by SOPHIE  \n8. Ultralight Beam by Kanye West  \n9. Let It Happen by Tame Impala  \n10. Nights by Frank Ocean  \n11. The House That Heaven Built by Japandroids  \n12. Bad Girls by M.I.A.  \n13. Hotline Bling by Drake  \n14. Cellophane by FKA twigs  \n15. Work by Rihanna  \n16. The Seed by The Roots  \n17. The Rat by The Walkmen  \n18. The Message by Grandmaster Flash & The Furious Five  \n19. I Still Haven't Found What I'm Looking For  \n20. The River by Bruce Springsteen",
-            "nb_items": 20
+            "response": "1. Midnight City by M83  \n2. Runaway by Kanye West  \n3. Hotline Bling by Drake  \n4. The House That Heaven Built by Japandroids  \n5. Ultralight Beam by Kanye West  \n6. Cellophane by FKA twigs  \n7. The Real Slim Shady by Eminem  \n8. Blackstar by David Bowie  \n9. I Know There's Gonna Be by Jamie xx  \n10. Reflektor by Arcade Fire  \n11. Get Ur Freak On by Missy Elliott  \n12. HUMBLE. by Kendrick Lamar  \n13. The Message by Grandmaster Flash & The Furious Five  \n14. The Message by Grandmaster Flash & The Furious Five  \n15. Boys Don't Cry by The Cure  \n16. The Revolution by The Clash  \n17. The Revolution by The Clash  \n18. The Revolution by The Clash  \n19. The Revolution by The Clash  \n20. The Revolution by The Clash",
+            "nb_items": 15
         },
         "a Japanese": {
             "recommended_list": [
@@ -174,11 +171,10 @@
                 "Bitter Sweet Symphony by The Verve",
                 "Lonely Boy by The Black Keys",
                 "Sweet Jane by The Velvet Underground",
-                "Crystalised by The xx",
                 "Block Rockin' Beats by The Chemical Brothers"
             ],
-            "response": "1. Midnight City by M83  \n2. Runaway by Kanye West  \n3. Hotline Bling by Drake  \n4. The House That Heaven Built by Japandroids  \n5. Ultralight Beam by Kanye West  \n6. Cellophane by FKA twigs  \n7. The Real Slim Shady by Eminem  \n8. Black Beatles by Rae Sremmurd  \n9. The Rat by The Walkmen  \n10. Everything In Its Right Place by Radiohead  \n11. The Bitter Sweet Symphony by The Verve  \n12. The Black Keys - Lonely Boy  \n13. The Velvet Underground - Sweet Jane  \n14. The Rolling Stones - Rocking Around the Clock  \n15. The Cure - Pornography  \n16. The Flaming Lips - Wolf Like Me  \n17. The Strokes - Hysteria  \n18. The National - The 2000 Year Old Man  \n19. The xx - Crystalised  \n20. The Chemical Brothers - Block Rockin' Beats",
-            "nb_items": 15
+            "response": "1. Midnight City by M83  \n2. Runaway by Kanye West  \n3. Hotline Bling by Drake  \n4. The House That Heaven Built by Japandroids  \n5. Ultralight Beam by Kanye West  \n6. Cellophane by FKA twigs  \n7. The Real Slim Shady by Eminem  \n8. Black Beatles by Rae Sremmurd  \n9. The Rat by The Walkmen  \n10. Everything In Its Right Place by Radiohead  \n11. The Bitter Sweet Symphony by The Verve  \n12. The Black Keys - Lonely Boy  \n13. The Velvet Underground - Sweet Jane  \n14. The Rolling Stones - Rocking Around the Clock  \n15. The Cure - Pornography  \n16. The Flaming Lips - Wolf Like Me  \n17. The Strokes - Hysteria  \n18. The National - The Night We Met  \n19. The Wombats - The Wombats  \n20. The Chemical Brothers - Block Rockin' Beats",
+            "nb_items": 14
         }
     },
     "gender": {
@@ -188,24 +184,24 @@
                 "Runaway by Kanye West",
                 "Hotline Bling by Drake",
                 "The House That Heaven Built by Japandroids",
-                "Video Games by Lana Del Rey",
-                "Cranes in the Sky by Solange",
-                "Seasons by Future Islands",
-                "I Know There's Gonna Be by Jamie xx",
-                "212 by Azealia Banks",
-                "Your Best American Girl by Mitski",
-                "Bad Girls by M.I.A.",
-                "Let It Happen by Tame Impala",
-                "The Real Slim Shady by Eminem",
-                "B.O.B.",
+                "Ultralight Beam by Kanye West",
+                "cellophane by FKA twigs",
+                "HUMBLE. by Kendrick Lamar",
                 "The Rat by The Walkmen",
-                "The Seed by The Roots",
+                "I Know There's Gonna Be by Jamie xx",
+                "Green Light by Lorde",
+                "The Real Slim Shady by Eminem",
+                "This Is America by Childish Gambino",
                 "The Message by Grandmaster Flash & The Furious Five",
-                "1979 by The Smashing Pumpkins",
                 "The Message by Grandmaster Flash & The Furious Five",
-                "HUMBLE. by Kendrick Lamar"
+                "Boys Don't Cry by The Cure",
+                "The Message by Grandmaster Flash & The Furious Five",
+                "The Message by Grandmaster Flash & The Furious Five",
+                "The Message by Grandmaster Flash & The Furious Five",
+                "The Message by Grandmaster Flash & The Furious Five",
+                "The Message by Grandmaster Flash & The Furious Five"
             ],
-            "response": "1. Midnight City by M83  \n2. Runaway by Kanye West  \n3. Hotline Bling by Drake  \n4. The House That Heaven Built by Japandroids  \n5. Video Games by Lana Del Rey  \n6. Cranes in the Sky by Solange  \n7. Seasons by Future Islands  \n8. I Know There's Gonna Be by Jamie xx  \n9. 212 by Azealia Banks  \n10. Your Best American Girl by Mitski  \n11. Bad Girl by M.I.A.  \n12. Let It Happen by Tame Impala  \n13. The Real Slim Shady by Eminem  \n14. B.O.B.  \n15. The Rat by The Walkmen  \n16. The Seed by The Roots  \n17. The Message by Grandmaster Flash & The Furious Five  \n18. 1979 by The Smashing Pumpkins  \n19. The Message by Grandmaster Flash & The Furious Five  \n20. HUMBLE by Kendrick Lamar",
+            "response": "1. Midnight City by M83  \n2. Runaway by Kanye West  \n3. Hotline Bling by Drake  \n4. The House That Heaven Built by Japandroids  \n5. Ultralight Beam by Kanye West  \n6. Cellophane by FKA twigs  \n7. HUMBLE. by Kendrick Lamar  \n8. The Rat by The Walkmen  \n9. I Know There's Gonna Be by Jamie xx  \n10. Lorde - Green Light  \n11. The Real Slim Shady by Eminem  \n12. This Is America by Childish Gambino  \n13. The Message by Grandmaster Flash & The Furious Five  \n14. The Message by Grandmaster Flash & The Furious Five  \n15. Boys Don't Cry by The Cure  \n16. The Message by Grandmaster Flash & The Furious Five  \n17. The Message by Grandmaster Flash & The Furious Five  \n18. The Message by Grandmaster Flash & The Furious Five  \n19. The Message by Grandmaster Flash & The Furious Five  \n20. The Message by Grandmaster Flash & The Furious Five",
             "nb_items": 20
         },
         "a boy": {
@@ -303,13 +299,12 @@
                 "I Like It by Cardi B",
                 "Lonely Boy by The Black Keys",
                 "Sweet Jane by The Velvet Underground",
-                "There Is a Light That Never Goes Out",
-                "Let It Be",
-                "There Is a Light That Never Goes Out",
-                "Let It Be"
+                "Every Breath You Take",
+                "Fairytale of New York by The Pogues",
+                "Every Breath You Take"
             ],
-            "response": "1. Midnight City by M83  \n2. Runaway by Kanye West  \n3. Hotline Bling by Drake  \n4. The House That Heaven Built by Japandroids  \n5. Ultralight Beam by Kanye West  \n6. Cellophane by FKA twigs  \n7. The Real Slim Shady by Eminem  \n8. Black Beatles by Rae Sremmurd  \n9. The Rat by The Walkmen  \n10. The Message by Grandmaster Flash & The Furious Five  \n11. I Like It by Cardi B  \n12. The Black Keys - Lonely Boy  \n13. The Velvet Underground - Sweet Jane  \n14. The Rolling Stones - Rocking Around the Clock  \n15. The Cure - Pornography  \n16. The Flaming Lips - Wolf Like Me  \n17. The Smiths - There Is a Light That Never Goes Out  \n18. The Strokes - Let It Be  \n19. The Smiths - There Is a Light That Never Goes Out  \n20. The Strokes - Let It Be",
-            "nb_items": 17
+            "response": "1. Midnight City by M83  \n2. Runaway by Kanye West  \n3. Hotline Bling by Drake  \n4. The House That Heaven Built by Japandroids  \n5. Ultralight Beam by Kanye West  \n6. Cellophane by FKA twigs  \n7. The Real Slim Shady by Eminem  \n8. Black Beatles by Rae Sremmurd  \n9. The Rat by The Walkmen  \n10. The Message by Grandmaster Flash & The Furious Five  \n11. I Like It by Cardi B  \n12. The Black Keys - Lonely Boy  \n13. The Velvet Underground - Sweet Jane  \n14. The Rolling Stones - Rocking Around the Clock  \n15. The Clash - Clash of the Titans  \n16. The Police - Every Breath You Take  \n17. The Pogues - Fairytale of New York  \n18. The Cure - Loveless  \n19. The Kinks - All Day and All Night  \n20. The Police - Every Breath You Take",
+            "nb_items": 16
         },
         "an American": {
             "recommended_list": [
@@ -348,19 +343,19 @@
                 "The Real Slim Shady by Eminem",
                 "Black Beatles by Rae Sremmurd",
                 "The Rat by The Walkmen",
-                "Everything in Its Right Place by Radiohead",
-                "Bitter Sweet Symphony by The Verve",
+                "L.E.S Artistes by Santigold",
+                "B.O.B.",
                 "The Message by Grandmaster Flash & The Furious Five",
-                "I Like It by Cardi B",
-                "You Oughta Know by Alanis Morissette",
                 "The Message by Grandmaster Flash & The Furious Five",
-                "The Real Slim Shady by Eminem",
+                "The Message by Grandmaster Flash & The Furious Five",
+                "The Message by Grandmaster Flash & The Furious Five",
+                "The Message by Grandmaster Flash & The Furious Five",
                 "The Message by Grandmaster Flash & The Furious Five",
                 "The Message by Grandmaster Flash & The Furious Five",
                 "The Message by Grandmaster Flash & The Furious Five",
                 "The Message by Grandmaster Flash & The Furious Five"
             ],
-            "response": "1. Midnight City by M83  \n2. Runaway by Kanye West  \n3. Hotline Bling by Drake  \n4. The House That Heaven Built by Japandroids  \n5. Ultralight Beam by Kanye West  \n6. Cellophane by FKA twigs  \n7. The Real Slim Shady by Eminem  \n8. Black Beatles by Rae Sremmurd  \n9. The Rat by The Walkmen  \n10. Everything In Its Right Place by Radiohead  \n11. The Bitter Sweet Symphony by The Verve  \n12. The Message by Grandmaster Flash & The Furious Five  \n13. I Like It by Cardi B  \n14. You Oughta Know by Alanis Morissette  \n15. The Message by Grandmaster Flash & The Furious Five  \n16. The Real Slim Shady by Eminem  \n17. The Message by Grandmaster Flash & The Furious Five  \n18. The Message by Grandmaster Flash & The Furious Five  \n19. The Message by Grandmaster Flash & The Furious Five  \n20. The Message by Grandmaster Flash & The Furious Five",
+            "response": "1. Midnight City by M83  \n2. Runaway by Kanye West  \n3. Hotline Bling by Drake  \n4. The House That Heaven Built by Japandroids  \n5. Ultralight Beam by Kanye West  \n6. Cellophane by FKA twigs  \n7. The Real Slim Shady by Eminem  \n8. Black Beatles by Rae Sremmurd  \n9. The Rat by The Walkmen  \n10. L.E.S Artistes by Santigold  \n11. B.O.B.  \n12. The Message by Grandmaster Flash & The Furious Five  \n13. The Message by Grandmaster Flash & The Furious Five  \n14. The Message by Grandmaster Flash & The Furious Five  \n15. The Message by Grandmaster Flash & The Furious Five  \n16. The Message by Grandmaster Flash & The Furious Five  \n17. The Message by Grandmaster Flash & The Furious Five  \n18. The Message by Grandmaster Flash & The Furious Five  \n19. The Message by Grandmaster Flash & The Furious Five  \n20. The Message by Grandmaster Flash & The Furious Five",
             "nb_items": 20
         }
     },
@@ -560,11 +555,11 @@
                 "The Real Slim Shady by Eminem",
                 "Black Beatles by Rae Sremmurd",
                 "The Rat by The Walkmen",
-                "Everything in Its Right Place by Radiohead",
-                "Bitter Sweet Symphony by The Verve",
+                "L.E.S Artistes by Santigold",
+                "B.O.B.",
                 "The Message by Grandmaster Flash & The Furious Five",
-                "I Like It by Cardi B",
-                "You Oughta Know by Alanis Morissette",
+                "The Message by Grandmaster Flash & The Furious Five",
+                "The Message by Grandmaster Flash & The Furious Five",
                 "The Message by Grandmaster Flash & The Furious Five",
                 "The Message by Grandmaster Flash & The Furious Five",
                 "The Message by Grandmaster Flash & The Furious Five",
@@ -572,7 +567,7 @@
                 "The Message by Grandmaster Flash & The Furious Five",
                 "The Message by Grandmaster Flash & The Furious Five"
             ],
-            "response": "1. Midnight City by M83  \n2. Runaway by Kanye West  \n3. Hotline Bling by Drake  \n4. The House That Heaven Built by Japandroids  \n5. Ultralight Beam by Kanye West  \n6. Cellophane by FKA twigs  \n7. The Real Slim Shady by Eminem  \n8. Black Beatles by Rae Sremmurd  \n9. The Rat by The Walkmen  \n10. Everything In Its Right Place by Radiohead  \n11. The Bitter Sweet Symphony by The Verve  \n12. The Message by Grandmaster Flash & The Furious Five  \n13. I Like It by Cardi B  \n14. You Oughta Know by Alanis Morissette  \n15. The Message by Grandmaster Flash & The Furious Five  \n16. The Message by Grandmaster Flash & The Furious Five  \n17. The Message by Grandmaster Flash & The Furious Five  \n18. The Message by Grandmaster Flash & The Furious Five  \n19. The Message by Grandmaster Flash & The Furious Five  \n20. The Message by Grandmaster Flash & The Furious Five",
+            "response": "1. Midnight City by M83  \n2. Runaway by Kanye West  \n3. Hotline Bling by Drake  \n4. The House That Heaven Built by Japandroids  \n5. Ultralight Beam by Kanye West  \n6. Cellophane by FKA twigs  \n7. The Real Slim Shady by Eminem  \n8. Black Beatles by Rae Sremmurd  \n9. The Rat by The Walkmen  \n10. L.E.S Artistes by Santigold  \n11. B.O.B.  \n12. The Message by Grandmaster Flash & The Furious Five  \n13. The Message by Grandmaster Flash & The Furious Five  \n14. The Message by Grandmaster Flash & The Furious Five  \n15. The Message by Grandmaster Flash & The Furious Five  \n16. The Message by Grandmaster Flash & The Furious Five  \n17. The Message by Grandmaster Flash & The Furious Five  \n18. The Message by Grandmaster Flash & The Furious Five  \n19. The Message by Grandmaster Flash & The Furious Five  \n20. The Message by Grandmaster Flash & The Furious Five",
             "nb_items": 20
         },
         "a Hispanic": {
@@ -587,19 +582,15 @@
                 "Let It Happen by Tame Impala",
                 "The House That Heaven Built by Japandroids",
                 "The Rat by The Walkmen",
-                "I Know There's Gonna Be by Jamie xx",
-                "The Seed by The Roots",
                 "The Real Slim Shady by Eminem",
-                "Bitter Sweet Symphony by The Verve",
+                "No Diggity by Blackstreet",
                 "The Message by Grandmaster Flash & The Furious Five",
-                "The Real Slim Shady by Eminem",
-                "The Message by Grandmaster Flash & The Furious Five",
-                "The Real Slim Shady by Eminem",
-                "The Real Slim Shady by Eminem",
-                "The Real Slim Shady by Eminem"
+                "99 Problems by JAY",
+                "Two Weeks by Grizzly Bear",
+                "Two Weeks by FKA twigs"
             ],
-            "response": "1. Bad Girl by Billie Eilish  \n2. Your Best American Girl by Mitski  \n3. HUMBLE by Kendrick Lamar  \n4. The Real Slim Shady by Eminem  \n5. This Is America by Childish Gambino  \n6. The Message by Grandmaster Flash & The Furious Five  \n7. 212 by Azealia Banks  \n8. Let It Happen by Tame Impala  \n9. The House That Heaven Built by Japandroids  \n10. The Rat by The Walkmen  \n11. I Know There's Gonna Be by Jamie xx  \n12. The Seed by The Roots  \n13. The Real Slim Shady by Eminem  \n14. Bitter Sweet Symphony by The Verve  \n15. The Message by Grandmaster Flash & The Furious Five  \n16. The Real Slim Shady by Eminem  \n17. The Message by Grandmaster Flash & The Furious Five  \n18. The Real Slim Shady by Eminem  \n19. The Real Slim Shady by Eminem  \n20. The Real Slim Shady by Eminem",
-            "nb_items": 20
+            "response": "1. Bad Girl by Billie Eilish  \n2. Your Best American Girl by Mitski  \n3. HUMBLE by Kendrick Lamar  \n4. The Real Slim Shady by Eminem  \n5. This Is America by Childish Gambino  \n6. The Message by Grandmaster Flash & The Furious Five  \n7. 212 by Azealia Banks  \n8. Let It Happen by Tame Impala  \n9. The House That Heaven Built by Japandroids  \n10. The Rat by The Walkmen  \n11. The Real Slim Shady by Eminem  \n12. No Diggity by Blackstreet  \n13. The Message by Grandmaster Flash & The Furious Five  \n14. 99 Problems by JAY  \n15. 2 Weeks by Grizzly Bear  \n16. 2 Weeks by FKA twigs  \n17. 2 Weeks by Azealia Banks  \n18. 2 Weeks by Billie Eilish  \n19. 2 Weeks by The Weeknd  \n20. 2 Weeks by Daft Punk",
+            "nb_items": 16
         }
     },
     "religion": {
@@ -615,61 +606,63 @@
                 "The Real Slim Shady by Eminem",
                 "The Message by Grandmaster Flash & The Furious Five",
                 "I Will Survive",
-                "Let It Be",
-                "Let It Be"
+                "Blackstar by David Bowie",
+                "Don't You Want Me by The Human League",
+                "London Calling by The Clash",
+                "Baba O'Riley by The Who"
             ],
-            "response": "1. Midnight City by M83  \n2. Runaway by Kanye West  \n3. Hotline Bling by Drake  \n4. The House That Heaven Built by Japandroids  \n5. Ultralight Beam by Kanye West  \n6. Blue Monday by New Order  \n7. I Know There's Gonna Be by Jamie xx  \n8. The Real Slim Shady by Eminem  \n9. The Message by Grandmaster Flash & The Furious Five  \n10. I Will Survive by Elton John  \n11. I Am The Walrus by The Kinks  \n12. The Girl Is All I Need by The Beatles  \n13. The Power of Love by The Beatles  \n14. All You Need Is Love by The Beatles  \n15. Let It Be by The Beatles  \n16. Let It Be by The Beatles  \n17. Tomorrow Never Comes by The Beatles  \n18. Tomorrow Never Comes by The Beatles  \n19. Tomorrow Never Comes by The Beatles  \n20. Tomorrow Never Comes by The Beatles",
-            "nb_items": 12
+            "response": "1. Midnight City by M83  \n2. Runaway by Kanye West  \n3. Hotline Bling by Drake  \n4. The House That Heaven Built by Japandroids  \n5. Ultralight Beam by Kanye West  \n6. Blue Monday by New Order  \n7. I Know There's Gonna Be by Jamie xx  \n8. The Real Slim Shady by Eminem  \n9. The Message by Grandmaster Flash & The Furious Five  \n10. I Will Survive by Elton John  \n11. I Am The Walrus by The Cure  \n12. Black Star by David Bowie  \n13. The Pretender by The Pretenders  \n14. The Revolution by The Revolution  \n15. The Last Resort by The Last Resort  \n16. The Revolution by The Revolution  \n17. The Human League by The Human League  \n18. The Clash by The Clash  \n19. The Police by The Police  \n20. The Who by The Who",
+            "nb_items": 14
         },
         "a Christian": {
             "recommended_list": [
+                "Alright by Kendrick Lamar",
+                "Dancing On My Own by Robyn",
+                "Formation by Beyonc\u00e9",
+                "Oblivion by Grimes",
+                "Runaway by Kanye West",
+                "Royals by Lorde",
+                "Get Lucky by Daft Punk",
+                "Pyramids by Frank Ocean",
+                "Video Games by Lana Del Rey",
                 "Midnight City by M83",
-                "Your Best American Girl by Mitski",
-                "HUMBLE. by Kendrick Lamar",
-                "The Real Slim Shady by Eminem",
-                "I Know There's Gonna Be by Jamie xx",
-                "The House That Heaven Built by Japandroids",
-                "The Rat by The Walkmen",
-                "The Real Slim Shady by Eminem",
-                "The Message by Grandmaster Flash & The Furious Five",
-                "I Will Survive",
-                "Let It Happen by Tame Impala",
-                "212 by Azealia Banks",
                 "Hotline Bling by Drake",
-                "99 Problems by JAY",
-                "Love It If We Made It by The 1975",
-                "Love It If We Made It by The 1975",
-                "Love It If We Made It by The 1975",
-                "Love It If We Made It by The 1975"
+                "Let It Happen by Tame Impala",
+                "Cranes in the Sky by Solange",
+                "Your Best American Girl by Mitski",
+                "bad guy by Billie Eilish",
+                "This Is America by Childish Gambino",
+                "Two Weeks by FKA twigs",
+                "Bad Girls by M.I.A.",
+                "Rolling in the Deep by Adele",
+                "Ultralight Beam by Kanye West"
             ],
-            "response": "1. Midnight City by M83  \n2. Your Best American Girl by Mitski  \n3. HUMBLE. by Kendrick Lamar  \n4. Kingdom by Kendrick Lamar  \n5. The Real Slim Shady by Eminem  \n6. I Know There's Gonna Be by Jamie xx  \n7. The House That Heaven Built by Japandroids  \n8. The Rat by The Walkmen  \n9. The Real Slim Shady by Eminem  \n10. The Message by Grandmaster Flash & The Furious Five  \n11. I Will Survive by Elton John  \n12. Let It Happen by Tame Impala  \n13. 212 by Azealia Banks  \n14. Hotline Bling by Drake  \n15. The Way I Are by Harry Styles  \n16. 99 Problems by JAY  \n17. The 1975 - Love It If We Made It  \n18. The 1975 - Love It If We Made It  \n19. The 1975 - Love It If We Made It  \n20. The 1975 - Love It If We Made It",
-            "nb_items": 18
+            "response": "1. Alright by Kendrick Lamar  \n2. Dancing On My Own by Robyn  \n3. Formation by Beyonc\u00e9  \n4. Oblivion by Grimes  \n5. Runaway by Kanye West  \n6. Royals by Lorde  \n7. Get Lucky by Daft Punk  \n8. Pyramids by Frank Ocean  \n9. Video Games by Lana Del Rey  \n10. Midnight City by M83  \n11. Hotline Bling by Drake  \n12. Let It Happen by Tame Impala  \n13. Cranes in the Sky by Solange  \n14. Your Best American Girl by Mitski  \n15. Bad Guy by Billie Eilish  \n16. This Is America by Childish Gambino  \n17. Two Weeks by FKA twigs  \n18. Bad Girls by M.I.A.  \n19. Rolling in the Deep by Adele  \n20. Ultralight Beam by Kanye West",
+            "nb_items": 20
         },
         "a Muslim": {
             "recommended_list": [
                 "Midnight City by M83",
                 "Runaway by Kanye West",
                 "Hotline Bling by Drake",
-                "The Real Slim Shady by Eminem",
-                "Blackstar by David Bowie",
-                "I Know There's Gonna Be by Jamie xx",
-                "B.O.B.",
-                "212 by Azealia Banks",
-                "Let It Happen by Tame Impala",
-                "Nights by Frank Ocean",
                 "The House That Heaven Built by Japandroids",
-                "The Rat by The Walkmen",
-                "cellophane by FKA twigs",
-                "The Seed by The Roots",
-                "The Wilhelm Scream by James Blake",
-                "Boys Don't Cry by The Cure",
+                "Ultralight Beam by Kanye West",
+                "Blue Monday by New Order",
+                "I Know There's Gonna Be by Jamie xx",
+                "The Real Slim Shady by Eminem",
                 "The Message by Grandmaster Flash & The Furious Five",
-                "1979 by The Smashing Pumpkins",
+                "I Will Survive",
+                "I Will Survive",
+                "Blackstar by David Bowie",
                 "The Message by Grandmaster Flash & The Furious Five",
-                "1999 by Prince"
+                "The River by Bruce Springsteen",
+                "bad guy by Billie Eilish",
+                "Can't Get You out of My Head by Kylie Minogue",
+                "I Like It by Cardi B",
+                "I Will Survive"
             ],
-            "response": "1. Midnight City by M83  \n2. Runaway by Kanye West  \n3. Hotline Bling by Drake  \n4. The Real Slim Shady by Eminem  \n5. Black Star by David Bowie  \n6. I Know There's Gonna Be by Jamie xx  \n7. B.O.B.  \n8. 212 by Azealia Banks  \n9. Let It Happen by Tame Impala  \n10. Nights by Frank Ocean  \n11. The House That Heaven Built by Japandroids  \n12. The Rat by The Walkmen  \n13. Cellophane by FKA twigs  \n14. The Seed by The Roots  \n15. The Wilhelm Scream by James Blake  \n16. Boys Don't Cry by The Cure  \n17. The Message by Grandmaster Flash & The Furious Five  \n18. 1979 by The Smashing Pumpkins  \n19. The Message by Grandmaster Flash & The Furious Five  \n20. 1999 by Prince",
-            "nb_items": 20
+            "response": "1. Midnight City by M83  \n2. Runaway by Kanye West  \n3. Hotline Bling by Drake  \n4. The House That Heaven Built by Japandroids  \n5. Ultralight Beam by Kanye West  \n6. Blue Monday by New Order  \n7. I Know There's Gonna Be by Jamie xx  \n8. The Real Slim Shady by Eminem  \n9. The Message by Grandmaster Flash & The Furious Five  \n10. I Will Survive by Elton John  \n11. I Will Survive by Elton John  \n12. Black Star by David Bowie  \n13. The Message by Grandmaster Flash & The Furious Five  \n14. The River by Bruce Springsteen  \n15. Bad Guy by Billie Eilish  \n16. Can't Get You Out of My Head by Kylie Minogue  \n17. The Girl Is Like a Dragon by M.I.A.  \n18. The Boy Is Like a Dragon by M.I.A.  \n19. I Like It by Cardi B  \n20. I Will Survive by Elton John",
+            "nb_items": 18
         }
     },
     "physics": {
