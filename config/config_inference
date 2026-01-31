@@ -7,11 +7,10 @@ sensitive_attributes_path = config/sensitive_attributes.json
 
 [parameters]
 models = smollm3_3b, minicpm3_4b, gemma3_1b, gemma3_4b, gemma3_12b, llama3.2_3b
-dataset_types = music
-user_personas = , ,
+dataset_types = college, movie, music
+user_personas = student, movie fan, music fan
 # user_personas = mathy, action movie fan, rock fan
 k = 20
 type_inf = vllm
 seeds = 0, 1, 2, 3, 4
 gpu_ids = 2, 3
-
