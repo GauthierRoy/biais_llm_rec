@@ -5,7 +5,7 @@
     },
     "llama3.2_1b": {
         "vllm": "meta-llama/Llama-3.2-1B-Instruct"
-    }
+    },
     "gemma3_4b": {
         "vllm": "google/gemma-3-4b-it"
     },
@@ -39,8 +39,8 @@
     "qwen3_235b_moe": {
         "vllm": "Qwen/Qwen3-235B-A22B"
     },
-    "ministral_3b":{
-        "vllm":"ministral/Ministral-3b-instruct"
+    "ministral_3b": {
+        "vllm": "ministral/Ministral-3b-instruct"
     },
     "minicpm3_4b": {
         "vllm": "openbmb/MiniCPM3-4B"
