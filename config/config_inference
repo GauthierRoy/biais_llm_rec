@@ -6,7 +6,7 @@ visualization_path = data/visualization/
 sensitive_attributes_path = config/sensitive_attributes.json
 
 [parameters]
-models = smollm3_3b, minicpm3_4b, gemma3_1b, gemma3_4b, gemma3_12b, llama3.2_3b, qwen3_1.7b, qwen3_4b, qwen3_14b, qwen3_0.6b, qwen3_8b, qwen3_32b, qwen3_30b_moe, qwen3_235b_moe
+models = llama3.2_1b, llama3.2_3b, smollm3_3b, minicpm3_4b, gemma3_1b, gemma3_4b, gemma3_12b, qwen3_1.7b, qwen3_4b, qwen3_14b, qwen3_0.6b, qwen3_8b, qwen3_32b, qwen3_30b_moe, qwen3_235b_moe
 dataset_types = college, movie, music
 user_personas = student, movie fan, music fan
 # user_personas = mathy, action movie fan, rock fan
