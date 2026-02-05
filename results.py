@@ -407,11 +407,15 @@ def analyze_western_bias_horizontal(
     movie_set,
     personas_config,
     fuzzy_cutoff=89,
+    save=False,
+    save_basename=None,
 ):
     # --- 1. Path Setup ---
     config = configparser.ConfigParser()
     config.read("config/config_inference")
     OUTPUT_PATH = config.get("paths", "output_path", fallback="results/")
+    visualization_path = config.get("paths", "visualization_path", fallback="plots/")
+    os.makedirs(visualization_path, exist_ok=True)
 
     all_persona_names = [p for sublist in personas_config.values() for p in sublist]
     results = {p_name: [] for p_name in all_persona_names}
@@ -563,6 +567,12 @@ def analyze_western_bias_horizontal(
     )
 
     plt.tight_layout()
+    if save:
+        base = save_basename or f"{model_name}_{dataset_type}_{user_persona_type}_{label}_bias"
+        pdf_path = os.path.join(visualization_path, f"{base}.pdf")
+        svg_path = os.path.join(visualization_path, f"{base}.svg")
+        plt.savefig(pdf_path, bbox_inches="tight")
+        plt.savefig(svg_path, bbox_inches="tight")
     plt.show()
 
 
@@ -575,6 +585,8 @@ def plot_persona_divergence_horizontal(
     desired_order=None,
     activity_color_map=None,
     config_path="config/config_inference",
+    save=False,
+    save_basename=None,
 ):
     """
     Horizontal (single-column) version of the persona divergence plot.
@@ -830,6 +842,13 @@ def plot_persona_divergence_horizontal(
         )
 
         plt.tight_layout()
+        if save:
+            base = save_basename or f"{model}_{dataset_type}_{user_persona}_{metric}_divergence"
+            safe_base = base.replace(" ", "_")
+            pdf_path = os.path.join(visualization_path, f"{safe_base}.pdf")
+            svg_path = os.path.join(visualization_path, f"{safe_base}.svg")
+            plt.savefig(pdf_path, bbox_inches="tight")
+            plt.savefig(svg_path, bbox_inches="tight")
         plt.show()
 
     print("Processing complete.")
@@ -843,6 +862,8 @@ def plot_gender_bias_horizontal(
     config_path="config/config_inference",
     include_neutral=True,
     score_cutoff=89,
+    save=False,
+    save_basename=None,
 ):
     """
     Horizontal bar plot for gender-only personas (boy/male/girl/female [+ neutral]).
@@ -984,6 +1005,12 @@ def plot_gender_bias_horizontal(
     ax.set_xlim(0, 100)
 
     plt.tight_layout()
+    if save:
+        base = save_basename or f"{model_name}_{dataset_type}_{user_persona_type}_gender_bias"
+        pdf_path = os.path.join(visualization_path, f"{base}.pdf")
+        svg_path = os.path.join(visualization_path, f"{base}.svg")
+        plt.savefig(pdf_path, bbox_inches="tight")
+        plt.savefig(svg_path, bbox_inches="tight")
     plt.show()
 
     return df
