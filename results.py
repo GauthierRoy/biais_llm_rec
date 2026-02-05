@@ -37,7 +37,7 @@ PLOT_BASE_FONT = 9
 PLOT_TITLE_FONT = 10
 PLOT_TICK_FONT = 8
 PLOT_FIG_WIDTH = 3.6
-PLOT_MIN_HEIGHT = 2.5
+PLOT_MIN_HEIGHT = 2
 PLOT_BAR_HEIGHT = 0.6
 PLOT_ROW_GAP = 1.0
 
@@ -393,7 +393,7 @@ def plot_persona_divergence(
             columnspacing=1.6,
         )
 
-        plt.tight_layout()
+        plt.tight_layout(pad=0.0)
         plt.show()
 
     print("Processing complete.")
@@ -528,12 +528,7 @@ def analyze_western_bias_horizontal(
     ax.set_xlabel(
         f"Ratio of {label} Content", fontsize=PLOT_BASE_FONT, fontweight="bold"
     )
-    ax.set_title(
-        f"{model_name}: {label} Bias",
-        fontsize=PLOT_TITLE_FONT,
-        fontweight="bold",
-        pad=18,
-    )
+    # No title
 
     sns.despine(ax=ax, left=False, top=True, right=True)
     ax.xaxis.grid(True, linestyle=":", alpha=0.4)
@@ -566,9 +561,12 @@ def analyze_western_bias_horizontal(
         handletextpad=0.3,
     )
 
-    plt.tight_layout()
+    plt.tight_layout(pad=0.0)
     if save:
-        base = save_basename or f"{model_name}_{dataset_type}_{user_persona_type}_{label}_bias"
+        base = (
+            save_basename
+            or f"{model_name}_{dataset_type}_{user_persona_type}_{label}_bias"
+        )
         pdf_path = os.path.join(visualization_path, f"{base}.pdf")
         svg_path = os.path.join(visualization_path, f"{base}.svg")
         plt.savefig(pdf_path, bbox_inches="tight")
@@ -718,7 +716,8 @@ def plot_persona_divergence_horizontal(
         # --- Plotting (horizontal) ---
         sns.set_style("white")
 
-        row_gap = PLOT_ROW_GAP
+        # Tighter spacing to match analyze_western_bias_horizontal density
+        row_gap = PLOT_ROW_GAP * 0.8
         fig_width = PLOT_FIG_WIDTH
         fig_height = max(6.0, len(order) * 0.30)
         fig, ax = plt.subplots(1, 1, figsize=(fig_width, fig_height))
@@ -733,8 +732,8 @@ def plot_persona_divergence_horizontal(
                 va="center",
                 transform=ax.get_yaxis_transform(),
                 fontsize=PLOT_BASE_FONT,
-                fontweight="bold",
                 color="#000000",
+                rotation=90,
             )
             ax.axhline(
                 (start - 0.5) * row_gap, color="#000000", linewidth=2.0, zorder=1
@@ -750,6 +749,7 @@ def plot_persona_divergence_horizontal(
         wide["low_label"] = np.where(low_mask, "movie fan", "action movie fan")
         wide["high_label"] = np.where(low_mask, "action movie fan", "movie fan")
 
+        bar_height = PLOT_BAR_HEIGHT * 0.8
         y_positions = np.arange(len(order)) * row_gap
         for label_type, z_order in [("high", 2), ("low", 3)]:
             val_col, lbl_col = f"{label_type}_value", f"{label_type}_label"
@@ -761,7 +761,7 @@ def plot_persona_divergence_horizontal(
                     y_positions[mask],
                     wide.loc[mask, val_col],
                     color=activity_color_map[persona],
-                    height=PLOT_BAR_HEIGHT,
+                    height=bar_height,
                     linewidth=0.0,
                     zorder=z_order,
                 )
@@ -803,47 +803,36 @@ def plot_persona_divergence_horizontal(
         ax.spines["bottom"].set_color("#B0BEC5")
         ax.spines["bottom"].set_linewidth(1.0)
 
-        ax.text(
-            -0.22,
-            1.03,
-            "Attributes",
-            transform=ax.transAxes,
-            ha="left",
-            va="bottom",
-            fontsize=PLOT_BASE_FONT,
-            fontweight="bold",
-        )
-
-        title_handle = Line2D([], [], color="none")
         handles = [
-            title_handle,
             plt.Rectangle((0, 0), 1, 1, color=activity_color_map["action movie fan"]),
             plt.Rectangle((0, 0), 1, 1, color=activity_color_map["movie fan"]),
         ]
         labels = [
-            "User persona:",
-            "Action movie fan\n(w/ context)",
-            "Movie fan\n(w/o context)",
+            "Action movie fan (w/ context)",
+            "Movie fan (w/o context)",
         ]
 
         ax.legend(
             handles,
             labels,
-            ncol=3,
+            ncol=2,
             loc="lower center",
             bbox_to_anchor=(0.5, 1.02),
-            prop={"weight": "bold", "size": PLOT_BASE_FONT},
+            prop={"weight": "normal", "size": 7},
             frameon=False,
-            columnspacing=2.5,
-            handletextpad=0.8,
-            handlelength=1.5,
-            handleheight=2.0,
-            labelspacing=1.2,
+            columnspacing=0.8,
+            handletextpad=0.3,
+            handlelength=1.2,
+            handleheight=1.2,
+            labelspacing=0.8,
         )
 
-        plt.tight_layout()
+        plt.tight_layout(pad=0.0)
         if save:
-            base = save_basename or f"{model}_{dataset_type}_{user_persona}_{metric}_divergence"
+            base = (
+                save_basename
+                or f"{model}_{dataset_type}_{user_persona}_{metric}_divergence"
+            )
             safe_base = base.replace(" ", "_")
             pdf_path = os.path.join(visualization_path, f"{safe_base}.pdf")
             svg_path = os.path.join(visualization_path, f"{safe_base}.svg")
@@ -976,11 +965,12 @@ def plot_gender_bias_horizontal(
         order_plot,
         means.reindex(order_plot),
         xerr=stds.reindex(order_plot),
-        capsize=6,
+        capsize=2,
         color=colors[::-1] if include_neutral else colors,
         height=PLOT_BAR_HEIGHT,
         linewidth=0.8,
         alpha=0.9,
+        error_kw={"elinewidth": 0.8, "capthick": 0.8},
     )
 
     ax.grid(False)
@@ -993,20 +983,29 @@ def plot_gender_bias_horizontal(
         fontweight="bold",
         labelpad=10,
     )
-    ax.set_title(
-        f"Gender Bias — {model_name}",
-        fontsize=PLOT_TITLE_FONT,
-        fontweight="bold",
-        pad=16,
-    )
-
+    # No title
     plt.xticks(fontsize=PLOT_TICK_FONT)
     plt.yticks(fontsize=PLOT_TICK_FONT)
-    ax.set_xlim(0, 100)
+    max_val = (means.reindex(order_plot) + stds.reindex(order_plot)).max()
+    max_val = float(max_val) if pd.notna(max_val) else 0.0
+    x_max = max(1.0, max_val * 1.05)
+    ax.set_xlim(0, x_max)
 
-    plt.tight_layout()
+    if x_max > 50:
+        step = 20
+    elif x_max > 25:
+        step = 10
+    else:
+        step = 5
+    ticks = np.arange(0, x_max + 0.001, step)
+    ax.set_xticks(ticks)
+
+    plt.tight_layout(pad=0.0)
     if save:
-        base = save_basename or f"{model_name}_{dataset_type}_{user_persona_type}_gender_bias"
+        base = (
+            save_basename
+            or f"{model_name}_{dataset_type}_{user_persona_type}_gender_bias"
+        )
         pdf_path = os.path.join(visualization_path, f"{base}.pdf")
         svg_path = os.path.join(visualization_path, f"{base}.svg")
         plt.savefig(pdf_path, bbox_inches="tight")
