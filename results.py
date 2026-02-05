@@ -269,6 +269,8 @@ def analyze_western_bias_horizontal(
         linewidth=0.3,
         error_kw={"ecolor": "#333333", "elinewidth": 1, "capsize": 2, "capthick": 1},
     )
+    # Reduce top/bottom padding so the first/last bars sit closer to the frame.
+    ax.margins(y=0.02)
 
     # Clean Up
     ax.set_xlim(0, 100)
@@ -283,6 +285,12 @@ def analyze_western_bias_horizontal(
 
     sns.despine(ax=ax, left=False, top=True, right=True)
     ax.xaxis.grid(True, linestyle=":", alpha=0.4)
+
+    ax.spines["top"].set_visible(False)
+    ax.spines["right"].set_visible(False)
+    ax.spines["left"].set_visible(False)
+    ax.spines["bottom"].set_color("#B0BEC5")
+    ax.spines["bottom"].set_linewidth(1.0)
 
     # --- 5. Compact Legend (top) ---
     active_cats = [
@@ -306,7 +314,7 @@ def analyze_western_bias_horizontal(
         ncol=4,
         loc="upper center",
         bbox_to_anchor=(0.5, 1.07),
-        prop={"weight": "bold", "size": 7},
+        prop={"weight": "bold", "size": 8},
         frameon=False,
         columnspacing=0.8,
         handletextpad=0.3,
@@ -486,13 +494,10 @@ def plot_persona_divergence_horizontal(
                 color="#000000",
                 rotation=90,
             )
-            ax.axhline(
-                (start - 0.5) * row_gap, color="#000000", linewidth=2.0, zorder=1
-            )
-
-        ax.axhline(
-            (len(order) - 0.5) * row_gap, color="#000000", linewidth=2.0, zorder=1
-        )
+            if start > 0:
+                ax.axhline(
+                    (start - 0.5) * row_gap, color="#000000", linewidth=1.0, zorder=1
+                )
 
         wide["low_value"] = wide.min(axis=1)
         wide["high_value"] = wide.max(axis=1)
@@ -568,9 +573,10 @@ def plot_persona_divergence_horizontal(
             labels,
             ncol=2,
             loc="lower center",
-            bbox_to_anchor=(0.5, 1.02),
-            prop={"weight": "normal", "size": 8},
+            bbox_to_anchor=(0.5, 1.0),
+            prop={"weight": "bold", "size": 8},
             frameon=False,
+            borderaxespad=0.1,
             columnspacing=0.8,
             handletextpad=0.3,
             handlelength=1.2,
@@ -725,8 +731,14 @@ def plot_gender_bias_horizontal(
     )
 
     ax.grid(False)
-    ax.xaxis.grid(True, linestyle="--", alpha=0.3)
+    ax.xaxis.grid(True, linestyle="--", alpha=0.4)
     sns.despine(ax=ax, right=True, top=True)
+
+    ax.spines["top"].set_visible(False)
+    ax.spines["right"].set_visible(False)
+    ax.spines["left"].set_visible(False)
+    ax.spines["bottom"].set_color("#B0BEC5")
+    ax.spines["bottom"].set_linewidth(1.0)
 
     ax.set_xlabel(
         "Ratio of Target Movies (%)",
