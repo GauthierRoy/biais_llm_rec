@@ -569,8 +569,8 @@ def analyze_western_bias_horizontal(
         )
         pdf_path = os.path.join(visualization_path, f"{base}.pdf")
         svg_path = os.path.join(visualization_path, f"{base}.svg")
-        plt.savefig(pdf_path, bbox_inches="tight")
-        plt.savefig(svg_path, bbox_inches="tight")
+        plt.savefig(pdf_path, bbox_inches="tight", pad_inches=0.0)
+        plt.savefig(svg_path, bbox_inches="tight", pad_inches=0.0)
     plt.show()
 
 
@@ -785,7 +785,7 @@ def plot_persona_divergence_horizontal(
             color="#000000",
         )
         ax.set_yticks(y_positions)
-        ax.set_yticklabels(order, fontsize=PLOT_BASE_FONT)
+        ax.set_yticklabels(order, fontsize=max(6, PLOT_BASE_FONT - 2))
         ax.xaxis.grid(True, linestyle="--", alpha=0.4, zorder=0)
 
         ax.tick_params(axis="y", length=4, width=0.8, color="#000000")
@@ -818,7 +818,7 @@ def plot_persona_divergence_horizontal(
             ncol=2,
             loc="lower center",
             bbox_to_anchor=(0.5, 1.02),
-            prop={"weight": "normal", "size": 7},
+            prop={"weight": "normal", "size": 8},
             frameon=False,
             columnspacing=0.8,
             handletextpad=0.3,
@@ -836,8 +836,8 @@ def plot_persona_divergence_horizontal(
             safe_base = base.replace(" ", "_")
             pdf_path = os.path.join(visualization_path, f"{safe_base}.pdf")
             svg_path = os.path.join(visualization_path, f"{safe_base}.svg")
-            plt.savefig(pdf_path, bbox_inches="tight")
-            plt.savefig(svg_path, bbox_inches="tight")
+            plt.savefig(pdf_path, bbox_inches="tight", pad_inches=0.0)
+            plt.savefig(svg_path, bbox_inches="tight", pad_inches=0.0)
         plt.show()
 
     print("Processing complete.")
@@ -1008,8 +1008,8 @@ def plot_gender_bias_horizontal(
         )
         pdf_path = os.path.join(visualization_path, f"{base}.pdf")
         svg_path = os.path.join(visualization_path, f"{base}.svg")
-        plt.savefig(pdf_path, bbox_inches="tight")
-        plt.savefig(svg_path, bbox_inches="tight")
+        plt.savefig(pdf_path, bbox_inches="tight", pad_inches=0.0)
+        plt.savefig(svg_path, bbox_inches="tight", pad_inches=0.0)
     plt.show()
 
     return df
