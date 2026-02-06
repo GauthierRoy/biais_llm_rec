@@ -36,6 +36,10 @@ PLOT_STYLE = "seaborn-v0_8-white"
 PLOT_BASE_FONT = 9
 PLOT_TITLE_FONT = 10
 PLOT_TICK_FONT = 8
+PLOT_LABEL_WEIGHT = "bold"
+PLOT_LEGEND_WEIGHT = "bold"
+PLOT_LEGEND_FONT = PLOT_TICK_FONT
+PLOT_ANNOTATION_WEIGHT = "normal"
 PLOT_FIG_WIDTH = 3.6
 PLOT_MIN_HEIGHT = 2
 PLOT_BAR_HEIGHT = 0.6
@@ -279,7 +283,9 @@ def analyze_western_bias_horizontal(
     ax.set_yticklabels(plot_df["Persona"], fontsize=max(6, PLOT_BASE_FONT - 2))
 
     ax.set_xlabel(
-        f"Ratio of {label} Content", fontsize=PLOT_BASE_FONT, fontweight="bold"
+        f"Ratio of {label} Content",
+        fontsize=PLOT_BASE_FONT,
+        fontweight=PLOT_LABEL_WEIGHT,
     )
     # No title
 
@@ -314,7 +320,7 @@ def analyze_western_bias_horizontal(
         ncol=4,
         loc="upper center",
         bbox_to_anchor=(0.5, 1.07),
-        prop={"weight": "bold", "size": 8},
+        prop={"weight": PLOT_LEGEND_WEIGHT, "size": PLOT_LEGEND_FONT},
         frameon=False,
         columnspacing=0.8,
         handletextpad=0.3,
@@ -493,6 +499,7 @@ def plot_persona_divergence_horizontal(
                 fontsize=PLOT_BASE_FONT,
                 color="#000000",
                 rotation=90,
+                fontweight=PLOT_ANNOTATION_WEIGHT,
             )
             if start > 0:
                 ax.axhline(
@@ -537,8 +544,7 @@ def plot_persona_divergence_horizontal(
         ax.set_xlabel(
             f"Mean {metric}",
             fontsize=PLOT_BASE_FONT,
-            fontweight="bold",
-            color="#000000",
+            fontweight=PLOT_LABEL_WEIGHT,
         )
         ax.set_yticks(y_positions)
         ax.set_yticklabels(order, fontsize=max(6, PLOT_BASE_FONT - 2))
@@ -574,7 +580,7 @@ def plot_persona_divergence_horizontal(
             ncol=2,
             loc="lower center",
             bbox_to_anchor=(0.5, 1.0),
-            prop={"weight": "bold", "size": 8},
+            prop={"weight": PLOT_LEGEND_WEIGHT, "size": PLOT_LEGEND_FONT},
             frameon=False,
             borderaxespad=0.1,
             columnspacing=0.8,
@@ -743,7 +749,7 @@ def plot_gender_bias_horizontal(
     ax.set_xlabel(
         "Ratio of Target Movies (%)",
         fontsize=PLOT_BASE_FONT,
-        fontweight="bold",
+        fontweight=PLOT_LABEL_WEIGHT,
         labelpad=10,
     )
     # No title
