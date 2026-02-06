@@ -616,6 +616,7 @@ def plot_gender_bias_horizontal(
     score_cutoff=89,
     save=False,
     save_basename=None,
+    target="action",
 ):
     """
     Horizontal bar plot for gender-only personas (boy/male/girl/female [+ neutral]).
@@ -747,7 +748,7 @@ def plot_gender_bias_horizontal(
     ax.spines["bottom"].set_linewidth(1.0)
 
     ax.set_xlabel(
-        "Ratio of Target Movies (%)",
+        f"Ratio of {target.capitalize()} Movies (%)",
         fontsize=PLOT_BASE_FONT,
         fontweight=PLOT_LABEL_WEIGHT,
         labelpad=10,
@@ -773,7 +774,7 @@ def plot_gender_bias_horizontal(
     if save:
         base = (
             save_basename
-            or f"{model_name}_{dataset_type}_{user_persona_type}_gender_bias"
+            or f"{model_name}_{dataset_type}_{user_persona_type}_{target}_gender_bias"
         )
         pdf_path = os.path.join(visualization_path, f"{base}.pdf")
         svg_path = os.path.join(visualization_path, f"{base}.svg")
