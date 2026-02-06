@@ -282,11 +282,11 @@ def analyze_western_bias_horizontal(
     ax.set_xticklabels(["0", "20", "40", "60", "80", "100%"], fontsize=PLOT_TICK_FONT)
     ax.set_yticklabels(plot_df["Persona"], fontsize=max(6, PLOT_BASE_FONT - 2))
 
-    ax.set_xlabel(
-        f"Ratio of {label} Content",
-        fontsize=PLOT_BASE_FONT,
-        fontweight=PLOT_LABEL_WEIGHT,
-    )
+    # ax.set_xlabel(
+    #     f"Ratio of {label} Content",
+    #     fontsize=PLOT_BASE_FONT,
+    #     fontweight=PLOT_LABEL_WEIGHT,
+    # )
     # No title
 
     sns.despine(ax=ax, left=False, top=True, right=True)
@@ -747,12 +747,12 @@ def plot_gender_bias_horizontal(
     ax.spines["bottom"].set_color("#B0BEC5")
     ax.spines["bottom"].set_linewidth(1.0)
 
-    ax.set_xlabel(
-        f"Ratio of {target.capitalize()} Movies (%)",
-        fontsize=PLOT_BASE_FONT,
-        fontweight=PLOT_LABEL_WEIGHT,
-        labelpad=10,
-    )
+    # ax.set_xlabel(
+    #     f"Ratio of {target.capitalize()} Movies (%)",
+    #     fontsize=PLOT_BASE_FONT,
+    #     fontweight=PLOT_LABEL_WEIGHT,
+    #     labelpad=10,
+    # )
     # No title
     plt.xticks(fontsize=PLOT_TICK_FONT)
     plt.yticks(fontsize=max(6, PLOT_BASE_FONT - 2))
@@ -769,6 +769,9 @@ def plot_gender_bias_horizontal(
         step = 5
     ticks = np.arange(0, x_max + 0.001, step)
     ax.set_xticks(ticks)
+    label_ticks = [str(int(tick)) for tick in ticks]
+    label_ticks[-1] = f"{label_ticks[-1]}%"
+    ax.set_xticklabels(label_ticks, fontsize=PLOT_TICK_FONT)
 
     plt.tight_layout(pad=0.0)
     if save:
