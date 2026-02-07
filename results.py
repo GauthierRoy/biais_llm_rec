@@ -2,19 +2,20 @@ import configparser
 import glob
 import json
 import os
+import re
 import time
 
 import matplotlib.pyplot as plt
+import matplotlib.ticker as mticker
 import numpy as np
 import pandas as pd
 import requests
 import seaborn as sns
 from matplotlib.lines import Line2D
-
-# Replace with your actual imports
 from pypalettes import load_cmap
 from tqdm import tqdm
 
+from get_overall_stats import calculate_metrics_stats
 from utils.utils import find_best_match, get_correct_file_name
 
 try:
@@ -41,7 +42,7 @@ PLOT_LEGEND_WEIGHT = "bold"
 PLOT_LEGEND_FONT = PLOT_TICK_FONT
 PLOT_ANNOTATION_WEIGHT = "normal"
 PLOT_FIG_WIDTH = 3.6
-PLOT_MIN_HEIGHT = 2
+PLOT_MIN_HEIGHT = 1.6
 PLOT_BAR_HEIGHT = 0.6
 PLOT_ROW_GAP = 1.0
 
@@ -786,3 +787,156 @@ def plot_gender_bias_horizontal(
     plt.show()
 
     return df
+
+
+def plot_iou_vs_model_size_by_family(
+    base_path: str,
+    datasets: list[str],
+    families: dict[str, list[str]],
+    dataset_labels: dict[str, str] | None = None,
+    figsize=None,
+    sharey: bool = False,
+    legend_loc: str = "upper center",
+    legend_ncol: int | None = None,
+    config_path="config/config_inference",
+    save: bool = False,
+    save_basename: str | None = None,
+    show: bool = True,
+):
+    """Plot IoU vs model size (B) with one subplot per model family."""
+    if dataset_labels is None:
+        dataset_labels = {}
+
+    plt.style.use(PLOT_STYLE)
+    plt.rcParams.update({"font.size": PLOT_BASE_FONT})
+
+    def model_size_b(model_name: str):
+        m = re.search(r"_(\d+(?:\.\d+)?)b", model_name)
+        return float(m.group(1)) if m else None
+
+    rows = []
+    for family, fam_models in families.items():
+        for model in fam_models:
+            size = model_size_b(model)
+            for dataset in datasets:
+                path = f"{base_path}/{model}_{dataset}.json"
+                if not os.path.exists(path):
+                    print(f"Missing: {path}")
+                    continue
+                with open(path, "r", encoding="utf-8") as f:
+                    data = json.load(f)
+                stats = calculate_metrics_stats(data)
+                rows.append(
+                    {
+                        "family": family,
+                        "model": model,
+                        "size_b": size,
+                        "dataset": dataset,
+                        "dataset_label": dataset_labels.get(dataset, dataset),
+                        "iou": stats["overall_mean_iou"],
+                        "iou_std": stats["overall_mean_std_iou"],
+                    }
+                )
+
+    df = pd.DataFrame(rows)
+    if df.empty:
+        print("No data found to plot.")
+        return None
+
+    # Color palette (match results.py style)
+    cmap = load_cmap("JeffKoons")
+    raw_colors = (
+        cmap.colors
+        if hasattr(cmap, "colors")
+        else [cmap(i) for i in np.linspace(0, 1, 10)]
+    )
+    dataset_order = [dataset_labels.get(d, d) for d in datasets]
+    color_map = {}
+    for i, label in enumerate(dataset_order):
+        idx = i % len(raw_colors)
+        if idx == 2:
+            idx = 3
+        color_map[label] = raw_colors[idx]
+
+    if figsize is None:
+        fig_width = PLOT_FIG_WIDTH * 2
+        fig_height = PLOT_MIN_HEIGHT
+        figsize = (fig_width, fig_height)
+
+    fig, axes = plt.subplots(
+        1, len(families), figsize=figsize, sharex=False, sharey=sharey
+    )
+    if len(families) == 1:
+        axes = [axes]
+
+    for ax, (family, fam_df) in zip(axes, df.groupby("family", sort=False)):
+        family_sizes = sorted(fam_df["size_b"].dropna().unique())
+        for dataset_label, ddf in fam_df.groupby("dataset_label", sort=False):
+            ddf = ddf.sort_values("size_b")
+            ax.errorbar(
+                ddf["size_b"],
+                ddf["iou"],
+                yerr=ddf["iou_std"],
+                marker="o",
+                label=dataset_label,
+                color=color_map.get(dataset_label),
+                linewidth=1.5,
+                markersize=4,
+                capsize=2,
+                elinewidth=1,
+            )
+        ax.set_title(family, fontsize=PLOT_TITLE_FONT, fontweight=PLOT_LABEL_WEIGHT)
+        ax.set_xlabel("")
+        if family_sizes:
+            integer_ticks = set()
+            for s in family_sizes:
+                if s < 1:
+                    continue
+                if abs(s - round(s)) < 1e-6:
+                    integer_ticks.add(int(round(s)))
+                elif 1 <= s < 2:
+                    integer_ticks.add(1)
+            integer_ticks = sorted(integer_ticks)
+            if integer_ticks:
+                ax.set_xticks(integer_ticks)
+        ax.tick_params(axis="both", labelsize=PLOT_TICK_FONT, labelleft=True)
+        ax.yaxis.set_major_locator(mticker.MaxNLocator(nbins=4))
+        ax.yaxis.set_major_formatter(mticker.FormatStrFormatter("%.1f"))
+        ax.grid(axis="y", alpha=0.4, linestyle=":")
+        ax.xaxis.grid(False)
+        sns.despine(ax=ax, left=False, top=True, right=True)
+        ax.spines["bottom"].set_color("#B0BEC5")
+        ax.spines["bottom"].set_linewidth(1.0)
+
+    axes[0].set_ylabel(
+        "Mean IoU", fontsize=PLOT_BASE_FONT, fontweight=PLOT_LABEL_WEIGHT
+    )
+    handles, labels = axes[0].get_legend_handles_labels()
+    if legend_ncol is None:
+        legend_ncol = len(labels) if labels else 1
+    fig.legend(
+        handles,
+        labels,
+        loc=legend_loc,
+        ncol=legend_ncol,
+        frameon=False,
+        prop={"weight": PLOT_LEGEND_WEIGHT, "size": PLOT_LEGEND_FONT},
+    )
+    plt.tight_layout(rect=[0, 0, 1, 0.92])
+
+    if save:
+        config = configparser.ConfigParser()
+        config.read(config_path)
+        visualization_path = config.get(
+            "paths", "visualization_path", fallback="plots/"
+        )
+        os.makedirs(visualization_path, exist_ok=True)
+        base = save_basename or "iou_vs_model_size_by_family"
+        pdf_path = os.path.join(visualization_path, f"{base}.pdf")
+        svg_path = os.path.join(visualization_path, f"{base}.svg")
+        plt.savefig(pdf_path, bbox_inches="tight", pad_inches=0.0)
+        plt.savefig(svg_path, bbox_inches="tight", pad_inches=0.0)
+
+    if show:
+        plt.show()
+    return fig, df
