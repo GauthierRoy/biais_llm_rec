@@ -29,11 +29,14 @@ os.makedirs(VISUALIZATION_PATH, exist_ok=True)  # Ensure visualization dir exist
 
 # --- Define Datasets and Models ---
 datasets = ["college", "music", "movie"]
-model_sizes = ["1b", "4b", "12b"]
+model_sizes = ["0.6b", "1.7b", "4b", "8b", "14b","32b"]
 model_names_map = {  # Map size to display name
-    "1b": "Gemma 1B",
-    "4b": "Gemma 4B",
-    "12b": "Gemma 12B",
+    "0.6b": "Qwen 0.6B",
+    "1.7b": "Qwen 1.7B",
+    "4b": "Qwen 4B",
+    "8b": "Qwen 8B",
+    "14b": "Qwen 14B",
+    "32b": "Qwen 32B",
 }
 ordered_model_names = [
     model_names_map[size] for size in model_sizes
@@ -149,7 +152,7 @@ for metric in metrics:
         print(f"Dataset: {dataset}")
         for model_size in model_sizes:
             model_display_name = model_names_map[model_size]
-            filename = os.path.join(RESULT_PATH, f"gemma3_{model_size}_{dataset}_.json")
+            filename = os.path.join(RESULT_PATH, f"qwen3_{model_size}_{dataset}_.json")
             print(f"  Model: {model_display_name} - File: {os.path.basename(filename)}")
 
             if not os.path.exists(filename):
@@ -264,7 +267,6 @@ for metric in metrics:
         f"This bar chart shows the average {metric} across all sensitive attributes for each Gemma model size, grouped by dataset."
     )
     print("Each group on the x-axis represents a dataset (College, Music, Movie).")
-    print("Within each group, the bars represent Gemma 1B, 4B, and 12B models.")
     print(
         f"The height of each bar indicates the overall mean {metric} for that specific model on that specific dataset."
     )

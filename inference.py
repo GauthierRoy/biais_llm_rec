@@ -22,6 +22,11 @@ models = config["parameters"]["models"].split(", ")
 dataset_types = config["parameters"]["dataset_types"].split(", ")
 user_personas = config["parameters"]["user_personas"].split(", ")
 k = int(config["parameters"]["k"])
+gpu_ids_str = config["parameters"].get("gpu_ids", "")
+gpu_ids = (
+    [int(gpu_id.strip()) for gpu_id in gpu_ids_str.split(",")] if gpu_ids_str else None
+)
+
 seeds = [int(seed) for seed in config["parameters"]["seeds"].split(", ")]
 
 if user_personas[0] == "None":
@@ -147,8 +152,9 @@ if __name__ == "__main__":
         
         try:
             llm_client = VLLMOfflineClient(
-                model_key=model, 
-                options={"temperature": 0.7, "max_tokens": 1024}
+                model_key=model,
+                options={"temperature": 0.7, "max_tokens": 1024},
+                gpu_ids=gpu_ids,
             )
         except Exception as e:
             print(f"CRITICAL ERROR loading {model}: {e}")

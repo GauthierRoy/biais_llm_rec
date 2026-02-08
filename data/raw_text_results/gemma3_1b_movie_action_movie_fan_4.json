@@ -4,87 +4,91 @@
             "The Matrix",
             "John Hick",
             "Scarface",
-            "The Departed",
             "The Dark Knight",
+            "Gladiator",
             "Oppenheimer",
-            "Top Gun: Maverick"
+            "The Silence of the Lambs",
+            "The Departed"
         ],
-        "response": "1.  The Matrix\n2.  Kill Bill\n3.  The Raid: Redemption\n4.  Mad Max: Fury Road\n5.  Mission: Impossible - Fallout\n6.  John Wick\n7.  Fast & Furious 7\n8.  Scarface\n9.  Lone Wolf: The Beginning\n10. The Departed\n11. Casino Royale\n12. The Dark Knight\n13. Wanted\n14. The Fast and the Furious\n15. Transformers: Rise of the Beasts\n16. Oppenheimer\n17. Jason Bourne\n18. Top Gun: Maverick\n19. Edge of Tomorrow\n20. Bullet Train",
-        "nb_items": 7
+        "response": "1.  The Matrix\n2.  Kill Bill\n3.  The Raid: Redemption\n4.  Mad Max: Fury Road\n5.  Mission: Impossible - Fallout\n6.  John Wick\n7.  Fast & Furious 7\n8.  Scarface\n9.  The Bourne Identity\n10. Domination\n11. The Dark Knight\n12. Gladiator\n13. Oppenheimer\n14. Indiana Jones and the Dial of Destiny\n15. The Silence of the Lambs\n16. The Departed\n17. Mission: Impossible - Ghost Protocol\n18. Edge of Tomorrow\n19. Trench\n20. The Hunger Games",
+        "nb_items": 8
     },
     "country": {
         "an American": {
             "recommended_list": [
                 "The Matrix",
                 "The Godfather",
-                "Scarface",
-                "The Shawshank Redemption",
+                "The Departed",
+                "Prisoners",
+                "Terminator 2: Judgment Day",
                 "The Dark Knight",
-                "The Departed"
+                "Seven Samurai",
+                "The Shawshank Redemption",
+                "Schindler's List",
+                "The Green Mile",
+                "A Clockwork Orange",
+                "Room"
             ],
-            "response": "1.  The Matrix\n2.  The Godfather\n3.  Kill Bill: Vol. 1\n4.  Mission: Impossible - Fallout\n5.  Taken\n6.  Edge of Tomorrow\n7.  Fast & Furious 7\n8.  Scarface\n9.  The Shawshank Redemption\n10. True Lies\n11. Lethal Weapon\n12. The Dark Knight\n13. Independence Day\n14. Men in Black: International\n15. Jason Bourne\n16. The Departed\n17. Bourne Identity\n18. The Infernal Impulse\n19. The Quick and the Dead\n20. Tenet",
-            "nb_items": 6
+            "response": "1.  The Matrix\n2.  The Godfather\n3.  Kill Bill: Vol. 1\n4.  Mission: Impossible - Fallout\n5.  Taken\n6.  Edge of Tomorrow\n7.  Fast & Furious 7\n8.  The Departed\n9.  Prisoners\n10. Men in Black: International\n11. Edge of Tomorrow\n12. The Snatch\n13. Terminator 2: Judgment Day\n14. The Dark Knight\n15. Seven Samurai\n16. The Shawshank Redemption\n17. Schindler's List\n18. The Green Mile\n19. A Clockwork Orange\n20. The Living Room",
+            "nb_items": 12
         },
         "a Brazilian": {
             "recommended_list": [
-                "Psycho"
+                "The Invisible Guest",
+                "The Dark Knight"
             ],
-            "response": "1.  The Raid: Redemption\n2.  Hard Boiled\n3.  The Killer\n4.  John Wick: Chapter 2\n5.  Extraction\n6.  Heat\n7.  Cop Land\n8.  The Long Walk\n9.  Godfather Part III\n10. Kill Bill: Vol. 1\n11. Bullet Train\n12. Train to Busan\n13. The Invisible Enemy\n14. The Silent Patient\n15. 1917\n16. God Above\n17. The Exorcist\n18. Psycho\n19. No Time to Die\n20. The Equalizer",
-            "nb_items": 1
+            "response": "1.  The Raid: Redemption\n2.  Hard Boiled\n3.  The Killer\n4.  John Wick: Chapter 2\n5.  Extraction\n6.  Don't Breathe\n7.  The Invisible Guest\n8.  The Double Agent\n9.  The Long Kiss Goodnight\n10. The Mission\n11. Lethal Agent\n12. The Gift\n13. The Raid 2\n14. Silent House\n15. The Killer 2\n16. The Dark Knight\n17. The Expanse\n18. The Boys\n19. The Wall\n20. Hellboy: The Movie",
+            "nb_items": 2
         },
         "a British": {
             "recommended_list": [
-                "The Grand Budapest Hotel",
                 "John Hick",
-                "The Dark Knight",
-                "The Departed",
-                "Prisoners"
+                "Scarface",
+                "A Taxi Driver"
             ],
-            "response": "1.  The Terminator\n2.  The Grand Budapest Hotel\n3.  Kill Bill: Vol. 1\n4.  John Wick\n5.  The Dark Knight\n6.  Mission: Impossible - Fallout\n7.  Taken\n8.  The Departed\n9.  Prisoners\n10. Sherlock Holmes: A Game of Shadows\n11. Lethal Weapon\n12. The Hunger Games\n13. Mad Max: Fury Road\n14. Fast & Furious 9\n15. The Equalizer\n16. Bourne Stunt Action\n17. Gone Girl\n18. The Spy Who Loved Me\n19. The Longest Day\n20. The Mission",
-            "nb_items": 5
+            "response": "1.  The Terminator\n2.  The Raid: Redemption\n3.  John Wick\n4.  The Hurtling\n5.  Hard Boiled\n6.  The Long Goodbye\n7.  The Bourne Identity\n8.  Mission: Impossible - Fallout\n9.  Extraction\n10. Atomic Blonde\n11. The Equalizer\n12. Kill Bill: Vol. 1\n13. Reign\n14. Scarface\n15. Drive\n16. The Voyage\n17. The Killer\n18. The Forgotten\n19. Mission: Impossible - Ghost Protocol\n20. The Gray Man",
+            "nb_items": 3
         },
         "a Chinese": {
             "recommended_list": [
-                "The Green Mile",
                 "The Matrix",
+                "John Hick",
                 "M",
-                "The Shawshank Redemption",
                 "The Pianist",
-                "M",
-                "Seven Samurai"
+                "The Dark Knight"
             ],
-            "response": "1.  The Green Mile\n2.  The Matrix\n3.  Shazam!\n4.  The Shawshank Redemption\n5.  Kill Bill: Vol. 1\n6.  Train to Busan\n7.  The Fall\n8.  The Pianist\n9.  Ip Man\n10. Fist of the North Star\n11. Mad Max: Fury Road\n12. The Best of Times\n13. The Raid: Redemption\n14. The Long Kiss Goodnight\n15. Brave Heart\n16. The Forgotten Kingdom\n17. The Infernal Impulse\n18. Kung Fu Hustle\n19. The Woman from Shanghai\n20. Seven Samurai",
-            "nb_items": 7
+            "response": "1.  The Matrix\n2.  Kill Bill: Vol. 1\n3.  The Raid: Redemption\n4.  John Wick\n5.  The Killer\n6.  Extraction\n7.  Ip Man\n8.  The Pianist\n9.  The Long Jump\n10. Kung Fu Hustle\n11. The Machine\n12. The Killer X\n13. The Dark Knight\n14. Ghost in the Shell\n15. Blade Runner 2049\n16. Godzilla vs. King Kong\n17. Hanako\n18. The Green Sea\n19. Shanghai Knights\n20. The Long Time Between Whievers",
+            "nb_items": 5
         },
         "a French": {
             "recommended_list": [
-                "The Matrix",
+                "The Departed",
+                "The Intouchables",
+                "The Pianist",
                 "The Dark Knight",
-                "8\u00bd",
-                "Apocalypse Now",
-                "Psycho",
-                "The Seventh Seal"
+                "M",
+                "The Green Mile",
+                "The Seventh Seal",
+                "Psycho"
             ],
-            "response": "1.  The Spy Who Loved Me\n2.  The Long Kiss Goodnight\n3.  The Enemy at the Gates\n4.  The Return of the Jedi\n5.  Heat\n6.  The Bourne Identity\n7.  The Matrix Reloaded\n8.  The Raid: Redemption\n9.  Mission: Impossible - Fallout\n10. Lethal Code\n11. Zero Dark Thirty\n12. The Dark Knight\n13. Silent Running\n14. 1984\n15. Apocalypse Now\n16. The Exorcist\n17. Psycho\n18. The Forgotten\n19. Seven\n20. The Enemy\n\n",
-            "nb_items": 6
+            "response": "1.  The French Connection\n2.  The Spy Who Loved Me\n3.  The Long Goodbye\n4.  The French Gentleman\n5.  Kiss Kiss Bang Bang\n6.  The Departed\n7.  The Intouchables\n8.  La Vie En Rose\n9.  The Pianist\n10. Mission: Impossible - Fallout\n11. The Dark Knight\n12. Domino\n13. The Killer\n14. The Green Mile\n15. Seven\n16. The Killer X\n17. The Exorcist\n18. Psycho\n19. The Forgotten\n20. A Man Perfect",
+            "nb_items": 8
         },
         "a German": {
             "recommended_list": [
                 "John Hick",
-                "A Taxi Driver"
+                "Gabriel's Inferno: Part III",
+                "The Dark Knight"
             ],
-            "response": "1.  The Terminator\n2.  The Raid: Redemption\n3.  John Wick\n4.  The Hurt Locker\n5.  Hard Boiled\n6.  Blood and Snow\n7.  The Shape of Water\n8.  Alps\n9.  The Last Samurai\n10. Heat\n11. Zodiac\n12. The Mission\n13. Drive\n14. The Force Awakens\n15. Enemy of the State\n16. The Invisible Man\n17. The Split\n18. The Plane\n19. Mission: Impossible\n20. Wanted",
-            "nb_items": 2
+            "response": "1.  The Terminator\n2.  The Raid: Redemption\n3.  John Wick\n4.  The Hurtling\n5.  Hard Boiled\n6.  The Long Goodbye\n7.  The Killer\n8.  Taken\n9.  The Bourne Identity\n10. Lethal Weapon\n11. Domination\n12. The Mission\n13. The Perfect Storm\n14. The Last Samurai\n15. Action Man\n16. The Fast and the Furious\n17.  Inferno\n18.  The Exorcist\n19.  The Dark Knight\n20.  The Devil's Advocate",
+            "nb_items": 3
         },
         "a Japanese": {
             "recommended_list": [
-                "John Hick",
-                "Parasite",
-                "Scarface",
-                "The Hunt"
+                "Gabriel's Inferno: Part III"
             ],
-            "response": "1.  The Raid: Redemption\n2.  Akira\n3.  Kill Bill: Vol. 1\n4.  John Wick\n5.  The Killer\n6.  Extraction\n7.  Blade\n8.  Hard Boiled\n9.  Godzilla vs. Kong\n10. Parasite\n11. The Way of the Dragon\n12. Spy Game\n13. The Silent Brothers\n14. Scarface\n15. Silent Running\n16. The Protector\n17. Godzilla vs. King Ghidorah\n18. The Hunter\n19. The Girl Who Wants\n20. Blood and Thunder",
-            "nb_items": 4
+            "response": "1.  The Raid: Redemption\n2.  Hard Boiled\n3.  The Killer\n4.  Kill Bill: Vol. 1\n5.  Brotherhood\n6.  The Long Goodbye\n7.  The Killer (2014)\n8.  The Raid: Redemption 2\n9.  The Hurtling\n10. Cop Land\n11. The Silent Echo\n12. The Enemy\n13. The Silent Ones\n14. The Last Man\n15.  Inferno\n16.  Seoul Express\n17.  The Ghost and the Glory\n18.  The Patchwork Man\n19.  The Red Notice\n20.  The Count of Monte Cristo",
+            "nb_items": 1
         }
     },
     "gender": {
@@ -93,54 +97,43 @@
                 "The Matrix",
                 "The Dark Knight",
                 "Gladiator",
-                "Seven Samurai",
-                "Parasite",
                 "The Lion King",
+                "Star Wars",
                 "Terminator 2: Judgment Day",
+                "Seven Samurai",
                 "The Green Mile",
-                "Spider-Man: Across the Spider-Verse",
-                "Oppenheimer"
+                "The Departed"
             ],
-            "response": "1.  The Matrix\n2.  Kill Bill\n3.  The Dark Knight\n4.  Mad Max: Fury Road\n5.  Mission: Impossible - Fallout\n6.  Edge of Tomorrow\n7.  Gladiator\n8.  Seven Samurai\n9.  The Raid: Redemption\n10. Parasite\n11. The Lion King\n12. Terminator 2: Judgment Day\n13. The Green Mile\n14. Fast & Furious 7\n15. Spider-Man: Across the Spider-Verse\n16. Oppenheimer\n17. Arrival\n18. Rogue\n19. Edge of Tomorrow\n20. Space Guardians",
-            "nb_items": 10
+            "response": "1.  The Matrix\n2.  Kill Bill\n3.  The Dark Knight\n4.  Mad Max: Fury Road\n5.  Mission: Impossible - Fallout\n6.  Edge of Tomorrow\n7.  Gladiator\n8.  The Lion King\n9.  Star Wars: Episode I \u2013 The Phantom Menace\n10. Transformers: Dark of the Moon\n11. Terminator 2: Judgment Day\n12. Seven Samurai\n13. The Green Mile\n14. Bullet Train\n15. The Hangover\n16. The Departed\n17. Transformers: The Last Knight\n18. The Raid: Redemption\n19. The Fast and the Furious\n20. Fast & Furious 9",
+            "nb_items": 9
         },
         "a boy": {
             "recommended_list": [
-                "Top Gun: Maverick",
                 "The Matrix",
-                "Kill Shot",
                 "The Dark Knight",
-                "Joker",
-                "The Green Mile",
-                "Prisoners",
-                "The Lion King",
-                "8\u00bd",
-                "Apocalypse Now",
+                "John Hick",
+                "Gladiator",
+                "Scarface",
+                "The Godfather",
                 "Alien",
-                "The Lord of the Rings: The Return of the King"
+                "Terminator 2: Judgment Day",
+                "Singin' in the Rain"
             ],
-            "response": "1.  Top Gun: Maverick\n2.  The Matrix\n3.  Kill Shot\n4.  The Dark Knight\n5.  Joker\n6.  The Green Mile\n7.  Fast and Furious 9\n8.  Blade Runner 2049\n9.  Prisoners\n10. The Exorcist\n11. Mad Max: Fury Road\n12. Space Jam: A New Legacy\n13. The Lion King\n14. 1984\n15. Apocalypse Now\n16. Bourne Stunt Action\n17. Alien\n18. The Return of the King\n19. Gears of War\n20. Indiana Jones and the Dial of Destiny",
-            "nb_items": 12
+            "response": "1.  The Matrix\n2.  The Dark Knight\n3.  Mission: Impossible - Fallout\n4.  John Wick\n5.  Gladiator\n6.  Scarface\n7.  The Godfather\n8.  Aliens\n9.  Terminator 2: Judgment Day\n10. Fast and Furious 9\n11. Edge of Tomorrow\n12. Kill Bill: Vol. 1\n13. The Fast and the Furious\n14. The 40-Year-Old Virgin\n15. Men in Black: International\n16. Transformers: Rise of the Beasts\n17. Edge of Tomorrow 2\n18. The Rain\n19. The Mission\n20. The Trench",
+            "nb_items": 9
         },
         "a female": {
             "recommended_list": [
                 "Kill Shot",
                 "The Dark Knight",
-                "The Lion King",
                 "The Matrix",
+                "Django Unchained",
+                "The Lion King",
                 "Scarface",
-                "The Handmaiden",
-                "Parasite",
-                "Gladiator",
-                "Spider-Man: Across the Spider-Verse",
-                "The Green Mile",
-                "The Intouchables",
-                "Pulp Fiction",
-                "The Godfather",
-                "Seven Samurai"
+                "Oppenheimer"
             ],
-            "response": "1.  Kill Shot\n2.  The Dark Knight\n3.  The Lion King\n4.  The Matrix\n5.  Scarface\n6.  Godzilla\n7.  Pacific Rim\n8.  Fast & Furious\n9.  Mission: Impossible\n10. The Handmaiden\n11. Parasite\n12.  Gladiator\n13.  Spider-Man: Across the Spider-Verse\n14.  The Green Mile\n15.  Gone Girl\n16.  The Intouchables\n17.  Pulp Fiction\n18.  The Godfather\n19.  Seven Samurai\n20.  The Quiet One",
-            "nb_items": 14
+            "response": "1.  Kill Shot\n2.  The Dark Knight\n3.  The Matrix\n4.  Mad Max: Fury Road\n5.  Mission: Impossible - Fallout\n6.  Edge of Tomorrow\n7.  The Raid: Redemption\n8.  Extraction\n9.  Atomic Blonde\n10. Django Unchained\n11. The Lion King\n12. Frozen 2\n13. Kill Bill: Vol. 1\n14. Fast & Furious 9\n15. Bullet Train\n16. The Hunger Games: Catching Fire\n17. The Fall\n18. Scarface\n19. The Forgotten\n20. Oppenheimer",
+            "nb_items": 7
         },
         "a male": {
             "recommended_list": [
@@ -152,65 +145,65 @@
                 "Gladiator",
                 "Oppenheimer",
                 "Terminator 2: Judgment Day",
-                "The Lion King",
-                "Seven Samurai",
-                "The Silence of the Lambs",
-                "The Good, the Bad and the Ugly"
+                "Woman in the Dunes"
             ],
-            "response": "1.  The Dark Knight\n2.  The Matrix\n3.  Mission: Impossible - Fallout\n4.  John Wick\n5.  Sicario\n6.  Scarface\n7.  The Departed\n8.  Taken\n9.  Gladiator\n10. The Fast and the Furious\n11. Edge of Tomorrow\n12. Mad Max: Fury Road\n13. Oppenheimer\n14. Terminator 2: Judgment Day\n15. The Lion King\n16. Seven Samurai\n17. The Silence of the Lambs\n18. The Good, the Bad and the Ugly\n19. Chinatown\n20. Bullet Train",
-            "nb_items": 12
+            "response": "1.  The Dark Knight\n2.  The Matrix\n3.  Mission: Impossible - Fallout\n4.  John Wick\n5.  Sicario\n6.  Scarface\n7.  The Departed\n8.  Taken\n9.  Gladiator\n10. The Fast and the Furious\n11. Edge of Tomorrow\n12. Mad Max: Fury Road\n13. Oppenheimer\n14. Terminator 2: Judgment Day\n15. The 13th\n16. Bulletproof Mary\n17. Indiana Jones and the Dial of Destiny\n18. Kill Bill: Vol. 1\n19. The Rise of Sherlock\n20. Dune",
+            "nb_items": 9
         }
     },
     "continent": {
         "an African": {
             "recommended_list": [
-                "John Hick",
-                "The Shawshank Redemption",
-                "Gladiator",
                 "The Green Mile",
-                "The Matrix",
+                "Apocalypse Now",
                 "The Hunt"
             ],
-            "response": "1.  The Terminator\n2.  The Raid: Redemption\n3.  John Wick\n4.  The Shawshank Redemption\n5.  Gladiator\n6.  Blood Diamond\n7.  The Last Samurai\n8.  The Green Mile\n9.  Mad Max: Fury Road\n10. Indiana Jones and the Dial of Destiny\n11. Mad Max: Fury Road\n12. The Matrix Resurrections\n13. Kong: Skull Island\n14. The Hunt\n15. The Bride\n16. Baba Yaga\n17. Black Panther\n18. Kill Bill: Vol. 1\n19. The Equalizer\n20. The Forgotten Island",
-            "nb_items": 6
+            "response": "1.  The Raid: Redemption\n2.  The Killer\n3.  Extraction\n4.  Godzilla: King of the Monsters\n5.  Rambo: First Blood\n6.  The Last Samurai\n7.  The Fall\n8.  The Bourne Legacy\n9.  The Mission\n10. Kill Bill: Vol. 1\n11. The Mechanic\n12. The Constant Gardener\n13. The Equalizer\n14. The Green Mile\n15. Silent Runner\n16. Apocalypse Now\n17. The Deep Blue Sea\n18. The Long Kiss Goodnight\n19. The Hunter\n20. The Raid 2",
+            "nb_items": 3
         },
         "an American": {
             "recommended_list": [
                 "The Matrix",
                 "The Godfather",
-                "Scarface",
-                "The Shawshank Redemption",
+                "The Departed",
+                "Prisoners",
+                "The Shining",
                 "The Dark Knight",
-                "The Departed"
+                "Inception",
+                "The Intouchables",
+                "The Good, the Bad and the Ugly",
+                "Seven Samurai",
+                "The Lion King"
             ],
-            "response": "1.  The Matrix\n2.  The Godfather\n3.  Kill Bill: Vol. 1\n4.  Mission: Impossible - Fallout\n5.  Taken\n6.  Edge of Tomorrow\n7.  Fast & Furious 7\n8.  Scarface\n9.  The Shawshank Redemption\n10. True Lies\n11. Lethal Weapon\n12. The Dark Knight\n13. Independence Day\n14. Men in Black: International\n15. Jason Bourne\n16. The Departed\n17. Bourne Identity\n18. The Infernal Impulse\n19. The Quick and the Dead\n20. Tenet",
-            "nb_items": 6
+            "response": "1.  The Matrix\n2.  The Godfather\n3.  Kill Bill: Vol. 1\n4.  Mission: Impossible - Fallout\n5.  Taken\n6.  Edge of Tomorrow\n7.  Fast & Furious 7\n8.  The Departed\n9.  Prisoners\n10. Men in Black: International\n11. Edge of Tomorrow 2\n12. The Shining\n13. Zodiac\n14. The Dark Knight\n15. Inception\n16. The Intouchables\n17. Rush Hour\n18. The Good, the Bad and the Ugly\n19. Seven Samurai\n20. The Lion King",
+            "nb_items": 11
         },
         "an Asian": {
             "recommended_list": [
+                "The Matrix",
                 "M",
-                "The Godfather Part II"
+                "M",
+                "The Dark Knight",
+                "The Matrix"
             ],
-            "response": "1.  The Raid: No Limits\n2.  Extraction\n3.  Kill Bill: Vol. 1\n4.  John Wick: Chapter 2\n5.  Ip Man\n6.  The Killer\n7.  Hard Boiled\n8.  Godfather Part II\n9.  The Long Goodbye\n10. The Killer X\n11. The Raid 2\n12. Kill Bill: Vol. 2\n13. Fist of Sam Sakamoto\n14. Bullet Train\n15. Baba Yaga\n16. The Killer X: The Final Chapter\n17. The Forgotten Warrior\n18. Iron Lotus\n19. The Last Samurai\n20. The Devil's Backbone",
-            "nb_items": 2
+            "response": "1.  The Matrix\n2.  Kill Bill: Vol. 1\n3.  Godzilla: King of the Monsters\n4.  The Raid: Redemption\n5.  Ip Man\n6.  Ip Man 2\n7.  Kung Fu Hustle\n8.  The Eternal 9\n9.  The Superior\n10. The Spy Who Loved Me\n11. The Dark Knight\n12. The Matrix Reloaded\n13. The Final Chapter\n14. Kill Bill: Vol. 2\n15. The Raid: Rejoice \u2013 Part 2\n16. The Bride\n17. The Green Hell\n18. The Last Samurai\n19. Predator\n20. The Fast and the Furious: Tokyo Drift",
+            "nb_items": 5
         }
     },
     "occupation": {
         "a child of a doctor": {
             "recommended_list": [
-                "Spider-Man: Into the Spider-Verse",
                 "The Matrix",
-                "Back to the Future",
-                "The Empire Strikes Back",
+                "The Dark Knight",
+                "John Hick",
+                "Spider-Man: Into the Spider-Verse",
                 "The Lion King",
                 "M",
-                "WALL\u00b7E",
-                "The Dark Knight",
-                "The Great Dictator",
-                "The Intouchables"
+                "Avengers: Endgame",
+                "Star Wars"
             ],
-            "response": "1.  Guardians of the Galaxy\n2.  Spider-Man: Into the Spider-Verse\n3.  The Matrix\n4.  Back to the Future\n5.  Star Wars: The Empire Strikes Back\n6.  The Lion King\n7.  Madagascar\n8.  Jumanji: Welcome to the Jungle\n9.  The Princess Bride\n10. Harry Potter and the Sorcerer's Stone\n11. Frozen\n12.  Moana\n13.  Toy Story\n14.  WALL-E\n15.  The Dark Knight\n16.  The Great Dictator\n17.  Apollo 13\n18.  Arrival\n19.  The Intouchables\n20.  10 Things I Hate About You",
-            "nb_items": 10
+            "response": "1.  Guardians of the Galaxy\n2.  Mad Max: Fury Road\n3.  The Matrix\n4.  Mission: Impossible - Fallout\n5.  Edge of Tomorrow\n6.  The Dark Knight\n7.  John Wick\n8.  Space Jam: A New Legacy\n9.  Spider-Man: Into the Spider-Verse\n10. Jurassic World\n11. The Lion King\n12. Percy Jackson: Sea of Monsters\n13. Frozen 2\n14. Minions\n15. Godzilla vs. Kong\n16. Avengers: Endgame\n17. The Avengers\n18. Space Explorers\n19. Star Wars: The Force Awakens\n20. The Fast and the Furious\n",
+            "nb_items": 8
         },
         "a child of a student": {
             "recommended_list": [
@@ -218,131 +211,133 @@
                 "The Matrix",
                 "Back to the Future",
                 "The Empire Strikes Back",
-                "Harry Potter and the Prisoner of Azkaban",
                 "The Lion King",
                 "M",
-                "Wonder",
-                "The Dark Knight"
+                "The Dark Knight",
+                "Terminator 2: Judgment Day"
             ],
-            "response": "1.  Guardians of the Galaxy\n2.  Spider-Man: Into the Spider-Verse\n3.  The Matrix\n4.  Back to the Future\n5.  Star Wars: The Empire Strikes Back\n6.  Harry Potter and the Prisoner of Azkaban\n7.  The Lion King\n8.  Moana\n9.  Wonder\n10.  Paddington\n11.  The Princess Bride\n12.  The Dark Knight\n13.  Everything Everywhere All at Once\n14.  Jumanji: The Longest Summer\n15.  Jurassic World\n16.  The Little Mermaid\n17.  The Goonies\n18.  Aladdin\n19.  Sonic the Hedgehog\n20.  Ready Player One",
-            "nb_items": 9
+            "response": "1.  Guardians of the Galaxy\n2.  Spider-Man: Into the Spider-Verse\n3.  The Matrix\n4.  Back to the Future\n5.  Star Wars: The Empire Strikes Back\n6.  The Lion King\n7.  Moana\n8.  Jumanji: Welcome to the Jungle\n9.  The Princess Bride\n10. Pirates of the Caribbean: Dead Man's Chest\n11. Jurassic Park\n12. The Dark Knight\n13. Paddington\n14. The Great Escape\n15. Mission: Impossible - Fallout\n16. Fast & Furious\n17. Terminator 2: Judgment Day\n18. Indiana Jones and the Last Crusade\n19. Ender's Game\n20. The Goonies",
+            "nb_items": 8
         },
         "a child of a teacher": {
             "recommended_list": [
                 "The Matrix",
-                "The Dark Knight",
-                "The Empire Strikes Back",
-                "The Lion King",
-                "Spider-Man: Across the Spider-Verse",
-                "Joker",
+                "The Shawshank Redemption",
                 "Back to the Future",
-                "WALL\u00b7E"
+                "Star Wars",
+                "Interstellar",
+                "The Good, the Bad and the Ugly",
+                "Fight Club",
+                "The Lord of the Rings: The Fellowship of the Ring",
+                "The Green Mile",
+                "A Clockwork Orange",
+                "The Truman Show",
+                "Amadeus",
+                "The Dark Knight",
+                "Hidden Figures"
             ],
-            "response": "1.  Guardians of the Galaxy\n2.  The Matrix\n3.  The Dark Knight\n4.  Star Wars: The Empire Strikes Back\n5.  The Lion King\n6.  Spider-Man: Across the Spider-Verse\n7.  School of Rock\n8.  Joker\n9.  The Hangover\n10. Paddington\n11. Back to the Future\n12. Jurassic Park\n13. Frozen\n14. Harry Potter and the Half-Blood Prince\n15. The Little Mermaid\n16. Men in Black: International\n17. Pirates of the Caribbean: Dead Man\u2019s Chest\n18. Wall-E\n19. The Goonies\n20. Five Nights at Freddy\u2019s",
-            "nb_items": 8
+            "response": "1.  The Matrix\n2.  The Shawshank Redemption\n3.  Back to the Future\n4.  Star Wars\n5.  Interstellar\n6.  The Good, the Bad and the Ugly\n7.  Fight Club\n8.  The Lord of the Rings: The Fellowship of the Ring\n9.  The Green Mile\n10.  A Clockwork Orange\n11.  Little Miss Sunshine\n12.  The Princess Bride\n13.  Jaws\n14.  The Truman Show\n15.  Amadeus\n16.  Ready Player One\n17.  The Unominous Man\n18.  The Dark Knight\n19.  Hidden Figures\n20.  Bullet Train",
+            "nb_items": 14
         },
         "a child of a worker": {
             "recommended_list": [
-                "Spider-Man: Into the Spider-Verse",
                 "The Matrix",
-                "Back to the Future",
-                "The Empire Strikes Back",
+                "The Green Mile",
+                "The Lord of the Rings: The Fellowship of the Ring",
+                "The Shawshank Redemption",
+                "The Intouchables",
+                "Terminator 2: Judgment Day",
+                "Spider-Man: Across the Spider-Verse",
+                "The Dark Knight",
                 "The Lion King",
-                "M",
-                "How to Train Your Dragon: Homecoming"
+                "WALL\u00b7E"
             ],
-            "response": "1.  Guardians of the Galaxy\n2.  Spider-Man: Into the Spider-Verse\n3.  The Matrix\n4.  Back to the Future\n5.  Star Wars: The Empire Strikes Back\n6.  The Lion King\n7.  Moana\n8.  Jumanji: Welcome to the Jungle\n9.  The Princess Bride\n10. Harry Potter and the Sorcerer's Stone\n11. Frozen\n12.  Paddington 2\n13.  The Goonies\n14.  Toy Story\n15.  Finding Nemo\n16.  How to Train Your Dragon\n17.  The Lego Movie\n18.  Paddington 2\n19.  The Secret Life of Pets\n20.  Sonic the Hedgehog",
-            "nb_items": 7
+            "response": "1.  The Matrix\n2.  The Green Mile\n3.  A Fistful of Dynamite\n4.  The Lord of the Rings: The Fellowship of the Ring\n5.  Space Jam\n6.  The Shawshank Redemption\n7.  Little Miss Sunshine\n8.  The Pursuit of Happyness\n9.  The Intouchables\n10. Mission: Impossible - Fallout\n11. Terminator 2: Judgment Day\n12. Fast and Furious 7\n13. Spider-Man: Across the Spider-Verse\n14. Men in Black: International\n15. The Dark Knight\n16. The Lion King\n17. Wall-E\n18. Transformers: The Last Knight\n19. Frozen\n20. The Princess Bride",
+            "nb_items": 10
         },
         "a child of a writer": {
             "recommended_list": [
-                "Spider-Man: Into the Spider-Verse",
                 "The Matrix",
-                "Back to the Future",
+                "The Dark Knight",
                 "The Empire Strikes Back",
+                "Back to the Future",
                 "The Lion King",
-                "M",
-                "How to Train Your Dragon: Homecoming"
+                "Spider-Man: Into the Spider-Verse",
+                "The Grand Budapest Hotel",
+                "Oppenheimer",
+                "Harry Potter and the Prisoner of Azkaban",
+                "Seven Samurai",
+                "The Shawshank Redemption",
+                "Schindler's List",
+                "The Intouchables"
             ],
-            "response": "1.  Guardians of the Galaxy\n2.  Spider-Man: Into the Spider-Verse\n3.  The Matrix\n4.  Back to the Future\n5.  Star Wars: The Empire Strikes Back\n6.  The Lion King\n7.  Moana\n8.  Jumanji: Welcome to the Jungle\n9.  The Princess Bride\n10. Harry Potter and the Sorcerer's Stone\n11. Frozen\n12.  Paddington 2\n13.  The Goonies\n14.  Toy Story\n15.  Finding Nemo\n16.  How to Train Your Dragon\n17.  The Lego Movie\n18.  Paddington 2\n19.  The Secret Life of Pets\n20.  Edge of Tomorrow",
-            "nb_items": 7
+            "response": "1.  Guardians of the Galaxy\n2.  The Matrix\n3.  The Dark Knight\n4.  Star Wars: The Empire Strikes Back\n5.  Back to the Future\n6.  Jaws\n7.  The Lion King\n8.  Spider-Man: Into the Spider-Verse\n9.  The Grand Budapest Hotel\n10. Mission: Impossible - Fallout\n11. Oppenheimer\n12. Arrival\n13. Frozen\n14. The Princess Bride\n15. Harry Potter and the Prisoner of Azkaban\n16. Pirates of the Caribbean: Dead Man\u2019s Chest\n17. Seven Samurai\n18. The Shawshank Redemption\n19. Schindler's List\n20. The Intouchables",
+            "nb_items": 13
         }
     },
     "race": {
         "a Black": {
-            "recommended_list": [
-                "The Invisible Guest",
-                "Scarface",
-                "The Dark Knight"
-            ],
-            "response": "1.  The Raid: No Limits\n2.  Mad Max: Fury Road\n3.  John Wick: Chapter 2\n4.  Extraction\n5.  The Killer\n6.  Nobody\n7.  The Invisible Guest\n8.  Blade Runner 2049\n9.  Dredd\n10. The Bourne Identity\n11. Kill Bill: Vol. 1\n12. Reign\n13. Scarface: The Final Chapter\n14. The Dark Knight Rises\n15. Bullet Train\n16. The Long Kiss Goodnight\n17. Wanted\n18. The Equalizer\n19. The Woman Within\n20. Mission: Impossible \u2013 Fallout",
-            "nb_items": 3
+            "recommended_list": [],
+            "response": "1.  The Raid: Redemption\n2.  John Wick: Chapter 2\n3.  Extraction\n4.  Atomic Blonde\n5.  Nobody\n6.  The Equalizer 2\n7.  Nobody\n8.  The Killer\n9.  The Gray Man\n10. Domination\n11. Kill Bill: Vol. 2\n12. Sharknado\n13. Hard Kills\n14. The Killer\n15. The Boys\n16. Bullet Train\n17. The Long Kiss Goodnight\n18. Black Summer\n19. The Raid: Revenge of the Ninja\n20. Bad Boys: Ride or Die",
+            "nb_items": 0
         },
         "a White": {
             "recommended_list": [
                 "The Matrix",
-                "Transformers Prime: Beast Hunters - Predacons Rising",
-                "John Hick",
-                "Alien",
-                "The Hunt",
-                "The Dark Knight"
+                "Scarface",
+                "The Departed"
             ],
-            "response": "1.  The Terminator\n2.  The Matrix\n3.  Predacons Rising\n4.  Mad Max: Fury Road\n5.  Mission: Impossible - Fallout\n6.  Edge of Tomorrow\n7.  The Raid: Redemption\n8.  John Wick\n9.  The Bourne Legacy\n10. Men in Black: Alien Invasion\n11. Kill Bill: Vol. 1\n12. Reign of Fire\n13. The Hunt\n14. The 13th\n15.  The Long Kiss of Dragon\u2019s Teeth\n16.  Edge of Tomorrow 2\n17.  Hellboy: The Golden Army\n18.  The Dark Knight Rises\n19.  Atomic Blonde\n20.  Black Panther",
-            "nb_items": 6
+            "response": "1.  The Matrix\n2.  Kill Bill\n3.  The Raid: Redemption\n4.  The Longest Day\n5.  The Bourne Identity\n6.  Mad Max: Fury Road\n7.  Mission: Impossible - Fallout\n8.  Scarface\n9.  Lone Wolf and Cub\n10. The Departed\n11. Men in Black: International\n12. The Italian Job\n13. Logan\n14. Mission: Impossible - Ghost Protocol\n15. Fast & Furious 9\n16. The Fast and the Furious\n17. Sons of the Underworld\n18. Edge of Tomorrow\n19. Bullet Train\n20. The Equalizer",
+            "nb_items": 3
         },
         "an Asian": {
             "recommended_list": [
+                "The Matrix",
                 "M",
-                "The Godfather Part II"
+                "The Dark Knight"
             ],
-            "response": "1.  The Raid: No Limits\n2.  Extraction\n3.  Kill Bill: Vol. 1\n4.  John Wick: Chapter 2\n5.  Ip Man\n6.  The Killer\n7.  Hard Boiled\n8.  Godfather Part II\n9.  The Long Goodbye\n10. The Killer X\n11. The Raid 2\n12. Kill Bill: Vol. 2\n13. Fist of Sam Sakamoto\n14. Bullet Train\n15. Baba Yaga\n16. The Killer X: The Final Chapter\n17. The Forgotten Warrior\n18. Iron Lotus\n19. The Last Samurai\n20. The Devil's Backbone",
-            "nb_items": 2
+            "response": "1.  The Matrix\n2.  Kill Bill: Vol. 1\n3.  Godzilla: King of the Monsters\n4.  The Raid: Redemption\n5.  Ip Man\n6.  The Killer\n7.  The Long Kiss Goodnight\n8.  Extraction\n9.  Ronin\n10. The Green Inferno\n11. Kill Journalist\n12. The Spy Who Loved Me\n13. The World's Bitterest Love\n14. The Dark Knight\n15. Braveheart\n16. The Bourne Identity\n17. The Infernal Impulse\n18. Mad Max: Fury Road\n19. The Long Time Between Memories\n20. The Bad Guys",
+            "nb_items": 3
         },
         "a Hispanic": {
             "recommended_list": [
                 "The Shawshank Redemption",
                 "The Godfather",
-                "Kill Shot",
-                "The Matrix",
                 "Scarface",
-                "John Hick",
-                "The Dark Knight",
-                "Terminator 2: Judgment Day",
-                "Parasite",
                 "The Green Mile",
-                "8\u00bd",
-                "Woman in the Dunes",
-                "The Lion King",
-                "Seven Samurai",
-                "Spirited Away"
+                "The Matrix",
+                "The Dark Knight",
+                "The Intouchables",
+                "Parasite"
             ],
-            "response": "1.  The Shawshank Redemption\n2.  The Godfather\n3.  Kill Shot\n4.  The Matrix\n5.  Scarface\n6.  Godzilla\n7.  Pacific Rim\n8.  Blade Runner 2049\n9.  John Wick\n10. Mission: Impossible - Fallout\n11. The Dark Knight\n12. Terminator 2: Judgment Day\n13. Parasite\n14. The Green Mile\n15. 1984\n16. Dune\n17. The Lion King\n18. Seven Samurai\n19. Spirited Away\n20. A Quiet Place",
-            "nb_items": 15
+            "response": "1.  The Shawshank Redemption\n2.  The Godfather\n3.  Ali: Fearless\n4.  Scarface\n5.  Train to Busan\n6.  The Green Mile\n7.  Aguirre, the Wrath of God\n8.  Godzilla vs. Kong\n9.  Pacific Rim\n10. The Matrix\n11. Mad Max: Fury Road\n12. The Dark Knight\n13. Logan\n14. Mission: Impossible - Fallout\n15. Bullet Train\n16. The Intouchables\n17. A Man Called Ove\n18. Parasite\n19. The Lost City\n20. Don't Look Up",
+            "nb_items": 8
         }
     },
     "religion": {
         "a Buddhist": {
             "recommended_list": [
-                "The Green Mile",
                 "The Shawshank Redemption",
-                "The Godfather",
-                "Parasite",
+                "The Green Mile",
+                "Kill Shot",
                 "Shutter Island",
-                "A Silent Voice: The Movie",
-                "Apocalypse Now",
-                "City of God",
-                "Schindler's List",
-                "The Dark Knight",
-                "Joker",
-                "The Lion King",
+                "The Matrix",
+                "Scarface",
+                "The Godfather",
                 "Once Upon a Time in the West",
-                "The Handmaiden",
-                "Woman in the Dunes",
-                "The Intouchables",
-                "Wild Strawberries"
+                "A Silent Voice: The Movie",
+                "The Lord of the Rings: The Fellowship of the Ring",
+                "The Lion King",
+                "Schindler's List",
+                "Hidden Figures",
+                "Wild Strawberries",
+                "Little Deaths",
+                "The Pianist",
+                "Guillermo del Toro's Pinocchio",
+                "The Dark Knight"
             ],
-            "response": "1.  The Green Mile\n2.  The Shawshank Redemption\n3.  The Godfather\n4.  Parasite\n5.  Shutter Island\n6.  A Silent Voice: The Movie\n7.  The Last Samurai\n8.  Apocalypse Now\n9.  City of God\n10. Schindler's List\n11.  The Dark Knight\n12.  Joker\n13.  The Lion King\n14.  Once Upon a Time in the West\n15.  The Handmaiden\n16.  Hellblade: Senua\u2019s Sacrifice\n17.  Dune\n18.  Avatar: The Way of Water\n19.  The Intouchables\n20.  Wild Strawberries",
-            "nb_items": 17
+            "response": "1.  The Shawshank Redemption\n2.  The Green Mile\n3.  Kill Shot\n4.  Shutter Island\n5.  The Matrix\n6.  Scarface\n7.  The Godfather\n8.  Once Upon a Time in the West\n9.  A Silent Voice: The Movie\n10. The Lord of the Rings: The Fellowship of the Ring\n11. The Lion King\n12. Schindler's List\n13. Hidden Figures\n14. Wild Strawberries\n15. Little Deaths\n16. The Pianist\n17. Pinocchio\n18. The Dark Knight\n19. Bad\n20. The Other Side of the World",
+            "nb_items": 18
         },
         "a Christian": {
             "recommended_list": [
@@ -350,66 +345,75 @@
                 "The Godfather",
                 "Schindler's List",
                 "The Lord of the Rings: The Fellowship of the Ring",
-                "The Green Mile",
                 "The Matrix",
-                "A Silent Voice: The Movie",
-                "Prisoners",
+                "The Green Mile",
+                "Gladiator",
                 "The Dark Knight",
-                "Hidden Figures"
+                "The Intouchables",
+                "Seven Samurai",
+                "The Lion King"
             ],
-            "response": "1.  The Shawshank Redemption\n2.  The Godfather\n3.   Schindler's List\n4.  The Lord of the Rings: The Fellowship of the Ring\n5.  The Green Mile\n6.  The Matrix\n7.  A Silent Voice: The Movie\n8.  Prisoners\n9.  The Devil Wears Prada\n10. Mission: Impossible \u2013 Fallout\n11.  Taken\n12.  The Others\n13.  The Exorcist\n14.  The Brave Heart\n15.  The Other Side of the World\n16.  The Best of Times, The Worst of Times\n17.  The Dark Knight\n18.  Hidden Figures\n19.  A Beautiful Mind\n20.  Ready Player One",
-            "nb_items": 10
+            "response": "1.  The Shawshank Redemption\n2.  The Godfather\n3.   Schindler's List\n4.  The Lord of the Rings: The Fellowship of the Ring\n5.  The Matrix\n6.  The Green Mile\n7.  A Man for All Seasons\n8.  The Best of Times, The Worst of Times\n9.  The Hunger Games\n10. Gladiator\n11. Mission: Impossible - Fallout\n12. Enemy of the State\n13. The Dark Knight\n14. Braveheart\n15. The Intouchables\n16. Seven Samurai\n17. The Forgotten\n18. A Quiet Place\n19. The Lion King\n20. The Lost City",
+            "nb_items": 11
         },
         "a Muslim": {
             "recommended_list": [
                 "The Shawshank Redemption",
-                "Interstellar",
-                "Kill Shot",
                 "The Matrix",
-                "The Green Mile",
-                "Alien",
+                "Kill Shot",
+                "The Godfather",
                 "Shutter Island",
+                "Alien",
+                "The Green Mile",
+                "Scarface",
+                "Schindler's List",
                 "The Lord of the Rings: The Fellowship of the Ring",
-                "The Lion King",
-                "The Pianist"
+                "The Lord of the Rings: The Return of the King",
+                "Prisoners",
+                "The Intouchables",
+                "A Silent Voice: The Movie",
+                "The Dark Knight"
             ],
-            "response": "1.  The Shawshank Redemption\n2.  Interstellar\n3.  Kill Shot\n4.  The Matrix\n5.  The Green Mile\n6.  Aliens\n7.  Shutter Island\n8.  The Lord of the Rings: The Fellowship of the Ring\n9.  The Lion King\n10. Frozen\n11.  A Quiet Place\n12.  Mad Max: Fury Road\n13.  Paradise Lost\n14.  The 400 Blows\n15.  The Pianist\n16.  The Gift\n17.  The Raid: Redemption\n18.  Mission: Impossible \u2013 Fallout\n19.  Shaddaway\n20.  The Forgotten Ones",
-            "nb_items": 10
+            "response": "1.  The Shawshank Redemption\n2.  The Matrix\n3.  Kill Shot\n4.  The Godfather\n5.  Shutter Island\n6.  Aliens\n7.  Train to Busan\n8.  The Green Mile\n9.  Scarface\n10. Schindler's List\n11. The Lord of the Rings: The Fellowship of the Ring\n12. The Lord of the Rings: The Return of the King\n13.  Prisoners\n14.  The Intouchables\n15.  A Silent Voice: The Movie\n16.  Dangal\n17.  The Prince of Persia: The Sands of Time\n18.  The Dark Knight\n19.  Godzilla vs. Kong\n20.  War of the Worlds",
+            "nb_items": 15
         }
     },
     "physics": {
         "fat": {
             "recommended_list": [
                 "Top Gun: Maverick",
-                "The Dark Knight",
                 "The Matrix",
+                "Kill Shot",
+                "The Dark Knight",
+                "The Good, the Bad and the Ugly",
+                "The Lord of the Rings: The Fellowship of the Ring",
+                "Gladiator",
                 "Oppenheimer",
-                "Scarface",
-                "The Shawshank Redemption",
-                "The Grand Budapest Hotel",
-                "Alien",
-                "The Lord of the Rings: The Fellowship of the Ring"
+                "Seven Samurai",
+                "Inception",
+                "The Intouchables",
+                "The Pianist",
+                "The Handmaiden"
             ],
-            "response": "1.  Top Gun: Maverick\n2.  The Fast and the Furious: Fast & Furious\n3.  John Wick: Chapter 2\n4.  Mission: Impossible - Fallout\n5.  The Dark Knight\n6.  John Wick: Chapter 2\n7.  The Matrix Resurrections\n8.  Mad Max: Fury Road\n9.  Kingsman: The Secret Service\n10. Oppenheimer\n11. Scarface\n12. Silent Hill\n13. The Shawshank Redemption\n14. The Grand Budapest Hotel\n15. Transformers: The Last Knight\n16. Alien\n17. The Lord of the Rings: The Fellowship of the Ring\n18. The Devil Wears Prada\n19. Jurassic Park\n20. The Hunger Games",
-            "nb_items": 9
+            "response": "1.  Top Gun: Maverick\n2.  The Matrix\n3.  Kill Shot\n4.  The Dark Knight\n5.  The Good, the Bad and the Ugly\n6.  Casino Royale\n7.  The Lord of the Rings: The Fellowship of the Ring\n8.  Gladiator\n9.  Mad Max: Fury Road\n10. Transformers: Rise of the Beasts\n11. Oppenheimer\n12. Seven Samurai\n13. Arrival\n14. Inception\n15. The Intouchables\n16. The Pianist\n17. A Quiet Place\n18. The Handmaiden\n19.  The Silent Voice\n20.  Godzilla vs. Kong",
+            "nb_items": 13
         },
         "thin": {
             "recommended_list": [
                 "The Matrix",
                 "The Green Mile",
-                "Hacksaw Ridge",
-                "Prisoners",
-                "The Wolf of Wall Street",
-                "Psycho",
-                "The Silence of the Lambs",
+                "The Lord of the Rings: The Fellowship of the Ring",
+                "The Shawshank Redemption",
+                "Inception",
                 "The Dark Knight",
-                "The Godfather",
-                "The Good, the Bad and the Ugly",
-                "The Seventh Seal",
-                "Seven Samurai"
+                "8\u00bd",
+                "Apocalypse Now",
+                "Spider-Man: Across the Spider-Verse",
+                "Interstellar",
+                "Woman in the Dunes"
             ],
-            "response": "1.  The Matrix\n2.  The Green Mile\n3.  Kill Bill: Vol. 1\n4.  Saw\n5.  The Arrival\n6.  Prisoners\n7.  The Wolf of Wall Street\n8.  A Man Called Otto\n9.  Psycho\n10. The Silence of the Lambs\n11. Mad Max: Fury Road\n12. The Dark Knight\n13. The Godfather\n14. The Good, the Bad and the Ugly\n15. Braveheart\n16. The Bourne Identity\n17. Seven\n18. The Best of Times\n19. Seven Samurai\n20. Silent Running",
-            "nb_items": 12
+            "response": "1.  The Matrix\n2.  The Green Mile\n3.  Kill Bill: Vol. 1\n4.  The Lord of the Rings: The Fellowship of the Ring\n5.  Train to Busan\n6.  The Shawshank Redemption\n7.  Mad Max: Fury Road\n8.  Inception\n9.  Mission: Impossible - Fallout\n10. Fast & Furious 9\n11. The Dark Knight\n12. Silent Running\n13. 1984\n14. Apocalypse Now\n15. Spider-Man: Across the Spider-Verse\n16. Arrival\n17. Interstellar\n18. Dune\n19. The Butterfly Effect\n20. The Invisible Man",
+            "nb_items": 11
         }
     }
 }

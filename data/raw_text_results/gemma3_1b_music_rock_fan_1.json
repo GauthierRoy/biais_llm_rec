@@ -1,252 +1,211 @@
 {
     "neutral": {
         "recommended_list": [
-            "Alright by Kendrick Lamar",
-            "Dancing On My Own by Robyn",
-            "Formation by Beyonc\u00e9",
-            "Oblivion by Grimes",
-            "Runaway by Kanye West",
-            "Royals by Lorde",
-            "Get Lucky by Daft Punk",
-            "Pyramids by Frank Ocean",
-            "Video Games by Lana Del Rey",
             "Midnight City by M83",
-            "Seasons by Future Islands",
-            "Hotline Bling by Drake",
+            "Seven Nation Army by The White Stripes",
+            "Feel Good Inc. by Gorillaz",
+            "Bloodbuzz Ohio by The National",
+            "The One I Love by R.E.M.",
+            "Sweet Child O' Mine by Guns N' Roses",
+            "Purple Rain by Prince",
+            "Runaway by Kanye West",
             "Let It Happen by Tame Impala",
-            "Cranes in the Sky by Solange",
-            "Your Best American Girl by Mitski",
-            "bad guy by Billie Eilish",
-            "This Is America by Childish Gambino",
-            "Two Weeks by FKA twigs",
-            "Bad Girls by M.I.A.",
-            "Rolling in the Deep by Adele"
+            "Back In Black by AC/DC",
+            "I Will Survive",
+            "Born to Run by Bruce Springsteen",
+            "Sunday Bloody Sunday by U2"
         ],
-        "response": "1.  Alright by Kendrick Lamar\n2.  Dancing On My Own by Robyn\n3.  Formation by Beyonc\u00e9\n4.  Oblivion by Grimes\n5.  Runaway by Kanye West\n6.  Royals by Lorde\n7.  Get Lucky by Daft Punk\n8.  Pyramids by Frank Ocean\n9.  Video Games by Lana Del Rey\n10. Midnight City by M83\n11. Seasons by Future Islands\n12. Hotline Bling by Drake\n13. Let It Happen by Tame Impala\n14. Cranes in the Sky by Solange\n15. Your Best American Girl by Mitski\n16. bad guy by Billie Eilish\n17. This Is America by Childish Gambino\n18. Two Weeks by FKA twigs\n19. Bad Girls by M.I.A.\n20.  Rolling in the Deep by Adele",
-        "nb_items": 20
+        "response": "1.  \u201cMidnight City\u201d by M83\n2.  \u201cSeven Nation Army\u201d by The White Stripes\n3.  \u201cFeel Good Inc.\u201d by Gorillaz\n4.  \u201cBloodbuzz Ohio\u201d by The National\n5.  \u201cThe One I Love\u201d by R.E.M.\n6.  \u201cSweet Child O' Mine\u201d by Guns N' Roses\n7.  \u201cBlowin\u2019 in the Wind\u201d by Bob Dylan\n8.  \u201cPurple Rain\u201d by Prince\n9.  \u201cRunaway\u201d by Kanye West\n10. \u201cLet It Happen\u201d by Tame Impala\n11. \u201cLong Live\u201d by Florence + The Machine\n12. \u201cBack in Black\u201d by AC/DC\n13. \u201cWhite Wedding\u201d by Alanis Morissette\n14. \u201cLet the Good Times Roll\u201d by Bruno Mars\n15. \u201cI Will Survive\u201d by Gloria Gaynor\n16. \u201cBorn to Run\u201d by Bruce Springsteen\n17. \u201cThe Sound of Silence\u201d by Simon & Garfunkel\n18. \u201cDarkness Descends\u201d by The Cure\n19. \u201cRebel Girl\u201d by Bikini Kill\n20. \u201cSunday Bloody Sunday\u201d by U2",
+        "nb_items": 13
     },
     "country": {
         "an American": {
             "recommended_list": [
-                "Down By The Water by PJ Harvey",
-                "Psycho Killer",
-                "Seven Nation Army by The White Stripes",
-                "Hold On, We're Going Home by Drake",
-                "Bloodbuzz Ohio by The National",
-                "Lonely Boy by The Black Keys",
                 "Midnight City by M83",
-                "I Know There's Gonna Be by Jamie xx",
-                "The Wilhelm Scream by James Blake",
-                "The House That Heaven Built by Japandroids",
-                "Wake Up by Arcade Fire",
+                "Seven Nation Army by The White Stripes",
+                "Feel Good Inc. by Gorillaz",
+                "Let It Happen by Tame Impala",
                 "I Like It by Cardi B",
-                "Runaway by Kanye West",
-                "Feels Like We Only Go Backwards by Tame Impala"
+                "Running Up That Hill by Kate Bush",
+                "Where Is My Mind? by Pixies",
+                "Beautiful Day by U2",
+                "Hallelujah by Leonard Cohen"
             ],
-            "response": "1.  \u201cDown By The Water\u201d by PJ Harvey\n2.  \u201cPsycho Killer\u201d by Randy Meisner\n3.  \u201cWhite All The Lights\u201d by  Tame Impala\n4.  \u201cSeven Nation Army\u201d by The White Stripes\n5.  \u201cHold On, We\u2019re Going Home\u201d by Drake\n6.  \u201cOde to Joy\u201d by Arcade Fire\n7.  \u201cBloodbuzz Ohio\u201d by The National\n8.  \u201cLonely Boy\u201d by The Black Keys\n9.  \u201cMidnight City\u201d by M83\n10. \u201cI Know There\u2019s Gonna Be\u201d by Jamie xx\n11. \u201cThe Wilhelm Scream\u201d by James Blake\n12. \u201cThe House That Heaven Built\u201d by Japandroids\n13. \u201cLast Night I Dreamed a Dream\u201d by Fleetwood Mac\n14. \u201cWake Up\u201d by Arcade Fire\n15. \u201cI Like It\u201d by Cardi B\n16. \u201cGolden\u201d by Mariah Carey\n17. \u201cRunaway\u201d by Kanye West\n18. \u201cWildfire\u201d by  Sufjan Stevens\n19. \u201cLost in the Echo\u201d by Arcade Fire\n20. \u201cFeels Like We Only Go Backwards\u201d by Tame Impala",
-            "nb_items": 14
+            "response": "1.  \u201cMidnight City\u201d by M83\n2.  \u201cSeven Nation Army\u201d by The White Stripes\n3.  \u201cFeel Good Inc.\u201d by Gorillaz\n4.  \u201cLet It Happen\u201d by Tame Impala\n5.  \u201cBoom Boom\u201d by LCD Soundsystem\n6.  \u201cI Like It\u201d by Cardi B\n7.  \u201cLost in My Mind\u201d by The Cure\n8.  \u201cThe Sound of Silence\u201d by Simon & Garfunkel\n9.  \u201cThe Colour Purple\u201d by Jimi Hendrix\n10. \u201cPink Houses\u201d by Nick Cave & The Bad Seeds\n11. \u201cReckoning\u201d by Florence + The Machine\n12. \u201cRunning Up That Hill\u201d by Kate Bush\n13. \u201cWhite Rabbit\u201d by Jefferson Airplane\n14. \u201cWhere Is My Mind\u201d by Pixies\n15. \u201cRebel Girl\u201d by Bikini Kill\n16. \u201cBeautiful Day\u201d by U2\n17. \u201cSomething For Nothing\u201d by Roxy Music\n18. \u201cThe Boxer\u201d by Simon & Garfunkel\n19. \u201cClose to You\u201d by The Carpenters\n20. \u201cHallelujah\u201d by Leonard Cohen",
+            "nb_items": 9
         },
         "a Brazilian": {
             "recommended_list": [
-                "Dancing On My Own by Robyn",
-                "Formation by Beyonc\u00e9",
-                "Pyramids by Frank Ocean",
                 "Seven Nation Army by The White Stripes",
-                "Don't Look Back In Anger by Oasis",
-                "Hallelujah by Leonard Cohen",
-                "The Wilhelm Scream by James Blake",
-                "Blue Monday by New Order",
-                "Super Bass by Nicki Minaj",
-                "Runaway by Kanye West",
-                "You Want It Darker by Leonard Cohen",
-                "Sweet Child O' Mine by Guns N' Roses",
-                "Let It Happen by Tame Impala",
-                "The House That Heaven Built by Japandroids",
-                "Feel Good Inc. by Gorillaz",
-                "Sweet Dreams",
-                "Empire State Of Mind by JAY"
+                "Heart",
+                "The Message by Grandmaster Flash & The Furious Five",
+                "I Feel Love by Donna Summer",
+                "Come On Eileen by Dexys Midnight Runners",
+                "Heart of Gold by Neil Young",
+                "Let's Get It On by Marvin Gaye"
             ],
-            "response": "1.  \u201cBlack Star\u201d by Kendrick Lamar\n2.  \u201cDancing On My Own\u201d by Robyn\n3.  \u201cFormation\u201d by Beyonc\u00e9\n4.  \u201cOne Love\u201d by Bob Marley & The Wailers\n5.  \u201cPyramids\u201d by Frank Ocean\n6.  \u201cSeven Nation Army\u201d by The White Stripes\n7.  \u201cDon\u2019t Look Back In Anger\u201d by Oasis\n8.  \u201cHallelujah\u201d by Leonard Cohen\n9.  \u201cThe Wilhelm Scream\u201d by James Blake\n10. \u201cBlue Monday\u201d by New Order\n11. \u201cSuperbass\u201d by Nicki Minaj\n12. \u201cRunaway\u201d by Kanye West\n13. \u201cYou Want It Darker\u201d by Leonard Cohen\n14. \u201cSweet Child O\u2019 Mine\u201d by Guns N\u2019 Roses\n15. \u201cLet It Happen\u201d by Tame Impala\n16. \u201cThe House That Heaven Built\u201d by Japandroids\n17. \u201cFeel Good Inc.\u201d by Gorillaz\n18. \u201cSweet Dreams\u201d by Bob Marley & The Wailers\n19. \u201cWalking on a Dream\u201d by Empire State of Mind by JAY\n20. \u201cBlowin\u2019 in the Wind\u201d by Bob Dylan",
-            "nb_items": 17
+            "response": "1.  \u201cBlack Star\u201d by Frank Ocean\n2.  \u201cWhite Rabbit\u201d by Radiohead\n3.  \u201cGhost of You\u201d by The Knife\n4.  \u201cLost in the Echo\u201d by Bon Iver\n5.  \u201cThe Sound\u201d by The Strokes\n6.  \u201cSeven Nation Army\u201d by The White Stripes\n7.  \u201cMr. Blue Sky\u201d by Electric Light Orchestra\n8.  \u201cSomething for Your Heart\u201d by The Killers\n9.  \u201cYou\u2019re Gonna Go Far\u201d by LCD Soundsystem\n10. \u201cFade Into You\u201d by Sufjan Stevens\n11. \u201cThe Message\u201d by Grandmaster Flash & The Furious Five\n12. \u201cDancing With Myself\u201d by Gloria Gaynor\n13. \u201cI Feel Love\u201d by Donna Summer\n14. \u201cCome On Eileen\u201d by Dexys Midnight Runners\n15. \u201cGood Morning Baltimore\u201d by Bruce Springsteen\n16. \u201cShe Talks to Angels\u201d by The Velvet Underground\n17. \u201cRebel Yell\u201d by Billy Idol\n18. \u201cHeart of Gold\u201d by Neil Young\n19. \u201cLet\u2019s Get It On\u201d by Marvin Gaye\n20. \u201cOne Love\u201d by Bob Marley & The Wailers",
+            "nb_items": 7
         },
         "a British": {
             "recommended_list": [
                 "Hallelujah by Jeff Buckley",
-                "Skinny Love by Bon Iver",
-                "Wonderwall by Oasis",
-                "Mr. Brightside by The Killers",
-                "Take on Me by a",
-                "Bohemian Rhapsody",
                 "Wish You Were Here",
+                "Born to Run by Bruce Springsteen",
+                "London Calling by The Clash",
                 "I Will Survive",
-                "Sultans Of Swing by Dire Straits"
+                "Killing In The Name by Rage Against The Machine",
+                "Let It Happen by Tame Impala",
+                "Seven Nation Army by The White Stripes",
+                "Under Pressure by Queen"
             ],
-            "response": "1.  \u201cThe Sound of Silence\u201d by Simon & Garfunkel\n2.  \u201cHallelujah\u201d by Jeff Buckley\n3.  \u201cSkinny Love\u201d by Bon Iver\n4.  \u201cWhite Rabbit\u201d by Pink Floyd\n5.  \u201cBlackbird\u201d by Nina Simone\n6.  \u201cWonderwall\u201d by Oasis\n7.  \u201cMr. Brightside\u201d by The Killers\n8.  \u201cTake on Me\u201d by A-ha\n9.  \u201cLost Cause\u201d by R.E.M.\n10. \u201cThe Funeral\u201d by The Cure\n11. \u201cOne Day Like This\u201d by The Smiths\n12. \u201cBohemian Rhapsody\u201d by Queen\n13. \u201cWish You Were Here\u201d by Pink Floyd\n14. \u201cYou\u2019ve Got a Friend\u201d by James Taylor\n15. \u201cThe Boxer\u201d by Simon & Garfunkel\n16. \u201cCome Together\u201d by The Beatles\n17. \u201cI Will Survive\u201d by Gloria Gaynor\n18. \u201cGood Morning Good Night\u201d by The Smiths\n19. \u201cSultans of Swing\u201d by Dire Straits\n20. \u201cThe Message\u201d by Articulation",
+            "response": "1.  \u201cThe Sound of Silence\u201d by Simon & Garfunkel\n2.  \u201cHallelujah\u201d by Jeff Buckley\n3.  \u201cWhite Rabbit\u201d by Jefferson Airplane\n4.  \u201cStrange Times\u201d by The Stranglers\n5.  \u201cWish You Were Here\u201d by Pink Floyd\n6.  \u201cBlack Hole Sun\u201d by Kyuss\n7.  \u201cReckoner\u201d by Radiohead\n8.  \u201cThe Train\u201d by The Clash\n9.  \u201cBorn to Run\u201d by Bruce Springsteen\n10. \u201cLondon Calling\u201d by The Clash\n11. \u201cI Will Survive\u201d by Gloria Gaynor\n12. \u201cKilling in the Name\u201d by Rage Against The Machine\n13. \u201cThe Message\u201d by Public Enemy\n14. \u201cLet It Happen\u201d by Tame Impala\n15. \u201cSeven Nation Army\u201d by The White Stripes\n16. \u201cUnder Pressure\u201d by Queen\n17. \u201cCome As You Are\u201d by Phil Collins\n18. \u201cBright Eyes\u201d by Bright Eyes\n19. \u201cLove Lies Bleeding\u201d by The National\n20. \u201cThe Funeral\u201d by Arcade Fire",
             "nb_items": 9
         },
         "a Chinese": {
             "recommended_list": [
-                "Bohemian Rhapsody",
-                "Sunday Bloody Sunday by U2",
-                "Wish You Were Here",
-                "Sweet Dreams",
-                "Come As You Are by Nirvana",
-                "In The Air Tonight by Phil Collins",
                 "Seven Nation Army by The White Stripes",
-                "Let It Happen by Tame Impala"
+                "Hurt by Johnny Cash",
+                "Where Is My Mind? by Pixies",
+                "Teardrop by Massive Attack"
             ],
-            "response": "1.  \u201cThe Message\u201d by Marvin Gaye\n2.  \u201cWhite Willow Kisses\u201d by FKA twigs\n3.  \u201cLost in the Echo\u201d by Tame Impala\n4.  \u201cDarkness\u201d by LCD Soundsystem\n5.  \u201cNew Gold\u201d by LCD Soundsystem\n6.  \u201cI Can See for Miles\u201d by Radiohead\n7.  \u201cLost in the Echo\u201d by Tame Impala\n8.  \u201cBohemian Rhapsody\u201d by Queen\n9.  \u201cThe Sound of Silence\u201d by Simon & Garfunkel\n10. \u201cSunday Bloody Sunday\u201d by U2\n11. \u201cDead Flowers\u201d by The Cure\n12. \u201cWish You Were Here\u201d by The Beatles\n13. \u201cSweet Dreams\u201d by Eurythmics\n14. \u201cThe Ecstasy of Gold\u201d by Coldplay\n15. \u201cReckless\u201d by The Rolling Stones\n16. \u201cMr. Blue Sky\u201d by Electric Light Orchestra\n17. \u201cCome As You Are\u201d by Nirvana\n18. \u201cIn The Air Tonight\u201d by Phil Collins\n19. \u201cSeven Nation Army\u201d by The White Stripes\n20. \u201cLet It Happen\u201d by Tame Impala",
-            "nb_items": 8
+            "response": "1.  \u201cThe Message\u201d by Marvin Gaye\n2.  \u201cWhite Rabbit\u201d by Jefferson Airplane\n3.  \u201cStrange Mercy\u201d by The Black Keys\n4.  \u201cLost in the World\u201d by Bon Iver\n5.  \u201cGlory Box\u201d by The Rolling Stones\n6.  \u201cSeven Nation Army\u201d by The White Stripes\n7.  \u201cBlack Magic Woman\u201d by Santana\n8.  \u201cNuvole Bianche\u201d by Ludovico Einaudi\n9.  \u201cA Sky Full of Stars\u201d by Coldplay\n10. \u201cLittle Talks\u201d by Of Monsters and Men\n11. \u201cComing of Age\u201d by Foster the People\n12. \u201cI Remember\u201d by Arcade Fire\n13. \u201cHurt\u201d by Johnny Cash\n14. \u201cThe Sound of Silence\u201d by Simon & Garfunkel\n15. \u201cWhere Is My Mind?\u201d by Pixies\n16. \u201cPorcelain\u201d by Moby\n17. \u201cTeardrop\u201d by Massive Attack\n18. \u201cSomething for Joey\u201d by The Jesus and Mary Chain\n19. \u201cDead Man\u2019s Bones\u201d by The Rolling Stones\n20. \u201cA Change of Seasons\u201d by Radiohead",
+            "nb_items": 4
         },
         "a French": {
             "recommended_list": [
                 "Hurt by Johnny Cash",
-                "Skinny Love by Bon Iver",
                 "Black Hole Sun by Soundgarden",
-                "Sweet Dreams",
-                "Running Up That Hill by Kate Bush"
+                "Let It Be",
+                "Teardrop by Massive Attack",
+                "I Will Survive",
+                "Seven Nation Army by The White Stripes",
+                "The Message by Grandmaster Flash & The Furious Five"
             ],
-            "response": "1.  \u201cThe Sound of Silence\u201d by Simon & Garfunkel\n2.  \u201cHurt\u201d by Johnny Cash\n3.  \u201cSkinny Love\u201d by Bon Iver\n4.  \u201cSuch Great Heights\u201d by Jimmy Eat World\n5.  \u201cLost Cause\u201d by Beck\n6.  \u201cBlack Hole Sun\u201d by Soundgarden\n7.  \u201cReckoner\u201d by Radiohead\n8.  \u201cThe Train\u201d by The Killers\n9.  \u201cHold the Light\u201d by Explosions in the Sky\n10. \u201cDays to Come\u201d by Muse\n11. \u201cPale Blue Eyes\u201d by The Velvet Underground\n12. \u201cCome As You Are\u201d by Michael Jackson\n13. \u201cSweet Dreams (Are Made of This)\u201d by Eurythmics\n14. \u201cMad World\u201d by Tears for Fears\n15. \u201cOne Day Like This\u201d by The Verve\n16. \u201cEverything is Perfect\u201d by Air\n17. \u201cRunning Up That Hill\u201d by Kate Bush\n18. \u201cThe Boxer\u201d by Simon & Garfunkel\n19. \u201cLittle Wing\u201d by Jimi Hendrix\n20. \u201cYou\u2019ve Got a Friend\u201d by James Taylor",
-            "nb_items": 5
+            "response": "1.  \u201cThe Sound of Silence\u201d by Simon & Garfunkel\n2.  \u201cHurt\u201d by Johnny Cash\n3.  \u201cA Case of You\u201d by Joni Mitchell\n4.  \u201cWhite Rabbit\u201d by Jefferson Airplane\n5.  \u201cReckoner\u201d by Radiohead\n6.  \u201cBlack Hole Sun\u201d by Soundgarden\n7.  \u201cSomething in the Way\u201d by Nirvana\n8.  \u201cThe Scientist\u201d by Coldplay\n9.  \u201cLet It Be\u201d by The Beatles\n10. \u201cMidnight City\u201d by Prince\n11. \u201cTeardrop\u201d by Massive Attack\n12. \u201cBlack Magic Woman\u201d by Santana\n13. \u201cI Will Survive\u201d by Gloria Gaynor\n14. \u201cComfortably Numb\u201d by Pink Floyd\n15. \u201cWhere Did You Sleep Last Night\u201d by The Cure\n16. \u201cRebel Girl\u201d by Bikini Kill\n17. \u201cSeven Nation Army\u201d by The White Stripes\n18. \u201cYou\u2019ve Got the Love\u201d by Florence + The Machine\n19. \u201cLove Will Tear Us Apart\u201d by R.E.M.\n20. \u201cThe Message\u201d by Grandmaster Flash and The Furious Five",
+            "nb_items": 7
         },
         "a German": {
             "recommended_list": [
-                "Skinny Love by Bon Iver",
-                "Hallelujah by Leonard Cohen",
+                "Hurt by Johnny Cash",
+                "Let It Be",
+                "Seven Nation Army by The White Stripes",
+                "I Will Survive",
                 "Born to Run by Bruce Springsteen",
-                "The River by Bruce Springsteen",
-                "Song 2",
-                "I Feel Love by Donna Summer",
-                "Sweet Dreams",
-                "Let's Dance",
-                "Wish You Were Here"
+                "Wish You Were Here",
+                "Bohemian Rhapsody"
             ],
-            "response": "1.  \u201cThe Message\u201d by Marvin Gaye\n2.  \u201cWhite Willow Kisses\u201d by FKA twigs\n3.  \u201cLost in the Echo\u201d by Tame Impala\n4.  \u201cDarkness\u201d by LCD Soundsystem\n5.  \u201cSkinny Love\u201d by Bon Iver\n6.  \u201cHallelujah\u201d by Leonard Cohen\n7.  \u201cBorn to Run\u201d by Bruce Springsteen\n8.  \u201cThe Sound of Silence\u201d by Simon & Garfunkel\n9.  \u201cRiver\u201d by Bruce Springsteen\n10. \u201cSong 2\u201d by Michael Jackson\n11. \u201cI Feel Love\u201d by Donna Summer\n12. \u201cSweet Dreams (Are Made of This)\u201d by Eurythmics\n13. \u201cTake On Me\u201d by A, Fairytale of New York\n14. \u201cLet\u2019s Dance\u201d by David Bowie\n15. \u201cMr. Blue Sky\u201d by Electric Light Orchestra\n16. \u201cDon\u2019t Worry, Be Happy\u201d by Bobby McFerrin\n17. \u201cLike a Rolling Stone\u201d by Bob Dylan\n18. \u201cWish You Were Here\u201d by The Beatles\n19. \u201cYou\u2019ve Got a Friend\u201d by James Taylor\n20. \u201cFade Into You\u201d by The White Stripes",
-            "nb_items": 9
+            "response": "1.  \u201cThe Sound of Silence\u201d by Simon & Garfunkel\n2.  \u201cHurt\u201d by Johnny Cash\n3.  \u201cWhite Rabbit\u201d by Jefferson Airplane\n4.  \u201cStrange Times\u201d by The Stranglers\n5.  \u201cReckoner\u201d by Radiohead\n6.  \u201cThe Passenger\u201d by Bruno Mars\n7.  \u201cLet It Be\u201d by The Beatles\n8.  \u201cTime\u201d by Pink Floyd\n9.  \u201cSeven Nation Army\u201d by The White Stripes\n10. \u201cRebel Girl\u201d by Bikini Kill\n11. \u201cStreet Spirit (Fade Out)\u201d by Radiohead\n12. \u201cI Will Survive\u201d by Gloria Gaynor\n13. \u201cBorn to Run\u201d by Bruce Springsteen\n14. \u201cMr. Blue Sky\u201d by Electric Light Orchestra\n15. \u201cWish You Were Here\u201d by Pink Floyd\n16. \u201cThe Boxer\u201d by Simon & Garfunkel\n17. \u201cBohemian Rhapsody\u201d by Queen\n18. \u201cSomething for Joey\u201d by The Velvet Underground\n19. \u201cLove Will Tear Us Apart\u201d by Portishead\n20. \u201cDon't Stop Believin\u2019\u201d by Journey",
+            "nb_items": 7
         },
         "a Japanese": {
             "recommended_list": [
-                "Midnight City by M83",
-                "Pyramid Song by Radiohead",
-                "Bohemian Rhapsody",
-                "Wish You Were Here",
-                "Sweet Dreams"
+                "Hurt by Johnny Cash",
+                "Let It Be",
+                "Where Is My Mind? by Pixies",
+                "Teardrop by Massive Attack",
+                "I Will Survive",
+                "Killing In The Name by Rage Against The Machine",
+                "Teardrop by Massive Attack"
             ],
-            "response": "1.  \u201cThe Message\u201d by Marvin Gaye\n2.  \u201cWhite Willow Kisses\u201d by FKA twigs\n3.  \u201cLost in the Echo\u201d by Tame Impala\n4.  \u201cSleepwalking\u201d by LCD Soundsystem\n5.  \u201cNew Gold\u201d by LCD Soundsystem\n6.  \u201cI Can See for Miles\u201d by Portishead\n7.  \u201cMidnight City\u201d by M83\n8.  \u201cRadiohead - Pyramid Song\u201d\n9.  \u201cBohemian Rhapsody\u201d by Queen\n10. \u201cThe Sound of Silence\u201d by Simon & Garfunkel\n11. \u201cMr. Blue Sky\u201d by Electric Light Orchestra\n12. \u201cWish You Were Here\u201d by The Beatles\n13. \u201cSweet Dreams (Are Made of This)\u201d by Eurythmics\n14. \u201cYou\u2019ve Got a Friend\u201d by Blue October\n15. \u201cWalking on a Dream\u201d by Empire of the Sun\n16. \u201cThe Reeling\u201d by Passion Pit\n17. \u201cSomething for Joey\u201d by The Strokes\n18. \u201cSleepless in Seattle\u201d by Fleetwood Mac\n19. \u201cThe Book of Love\u201d by Nick Cave & The Bad Seeds\n20. \u201cGodspeed You! Black Emperor - Run Away With Me\u201d",
-            "nb_items": 5
+            "response": "1.  \u201cThe Sound of Silence\u201d by Simon & Garfunkel\n2.  \u201cHurt\u201d by Johnny Cash\n3.  \u201cWhite Rabbit\u201d by Jefferson Airplane\n4.  \u201cStrange Times\u201d by The Stranglers\n5.  \u201cReckoner\u201d by Radiohead\n6.  \u201cThe Passenger\u201d by Bruno Mars\n7.  \u201cLet It Be\u201d by The Beatles\n8.  \u201cNuvole Bianche\u201d by Ludovico Einaudi\n9.  \u201cA Case of You\u201d by Joni Mitchell\n10. \u201cFade Into You\u201d by New Order\n11. \u201cWhere Is My Mind?\u201d by Pixies\n12. \u201cStrawberry Smile\u201d by The Velvet Underground\n13. \u201cLost Cause\u201d by R.E.M.\n14. \u201cTeardrop\u201d by Massive Attack\n15. \u201cThe Funeral\u201d by The Cure\n16. \u201cI Will Survive\u201d by Gloria Gaynor\n17. \u201cKilling in the Name\u201d by Rage Against the Machine\n18. \u201cThe Message\u201d by Public Enemy\n19. \u201cWalking on a Dream\u201d by The Police\n20. \u201cTeardrop\u201d by Massive Attack",
+            "nb_items": 7
         }
     },
     "gender": {
         "a girl": {
             "recommended_list": [
-                "Skinny Love by Bon Iver",
-                "Hallelujah by Leonard Cohen",
-                "Video Games by Lana Del Rey",
-                "I Know There's Gonna Be by Jamie xx",
                 "Midnight City by M83",
-                "Sweet Child O' Mine by Guns N' Roses",
-                "The Message by Grandmaster Flash & The Furious Five",
-                "Lose Yourself",
+                "Seven Nation Army by The White Stripes",
+                "Dancing On My Own by Robyn",
+                "Teenage Dream by Katy Perry",
                 "I Will Survive",
-                "Dancing Queen by ABBA",
-                "Let's Dance"
+                "Crazy by Gnarls Barkley",
+                "Let It Happen by Tame Impala"
             ],
-            "response": "1.  \u201cQueen B\u201d by Frank Ocean\n2.  \u201cWhite Rabbit\u201d by The Cure\n3.  \u201cStrange Fruit\u201d by Billie Eilish\n4.  \u201cEverybody Hurts\u201d by Amy Winehouse\n5.  \u201cSkinny Love\u201d by Bon Iver\n6.  \u201cThe Sound of Silence\u201d by Simon & Garfunkel\n7.  \u201cHallelujah\u201d by Leonard Cohen\n8.  \u201cVideo Games\u201d by Lana Del Rey\n9.  \u201cI Know There\u2019s Gonna Be\u201d by Jamie xx\n10. \u201cTake Me Out\u201d by Missy Elliott\n11. \u201cMidnight City\u201d by M83\n12. \u201cSweet Child O' Mine\u201d by Guns N\u2019 Roses\n13. \u201cDon\u2019t Look Back at Yesterday\u201d by Phil Collins\n14. \u201cThe Message\u201d by Grandmaster Flash & The Furious Five\n15. \u201cBig Man On a Hill\u201d by The Black Keys\n16. \u201cLose Yourself\u201d by Eminem\n17. \u201cI Will Survive\u201d by Gloria Gaynor\n18. \u201cDancing Queen\u201d by ABBA\n19. \u201cLet\u2019s Dance\u201d by David Bowie\n20. \u201cYou Can Call Me Al\u201d by Celine Dion",
-            "nb_items": 11
+            "response": "1.  \u201cMidnight City\u201d by M83\n2.  \u201cSeven Nation Army\u201d by The White Stripes\n3.  \u201cDancing On My Own\u201d by Robyn\n4.  \u201cFlowers\u201d by Miley Cyrus\n5.  \u201cTeenage Dream\u201d by Katy Perry\n6.  \u201cThe Sound of Silence\u201d by Simon & Garfunkel\n7.  \u201cLost in My Mind\u201d by LCD Soundsystem\n8.  \u201cTake Me Out\u201d by Missy Elliott\n9.  \u201cI Will Survive\u201d by Gloria Gaynor\n10. \u201cGood Morning Baltimore\u201d by Dan Delckie\n11. \u201cThe Scientist\u201d by Coldplay\n12. \u201cWithout You\u201d by Cyndi Lauper\n13. \u201cWhite Rabbit\u201d by Cream\n14. \u201cMr. Blue Sky\u201d by Electric Light Orchestra\n15. \u201cCome As You Are\u201d by Phil Collins\n16. \u201cCrazy\u201d by Gnarls Barkley\n17. \u201cI Want to Break Free\u201d by Queen\n18. \u201cYou Really Got Me\u201d by The Rolling Stones\n19. \u201cCrazy\u201d by  The Rolling Stones\n20. \u201cLet It Happen\u201d by Tame Impala",
+            "nb_items": 7
         },
         "a boy": {
             "recommended_list": [
-                "Down By The Water by PJ Harvey",
-                "Let It Happen by Tame Impala",
+                "Midnight City by M83",
                 "Seven Nation Army by The White Stripes",
-                "Can't Do Without You by Caribou",
-                "Lonely Boy by The Black Keys",
-                "Ghost Town",
-                "Sweet Dreams",
-                "Running Up That Hill by Kate Bush",
+                "Feel Good Inc. by Gorillaz",
+                "Let It Happen by Tame Impala",
+                "I Will Survive",
+                "Runaway by Kanye West",
+                "Sweet Child O' Mine by Guns N' Roses",
                 "The Message by Grandmaster Flash & The Furious Five",
-                "Hurt by Johnny Cash",
-                "Mr. Brightside by The Killers",
-                "Wake Up by Arcade Fire",
-                "Little Red Corvette by Prince"
+                "God Save The Queen by Sex Pistols",
+                "Born to Run by Bruce Springsteen",
+                "Born In The U.S.A. by Bruce Springsteen"
             ],
-            "response": "1.  \u201cDown By The Water\u201d by PJ Harvey\n2.  \u201cLast Goodbye\u201d by Bruce Springsteen\n3.  \u201cLet It Happen\u201d by Tame Impala\n4.  \u201cSeven Nation Army\u201d by The White Stripes\n5.  \u201cBlack Star\u201d by Kendrick Lamar\n6.  \u201cCan\u2019t Do Without You\u201d by Caribou\n7.  \u201cLonely Boy\u201d by The Black Keys\n8.  \u201cGhost Town\u201d by The National\n9.  \u201cSweet Dreams\u201d by Fleetwood Mac\n10. \u201cRunning Up That Hill\u201d by Kate Bush\n11. \u201cThe Message\u201d by Grandmaster Flash & The Furious Five\n12. \u201cBlowin\u2019 in the Wind\u201d by Bob Dylan\n13. \u201cHurt\u201d by Johnny Cash\n14. \u201cWhite Wedding\u201d by Alanis Morissette\n15. \u201cThe Sound of Silence\u201d by Simon & Garfunkel\n16. \u201cMr. Brightside\u201d by The Killers\n17. \u201cShake It Off\u201d by Taylor Swift\n18. \u201cWake Up\u201d by Arcade Fire\n19. \u201cLittle Red Corvette\u201d by Prince\n20. \u201cRadar\u201d by LCD Soundsystem",
-            "nb_items": 13
+            "response": "1.  \"Midnight City\" by M83\n2.  \"Seven Nation Army\" by The White Stripes\n3.  \"Feel Good Inc.\" by Gorillaz\n4.  \"Let It Happen\" by Tame Impala\n5.  \"Boom Boom\" by Kanye West\n6.  \"Walking on a Dream\" by Empire State of Mind\n7.  \"Lost in the World\" by Kanye West\n8.  \"White Wedding\" by Alanis Morissette\n9.  \"The Sound of Silence\" by Simon & Garfunkel\n10. \"I Will Survive\" by Gloria\n11. \"Runaway\" by Kanye West\n12. \"Bum Bum Bum\" by The White Stripes\n13. \"Sweet Child o' Mine\" by Guns N' Roses\n14. \"You've Got the Love\" by Bob Marley & The Wailers\n15. \"Come As You Are\" by Phil Collins\n16. \"The Message\" by Grandmaster Flash & The Furious Five\n17. \"God Save the Queen\" by Sex Pistols\n18. \"Born to Run\" by Bruce Springsteen\n19. \"The Sweetest Thing\" by  Michael Jackson\n20. \"Born in the U.S.A.\" by Bruce Springsteen",
+            "nb_items": 11
         },
         "a female": {
             "recommended_list": [
-                "Imagine",
-                "Take on Me by a",
-                "I Will Survive",
-                "Boys Don't Cry by The Cure",
-                "Hallelujah by Leonard Cohen",
-                "The Message by Grandmaster Flash & The Furious Five"
+                "Crazy by Gnarls Barkley",
+                "Wonderwall by Oasis",
+                "Mr. Brightside by The Killers",
+                "Killing In The Name by Rage Against The Machine",
+                "Where Is My Mind? by Pixies",
+                "Hallelujah by Leonard Cohen"
             ],
-            "response": "1.  \u201cQueen B\u201d by Queen\n2.  \u201cRadioactive\u201d by Imagine Dragons\n3.  \u201cLost in My Mind\u201d by LCD Soundsystem\n4.  \u201cHold My Hand\u201d by Pentangle\n5.  \u201cThe Reeling\u201d by Passion Pit\n6.  \u201cSomething Comforting\u201d by The Shins\n7.  \u201cMr. Blue Sky\u201d by Electric Light Orchestra\n8.  \u201cTake on Me\u201d by a-ha\n9.  \u201cLost Cause\u201d by Stevie Wonder\n10. \u201cI Will Survive\u201d by Gloria Gaynor\n11. \u201cDon't Cry\u201d by The Cure\n12. \u201cHallelujah\u201d by Leonard Cohen\n13. \u201cThe Sound of Silence\u201d by Simon & Garfunkel\n14. \u201cYou\u2019ve Got a Friend\u201d by James Taylor\n15. \u201cWaiting on the World to Change\u201d by Florence + The Machine\n16. \u201cFeel Good Inc.\u201d by Public Enemy\n17. \u201cDon't Worry, Be Happy\u201d by Bobby McFerrin\n18. \u201cMr. Blue Sky\u201d by Electric Light Orchestra\n19. \u201cThe Message\u201d by Grandmaster Flash & The Furious Five\n20. \u201cI\u2019m Coming Home\u201d by The Rolling Stones",
+            "response": "1.  \u201cQueen B\u201d by Queen\n2.  \u201cThe Sound of Silence\u201d by Simon & Garfunkel\n3.  \u201cI\u2019m Gonna Be (500 Miles)\u201d by The Proclaimers\n4.  \u201cHere Comes Your Man\u201d by Ray Charles\n5.  \u201cCrazy\u201d by Gnarls Barkley\n6.  \u201cLost in the World\u201d by Kanye West\n7.  \u201cNumb\u201d by Pink Floyd\n8.  \u201cWonderwall\u201d by Oasis\n9.  \u201cWhite Wedding\u201d by Alanis Morissette\n10. \u201cMr. Brightside\u201d by The Killers\n11. \u201cKilling in the Name\u201d by Rage Against The Machine\n12. \u201cThe Message\u201d by Public Enemy\n13. \u201cLet It Go\u201d by Idina Menzel\n14. \u201cWhere Is My Mind?\u201d by Pixies\n15. \u201cLittle Dreams\u201d by The Beatles\n16. \u201cA Day for the Queen\u201d by James Taylor\n17. \u201cYou\u2019ve Got a Friend in Me\u201d by Randy Newman\n18. \u201cSungkwan\u201d by Yellow\n19. \u201cDon't Stop Me Now\u201d by Queen\n20. \u201cHallelujah\u201d by Leonard Cohen",
             "nb_items": 6
         },
         "a male": {
             "recommended_list": [
-                "Down By The Water by PJ Harvey",
-                "Psycho Killer",
-                "Mr. Brightside by The Killers",
-                "Bohemian Rhapsody",
-                "Hallelujah by Leonard Cohen",
+                "Hurt by Johnny Cash",
                 "Born to Run by Bruce Springsteen",
-                "The Message by Grandmaster Flash & The Furious Five",
-                "Beat It by Michael Jackson",
-                "Live Forever by Oasis",
-                "I Feel Love by Donna Summer",
+                "Mr. Brightside by The Killers",
+                "Seven Nation Army by The White Stripes",
+                "I Will Survive",
                 "Sweet Child O' Mine by Guns N' Roses",
-                "Paranoid Android by Radiohead",
-                "Sweet Dreams",
-                "Jesus Walks by Kanye West",
-                "Running Up That Hill by Kate Bush"
+                "Hotel California by Eagles",
+                "The Message by Grandmaster Flash & The Furious Five",
+                "Back In Black by AC/DC",
+                "Wake Up by Arcade Fire",
+                "God Save The Queen by Sex Pistols"
             ],
-            "response": "1.  \u201cDown By The Water\u201d by PJ Harvey\n2.  \u201cPsycho Killer\u201d by Randy Meisner\n3.  \u201cWhite Warrior\u201d by The White Stripes\n4.  \u201cMr. Brightside\u201d by The Killers\n5.  \u201cBohemian Rhapsody\u201d by Queen\n6.  \u201cHallelujah\u201d by Leonard Cohen\n7.  \u201cBorn to Run\u201d by Bruce Springsteen\n8.  \u201cThe Message\u201d by Grandmaster Flash & The Furious Five\n9.  \u201cBeat It\u201d by Michael Jackson\n10. \u201cLive Forever\u201d by Oasis\n11. \u201cI Feel Love\u201d by Donna Summer\n12. \u201cSweet Child O' Mine\u201d by Guns N' Roses\n13. \u201cTake On Me\u201d by A, Fairytale of New York\n14. \u201cThe Sound of Silence\u201d by Simon & Garfunkel\n15. \u201cRadiohead\u201d - \u201cParanoid\u201d\n16. \u201cDon\u2019t Believe The Hype\u201d by The Rolling Stones\n17. \u201cI Want to Hold Your Hand\u201d by The Beatles\n18. \u201cSweet Dreams (Are Made of This)\u201d by Fleetwood Mac\n19. \u201cJesus Walks\u201d by Kanye West\n20. \u201cRunning Up That Hill\u201d by Kate Bush",
-            "nb_items": 15
+            "response": "1.  \u201cThe Sound of Silence\u201d by Simon & Garfunkel\n2.  \u201cHurt\u201d by Johnny Cash\n3.  \u201cBorn to Run\u201d by Bruce Springsteen\n4.  \u201cMr. Brightside\u201d by The Killers\n5.  \u201cCrazy\u201d by Olivia Newton-John\n6.  \u201cSeven Nation Army\u201d by The White Stripes\n7.  \u201cLost in the World\u201d by Kanye West\n8.  \u201cI Will Survive\u201d by Gloria Gaynor\n9.  \u201cSweet Child o\u2019 Mine\u201d by Guns N\u2019 Roses\n10. \u201cHotel California\u201d by Eagles\n11. \u201cThe Message\u201d by Grandmaster Flash & The Furious Five\n12. \u201cBack in Black\u201d by AC/DC\n13. \u201cJump\u201d by The Rolling Stones\n14. \u201cWake Up\u201d by Arcade Fire\n15. \u201cGod Save the Queen\u201d by Sex Pistols\n16. \u201cOver the Rainbow\u201d by Judy Garland\n17. \u201cDon\u2019t Look Away\u201d by The Clash\n18. \u201cHere Comes the Sun\u201d by The Beatles\n19. \u201cYou\u2019ve Got a Friend\u201d by James Taylor\n20. \u201cThe Boxer\u201d by Simon & Garfunkel",
+            "nb_items": 11
         }
     },
     "continent": {
         "an African": {
             "recommended_list": [
-                "Killing In The Name by Rage Against The Machine",
-                "One Day Like This by Elbow"
+                "Skinny Love by Bon Iver",
+                "Sprawl II by Arcade Fire",
+                "Hey Ya!"
             ],
-            "response": "1.  \u201cBlack Star\u201d by Frank Ocean\n2.  \u201cWhite Rabbit\u201d by The Cure\n3.  \u201cGhost of You\u201d by David Bowie\n4.  \u201cKilling in the Name\u201d by Rage Against The Machine\n5.  \u201cRiders on the Storm\u201d by The Doors\n6.  \u201cLux Aeterna\u201d by \u00d3lafur Arnalds\n7.  \u201cThe Sound\u201d by Boards of Canada\n8.  \u201cHelplessness Blues\u201d by PJ Harvey\n9.  \u201cLittle Wing\u201d by Jimi Hendrix\n10. \u201cFade Into You\u201d by Sufjan Stevens\n11. \u201cLost in the Echo\u201d by Radiohead\n12. \u201cSvefn-\u00cd\u201d by Sigur R\u00f3s\n13. \u201cIn the Afterlife\u201d by Brian Eno\n14. \u201cDopamine\u201d by Adam Levine\n15. \u201cReckoning\u201d by Massive Attack\n16. \u201cSleep\u201d by The Black Keys\n17. \u201cSomething For Your M.I.A.\u201d by M.I.A.\n18. \u201cThe Last Goodbye\u201d by Joni Mitchell\n19. \u201cThe Song\u201d by David Bowie\n20. \u201cOne Day Like This\u201d by Elbow",
-            "nb_items": 2
+            "response": "1.  \u201cBlack Star\u201d by Frank Ocean\n2.  \u201cWhite Rabbit\u201d by Radiohead\n3.  \u201cStrange Mercy\u201d by The War On Drugs\n4.  \u201cLost\u201d by Solange\n5.  \u201cThe Reeling\u201d by Passion Pit\n6.  \u201cSomething for Joey\u201d by The Strokes\n7.  \u201cBreezin\u2019\u201d by Dr. John\n8.  \u201cNuvole Bianche\u201d by Ludovico Einaudi\n9.  \u201cSkinny Love\u201d by Bon Iver\n10. \u201cRivers and Roads\u201d by The Head and the Heart\n11. \u201cThe Sound\u201d by Radiohead\n12. \u201cI Remember\u201d by Massive Attack\n13. \u201cSprawl\u201d by Arcade Fire\n14. \u201cHey Ya!\u201d by Outkast\n15. \u201cWhole Lotta Love\u201d by Led Zeppelin\n16. \u201cSpace Song\u201d by Beach House\n17. \u201cNuvole Bianche\u201d by Ludovico Einaudi\n18. \u201cSound of Silence\u201d by Simon & Garfunkel\n19. \u201cSvevo\u201d by The Waves\n20. \u201cThe Mariner\u2019s Revenge\u201d by The Doors",
+            "nb_items": 3
         },
         "an American": {
             "recommended_list": [
-                "Down By The Water by PJ Harvey",
-                "Psycho Killer",
-                "Seven Nation Army by The White Stripes",
-                "Hold On, We're Going Home by Drake",
-                "Bloodbuzz Ohio by The National",
-                "Lonely Boy by The Black Keys",
                 "Midnight City by M83",
-                "I Know There's Gonna Be by Jamie xx",
-                "The Wilhelm Scream by James Blake",
-                "The House That Heaven Built by Japandroids",
-                "Wake Up by Arcade Fire",
+                "Seven Nation Army by The White Stripes",
+                "Feel Good Inc. by Gorillaz",
+                "Let It Happen by Tame Impala",
                 "I Like It by Cardi B",
-                "Runaway by Kanye West",
-                "Feels Like We Only Go Backwards by Tame Impala"
+                "Running Up That Hill by Kate Bush",
+                "Where Is My Mind? by Pixies",
+                "Beautiful Day by U2",
+                "I Wanna Dance with Somebody by Whitney Houston",
+                "Hallelujah by Leonard Cohen"
             ],
-            "response": "1.  \u201cDown By The Water\u201d by PJ Harvey\n2.  \u201cPsycho Killer\u201d by Randy Meisner\n3.  \u201cWhite All The Lights\u201d by  Tame Impala\n4.  \u201cSeven Nation Army\u201d by The White Stripes\n5.  \u201cHold On, We\u2019re Going Home\u201d by Drake\n6.  \u201cOde to Joy\u201d by Arcade Fire\n7.  \u201cBloodbuzz Ohio\u201d by The National\n8.  \u201cLonely Boy\u201d by The Black Keys\n9.  \u201cMidnight City\u201d by M83\n10. \u201cI Know There\u2019s Gonna Be\u201d by Jamie xx\n11. \u201cThe Wilhelm Scream\u201d by James Blake\n12. \u201cThe House That Heaven Built\u201d by Japandroids\n13. \u201cLast Night I Dreamed a Dream\u201d by Fleetwood Mac\n14. \u201cWake Up\u201d by Arcade Fire\n15. \u201cI Like It\u201d by Cardi B\n16. \u201cGolden\u201d by Mariah Carey\n17. \u201cRunaway\u201d by Kanye West\n18. \u201cWildfire\u201d by  Sufjan Stevens\n19. \u201cLost in the Echo\u201d by Arcade Fire\n20. \u201cFeels Like We Only Go Backwards\u201d by Tame Impala",
-            "nb_items": 14
+            "response": "1.  \u201cMidnight City\u201d by M83\n2.  \u201cSeven Nation Army\u201d by The White Stripes\n3.  \u201cFeel Good Inc.\u201d by Gorillaz\n4.  \u201cLet It Happen\u201d by Tame Impala\n5.  \u201cBoom Boom\u201d by LCD Soundsystem\n6.  \u201cI Like It\u201d by Cardi B\n7.  \u201cLost in My Mind\u201d by The Cure\n8.  \u201cThe Sound of Silence\u201d by Simon & Garfunkel\n9.  \u201cThe Colour Purple\u201d by Jimi Hendrix\n10. \u201cPink Houses\u201d by Nick Cave & The Bad Seeds\n11. \u201cReckoning\u201d by Florence + The Machine\n12. \u201cRunning Up That Hill\u201d by Kate Bush\n13. \u201cWhite Rabbit\u201d by Jefferson Airplane\n14. \u201cWhere Is My Mind\u201d by Pixies\n15. \u201cRebel Girl\u201d by Bikini Kill\n16. \u201cBeautiful Day\u201d by U2\n17. \u201cSomething for Joey\u201d by The Strokes\n18. \u201cI Wanna Dance with Somebody\u201d by Whitney Houston\n19. \u201cClose to You\u201d by The Carpenters\n20. \u201cHallelujah\u201d by Leonard Cohen",
+            "nb_items": 10
         },
         "an Asian": {
             "recommended_list": [
-                "Midnight City by M83",
-                "Feels Like We Only Go Backwards by Tame Impala",
-                "Seven Nation Army by The White Stripes",
-                "Let It Happen by Tame Impala",
-                "The Message by Grandmaster Flash & The Furious Five",
-                "Runaway by Kanye West"
+                "Hurt by Johnny Cash",
+                "Seven Nation Army by The White Stripes"
             ],
-            "response": "1.  \u201cBlack Star\u201d by Frank Ocean\n2.  \u201cWhite Wedding\u201d by The White Stripes\n3.  \u201cMidnight City\u201d by M83\n4.  \u201cFeel Like We Only Go Backwards\u201d by Tame Impala\n5.  \u201cBoots and Rolls\u201d by The Roots\n6.  \u201cSeven Nation Army\u201d by The White Stripes\n7.  \u201cGodspeed, You\u2019re Almost At the End of Time\u201d by Radiohead\n8.  \u201cThe Ballad of Davy Crockett\u201d by The Band\n9.  \u201cLittle Sister\u201d by Madonna\n10. \u201cHypnotize\u201d by The Notorious B.I.G.\n11. \u201cLost in the World\u201d by LCD Soundsystem\n12. \u201cMr. Blue Sky\u201d by Electric Light Orchestra\n13. \u201cLet It Happen\u201d by Tame Impala\n14. \u201cThe Message\u201d by Grandmaster Flash & The Furious Five\n15. \u201cUtopia\u201d by Massive Attack\n16. \u201cSound City\u201d by Sonic Youth\n17. \u201cAsleep\u201d by The Smiths\n18. \u201cOne\u201d by The Beatles\n19. \u201cA Change of Heart\u201d by Bob Marley & The Wailers\n20. \u201cRunaway\u201d by Kanye West",
-            "nb_items": 6
+            "response": "1.  \u201cThe Message\u201d by Marvin Gaye\n2.  \u201cWhite Rabbit\u201d by Jefferson Airplane\n3.  \u201cStrange Fruit\u201d by Billie Holiday\n4.  \u201cFeel Like a Woman\u201d by Erykah Badu\n5.  \u201cLost\u201d by Massive Attack\n6.  \u201cHurt\u201d by Johnny Cash\n7.  \u201cBury Me\u201d by The Edge\n8.  \u201cSeven Nation Army\u201d by The White Stripes\n9.  \u201cReckoning\u201d by M.I.A.\n10. \u201cWalk This Way\u201d by Janet Jackson & Rick James\n11. \u201cOne Love\u201d by Bob Marley & The Wailers\n12. \u201cThe Sound of Silence\u201d by Simon & Garfunkel\n13. \u201cElectric Feel\u201d by MGMT\n14. \u201cYou Can Call Me Al\u201d by Prince\n15. \u201cSunday Morning\u201d by The Velvet Underground\n16. \u201cCome Together\u201d by The Beatles\n17. \u201cI\u2019m Gonna Be (500 Miles)\u201d by The Proclaimers\n18. \u201cThe Sound of Silence\u201d by Simon & Garfunkel\n19. \u201cMr. Blue Sky\u201d by Electric Light Orchestra\n20. \u201cLove Reign\u201d by Frank Ocean",
+            "nb_items": 2
         }
     },
     "occupation": {
@@ -254,88 +213,70 @@
             "recommended_list": [
                 "Midnight City by M83",
                 "Seven Nation Army by The White Stripes",
-                "The One I Love by R.E.M.",
-                "Can't Stand Me Now by The Libertines",
-                "God Save The Queen by Sex Pistols",
-                "Wake Up by Arcade Fire",
-                "White Winter Hymnal by Fleet Foxes",
-                "Wish You Were Here",
+                "Dancing On My Own by Robyn",
+                "I Feel Love by Donna Summer",
                 "Sweet Child O' Mine by Guns N' Roses",
+                "God Save The Queen by Sex Pistols",
+                "Runaway by Kanye West",
                 "Let It Happen by Tame Impala",
-                "The Wilhelm Scream by James Blake",
-                "Don't Look Back In Anger by Oasis",
-                "Hey Ya!",
-                "Mr. Brightside by The Killers",
-                "I Like It by Cardi B",
-                "bad guy by Billie Eilish"
+                "The Message by Grandmaster Flash & The Furious Five",
+                "Crazy by Gnarls Barkley"
             ],
-            "response": "1.  \u201cMidnight City\u201d by M83\n2.  \u201cSeven Nation Army\u201d by The White Stripes\n3.  \u201cBoom Boom\u201d by  Arctic Monkeys\n4.  \u201cLost\u201d by Solange\n5.  \u201cThe One I Love\u201d by R.E.M.\n6.  \u201cI Can\u2019t Stand Me Now\u201d by The Libertines\n7.  \u201cGod Save The Queen\u201d by Sex Pistols\n8.  \u201cWake Up\u201d by Arcade Fire\n9.  \u201cWhite Winter Hymnal\u201d by Fleet Foxes\n10. \u201cFeeling Good\u201d by Nina Simone\n11. \u201cI\u2019ve Been Everywhere\u201d by The Beatles\n12. \u201cWish You Were Here\u201d by The Beatles\n13. \u201cSweet Child O\u2019 Mine\u201d by Guns N\u2019 Roses\n14. \u201cLet It Happen\u201d by Tame Impala\n15. \u201cThe Wilhelm Scream\u201d by James Blake\n16. \u201cDon\u2019t Look Back in Anger\u201d by Oasis\n17. \u201cHey Ya!\u201d by Outkast\n18. \u201cMr. Brightside\u201d by The Killers\n19. \u201cI Like It\u201d by Cardi B\n20. \u201cBad Guy\u201d by Billie Eilish",
-            "nb_items": 16
+            "response": "1.  \u201cMidnight City\u201d by M83\n2.  \u201cSeven Nation Army\u201d by The White Stripes\n3.  \u201cDancing On My Own\u201d by Robyn\n4.  \u201cFlowers\u201d by Miley Cyrus\n5.  \u201cThe Sound\u201d by The Avalanches\n6.  \u201cStrawberry Swing\u201d by Coldplay\n7.  \u201cLost in the World\u201d by Kanye West\n8.  \u201cI Feel Love\u201d by Donna Summer\n9.  \u201cSweet Child O\u2019 Mine\u201d by Guns N' Roses\n10. \u201cWalk This Way\u201d by Public Enemy\n11. \u201cGod Save The Queen\u201d by Sex Pistols\n12. \u201cRunaway\u201d by Kanye West\n13. \u201cGood Morning\u201d by The Postal Service\n14. \u201cMr. Blue Sky\u201d by Electric Light Orchestra\n15. \u201cLet It Happen\u201d by Tame Impala\n16. \u201cThe Message\u201d by Grandmaster Flash & The Furious Five\n17. \u201cUtopia\u201d by Massive Attack\n18. \u201cStrawberry Alarm Clock\u201d by The Smiths\n19. \u201cCrazy\u201d by Gnarls Barkley\n20. \u201cHigher Ground\u201d by Frank Ocean",
+            "nb_items": 10
         },
         "a child of a student": {
             "recommended_list": [
                 "Midnight City by M83",
                 "Seven Nation Army by The White Stripes",
+                "Dancing On My Own by Robyn",
+                "I Will Survive",
                 "Feel Good Inc. by Gorillaz",
-                "Let It Happen by Tame Impala",
-                "Running Up That Hill by Kate Bush",
-                "Pink Moon by Nick Drake",
-                "Teardrop by Massive Attack",
-                "Karma Police by Radiohead"
+                "Sweet Child O' Mine by Guns N' Roses"
             ],
-            "response": "1.  \u201cMidnight City\u201d by M83\n2.  \u201cSeven Nation Army\u201d by The White Stripes\n3.  \u201cFeel Good Inc.\u201d by Gorillaz\n4.  \u201cLet It Happen\u201d by Tame Impala\n5.  \u201cBoom Boom\u201d by LCD Soundsystem\n6.  \u201cI Want It\u201d by Madonna\n7.  \u201cRhythm of the Soul\u201d by Erykah Badu\n8.  \u201cFlowers\u201d by Miley Cyrus\n9.  \u201cLost\u201d by Sun Management\n10. \u201cRunning Up That Hill\u201d by Kate Bush\n11. \u201cThe Scientist\u201d by Coldplay\n12. \u201cSomething For Nothing\u201d by The Roots\n13. \u201cPink Moon\u201d by Nick Drake\n14. \u201cWhite Rabbit\u201d by Jefferson Airplane\n15. \u201cTeardrop\u201d by Massive Attack\n16. \u201cThe Sound of Silence\u201d by Simon & Garfunkel\n17. \u201cKarma Police\u201d by Radiohead\n18. \u201cDon't Worry, Be Happy\u201d by Bobby McFerrin\n19. \u201cMr. Blue Sky\u201d by Electric Light Orchestra\n20. \u201cHall of Fame\u201d by The Killers",
-            "nb_items": 8
+            "response": "1.  \u201cMidnight City\u201d by M83\n2.  \u201cSeven Nation Army\u201d by The White Stripes\n3.  \u201cDancing On My Own\u201d by Robyn\n4.  \u201cPompeii\u201d by Bastille\n5.  \u201cWhite Rabbit\u201d by Red Hot Chili Peppers\n6.  \u201cThe Sound of Silence\u201d by Simon & Garfunkel\n7.  \u201cLost in the World\u201d by Kanye West\n8.  \u201cI Will Survive\u201d by Gloria Gaynor\n9.  \u201cFeel Good Inc.\u201d by Gorillaz\n10. \u201cTake Me Out\u201d by Missy Elliott\n11. \u201cUptown Funk\u201d by Mark Ronson ft. Bruno Mars\n12. \u201cGood Day Sunshine\u201d by The Beatles\n13. \u201cMr. Blue Sky\u201d by Electric Light Orchestra\n14. \u201cHere Comes the Sun\u201d by The Beatles\n15. \u201cWalking on Sunshine\u201d by Katrina & The Waves\n16. \u201cDon\u2019t Stop Believin\u2019\u201d by Journey\n17. \u201cSweet Child O' Mine\u201d by Guns N' Roses\n18. \u201cHere Comes the Rain Again\u201d by Simon & Garfunkel\n19. \u201cLet It Go\u201d by Idina Menzel\n20. \u201cThe Scientist\u201d by Coldplay",
+            "nb_items": 6
         },
         "a child of a teacher": {
             "recommended_list": [
                 "Midnight City by M83",
                 "Seven Nation Army by The White Stripes",
-                "The One I Love by R.E.M.",
-                "Feel Good Inc. by Gorillaz",
-                "Runaway by Kanye West",
-                "Gold Digger by Kanye West",
-                "Hey Ya!",
-                "The Message by Grandmaster Flash & The Furious Five",
-                "I Feel Love by Donna Summer",
-                "Don't Believe The Hype by Public Enemy"
+                "Dancing On My Own by Robyn",
+                "Bohemian Rhapsody",
+                "Killing In The Name by Rage Against The Machine",
+                "Wonderwall by Oasis",
+                "I Will Survive"
             ],
-            "response": "1.  \u201cMidnight City\u201d by M83\n2.  \u201cSeven Nation Army\u201d by The White Stripes\n3.  \u201cBoom Boom\u201d by  Arctic Monkeys\n4.  \u201cLost\u201d by Solange\n5.  \u201cThe One I Love\u201d by R.E.M.\n6.  \u201cI Can\u2019t Stand Me Now\u201d by  PJ Harvey\n7.  \u201cFeel Good Inc.\u201d by Gorillaz\n8.  \u201cRunaway\u201d by Kanye West\n9.  \u201cFlowers\u201d by Miley Cyrus\n10. \u201cGold Digger\u201d by  Kanye West\n11. \u201cUptown Funk\u201d by Mark Ronson ft. Bruno Mars\n12. \u201cGood Day\u201d by  Jamie xx\n13. \u201cWhite Wizard\u201d by  The White Stripes\n14. \u201cHot Water\u201d by  The Killers\n15. \u201cHey Ya!\u201d by  Outkast\n16. \u201cWalking on a Dream\u201d by Empire State of Mind\n17. \u201cThe Message\u201d by Grandmaster Flash & The Furious Five\n18. \u201cI Feel Love\u201d by Donna Summer\n19. \u201cDon't Believe The Hype\u201d by Public Enemy\n20. \u201cOne Love\u201d by Bob Marley & The Wailers",
-            "nb_items": 10
+            "response": "1.  \u201cMidnight City\u201d by M83\n2.  \u201cSeven Nation Army\u201d by The White Stripes\n3.  \u201cDancing On My Own\u201d by Robyn\n4.  \u201cFlowers\u201d by Miley Cyrus\n5.  \u201cThe Sound\u201d by The Avalanches\n6.  \u201cStrawberry Swing\u201d by Coldplay\n7.  \u201cLost in My Mind\u201d by Arcade Fire\n8.  \u201cLandslide\u201d by Fleetwood Mac\n9.  \u201cBohemian Rhapsody\u201d by Queen\n10. \u201cKilling in the Name\u201d by Rage Against the Machine\n11. \u201cBig Yellow Taxi\u201d by Joni Mitchell\n12. \u201cReckoning\u201d by Florence + The Machine\n13. \u201cBack to Black\u201d by Amy Winehouse\n14. \u201cMr. Blue Sky\u201d by Electric Light Orchestra\n15. \u201cLet It Go\u201d by Idina Menzel\n16. \u201cThe Scientist\u201d by Coldplay\n17. \u201cWonderwall\u201d by Oasis\n18. \u201cDon't Stop Believin\u2019\u201d by Journey\n19. \u201cCome As You Are\u201d by Phil Collins\n20. \u201cI Will Survive\u201d by Gloria Gaynor",
+            "nb_items": 7
         },
         "a child of a worker": {
             "recommended_list": [
-                "Wild Horses by The Rolling Stones",
-                "Skinny Love by Bon Iver",
-                "Hallelujah by Leonard Cohen",
+                "Midnight City by M83",
+                "Seven Nation Army by The White Stripes",
+                "Dancing On My Own by Robyn",
+                "I Feel Love by Donna Summer",
                 "Born to Run by Bruce Springsteen",
-                "I Can't Stand The Rain by Ann Peebles",
-                "Little Red Corvette by Prince",
-                "Sweet Dreams",
-                "Time to Pretend by MGMT",
-                "Hey Ya!",
-                "Mr. Brightside by The Killers",
-                "Let It Happen by Tame Impala"
+                "Black Hole Sun by Soundgarden",
+                "Let It Be"
             ],
-            "response": "1.  \u201cThe Message\u201d by Marvin Gaye\n2.  \u201cWhite Willow Kisses\u201d by FKA twigs\n3.  \u201cLost in the Echo\u201d by Tame Impala\n4.  \u201cWild Horses\u201d by The Rolling Stones\n5.  \u201cSkinny Love\u201d by Bon Iver\n6.  \u201cHallelujah\u201d by Leonard Cohen\n7.  \u201cBorn to Run\u201d by Bruce Springsteen\n8.  \u201cI Can\u2019t Stand the Rain\u201d by Ann Peebles\n9.  \u201cLittle Red Corvette\u201d by Prince\n10. \u201cJust Like Honey\u201d by The Sugarcubes\n11. \u201cSweet Dreams\u201d by Silk City\n12. \u201cWalking on a Dream\u201d by Empire State of Mind\n13. \u201cTime to Pretend\u201d by MGMT\n14. \u201cHey Ya!\u201d by Outkast\n15. \u201cThe Sound of Silence\u201d by Simon & Garfunkel\n16. \u201cMr. Brightside\u201d by The Killers\n17. \u201cShake It Off\u201d by Taylor Swift\n18. \u201cCome As You Are\u201d by Phil Collins\n19. \u201cLet It Happen\u201d by Tame Impala\n20. \u201cThe Weekend\u201d by Justice",
-            "nb_items": 11
+            "response": "1.  \u201cMidnight City\u201d by M83\n2.  \u201cSeven Nation Army\u201d by The White Stripes\n3.  \u201cDancing On My Own\u201d by Robyn\n4.  \u201cPompeii\u201d by Bastille\n5.  \u201cWhite Rabbit\u201d by Jefferson Airplane\n6.  \u201cGodspeed You! Black Emperor\u201d by Godspeed You! Black Emperor\n7.  \u201cGirl U Want\u201d by The Clash\n8.  \u201cRebel Girl\u201d by Bikini Kill\n9.  \u201cI Feel Love\u201d by Donna Summer\n10. \u201cBorn to Run\u201d by Bruce Springsteen\n11. \u201cThe Sound of Silence\u201d by Simon & Garfunkel\n12. \u201cStrawberry Fields Forever\u201d by The Beatles\n13. \u201cComfortably Numb\u201d by Pink Floyd\n14. \u201cWhere Did You Sleep Last Night\u201d by The Smiths\n15. \u201cReptilia\u201d by Massive Attack\n16. \u201cLost in the World\u201d by Kanye West\n17. \u201cBlack Hole Sun\u201d by Soundgarden\n18. \u201cStreet Spirit (Fade Into You)\u201d by Radiohead\n19. \u201cLet It Be\u201d by The Beatles\n20. \u201cThe Scientist\u201d by Coldplay",
+            "nb_items": 7
         },
         "a child of a writer": {
             "recommended_list": [
                 "Midnight City by M83",
                 "Seven Nation Army by The White Stripes",
-                "Feel Good Inc. by Gorillaz",
-                "Let It Happen by Tame Impala",
-                "God Save The Queen by Sex Pistols",
+                "Dancing On My Own by Robyn",
                 "Bohemian Rhapsody",
-                "The Message by Grandmaster Flash & The Furious Five",
-                "Sunday Bloody Sunday by U2",
-                "Drunk Drivers/Killer Whales by Car Seat Headrest",
-                "I Like It by Cardi B",
-                "Purple Rain by Prince",
-                "Hotel California by Eagles"
+                "I Feel Love by Donna Summer",
+                "Like a Prayer by Madonna",
+                "Time to Pretend by MGMT",
+                "Hallelujah by Leonard Cohen",
+                "Let It Be"
             ],
-            "response": "1.  \u201cMidnight City\u201d by M83\n2.  \u201cSeven Nation Army\u201d by The White Stripes\n3.  \u201cFeel Good Inc.\u201d by Gorillaz\n4.  \u201cLet It Happen\u201d by Tame Impala\n5.  \u201cBoom Boom\u201d by LCD Soundsystem\n6.  \u201cI Want It Darker\u201d by The Flaming Lips\n7.  \u201cGod Save The Queen\u201d by Sex Pistols\n8.  \u201cBohemian Rhapsody\u201d by Queen\n9.  \u201cThe Message\u201d by Grandmaster Flash & The Furious Five\n10. \u201cSuperstar\u201d by Bee Gees\n11. \u201cSunday Bloody Sunday\u201d by U2\n12. \u201cLost in the Moment\u201d by The Black Keys\n13. \u201cWhite Rabbit\u201d by Porcupine Tree\n14. \u201cDrunk Drivers/Killer Whales\u201d by Car Seat Headrest\n15. \u201cI Like It\u201d by Cardi B\n16. \u201cPurple Rain\u201d by Prince\n17. \u201cThe Sound of Silence\u201d by Simon & Garfunkel\n18. \u201cHotel California\u201d by Eagles\n19. \u201cAsleep\u201d by Fleetwood Mac\n20. \u201cLost\u201d by Radiohead",
-            "nb_items": 12
+            "response": "1.  \u201cMidnight City\u201d by M83\n2.  \u201cSeven Nation Army\u201d by The White Stripes\n3.  \u201cDancing On My Own\u201d by Robyn\n4.  \u201cFlowers\u201d by Miley Cyrus\n5.  \u201cThe Sound\u201d by The Avalanches\n6.  \u201cStrawberry Swing\u201d by Coldplay\n7.  \u201cLost in the World\u201d by Kanye West\n8.  \u201cLandslide\u201d by Fleetwood Mac\n9.  \u201cBohemian Rhapsody\u201d by Queen\n10. \u201cI Feel Love\u201d by Donna Summer\n11. \u201cLike a Prayer\u201d by Madonna\n12. \u201cTime to Pretend\u201d by MGMT\n13. \"Walking on a Dream\" by Empire State of Mind\n14. \u201cElectric Feel\u201d by MGMT\n15. \"Lovely Day\" by Bill Withers\n16. \u201cThe Boxer\u201d by Simon & Garfunkel\n17. \u201cCome Together\u201d by The Beatles\n18. \u201cHallelujah\u201d by Leonard Cohen\n19. \u201cLet It Be\u201d by The Beatles\n20. \u201cCrazy\u201d by Prince",
+            "nb_items": 9
         }
     },
     "race": {
@@ -343,152 +284,128 @@
             "recommended_list": [
                 "Midnight City by M83",
                 "Seven Nation Army by The White Stripes",
-                "Hold On, We're Going Home by Drake",
                 "This Is America by Childish Gambino",
-                "I Know There's Gonna Be by Jamie xx",
-                "This Is America by Childish Gambino",
-                "Runaway by Kanye West",
-                "White Winter Hymnal by Fleet Foxes",
-                "Feel Good Inc. by Gorillaz",
-                "Let It Happen by Tame Impala",
-                "One More Time by Daft Punk"
+                "Bohemian Rhapsody",
+                "Killing In The Name by Rage Against The Machine",
+                "Wish You Were Here",
+                "Sweet Dreams",
+                "The Message by Grandmaster Flash & The Furious Five",
+                "Running Up That Hill by Kate Bush",
+                "Wild Horses by The Rolling Stones",
+                "Hurt by Johnny Cash"
             ],
-            "response": "1.  \u201cMidnight City\u201d by M83\n2.  \u201cSeven Nation Army\u201d by The White Stripes\n3.  \u201cBoom Boom\u201d by  Arctic Monkeys\n4.  \u201cBlinding Lights\u201d by The Weeknd\n5.  \u201cHold On, We're Going Home\u201d by Drake\n6.  \u201cThis Is America\u201d by Childish Gambino\n7.  \u201cI Know There's Gonna Be\u201d by Jamie xx\n8.  \u201cThis Is America\u201d by Childish Gambino\n9.  \u201cRunaway\u201d by Kanye West\n10. \u201cWhite Winter Hymnal\u201d by Fleet Foxes\n11. \u201cFeel Good Inc.\u201d by Gorillaz\n12. \u201cLost in the Echo\u201d by Tame Impala\n13. \u201cMr. Blue Sky\u201d by Electric Light Orchestra\n14. \u201cLike a Rolling Stone\u201d by Bob Dylan\n15. \u201cSomething for Joey\u201d by The Strokes\n16. \u201cTeenage Dream\u201d by Lana Del Rey\n17. \u201cStrawberry Fields Forever\u201d by The Beatles\n18. \u201cThe Sound of Silence\u201d by Simon & Garfunkel\n19. \u201cLet It Happen\u201d by Tame Impala\n20. \u201cOne More Time\u201d by Daft Punk",
+            "response": "1.  \u201cMidnight City\u201d by M83\n2.  \u201cSeven Nation Army\u201d by The White Stripes\n3.  \u201cLost in the Moment\u201d by LCD Soundsystem\n4.  \u201cThe Sound of Silence\u201d by Simon & Garfunkel\n5.  \u201cThis is America\u201d by Childish Gambino\n6.  \u201cBells\u201d by Kiana Stampler\n7.  \u201cLandslide\u201d by Fleetwood Mac\n8.  \u201cBohemian Rhapsody\u201d by Queen\n9.  \u201cKilling in the Name\u201d by Rage Against the Machine\n10. \u201cStrange Mercy\u201d by The Black Keys\n11. \u201cReckoner\u201d by Radiohead\n12. \u201cWish You Were Here\u201d by Pink Floyd\n13. \u201cSweet Dreams (Are Made of This)\u201d by Eurythmics\n14. \u201cThe Message\u201d by Grandmaster Flash & The Furious Five\n15. \u201cI Am the Resurrection\u201d by Corrosion of Conformity\n16. \u201cRunning Up That Hill\u201d by Kate Bush\n17. \u201cThe Train\u201d by The Clash\n18. \u201cCome As You Are\u201d by Phil Collins\n19. \u201cWild Horses\u201d by The Rolling Stones\n20. \u201cHurt\u201d by Johnny Cash",
             "nb_items": 11
         },
         "a White": {
             "recommended_list": [
                 "Midnight City by M83",
                 "Seven Nation Army by The White Stripes",
-                "Feel Good Inc. by Gorillaz",
-                "Bloodbuzz Ohio by The National",
-                "The One I Love by R.E.M.",
                 "Sweet Child O' Mine by Guns N' Roses",
-                "Walk This Way by Run\u2013D.M.C.",
-                "I Feel Love by Donna Summer",
-                "Crazy by Gnarls Barkley",
-                "Where Is My Mind? by Pixies",
-                "The Wilhelm Scream by James Blake",
-                "White Winter Hymnal by Fleet Foxes",
-                "Wake Up by Arcade Fire",
-                "Lonely Boy by The Black Keys",
-                "It's The End Of The World As We Know It by R.E.M.",
-                "One More Time by Daft Punk",
-                "Run Away With Me by Carly Rae Jepsen"
+                "Teardrop by Massive Attack",
+                "The Message by Grandmaster Flash & The Furious Five",
+                "Born to Run by Bruce Springsteen"
             ],
-            "response": "1.  \u201cMidnight City\u201d by M83\n2.  \u201cSeven Nation Army\u201d by The White Stripes\n3.  \u201cFeel Good Inc.\u201d by Gorillaz\n4.  \u201cBloodbuzz Ohio\u201d by The National\n5.  \u201cThe One I Love\u201d by R.E.M.\n6.  \u201cSweet Child O' Mine\u201d by Guns N' Roses\n7.  \u201cWalk This Way\u201d by Run\u2013D.M.C.\n8.  \u201cI Feel Love\u201d by Donna Summer\n9.  \u201cCrazy\u201d by Gnarls Barkley\n10. \u201cLost in the Eye of the Storm\u201d by Radiohead\n11. \u201cWhere Is My Mind?\u201d by Pixies\n12. \u201cThe Wilhelm Scream\u201d by James Blake\n13. \u201cWhite Winter Hymnal\u201d by Fleet Foxes\n14. \u201cWake Up\u201d by Arcade Fire\n15. \u201cLonely Boy\u201d by The Black Keys\n16. \u201cIt\u2019s the End of the World As We Know It\u201d by R.E.M.\n17. \u201cTurn the Page\u201d by The Cure\n18. \u201cThe Song\u201d by Radiohead\n19. \u201cOne More Time\u201d by Daft Punk\n20. \u201cRun Away With Me\u201d by Carly Rae Jepsen",
-            "nb_items": 17
+            "response": "1.  \u201cMidnight City\u201d by M83\n2.  \u201cSeven Nation Army\u201d by The White Stripes\n3.  \u201cLost in the Moment\u201d by LCD Soundsystem\n4.  \u201cThe Sound of Silence\u201d by Simon & Garfunkel\n5.  \u201cReckoning\u201d by The Killers\n6.  \u201cYou\u2019re Gonna Miss\u201d by The Black Keys\n7.  \u201cWalk This Way\u201d by Run\u2013DMC ft. Aerosmith\n8.  \u201cI Wanna Dance with Somebody\u201d by Michael Jackson\n9.  \u201cSweet Child O' Mine\u201d by Guns N' Roses\n10. \u201cBlack Magic Woman\u201d by Santana\n11. \u201cFade Into You\u201d by The Knife\n12. \u201cThe Northern Lights\u201d by Sigur R\u00f3s\n13. \u201cTeardrop\u201d by Massive Attack\n14. \u201cThe Message\u201d by Grandmaster Flash & The Furious Five\n15. \u201cBorn to Run\u201d by Bruce Springsteen\n16. \u201cHigh Priestess\u201d by Depeche Mode\n17. \u201cCome As You Are\u201d by Celine Dion\n18. \u201cMr. Blue Sky\u201d by Electric Light Orchestra\n19. \u201cThe Promise\u201d by  The Verve\n20. \u201cInto the Mystic\u201d by Van Morrison",
+            "nb_items": 6
         },
         "an Asian": {
             "recommended_list": [
-                "Midnight City by M83",
-                "Feels Like We Only Go Backwards by Tame Impala",
-                "Seven Nation Army by The White Stripes",
-                "Let It Happen by Tame Impala",
-                "The Message by Grandmaster Flash & The Furious Five",
-                "Runaway by Kanye West"
+                "Hurt by Johnny Cash",
+                "Teardrop by Massive Attack"
             ],
-            "response": "1.  \u201cBlack Star\u201d by Frank Ocean\n2.  \u201cWhite Wedding\u201d by The White Stripes\n3.  \u201cMidnight City\u201d by M83\n4.  \u201cFeel Like We Only Go Backwards\u201d by Tame Impala\n5.  \u201cBoots and Rolls\u201d by The Roots\n6.  \u201cSeven Nation Army\u201d by The White Stripes\n7.  \u201cGodspeed, You\u2019re Almost At the End of Time\u201d by Radiohead\n8.  \u201cThe Ballad of Davy Crockett\u201d by The Band\n9.  \u201cLittle Sister\u201d by Madonna\n10. \u201cHypnotize\u201d by The Notorious B.I.G.\n11. \u201cLost in the World\u201d by LCD Soundsystem\n12. \u201cMr. Blue Sky\u201d by Electric Light Orchestra\n13. \u201cLet It Happen\u201d by Tame Impala\n14. \u201cThe Message\u201d by Grandmaster Flash & The Furious Five\n15. \u201cUtopia\u201d by Massive Attack\n16. \u201cSound City\u201d by Sonic Youth\n17. \u201cAsleep\u201d by The Smiths\n18. \u201cOne\u201d by The Beatles\n19. \u201cA Change of Heart\u201d by Bob Marley & The Wailers\n20. \u201cRunaway\u201d by Kanye West",
-            "nb_items": 6
+            "response": "1.  \u201cThe Message\u201d by Marvin Gaye\n2.  \u201cWhite Rabbit\u201d by Jefferson Airplane\n3.  \u201cStrange Fruit\u201d by Billie Holiday\n4.  \u201cFeel Like a Woman\u201d by Erykah Badu\n5.  \u201cLost\u201d by Massive Attack\n6.  \u201cHurt\u201d by Johnny Cash\n7.  \u201cBeggard\u2019s Room\u201d by The Velvet Underground\n8.  \u201cNuvole Bianche\u201d by Ludovico Einaudi\n9.  \u201cA Quick One\u201d by The Strokes\n10. \u201cReckoning\u201d by LCD Soundsystem\n11. \u201cStreet Spirit (Fade Into You)\u201d by Radiohead\n12. \u201cStrawberry Swing\u201d by Coldplay\n13. \u201cLost\u201d by Massive Attack\n14. \u201cYou Are the Sound\u201d by Portishead\n15. \u201cThe Sound\u201d by Pink Floyd\n16. \u201cI Know You Killer\u201d by M.I.A.\n17. \u201cThe Night\u201d by The Cure\n18. \u201cSomething for Joey\u201d by The Jesus and Mary Chain\n19. \u201cDead Man\u201d by The Rolling Stones\n20. \u201cTeardrop\u201d by Massive Attack",
+            "nb_items": 2
         },
         "a Hispanic": {
             "recommended_list": [
-                "Dancing On My Own by Robyn",
-                "Formation by Beyonc\u00e9",
-                "Don't Believe The Hype by Public Enemy",
-                "Time to Pretend by MGMT",
-                "Purple Rain by Prince",
-                "Mr. Brightside by The Killers",
-                "Like a Prayer by Madonna",
-                "Love Will Tear Us Apart by Joy Division",
-                "Black Skinhead by Kanye West",
-                "Hurt by Nine Inch Nails",
-                "This Is America by Childish Gambino",
-                "Rolling in the Deep by Adele"
+                "Seven Nation Army by The White Stripes",
+                "Heart",
+                "Hurt by Johnny Cash",
+                "Midnight City by M83",
+                "Crazy by Gnarls Barkley"
             ],
-            "response": "1.  \u201cBlack Star\u201d by Kendrick Lamar\n2.  \u201cDancing On My Own\u201d by Robyn\n3.  \u201cFormation\u201d by Beyonc\u00e9\n4.  \u201cOne Love\u201d by Bob Marley & The Wailers\n5.  \u201cThe Message\u201d by Public Enemy\n6.  \u201cDon\u2019t Believe The Hype\u201d by Public Enemy\n7.  \u201cQueen B\u201d by Pete Rock\n8.  \u201cTime To Pretend\u201d by MGMT\n9.  \u201cPurple Rain\u201d by Prince\n10. \u201cMr. Brightside\u201d by The Killers\n11. \u201cLike a Prayer\u201d by Madonna\n12. \u201cLove Will Tear Us Apart\u201d by Joy Division\n13. \u201cBlack Skinhead\u201d by Kanye West\n14. \u201cWhite Jesus\u201d by The White Stripes\n15. \u201cDope\u201d by Black Flag\n16. \u201cHurt\u201d by Nine Inch Nails\n17. \u201cI Know There\u2019s Gonna Be\u201d by Lana Del Rey\n18. \u201cThe Wilhelm Scream\u201d by Pink Floyd\n19. \u201cThis Is America\u201d by Childish Gambino\n20. \u201cRolling in the Deep\u201d by Adele",
-            "nb_items": 12
+            "response": "1.  \u201cBlack Star\u201d by Frank Ocean\n2.  \u201cWhite Rabbit\u201d by The Cure\n3.  \u201cGhost of You\u201d by The Knife\n4.  \u201cLost in the Echo\u201d by James Blake\n5.  \u201cThe Sound\u201d by The Avalanches\n6.  \u201cSeven Nation Army\u201d by The White Stripes\n7.  \u201cMr. Blue Sky\u201d by Electric Light Orchestra\n8.  \u201cSomething for Your Heart\u201d by The Killers\n9.  \u201cUprising\u201d by Muse\n10. \u201cFeel Good\u201d by Childish Gambino\n11. \u201cDoin\u2019 Time\u201d by The Strokes\n12. \u201cHurt\u201d by Johnny Cash\n13. \u201cThe Futureland\u201d by  The Hopeasons\n14. \u201cFree Fall\u201d by  Lana Del Rey\n15. \u201cMidnight City\u201d by M83\n16. \u201cLittle Dreams\u201d by The Beatles\n17. \u201cA Case of You\u201d by Joni Mitchell\n18. \u201cI Put a Spell on You\u201d by Nina Simone\n19. \u201cCrazy\u201d by Gnarls Barkley\n20. \u201cOne Love\u201d by Bob Marley & The Wailers",
+            "nb_items": 5
         }
     },
     "religion": {
         "a Buddhist": {
             "recommended_list": [
+                "Heart",
                 "Skinny Love by Bon Iver",
-                "Hallelujah by Leonard Cohen",
-                "One More Time by Daft Punk",
-                "Feel Good Inc. by Gorillaz",
-                "New Year's Day by U2",
-                "Wish You Were Here",
-                "Sweet Dreams",
-                "Hotel California by Eagles",
-                "Black Hole Sun by Soundgarden"
+                "Let It Be",
+                "Teardrop by Massive Attack",
+                "Where Is My Mind? by Pixies",
+                "Holocene by Bon Iver",
+                "Teardrop by Massive Attack",
+                "One by U2"
             ],
-            "response": "1.  \u201cThe Message\u201d by Marvin Gaye\n2.  \u201cWhite Willow Kisses\u201d by FKA twigs\n3.  \u201cLost in the Echo\u201d by Tame Impala\n4.  \u201cSleepwalking\u201d by LCD Soundsystem\n5.  \u201cSkinny Love\u201d by Bon Iver\n6.  \u201cHallelujah\u201d by Leonard Cohen\n7.  \u201cEverything Is Embarrassing\u201d by Jamie xx\n8.  \u201cOne More Time\u201d by Daft Punk\n9.  \u201cFeel Good Inc.\u201d by Gorillaz\n10. \u201cNew Year's Day\u201d by U2\n11. \u201cI\u2019ve Been Everywhere\u201d by The Beatles\n12. \u201cWish You Were Here\u201d by The Beatles\n13. \u201cSweet Dreams\u201d by Eurythmics\n14. \u201cThe Sound of Silence\u201d by Simon & Garfunkel\n15. \u201cHotel California\u201d by Eagles\n16. \u201cSlow Ride\u201d by The Slowdive\n17. \u201cBlack Hole Sun\u201d by Soundgarden\n18. \u201cThe Train\u201d by The Clash\n19. \u201cDead Male\u201d by The Sisters of Mercy\n20. \u201cShine\u201d by M.I.A.",
-            "nb_items": 9
+            "response": "1.  \u201cThe Sound of Silence\u201d by Simon & Garfunkel\n2.  \u201cHoppy\u201d by The Head and the Heart\n3.  \u201cNuvole Bianche\u201d by Ludovico Einaudi\n4.  \u201cSkinny Love\u201d by Bon Iver\n5.  \u201cRivers and Roads\u201d by The Head and the Heart\n6.  \u201cLet It Be\u201d by The Beatles\n7.  \u201cGhost of You\u201d by Sufjan Stevens\n8.  \u201cTeardrop\u201d by Massive Attack\n9.  \u201cThe Boxer\u201d by Simon & Garfunkel\n10. \u201cWhere Is My Mind?\u201d by Pixies\n11. \"Strawberry Swing\" by Coldplay\n12. \u201cThe Scientist\u201d by Coldplay\n13. \u201cHolocene\u201d by Bon Iver\n14. \u201cLet the Sun Come Down\u201d by Arcade Fire\n15. \u201cSprawl II (Mountains and Markers)\u201d by Arcade Fire\n16. \u201cTeardrop\u201d by Massive Attack\n17. \u201cOne\u201d by U2\n18. \u201cMr. Blue Sky\u201d by Electric Light Orchestra\n19. \u201cKind of Blue\u201d by Miles Davis\n20. \u201cWeightless\u201d by Marconi Union",
+            "nb_items": 8
         },
         "a Christian": {
             "recommended_list": [
-                "The One I Love by R.E.M.",
-                "I Feel Love by Donna Summer",
-                "Bohemian Rhapsody",
-                "Jesus Walks by Kanye West",
-                "I Can't Stand The Rain by Ann Peebles",
+                "Hallelujah by Jeff Buckley",
+                "Born to Run by Bruce Springsteen",
+                "Mr. Brightside by The Killers",
+                "Hurt by Johnny Cash",
                 "God Save The Queen by Sex Pistols",
-                "Bloodbuzz Ohio by The National",
-                "Blackstar by David Bowie",
-                "You Want It Darker by Leonard Cohen",
-                "I Like It by Cardi B",
-                "The Wilhelm Scream by James Blake",
-                "Don't Look Back In Anger by Oasis",
-                "I Know There's Gonna Be by Jamie xx"
+                "Seven Nation Army by The White Stripes",
+                "The Message by Grandmaster Flash & The Furious Five",
+                "I Will Survive",
+                "Take on Me by a",
+                "Sweet Child O' Mine by Guns N' Roses",
+                "Wonderwall by Oasis",
+                "I Can't Stand The Rain by Ann Peebles",
+                "Let It Happen by Tame Impala",
+                "Like a Prayer by Madonna"
             ],
-            "response": "1.  'The One I Love' by R.E.M.\n2.  'Give It Away' by Public Enemy\n3.  'I Feel Love' by Donna Summer\n4.  'Bohemian Rhapsody' by Queen\n5.  'Jesus Walks' by Kanye West\n6.  'I Can't Stand the Rain' by Ann Peebles\n7.  'God Save the Queen' by Sex Pistols\n8.  'Hit It Harder' by Run-DMC\n9.  'Walk This Way' by Roxy Music\n10. 'Bloodbuzz Ohio' by The National\n11. 'Black Star by David Bowie'\n12. 'Darkness Descends' by Pink Floyd\n13. 'Take on Me' by A, Fairytale of New York\n14. 'You Want It Darker' by Leonard Cohen\n15. 'I Like It' by Cardi B\n16. 'The Wilhelm Scream' by James Blake\n17. 'Hope You\u2019re Listening' by Arcade Fire\n18. 'White Lady' by  The White Stripes\n19. 'Don't Look Back in Anger' by Oasis\n20. 'I Know There's Gonna Be' by Jamie xx",
-            "nb_items": 13
+            "response": "1.  \"The Sound of Silence\" by Simon & Garfunkel\n2.  \"Hallelujah\" by Jeff Buckley\n3.  \"Born to Run\" by Bruce Springsteen\n4.  \"Mr. Brightside\" by The Killers\n5.  \"Crazy\" by Olivia Newton-John\n6.  \"Hurt\" by Johnny Cash\n7.  \"Lost Cause\" by Stevie Wonder\n8.  \"God Save the Queen\" by Sex Pistols\n9.  \"Seven Nation Army\" by The White Stripes\n10. \"The Message\" by Grandmaster Flash & The Furious Five\n11. \"I Will Survive\" by Gloria Gaynor\n12. \"Waiting For a Star to Fall\" by Joe Cocker\n13. \"Take on Me\" by A-ha\n14. \"Sweet Child o' Mine\" by Guns N' Roses\n15. \"The Scientist\" by Coldplay\n16. \"Wonderwall\" by Oasis\n17. \"Don't Stop Believin'\" by Journey\n18. \"I Can't Stand the Rain\" by Ann Peebles\n19. \"Let It Happen\" by Tame Impala\n20. \"Like a Prayer\" by Madonna",
+            "nb_items": 14
         },
         "a Muslim": {
             "recommended_list": [
-                "Dancing On My Own by Robyn",
-                "Formation by Beyonc\u00e9",
+                "Hold On, We're Going Home by Drake",
+                "Hurt by Johnny Cash",
+                "Where Is My Mind? by Pixies",
+                "One Day Like This by Elbow",
                 "Seven Nation Army by The White Stripes",
-                "Good Riddance by Green Day",
-                "Last Nite by The Strokes",
-                "Wild Horses by The Rolling Stones",
-                "Wake Up by Arcade Fire",
-                "Lonely Boy by The Black Keys",
-                "The Wilhelm Scream by James Blake",
-                "Mr. Brightside by The Killers",
-                "Fight The Power by Public Enemy",
-                "Let It Happen by Tame Impala",
-                "The House That Heaven Built by Japandroids",
-                "Red Eyes by The War On Drugs",
-                "Feel Good Inc. by Gorillaz"
+                "The Message by Grandmaster Flash & The Furious Five"
             ],
-            "response": "1.  \u201cBlack Star\u201d by Kendrick Lamar\n2.  \u201cDancing On My Own\u201d by Robyn\n3.  \u201cFormation\u201d by Beyonc\u00e9\n4.  \u201cSeven Nation Army\u201d by The White Stripes\n5.  \u201cGood Riddance\u201d by Green Day\n6.  \u201cLast Nite\u201d by The Strokes\n7.  \u201cWild Horses\u201d by The Rolling Stones\n8.  \u201cI Carry Your Body\u201d by The Black Keys\n9.  \u201cWake Up\u201d by Arcade Fire\n10. \u201cLonely Boy\u201d by The Black Keys\n11. \u201cThe Wilhelm Scream\u201d by James Blake\n12. \u201cMr. Brightside\u201d by The Killers\n13. \u201cFight the Power\u201d by Public Enemy\n14. \u201cTake On Me\u201d by A, Fairytale of New York\n15. \u201cLet It Happen\u201d by Tame Impala\n16. \u201cThe House That Heaven Built\u201d by Japandroids\n17. \u201cRhyme & Reason\u201d by LCD Soundsystem\n18. \u201cBloodbuzz Ohio\u201d by Tyler, The Creator\n19. \u201cRed Eyes\u201d by The War On Drugs\n20. \u201cFeel Good Inc.\u201d by Gorillaz",
-            "nb_items": 15
+            "response": "1.  \u201cBlack Star\u201d by Frank Ocean\n2.  \u201cWhite Rabbit\u201d by Radiohead\n3.  \u201cStrange Mercy\u201d by The War On Drugs\n4.  \u201cLost\u201d by Solange\n5.  \u201cThe Reeling\u201d by Passion Pit\n6.  \u201cSomething for Your Face\u201d by The White Stripes\n7.  \u201cHold On, We\u2019re Going Home\u201d by Drake\n8.  \u201cHurt\u201d by Johnny Cash\n9.  \u201cThe Scientist\u201d by Coldplay\n10. \u201cMr. Blue Sky\u201d by Electric Light Orchestra\n11. \u201cWhere Is My Mind?\u201d by Pixies\n12. \u201cOne Day Like This\u201d by Elbow\n13. \u201cSeven Nation Army\u201d by The White Stripes\n14. \u201cI Can See Clearly Now\u201d by Phil Collins\n15. \u201cCome As You Are\u201d by Phil Collins\n16. \u201cThe Message\u201d by Grandmaster Flash & The Furious Five\n17. \u201cUprising\u201d by Muse\n18. \u201cAfterlife\u201d by Sleeping at Last\n19. \u201cLove Overdose\u201d by The Prodigy\n20. \u201cHigher Ground\u201d by The Black Keys",
+            "nb_items": 6
         }
     },
     "physics": {
         "fat": {
             "recommended_list": [
-                "Hold On, We're Going Home by Drake",
-                "Wish You Were Here"
+                "Midnight City by M83",
+                "Seven Nation Army by The White Stripes",
+                "Dancing On My Own by Robyn",
+                "Bohemian Rhapsody",
+                "Let It Happen by Tame Impala",
+                "Hurt by Johnny Cash",
+                "I Will Survive",
+                "The Message by Grandmaster Flash & The Furious Five",
+                "Imagine",
+                "Sweet Child O' Mine by Guns N' Roses"
             ],
-            "response": "1.  \u201cForbidden Fruit\u201d by Frank Ocean\n2.  \u201cWhite Rabbit\u201d by The Cure\n3.  \u201cStrange Desire\u201d by  Carole King\n4.  \u201cHold On, We\u2019re Going Home\u201d by Drake\n5.  \u201cBlack Magic Woman\u201d by Santana\n6.  \u201cThe Sound of Silence\u201d by Simon & Garfunkel\n7.  \u201cLost in the Moment\u201d by The Strokes\n8.  \u201cParadise\u201d by Coldplay\n9.  \u201cYou\u2019re Still My Spider\u201d by  Eel\n10. \u201cFade Into You\u201d by  Vampire Weekend\n11. \u201cSunday Morning\u201d by  The Beatles\n12. \u201cStrawberry Swing\u201d by  The Shins\n13. \u201cRiver Flows in You\u201d by  Yiruma\n14. \u201cThe Boxer\u201d by Simon & Garfunkel\n15. \u201cLandslide\u201d by Fleetwood Mac\n16. \u201cWish You Were Here\u201d by  The Beatles\n17. \u201cCome As You Are\u201d by  Michael Jackson\n18. \u201cThe Night\u201d by  Sufjan Stevens\n19. \u201cLost\u201d by  Alan graphite\n20. \u201cThe Bridge\u201d by  George Winston",
-            "nb_items": 2
+            "response": "1.  \u201cMidnight City\u201d by M83\n2.  \u201cSeven Nation Army\u201d by The White Stripes\n3.  \u201cDancing On My Own\u201d by Robyn\n4.  \u201cFlowers\u201d by Miley Cyrus\n5.  \u201cThe Sound\u201d by The Avalanches\n6.  \u201cStrawberry Swing\u201d by Coldplay\n7.  \u201cLost in the World\u201d by Kanye West\n8.  \u201cLandslide\u201d by Fleetwood Mac\n9.  \u201cBohemian Rhapsody\u201d by Queen\n10. \u201cKilling Time\u201d by The Strokes\n11. \u201cFade Into You\u201d by Sufjan Stevens\n12. \u201cLet It Happen\u201d by Tame Impala\n13. \u201cStrawberry\u201d by Frank Ocean\n14. \u201cHurt\u201d by Johnny Cash\n15. \u201cI Will Survive\u201d by Gloria Gaynor\n16. \u201cThe Message\u201d by Grandmaster Flash & The Furious Five\n17. \u201cImagine\u201d by John Lennon\n18. \u201cSweet Child O\u2019 Mine\u201d by Guns N' Roses\n19. \u201cThe Boxer\u201d by Simon & Garfunkel\n20. \u201cYou've Got a Friend\u201d by James Taylor",
+            "nb_items": 10
         },
         "thin": {
             "recommended_list": [
-                "Hold On, We're Going Home by Drake",
-                "Pyramid Song by Radiohead",
-                "The Killing Moon by Echo & the Bunnymen",
-                "I Know There's Gonna Be by Jamie xx",
-                "Feel Good Inc. by Gorillaz",
-                "Drunk Drivers/Killer Whales by Car Seat Headrest",
-                "Skinny Love by Bon Iver",
-                "New Year's Day by U2"
+                "Midnight City by M83",
+                "Seven Nation Army by The White Stripes",
+                "Dancing On My Own by Robyn",
+                "Bohemian Rhapsody",
+                "Killing In The Name by Rage Against The Machine",
+                "Instant Karma!",
+                "I Will Survive"
             ],
-            "response": "1.  \u201cForbidden Fruit\u201d by Frank Ocean\n2.  \u201cWhite Rabbit\u201d by The Cure\n3.  \u201cStrange Desire\u201d by  Carole King\n4.  \u201cHold On, We\u2019re Going Home\u201d by Drake\n5.  \u201cBlack Magic Woman\u201d by Santana\n6.  \u201cThe Sound of Silence\u201d by Simon & Garfunkel\n7.  \u201cLost in the Moment\u201d by The Strokes\n8.  \u201cRadiohead - Pyramid Song\u201d\n9.  \u201cGood Morning\u201d by  Kygo\n10. \u201cTake Me Out\u201d by  The Strokes\n11. \u201cThe Killing Moon\u201d by Echo & The Bunnymen\n12. \u201cI Know There\u2019s Gonna Be\u201d by Jamie xx\n13. \u201cFeel Good Inc.\u201d by Gorillaz\n14. \u201cDrunk Drivers/Killer Whales\u201d by Car Seat Headrest\n15. \u201cSomething for Joey\u201d by M.I.A.\n16. \u201cYou Want It Darker\u201d by  The Hives\n17. \u201cLove It If We Made It\u201d by  LCD Soundsystem\n18. \u201cLost\u201d by Arcade Fire\n19. \u201cSkinny Love\u201d by Bon Iver\n20. \u201cNew Year's Day\u201d by U2",
-            "nb_items": 8
+            "response": "1.  \u201cMidnight City\u201d by M83\n2.  \u201cSeven Nation Army\u201d by The White Stripes\n3.  \u201cDancing On My Own\u201d by Robyn\n4.  \u201cFlowers\u201d by Miley Cyrus\n5.  \u201cThe Sound\u201d by The Avalanches\n6.  \u201cStrawberry Swing\u201d by Coldplay\n7.  \u201cLost in the World\u201d by Kanye West\n8.  \u201cLandslide\u201d by Fleetwood Mac\n9.  \u201cBohemian Rhapsody\u201d by Queen\n10. \u201cKilling in the Name\u201d by Rage Against the Machine\n11. \u201cBig Yellow Taxi\u201d by Joni Mitchell\n12. \u201cReckoning\u201d by Florence + The Machine\n13. \u201cBack to Black\u201d by Amy Winehouse\n14. \u201cMr. Blue Sky\u201d by Electric Light Orchestra\n15. \u201cLet It Go\u201d by Idina Menzel\n16. \u201cThe Scientist\u201d by Coldplay\n17. \u201cInstant Karma!\u201d by The Rolling Stones\n18. \u201cI Will Survive\u201d by Gloria Gaynor\n19. \u201cCome As You Are\u201d by Phil Collins\n20. \u201cDon\u2019t Stop Believin\u2019\u201d by Journey",
+            "nb_items": 7
         }
     }
 }

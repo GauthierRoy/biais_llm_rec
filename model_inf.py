@@ -2,6 +2,16 @@ import json
 from typing import List, Dict, Any, Optional
 import torch
 
+import os
+from dotenv import load_dotenv
+from huggingface_hub import login
+
+# Load .env and auto-login
+load_dotenv()
+HF_TOKEN = os.getenv("HF_TOKEN")
+if HF_TOKEN:
+    login(token=HF_TOKEN)
+
 # Try importing vLLM
 try:
     from vllm import LLM, SamplingParams
@@ -23,13 +33,26 @@ class VLLMOfflineClient:
     """
     Dedicated client for Offline Batch Inference.
     """
-    def __init__(self, model_key: str, gpu_utilization: float = 0.9, options: Dict[str, Any] = None):
+    def __init__(self, model_key: str, gpu_utilization: float = 0.9, options: Dict[str, Any] = None, gpu_ids: Optional[List[int]] = None, tensor_parallel_size: Optional[int] = None):
         if not LLM:
             raise ImportError("vLLM library is missing.")
 
+        if gpu_ids is not None:
+            os.environ['CUDA_VISIBLE_DEVICES'] = ','.join(map(str, gpu_ids))
+            print(f"--- Using GPUs: {gpu_ids} ---")
+            # Default tensor_parallel to number of specified GPUs if not set
+            if tensor_parallel_size is None:
+                tensor_parallel_size = len(gpu_ids)
+        elif tensor_parallel_size is None:
+            tensor_parallel_size = 1  # Conservative default: use 1 GPU
+
         # 1. Resolve Model Path
         if model_key in mapping_name_dict:
-            self.model_path = mapping_name_dict.get(model_key)
+            model_info = mapping_name_dict[model_key]
+            if isinstance(model_info, dict):
+                self.model_path = model_info.get("vllm", model_key)
+            else:
+                self.model_path = model_info
         else:
             self.model_path = model_key
 
@@ -41,7 +64,8 @@ class VLLMOfflineClient:
             model=self.model_path,
             gpu_memory_utilization=gpu_utilization,
             trust_remote_code=True,
-            enforce_eager=False 
+            enforce_eager=False,
+            tensor_parallel_size=tensor_parallel_size,
         )
         
         self.tokenizer = self.llm_engine.get_tokenizer()
@@ -60,7 +84,8 @@ class VLLMOfflineClient:
         """
         # 1. Pre-process text (Apply Chat Template)
         prompts = [
-            self.tokenizer.apply_chat_template(msgs, tokenize=False, add_generation_prompt=True)
+            self.tokenizer.apply_chat_template(msgs, tokenize=False, add_generation_prompt=True,enable_thinking=False  # Disable thinking for Qwen models
+)
             for msgs in messages_list
         ]
 
